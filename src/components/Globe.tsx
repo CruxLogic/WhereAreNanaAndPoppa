@@ -60,12 +60,13 @@ export function Globe({
       zoom: 2.8,
       minZoom: 0.4,
       maxZoom: 8,
-      attributionControl: { compact: true },
+      attributionControl: false,
       dragRotate: false,
       pitchWithRotate: false,
       touchPitch: false,
     });
     mapRef.current = map;
+    map.addControl(new maplibregl.AttributionControl({ compact: true }), "top-right");
 
     map.touchZoomRotate.disableRotation();
 
