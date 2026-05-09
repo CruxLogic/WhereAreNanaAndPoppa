@@ -1,0 +1,85 @@
+{
+  "researchId": "corner-brook",
+  "name": "Corner Brook",
+  "country": "Canada (Newfoundland)",
+  "summary": "Corner Brook is Newfoundland's second-biggest city, tucked into a sparkling bay on Canada's east coast. It's the gateway to Gros Morne National Park, a UNESCO World Heritage Site where you can actually walk on rocks pushed up from deep inside the Earth. Famous explorer Captain James Cook mapped this very coastline before sailing off to discover the Pacific.",
+  "funFacts": [
+    "Gros Morne National Park became a UNESCO World Heritage Site in 1987 because it shows how continents crash and drift, like a slow-motion puzzle of the planet.",
+    "At the Tablelands, orange and rusty rocks are actually pieces of Earth's mantle, normally hidden 30 kilometres underground beneath your feet.",
+    "Western Brook Pond's towering cliffs are about 1.2 billion years old, carved by giant Ice Age glaciers into a freshwater fjord 600 metres deep.",
+    "Captain James Cook mapped Newfoundland's coast in the 1760s before his Pacific voyages, and his charts stayed in use for around 100 years.",
+    "Corner Brook grew up around one of the world's biggest paper mills, built in 1925, which still rolls out giant rolls of newsprint today."
+  ],
+  "thingsToDo": [
+    "Climb up to the Captain James Cook Monument on Crow Hill for sweeping bay views and read about the explorer who mapped this coast in 1767.",
+    "Drive about 1 hour north into Gros Morne National Park to hike the Tablelands Trail, walking across rusty rocks from Earth's mantle.",
+    "Take a boat tour on Western Brook Pond fjord, gliding between billion-year-old cliffs and one of eastern North America's tallest waterfalls.",
+    "Zoom down nine zip lines at Marble Zip Tours in Steady Brook, soaring 300 feet above Steady Brook Falls and the Humber Valley.",
+    "Picnic and play at Margaret Bowater Park, a leafy spot in the heart of downtown with gardens, a pool, and gentle walking paths.",
+    "Hunt for puffin keychains, maple candy, and quirky souvenirs at the Newfoundland Emporium downtown, packed with local crafts and treats."
+  ],
+  "localWord": {
+    "word": "Best kind",
+    "meaning": "Newfoundland slang meaning 'excellent' or 'doing great' — say it when someone asks how you are."
+  },
+  "images": [
+    {
+      "filename": "hero-corner-brook-from-above.jpg",
+      "alt": "A bird's-eye view of Corner Brook town nestled beside the sparkling waters of the Bay of Islands fjord.",
+      "credit": "Rob Schmidt",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Corner_Brook_from_above.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Corner_Brook_from_above.jpg"
+    },
+    {
+      "filename": "captain-cook-lookout-sunset.jpg",
+      "alt": "A glowing orange sunset over the harbour seen from the Captain James Cook lookout in Corner Brook.",
+      "credit": "David W Enstrom",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunset_at_Captain_James_Cook_National_Historic_Site_Corner_Brook.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Sunset_at_Captain_James_Cook_National_Historic_Site_Corner_Brook.jpg"
+    },
+    {
+      "filename": "tablelands-orange-rocks.jpg",
+      "alt": "The bare orange Tablelands mountains, made of rock from deep inside the Earth, look like another planet.",
+      "credit": "Kavanagh (Wikipedia user)",
+      "license": "CC0 1.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gros-morne-tablelands.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Gros-morne-tablelands.jpg"
+    },
+    {
+      "filename": "western-brook-pond-fjord-cliffs.png",
+      "alt": "Towering grey cliffs rise straight out of the still blue water of Western Brook Pond's hidden fjord.",
+      "credit": "FreeDoum",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Western_Brook_Pond_cliffs.png",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Western_Brook_Pond_cliffs.png"
+    },
+    {
+      "filename": "gros-morne-bull-moose.jpg",
+      "alt": "A big bull moose with huge antlers stands among the grass in Gros Morne National Park.",
+      "credit": "Aconcagua (Wikimedia Commons)",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gros_Morne_NP_bullmoose.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Gros_Morne_NP_bullmoose.jpg"
+    }
+  ],
+  "links": [
+    { "url": "https://parks.canada.ca/pn-np/nl/grosmorne", "label": "Gros Morne National Park (Parks Canada)", "description": "Official park site with maps, trails, wildlife, and visitor info." },
+    { "url": "https://whc.unesco.org/en/list/419/", "label": "Gros Morne UNESCO World Heritage page", "description": "Why this park is one of the most important geological places on Earth." },
+    { "url": "https://kids.kiddle.co/Corner_Brook", "label": "Corner Brook facts for kids (Kiddle)", "description": "Easy-reading encyclopedia entry about the city for younger readers." },
+    { "url": "https://en.wikipedia.org/wiki/Western_Brook_Pond", "label": "Western Brook Pond (Wikipedia)", "description": "All about the famous freshwater fjord and its giant cliffs." },
+    { "url": "https://www.newfoundlandlabrador.com/trip-ideas/road-trips/western/captain-cooks-trail", "label": "Captain Cook's Trail (Newfoundland & Labrador Tourism)", "description": "Follow the route of the explorer who mapped this coast." },
+    { "url": "https://marbleziptours.com/", "label": "Marble Zip Tours", "description": "Eastern Canada's longest zip line, just outside Corner Brook." }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Corner_Brook",
+    "https://en.wikipedia.org/wiki/Gros_Morne_National_Park",
+    "https://en.wikipedia.org/wiki/Western_Brook_Pond",
+    "https://whc.unesco.org/en/list/419/",
+    "https://parks.canada.ca/pn-np/nl/grosmorne",
+    "https://www.heritage.nf.ca/articles/exploration/james-cook.php",
+    "https://www.britannica.com/place/Corner-Brook"
+  ],
+  "researchedAt": "2026-05-09T13:26:00Z"
+}

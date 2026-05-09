@@ -33,7 +33,7 @@
     { "researchId": "grundarfjordur", "destinationIds": ["grundarfjordur"], "name": "Grundarfjörður", "country": "Iceland", "status": "done" },
     { "researchId": "isafjordur", "destinationIds": ["isafjordur"], "name": "Ísafjörður", "country": "Iceland", "status": "done" },
     { "researchId": "st-johns", "destinationIds": ["st-johns"], "name": "St. John's", "country": "Canada (Newfoundland)", "status": "done" },
-    { "researchId": "corner-brook", "destinationIds": ["corner-brook"], "name": "Corner Brook", "country": "Canada (Newfoundland)", "status": "in_progress" },
+    { "researchId": "corner-brook", "destinationIds": ["corner-brook"], "name": "Corner Brook", "country": "Canada (Newfoundland)", "status": "done" },
     { "researchId": "quebec-city", "destinationIds": ["quebec-city"], "name": "Quebec City", "country": "Canada", "status": "pending" },
     { "researchId": "saguenay", "destinationIds": ["saguenay"], "name": "Saguenay", "country": "Canada (Quebec)", "status": "pending" },
     { "researchId": "charlottetown", "destinationIds": ["charlottetown"], "name": "Charlottetown", "country": "Canada (PEI)", "status": "pending" },
