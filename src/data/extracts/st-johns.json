@@ -1,0 +1,85 @@
+{
+  "researchId": "st-johns",
+  "name": "St. John's",
+  "country": "Canada (Newfoundland)",
+  "summary": "St. John's is a colourful, salty-air city perched on the eastern edge of Canada — one of the oldest English-founded cities in North America. Bright Jellybean Row houses tumble down hills above a busy harbour, while puffins, whales, and even icebergs cruise past the rocky coast each summer. From Signal Hill, where the first transatlantic radio message was heard in 1901, you can see the wild Atlantic stretch all the way to the horizon.",
+  "funFacts": [
+    "Cape Spear, just outside the city, is the easternmost point of North America (excluding Greenland) — stand there and nobody on the continent is further east than you.",
+    "On Signal Hill in 1901, Italian inventor Guglielmo Marconi heard the very first wireless radio message sent across the Atlantic Ocean — three faint clicks tapped from England.",
+    "Every spring and summer, gigantic 10,000-year-old icebergs drift down 'Iceberg Alley' from Greenland, sometimes floating right past St. John's harbour like floating glass mountains.",
+    "The Atlantic Puffin, Newfoundland's provincial bird, gathers in colonies near St. John's — Witless Bay alone hosts over 260,000 nesting pairs, the biggest puffin city in North America.",
+    "Downtown's 'Jellybean Row' houses are painted purple, lime, pink, and turquoise — the trend started in the 1970s when locals began brightening up old wooden homes one colour at a time."
+  ],
+  "thingsToDo": [
+    "Climb up Signal Hill to Cabot Tower for huge ocean views, then explore the spot where Marconi caught the first transatlantic radio signal in 1901.",
+    "Walk along Water Street and Gower Street downtown to spot the candy-coloured Jellybean Row houses — bring a camera and count how many colours you see.",
+    "Drive 15 minutes to Cape Spear Lighthouse and stand on the easternmost rocks in North America while watching for whales spouting offshore.",
+    "Hop on a boat tour from Bay Bulls or the harbour to spot Atlantic puffins, humpback whales, and maybe a giant iceberg drifting past in summer.",
+    "Visit The Rooms museum, a giant building shaped like fishing sheds, to meet the famous giant squid and explore Newfoundland's wild history.",
+    "Wander tiny Quidi Vidi Village over the hill, see the 18th-century battery, and watch fishing boats bob in one of the prettiest little harbours anywhere."
+  ],
+  "localWord": {
+    "word": "Yes b'y!",
+    "meaning": "A super common Newfoundland expression meaning 'yes, friend!' or sometimes 'no way, really?!' — depending on how you say it. 'B'y' is short for 'boy' but means buddy or pal."
+  },
+  "images": [
+    {
+      "filename": "hero-jellybean-row.jpg",
+      "alt": "Bright pink, yellow, blue, and green row houses line a street in downtown St. John's.",
+      "credit": "Kenny Louie",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jelly_Bean_Row_(7701369614).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Jelly_Bean_Row_%287701369614%29.jpg"
+    },
+    {
+      "filename": "signal-hill-cabot-tower.jpg",
+      "alt": "The stone Cabot Tower stands tall on grassy Signal Hill above St. John's.",
+      "credit": "WiseWoman",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cabot_Tower_on_Signal_Hill.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Cabot_Tower_on_Signal_Hill.jpg"
+    },
+    {
+      "filename": "cape-spear-lighthouse.jpg",
+      "alt": "The white and red Cape Spear lighthouse sits at the easternmost point of North America.",
+      "credit": "Lukester878",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cape_Spear_lighthouse.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Cape_Spear_lighthouse.jpg"
+    },
+    {
+      "filename": "iceberg-st-johns-harbour.jpg",
+      "alt": "A tall sailing ship glides past giant white icebergs entering St. John's harbour.",
+      "credit": "US Embassy Canada",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:USCGC_Eagle_Passes_Icebergs_in_St._John%27s_harbor_(14766743414).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/USCGC_Eagle_Passes_Icebergs_in_St._John%27s_harbor_%2814766743414%29.jpg"
+    },
+    {
+      "filename": "quidi-vidi-village.jpg",
+      "alt": "Tiny fishing sheds and boats line the rocky shores of Quidi Vidi village near St. John's.",
+      "credit": "RD Pitt (Rpitt)",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quidi_Vidi_Village_(St._John%27s)_Panorama.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Quidi_Vidi_Village_%28St._John%27s%29_Panorama.jpg"
+    }
+  ],
+  "links": [
+    { "url": "https://www.newfoundlandlabrador.com/destinations/st-johns", "label": "Newfoundland & Labrador Tourism: St. John's", "description": "Official provincial tourism page with photos, attractions, and trip ideas for the city." },
+    { "url": "https://parks.canada.ca/lhn-nhs/nl/spear", "label": "Parks Canada: Cape Spear Lighthouse", "description": "Official site for the easternmost point in North America and its historic lighthouse." },
+    { "url": "https://en.wikipedia.org/wiki/St._John%27s,_Newfoundland_and_Labrador", "label": "Wikipedia: St. John's", "description": "In-depth article covering the city's history, geography, Signal Hill, and culture." },
+    { "url": "https://therooms.ca/", "label": "The Rooms Museum", "description": "Newfoundland's biggest museum, art gallery, and archive — including the famous giant squid." },
+    { "url": "https://kids.kiddle.co/Cape_Spear", "label": "Kiddle: Cape Spear Facts for Kids", "description": "Kid-friendly encyclopedia entry on Cape Spear's lighthouse and easternmost-point fame." },
+    { "url": "https://www.britannica.com/place/St-Johns-Newfoundland-and-Labrador", "label": "Britannica: St. John's", "description": "Encyclopedia overview of the city's founding, harbour, and significance." }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/St._John%27s,_Newfoundland_and_Labrador",
+    "https://www.britannica.com/place/St-Johns-Newfoundland-and-Labrador",
+    "https://www.newfoundlandlabrador.com/destinations/st-johns",
+    "https://en.wikipedia.org/wiki/Cape_Spear",
+    "https://parks.canada.ca/lhn-nhs/nl/spear",
+    "https://www.gov.nl.ca/aboutnl/emblem/puffin.html",
+    "https://en.wikipedia.org/wiki/Witless_Bay_Ecological_Reserve"
+  ],
+  "researchedAt": "2026-05-09T13:21:00Z"
+}

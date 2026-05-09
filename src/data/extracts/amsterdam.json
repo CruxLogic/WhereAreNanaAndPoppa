@@ -1,0 +1,82 @@
+{
+  "researchId": "amsterdam",
+  "name": "Amsterdam",
+  "country": "Netherlands",
+  "summary": "Amsterdam is a city of water and bicycles. About 165 canals and 1,500 bridges weave between 90 little islands, which is why people call it the Venice of the North. It's where Anne Frank wrote her famous diary, Vincent van Gogh's swirling paintings hang in a whole museum, and creaky windmills still spin just outside town.",
+  "funFacts": [
+    "Amsterdam has roughly 165 canals and around 1,500 bridges connecting about 90 islands. The whole canal ring was dug by hand more than 400 years ago.",
+    "There are more bicycles in Amsterdam than people. Locals zoom across special bike lanes every day, and even police officers chase suspects on two wheels.",
+    "Anne Frank was a young girl who hid from the Nazis in a secret annex behind a bookcase. Her diary, written upstairs, has been read in over 70 languages.",
+    "Vincent van Gogh painted swirling skies and sunflowers, but he only sold one picture while alive. Today his Amsterdam museum holds 200 of his paintings.",
+    "Amsterdam's old canal houses lean and tilt sideways because the soft, swampy ground keeps shifting. Many sit on long wooden poles hammered deep into the mud."
+  ],
+  "thingsToDo": [
+    "Catch the public bus 382 or DFDS shuttle from IJmuiden's Felison cruise terminal toward Amsterdam Centraal station, about 25-35 km and roughly an hour away.",
+    "Hop on a glass-roofed canal cruise from near Centraal Station to glide past leaning houses, narrow bridges, and houseboats in the UNESCO-listed canal ring.",
+    "Get hands-on at NEMO Science Museum, the giant green ship-shaped building on Oosterdok where kids can do chain-reaction experiments and lab workshops.",
+    "Pick a famous-painting museum: see Rembrandt's Night Watch at the Rijksmuseum, or Sunflowers and Bedroom paintings at the Van Gogh Museum next door.",
+    "Run, kick a ball, or rent bikes in Vondelpark, Amsterdam's huge green park with ponds, playgrounds, and free outdoor concerts in summer.",
+    "Take a quick 18-minute train to Zaanse Schans to watch real working windmills grind mustard and saw wood, then peek inside a wooden-clog workshop."
+  ],
+  "localWord": { "word": "Hallo", "meaning": "Hello in Dutch", "pronunciation": "HAH-loh" },
+  "images": [
+    {
+      "filename": "hero-amsterdam-canal-keizersgracht.jpg",
+      "alt": "A pretty Amsterdam canal lined with arched stone bridges all lit up at dusk.",
+      "credit": "Massimo Catarinella",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:KeizersgrachtReguliersgrachtAmsterdam.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/KeizersgrachtReguliersgrachtAmsterdam.jpg"
+    },
+    {
+      "filename": "rijksmuseum-amsterdam.jpg",
+      "alt": "The grand Rijksmuseum building, a famous art museum that looks a bit like a castle.",
+      "credit": "Markus Wuerfel",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rijksmuseum_Amsterdam.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Rijksmuseum_Amsterdam.jpg"
+    },
+    {
+      "filename": "amsterdam-canal-houses-damrak.jpg",
+      "alt": "A row of colourful, leaning canal houses glowing at golden hour over the water.",
+      "credit": "Basile Morin",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Colorful_canal_houses_at_golden_hour_in_Damrak_avenue_Amsterdam_the_Netherlands.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Colorful_canal_houses_at_golden_hour_in_Damrak_avenue_Amsterdam_the_Netherlands.jpg"
+    },
+    {
+      "filename": "zaanse-schans-windmills.jpg",
+      "alt": "Old wooden windmills standing in a row beside a river in the Dutch countryside.",
+      "credit": "Marcia Stubbeman",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amsterdam,_Netherlands_Windmills.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Amsterdam%2C_Netherlands_Windmills.jpg"
+    },
+    {
+      "filename": "nemo-science-museum-amsterdam.jpg",
+      "alt": "The big green ship-shaped NEMO Science Museum rising above the Amsterdam harbour.",
+      "credit": "Erik Zachte",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amsterdam-Nemo-Museum.JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Amsterdam-Nemo-Museum.JPG"
+    }
+  ],
+  "links": [
+    { "url": "https://www.iamsterdam.com/en", "label": "I amsterdam (official)", "description": "Official tourism site with family activities, museum cards, and canal cruise info." },
+    { "url": "https://en.wikipedia.org/wiki/Amsterdam", "label": "Wikipedia: Amsterdam", "description": "Big-picture history, canals, famous residents, and city facts." },
+    { "url": "https://www.nemosciencemuseum.nl/en/", "label": "NEMO Science Museum", "description": "Hands-on science museum near Centraal Station, perfect for ages 7-12." },
+    { "url": "https://www.annefrank.org/en/", "label": "Anne Frank House", "description": "Museum of the secret annex where Anne hid and wrote her diary." },
+    { "url": "https://www.dezaanseschans.nl/en/", "label": "Zaanse Schans", "description": "Working windmills, wooden clogs, and cheese, 18 minutes by train." },
+    { "url": "https://www.vangoghmuseum.nl/en", "label": "Van Gogh Museum", "description": "World's biggest collection of Vincent van Gogh paintings and letters." }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Amsterdam",
+    "https://en.wikipedia.org/wiki/IJmuiden",
+    "https://en.wikipedia.org/wiki/Canals_of_Amsterdam",
+    "https://en.wikipedia.org/wiki/Zaanse_Schans",
+    "https://en.wikipedia.org/wiki/Anne_Frank_House",
+    "https://www.iamsterdam.com/en",
+    "https://www.nemosciencemuseum.nl/en/"
+  ],
+  "researchedAt": "2026-05-09T12:51:00Z"
+}

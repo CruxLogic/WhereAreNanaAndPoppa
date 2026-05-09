@@ -1,0 +1,85 @@
+{
+  "researchId": "shetland-islands",
+  "name": "Shetland Islands (Lerwick)",
+  "country": "United Kingdom",
+  "summary": "Shetland is a wild, windswept group of Scottish islands far up in the North Sea, actually closer to Norway than to London. Vikings ruled here for 500 years, so kids can spot Norse names everywhere, meet tiny tough Shetland ponies, watch puffins on the cliffs, and in summer enjoy the 'simmer dim' when the sun barely sets.",
+  "funFacts": [
+    "Shetland has more than 100 islands but only 16 have people living on them. The rest belong to sheep, seabirds, and a lot of wind.",
+    "Every January in Lerwick, around 1,000 people dressed as Vikings march with flaming torches and set fire to a giant wooden longship called a galley.",
+    "Shetland ponies are the smallest horse breed in the world, usually about 102cm tall, but they are so strong they once hauled coal in deep British mines.",
+    "Puffins, the orange-beaked 'clowns of the sea', return to Sumburgh Head's clifftop burrows every April after spending eight whole months out at sea.",
+    "In midsummer the sun barely sets at all. The locals call this glowing twilight the 'simmer dim', and it stays light enough to read a book outside at midnight."
+  ],
+  "thingsToDo": [
+    "Wander Lerwick's Old Town along Commercial Street, peek at The Lodberrie waterfront houses (famous from the TV show Shetland), and shop for chunky Shetland wool jumpers.",
+    "Step inside the free Shetland Museum and Archives on the harbour to see Viking treasures, a Stone Age burial urn, hanging fishing boats, and wild Up Helly Aa costumes.",
+    "Walk up to Clickimin Broch, a 2,000-year-old stone tower right beside a loch, free to climb around and only fifteen minutes from the cruise tender pier.",
+    "Take a tour about an hour south to Sumburgh Head to see thousands of puffins nesting beside the lighthouse path (best from late April through early August).",
+    "Right next to Sumburgh Head, explore Jarlshof's incredible jumble of Stone Age, Iron Age, Viking and medieval ruins poking out of the grass by the sea.",
+    "Meet real Shetland ponies on a 'puffins and ponies' minibus tour, or look for them grazing in fields as you cross the windswept Mainland."
+  ],
+  "localWord": {
+    "word": "peerie",
+    "meaning": "small or little (locals say 'peerie bairn' for a small child)"
+  },
+  "images": [
+    {
+      "filename": "hero-lerwick-harbour.jpg",
+      "alt": "Boats moored at Lerwick Harbour in the Shetland Islands as evening light hits the water.",
+      "credit": "Colin Park",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Evening_at_Lerwick_Harbour_-_geograph.org.uk_-_6475901.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Evening_at_Lerwick_Harbour_-_geograph.org.uk_-_6475901.jpg"
+    },
+    {
+      "filename": "shetland-pony-closeup.jpg",
+      "alt": "A fluffy little Shetland pony, less than four feet tall, looking right at the camera.",
+      "credit": "gailhampshire (Flickr)",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shetland_Pony._(under_4ft_tall)_-_Flickr_-_gailhampshire.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Shetland_Pony._%28under_4ft_tall%29_-_Flickr_-_gailhampshire.jpg"
+    },
+    {
+      "filename": "puffins-sumburgh-head.jpg",
+      "alt": "Colourful Atlantic puffins perched on the grassy clifftops of Sumburgh Head in Shetland.",
+      "credit": "Tuluqaruk",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atlantic_Puffins_at_Sumburgh_Head,_Shetland,_UK.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Atlantic_Puffins_at_Sumburgh_Head%2C_Shetland%2C_UK.jpg"
+    },
+    {
+      "filename": "up-helly-aa-galley-burning.jpg",
+      "alt": "A Viking longship burning in flames during the Up Helly Aa fire festival in Shetland.",
+      "credit": "Mike Pennington",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_galley_alight,_Norik_Up_Helly_Aa_-_geograph.org.uk_-_1183234.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/The_galley_alight%2C_Norik_Up_Helly_Aa_-_geograph.org.uk_-_1183234.jpg"
+    },
+    {
+      "filename": "jarlshof-prehistoric-ruins.jpg",
+      "alt": "Ancient stone ruins of Jarlshof, a 4,000-year-old prehistoric village on the southern tip of Shetland.",
+      "credit": "Chris Allen",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jarlshof_Prehistoric_Site_-_geograph.org.uk_-_1192050.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Jarlshof_Prehistoric_Site_-_geograph.org.uk_-_1192050.jpg"
+    }
+  ],
+  "links": [
+    { "url": "https://www.shetland.org/cruise/ports/lerwick", "label": "Shetland.org - Lerwick Cruise Port", "description": "Official Shetland tourism guide for cruise visitors arriving at Lerwick." },
+    { "url": "https://www.shetland.org/visit/do/family/clickimin-broch", "label": "Shetland.org - Clickimin Broch", "description": "Family-friendly guide to climbing around the ancient stone tower in Lerwick." },
+    { "url": "https://en.wikipedia.org/wiki/Up_Helly_Aa", "label": "Wikipedia - Up Helly Aa", "description": "All about Shetland's Viking fire festival and the burning of the longship." },
+    { "url": "https://kids.britannica.com/students/article/Shetland-Islands/277032", "label": "Britannica Kids - Shetland Islands", "description": "Kid-level overview of Shetland's geography, history and Viking past." },
+    { "url": "https://www.rspb.org.uk/days-out/reserves/sumburgh-head", "label": "RSPB - Sumburgh Head", "description": "Where to spot puffins, guillemots and other seabirds at Shetland's southern tip." },
+    { "url": "https://www.historicenvironment.scot/visit-a-place/places/jarlshof-prehistoric-and-norse-settlement/", "label": "Historic Environment Scotland - Jarlshof", "description": "Official site for the 4,000-year-old Jarlshof settlement near Sumburgh." }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shetland",
+    "https://kids.britannica.com/students/article/Shetland-Islands/277032",
+    "https://www.shetland.org/cruise/ports/lerwick",
+    "https://en.wikipedia.org/wiki/Up_Helly_Aa",
+    "https://en.wikipedia.org/wiki/Jarlshof",
+    "https://en.wikipedia.org/wiki/Shetland_pony",
+    "https://en.wikipedia.org/wiki/Shetland_dialect"
+  ],
+  "researchedAt": "2026-05-09T13:01:00Z"
+}

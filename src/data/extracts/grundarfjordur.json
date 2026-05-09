@@ -1,0 +1,83 @@
+{
+  "researchId": "grundarfjordur",
+  "name": "Grundarfjörður",
+  "country": "Iceland",
+  "summary": "Grundarfjörður is a tiny fishing village of about 900 people on Iceland's Snæfellsnes peninsula, often called 'Iceland in Miniature' because it has glaciers, lava, beaches and waterfalls all in one place. Right beside town stands Kirkjufell, the pointy 'arrowhead mountain' from Game of Thrones and the most photographed mountain in Iceland. Nearby sits Snæfellsjökull, a glacier-topped volcano made famous by Jules Verne's Journey to the Center of the Earth.",
+  "funFacts": [
+    "Kirkjufell means 'Church Mountain' and is famous as the spooky 'arrowhead mountain' that the Hound saw beyond the Wall in Game of Thrones seasons 6 and 7.",
+    "Kirkjufell isn't a volcano. It's a nunatak: a stripey stack of lava and sandstone that poked up through Ice Age glaciers like a rocky island in a sea of ice.",
+    "Snæfellsjökull is a 700,000-year-old volcano with a glacier on top, and Jules Verne picked it as the secret entrance to the center of the Earth in his 1864 adventure novel.",
+    "The whole Snæfellsnes peninsula is nicknamed 'Iceland in Miniature' because it squeezes glaciers, black beaches, lava fields, cliffs and fishing villages into one small region.",
+    "Grundarfjörður is one of the only spots in Iceland where killer whales swim close to shore, and the village even has an orca sculpture to celebrate them."
+  ],
+  "thingsToDo": [
+    "Photograph Kirkjufell mountain with the three-step Kirkjufellsfoss waterfall in front of it - one of the most famous views on Earth and right next to the village.",
+    "Drive into Snæfellsjökull National Park to see the glacier-capped volcano that inspired Journey to the Center of the Earth, with lava fields all around.",
+    "Climb Saxhóll crater using the award-winning metal staircase - only 10 to 15 minutes up, with huge ocean and lava-field views from an old volcano top.",
+    "Walk Djúpalónssandur black pebble beach and try lifting the four ancient 'lifting stones' that Icelandic fishermen once used to test their strength.",
+    "Visit tiny Búðakirkja, a coal-black wooden church standing alone on a lava field - a favorite stop for photos and one of Iceland's most unusual buildings.",
+    "Join a whale-watching boat from Grundarfjörður's harbor to look for orcas, humpbacks and white-beaked dolphins that feed in the fjord."
+  ],
+  "localWord": {
+    "word": "Fjörður",
+    "meaning": "fjord - a long, narrow sea inlet carved by ancient glaciers, like the one Grundarfjörður sits on"
+  },
+  "images": [
+    {
+      "filename": "hero-kirkjufell-mountain.jpg",
+      "alt": "A pointy mountain shaped like a witch's hat stands behind a small waterfall in Iceland.",
+      "credit": "Sean Afnan (via Unsplash)",
+      "license": "CC0 1.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kirkjufellsfoss,_Iceland_(Unsplash_1GrhuyHfzsI).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Kirkjufellsfoss%2C_Iceland_%28Unsplash_1GrhuyHfzsI%29.jpg"
+    },
+    {
+      "filename": "grundarfjordur-village-aerial.jpg",
+      "alt": "A view from above of the tiny seaside village of Grundarfjordur with Kirkjufell mountain nearby.",
+      "credit": "Chensiyuan",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:1_grundarfj%C3%B6r%C3%B0ur_2017_aerial_pano.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/1_grundarfj%C3%B6r%C3%B0ur_2017_aerial_pano.jpg"
+    },
+    {
+      "filename": "snaefellsjokull-glacier-volcano.jpg",
+      "alt": "A snow-covered volcano with a white glacier on top sits beneath a blue Iceland sky.",
+      "credit": "Steinninn",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sn%C3%A6fellsj%C3%B6kull_2024_(0750).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Sn%C3%A6fellsj%C3%B6kull_2024_%280750%29.jpg"
+    },
+    {
+      "filename": "budakirkja-black-church.jpg",
+      "alt": "A tiny black wooden church stands alone on a green field in the Iceland countryside.",
+      "credit": "Javier Olivares Sebastia",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Black_B%C3%BA%C3%B0ir_Church,_(B%C3%BA%C3%B0akirkja).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Black_B%C3%BA%C3%B0ir_Church%2C_%28B%C3%BA%C3%B0akirkja%29.jpg"
+    },
+    {
+      "filename": "djupalonssandur-black-pebble-beach.jpg",
+      "alt": "Smooth shiny black pebbles cover a beach where dark cliffs meet the ocean.",
+      "credit": "Rob Oo",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dj%C3%BApal%C3%B3nssandur_(14453228065).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Dj%C3%BApal%C3%B3nssandur_%2814453228065%29.jpg"
+    }
+  ],
+  "links": [
+    { "url": "https://en.wikipedia.org/wiki/Grundarfj%C3%B6r%C3%B0ur", "label": "Wikipedia: Grundarfjörður", "description": "Background on the village, its harbor, population and history." },
+    { "url": "https://en.wikipedia.org/wiki/Kirkjufell", "label": "Wikipedia: Kirkjufell", "description": "Facts about the 463m 'Church Mountain' and its Game of Thrones role." },
+    { "url": "https://en.wikipedia.org/wiki/Sn%C3%A6fellsj%C3%B6kull", "label": "Wikipedia: Snæfellsjökull", "description": "The glacier-topped volcano that inspired Jules Verne's famous novel." },
+    { "url": "https://www.west.is/en/place/saxholl-crater", "label": "West Iceland: Saxhóll Crater", "description": "Official West Iceland page on the easy-to-climb crater with staircase." },
+    { "url": "https://www.iceland.org/national-parks/snaefellsjokull", "label": "Snæfellsjökull National Park guide", "description": "Kid-friendly overview of the park, beaches, lava fields and wildlife." },
+    { "url": "https://guidetoiceland.is/travel-iceland/drive/grundarfjordur", "label": "Guide to Iceland: Grundarfjörður", "description": "Travel guide with photos, activities and local highlights for visitors." }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Grundarfj%C3%B6r%C3%B0ur",
+    "https://en.wikipedia.org/wiki/Kirkjufell",
+    "https://en.wikipedia.org/wiki/Sn%C3%A6fellsj%C3%B6kull",
+    "https://www.west.is/en/place/saxholl-crater",
+    "https://guidetoiceland.is/travel-iceland/drive/grundarfjordur"
+  ],
+  "researchedAt": "2026-05-09T13:11:00Z"
+}

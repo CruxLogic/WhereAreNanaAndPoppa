@@ -1,0 +1,86 @@
+{
+  "researchId": "dover",
+  "name": "Dover",
+  "country": "United Kingdom",
+  "summary": "Dover is a seaside town in England famous for its huge White Cliffs made of soft white chalk and a giant medieval castle once called the 'Key to England'. Inside the castle you can explore secret WWII tunnels and climb a Roman lighthouse that's nearly 2,000 years old. London is only about two hours away by train, where you can spot Big Ben, Tower Bridge, the guards at Buckingham Palace and the famous ravens at the Tower of London.",
+  "funFacts": [
+    "The White Cliffs are made of chalk packed with tiny ancient sea creatures, plus fossils of sea urchins, ammonites, and even huge marine reptiles like mosasaurs and plesiosaurs.",
+    "Dover Castle has hidden tunnels built into the cliffs nearly 900 years ago, and during WWII these tunnels secretly directed the rescue of 338,000 soldiers from Dunkirk.",
+    "The Roman lighthouse standing inside Dover Castle, called the Pharos, was built around 1,900 years ago and is one of only three Roman lighthouses still left anywhere in the world.",
+    "The Tower of London keeps at least six pet ravens, because legend says if the ravens ever fly away, the Tower and the whole kingdom will tumble down.",
+    "The Channel Tunnel near Dover stretches 31 miles under the sea, plunging 75 metres deep, and Eurostar trains zoom through it from England to France in about 35 minutes."
+  ],
+  "thingsToDo": [
+    "Walk the springy clifftop path from the White Cliffs Visitor Centre out to South Foreland Lighthouse, the first lighthouse in the world ever lit by electricity.",
+    "Explore Dover Castle's huge Great Tower, then crawl through the Secret Wartime Tunnels carved into the chalk cliffs by candlelight and dripping rock.",
+    "Climb the Roman Pharos lighthouse beside the castle, the tallest Roman building still standing in Britain after almost 2,000 years of storms and battles.",
+    "Catch a fast train from Dover Priory to London (about two hours) and meet the raven-keepers and Crown Jewels at the Tower of London.",
+    "In London, snap a selfie with Big Ben and the Houses of Parliament, then watch the red-coated guards outside Buckingham Palace and walk across Tower Bridge.",
+    "Pop into Dover's Roman Painted House to see colourful frescoes from 200 AD, try on a toga, dig in an excavation tray, and play real Roman games."
+  ],
+  "localWord": {
+    "word": "Brilliant",
+    "meaning": "British way of saying 'awesome' or 'fantastic' when you love something"
+  },
+  "images": [
+    {
+      "filename": "hero-white-cliffs-dover.jpg",
+      "alt": "The famous towering white chalk cliffs of Dover meeting the blue sea on a sunny day.",
+      "credit": "Kallerna",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dover_White_Cliffs_3.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Dover_White_Cliffs_3.jpg"
+    },
+    {
+      "filename": "dover-castle-aerial.jpg",
+      "alt": "A bird's-eye view of mighty Dover Castle with its stone walls perched high above the coast.",
+      "credit": "Chensiyuan",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:1_dover_castle_aerial_panorama_2017.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/1_dover_castle_aerial_panorama_2017.jpg"
+    },
+    {
+      "filename": "tower-bridge-london-night.jpg",
+      "alt": "London's Tower Bridge lit up beautifully at night, reflected in the River Thames.",
+      "credit": "Helen Ilus",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_at_night_from_South_Bank.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Tower_Bridge_at_night_from_South_Bank.jpg"
+    },
+    {
+      "filename": "big-ben-houses-of-parliament.jpg",
+      "alt": "Big Ben's clock tower stands tall next to the grand Houses of Parliament in London.",
+      "credit": "Jim Bowen",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Big_Ben_and_the_Houses_of_Parliament_2022-12-26.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Big_Ben_and_the_Houses_of_Parliament_2022-12-26.jpg"
+    },
+    {
+      "filename": "buckingham-palace-london.jpg",
+      "alt": "The grand front of Buckingham Palace, the King's London home, behind its golden gates.",
+      "credit": "David Iliff",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Buckingham_Palace,_London_-_April_2009.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Buckingham_Palace%2C_London_-_April_2009.jpg"
+    }
+  ],
+  "links": [
+    { "url": "https://www.english-heritage.org.uk/visit/places/dover-castle/", "label": "Dover Castle (English Heritage)", "description": "Official site with opening times, tunnel tours and family activities at the castle." },
+    { "url": "https://www.nationaltrust.org.uk/visit/kent/the-white-cliffs-of-dover", "label": "White Cliffs of Dover (National Trust)", "description": "Walking trails, fossils, wildlife and the path to South Foreland Lighthouse." },
+    { "url": "https://www.hrp.org.uk/tower-of-london/whats-on/the-ravens/", "label": "Tower of London Ravens", "description": "Meet the legendary ravens guarding the Tower and the British Crown." },
+    { "url": "https://kids.kiddle.co/White_Cliffs_of_Dover", "label": "White Cliffs facts for kids", "description": "Kid-friendly summary of how the chalk cliffs formed and what lives there." },
+    { "url": "https://kids.britannica.com/students/article/Channel-Tunnel/319261", "label": "Channel Tunnel (Britannica Kids)", "description": "How the underwater 'Chunnel' was built between England and France." },
+    { "url": "https://www.visitlondon.com/things-to-do/whats-on/family/family-attractions", "label": "Visit London family attractions", "description": "Official London guide to Big Ben, Buckingham Palace and family days out." }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/White_Cliffs_of_Dover",
+    "https://en.wikipedia.org/wiki/Dover_Castle",
+    "https://en.wikipedia.org/wiki/Channel_Tunnel",
+    "https://en.wikipedia.org/wiki/Ravens_of_the_Tower_of_London",
+    "https://www.english-heritage.org.uk/visit/places/dover-castle/",
+    "https://www.nationaltrust.org.uk/visit/kent/the-white-cliffs-of-dover",
+    "https://kids.kiddle.co/Big_Ben",
+    "https://kids.britannica.com/students/article/Channel-Tunnel/319261"
+  ],
+  "researchedAt": "2026-05-09T12:56:00Z"
+}

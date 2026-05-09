@@ -1,0 +1,90 @@
+{
+  "researchId": "port-louis",
+  "name": "Port Louis",
+  "country": "Mauritius",
+  "summary": "Mauritius is a sunny island nation in the Indian Ocean, east of Madagascar, with green mountains poking up like crinkled hats. It is famous as the only home of the dodo, a chunky flightless bird that vanished long ago. People here speak French, English and Mauritian Creole, and celebrate Hindu, Christian, Muslim and Chinese festivals all on one small island.",
+  "funFacts": [
+    "The dodo lived only on Mauritius and was wiped out by the 1680s after sailors and the dogs, pigs and rats they brought hunted them.",
+    "Mauritian Creole mixes French with words from Africa, India and Madagascar, so 'how are you?' becomes 'ki manyer?' instead of a French sentence.",
+    "Sugar cane covers huge fields across Mauritius because British rulers brought half a million workers from India in the 1800s to grow it.",
+    "At Chamarel you can see sand in seven natural colours, red, brown, violet, green, blue, purple and yellow, made by old volcanic rock.",
+    "Mauritius is the only African country where Hinduism is the biggest religion, but Christian, Muslim and Buddhist festivals are also national holidays."
+  ],
+  "thingsToDo": [
+    "Walk straight off the ship into Le Caudan Waterfront for shops, snacks and a sea-facing playground only minutes from the cruise terminal.",
+    "Visit the Blue Penny Museum at Caudan to glimpse two of the world's rarest stamps, shown for just ten minutes each hour.",
+    "Wander the Central Market near Place d'Armes to sniff vanilla, chillies and spices and try fresh pineapple sliced into crinkly stars.",
+    "Hike up to the Citadel (Fort Adelaide) above the city for a breezy view over the harbour, racetrack and pointy Pieter Both mountain.",
+    "Taxi to Pamplemousses Botanical Garden to spot giant Victoria water lilies, big enough to hold a small child, and slow-moving giant tortoises.",
+    "Step inside the Natural History Museum at the Mauritius Institute to meet a reconstructed dodo skeleton and learn how the bird lived."
+  ],
+  "localWord": {
+    "word": "Bonzour",
+    "meaning": "Hello / good morning in Mauritian Creole",
+    "pronunciation": "bon-ZOOR"
+  },
+  "images": [
+    {
+      "filename": "hero-port-louis-harbour.jpg",
+      "alt": "Port Louis city and harbour seen from a mountain peak with green hills around it",
+      "credit": "carrotmadman6",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Port_Louis_from_Le_Pouce.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Port_Louis_from_Le_Pouce.jpg"
+    },
+    {
+      "filename": "caudan-waterfront.jpg",
+      "alt": "Colourful shops and boats along the Caudan Waterfront marina in Port Louis",
+      "credit": "Mip130916",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Caudan_waterfront_(11).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Caudan_waterfront_%2811%29.jpg"
+    },
+    {
+      "filename": "aapravasi-ghat.jpg",
+      "alt": "Stone steps and old buildings of Aapravasi Ghat, a UNESCO World Heritage site in Port Louis",
+      "credit": "Ashish Bhatnagar",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aapravasi_ghat_museum,_Port_Louis,_Mauritius.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Aapravasi_ghat_museum%2C_Port_Louis%2C_Mauritius.jpg"
+    },
+    {
+      "filename": "central-market.jpg",
+      "alt": "Busy stalls of fruit and goods inside the Central Market of Port Louis",
+      "credit": "Didier Baertschiger",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mauritius_-_Port_Louis_(Central_Market)_(17118303459).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Mauritius_-_Port_Louis_%28Central_Market%29_%2817118303459%29.jpg"
+    },
+    {
+      "filename": "fort-adelaide-citadel.jpg",
+      "alt": "The stone Citadel of Fort Adelaide on a hill above Port Louis with the city below",
+      "credit": "Arne Mueseler",
+      "license": "CC BY-SA 3.0 DE",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mauritius_citadelle_fort_adelaide.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Mauritius_citadelle_fort_adelaide.jpg"
+    }
+  ],
+  "links": [
+    { "url": "https://en.wikipedia.org/wiki/Port_Louis", "label": "Wikipedia: Port Louis", "description": "Overview of the capital city, its harbour, history and main sights." },
+    { "url": "https://www.britannica.com/animal/dodo-extinct-bird", "label": "Britannica: The Dodo", "description": "Clear, kid-readable explanation of the dodo and why it disappeared." },
+    { "url": "https://whc.unesco.org/en/list/1227/", "label": "UNESCO: Aapravasi Ghat", "description": "Official page on the Port Louis site where indentured workers first arrived." },
+    { "url": "https://bluepenny.museum/", "label": "Blue Penny Museum", "description": "Home of the world-famous 1847 Mauritius stamps at Caudan Waterfront." },
+    { "url": "https://chamarel7colouredearth.com/", "label": "Chamarel 7 Coloured Earth", "description": "Pictures and facts about the rainbow-striped sand dunes and tortoise park." },
+    { "url": "https://en.wikipedia.org/wiki/Sir_Seewoosagur_Ramgoolam_Botanical_Garden", "label": "Pamplemousses Botanical Garden", "description": "The Southern Hemisphere's oldest botanical garden, famous for giant water lilies." }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Port_Louis",
+    "https://en.wikipedia.org/wiki/Dodo",
+    "https://www.britannica.com/animal/dodo-extinct-bird",
+    "https://en.wikipedia.org/wiki/Seven_Coloured_Earths",
+    "https://chamarel7colouredearth.com/",
+    "https://www.omniglot.com/language/phrases/mauritiancreole.htm",
+    "https://en.wikipedia.org/wiki/Sir_Seewoosagur_Ramgoolam_Botanical_Garden",
+    "https://en.wikipedia.org/wiki/Blue_Penny_Museum",
+    "https://whc.unesco.org/en/list/1227/",
+    "https://en.wikipedia.org/wiki/Aapravasi_Ghat",
+    "https://en.wikipedia.org/wiki/Religion_in_Mauritius"
+  ],
+  "researchedAt": "2026-05-09T11:38:00Z"
+}

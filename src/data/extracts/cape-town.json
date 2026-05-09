@@ -1,0 +1,88 @@
+{
+  "researchId": "cape-town",
+  "name": "Cape Town",
+  "country": "South Africa",
+  "summary": "Cape Town sits at the southern tip of Africa, watched over by flat-topped Table Mountain and lapped by two oceans. You can ride a spinning cable car up to the clouds, meet wild African penguins waddling on a beach, and visit the island where Nelson Mandela was once held prisoner.",
+  "funFacts": [
+    "Table Mountain often wears a fluffy white cloud called the 'tablecloth' — a legend says it comes from a smoking contest between a pirate and the devil.",
+    "Cape Town belongs to the Cape Floral Kingdom, the smallest but richest of Earth's six plant kingdoms, with around 9,000 plant species, most found nowhere else.",
+    "About 2,000 to 3,000 African penguins live at Boulders Beach, waddling between giant granite rocks and braying like little donkeys at sunset.",
+    "Nelson Mandela was locked up on Robben Island for 18 years in a tiny cell barely bigger than a bathroom — today the prison is a museum run by former inmates.",
+    "South Africa has 11 official languages, so you might hear Xhosa clicks, Afrikaans, Zulu and English all spoken on the same busy street."
+  ],
+  "thingsToDo": [
+    "Wander the V&A Waterfront right where your ship docks, watching seals splash, harbour boats bob, and street performers entertain shoppers near Table Mountain views.",
+    "Ride the spinning Table Mountain Cableway — the floor rotates 360 degrees so everyone gets a panoramic view of the city, ocean and Robben Island.",
+    "Tiptoe along the boardwalks at Boulders Beach in Simon's Town to watch wild African penguins nesting, swimming and sunbathing among smooth granite rocks.",
+    "Catch the ferry to Robben Island for a tour led by a former political prisoner, then peek inside Nelson Mandela's tiny prison cell.",
+    "Float through the towering kelp forest tank at the Two Oceans Aquarium, then meet rockhopper penguins, ragged-tooth sharks and a giant green sea turtle.",
+    "Explore Kirstenbosch Botanical Garden's Boomslang treetop walkway, hunting for proteas, sugarbirds and rock hyraxes (called 'dassies') along the slopes."
+  ],
+  "localWord": {
+    "word": "Molo",
+    "meaning": "Hello (to one person) in Xhosa, one of South Africa's most-spoken languages",
+    "pronunciation": "MOH-loh"
+  },
+  "images": [
+    {
+      "filename": "hero-table-mountain.jpg",
+      "alt": "Table Mountain rising over Cape Town's city bowl and harbour at golden hour.",
+      "credit": "Discott",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cape_Town_view_from_Cape_Sun.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Cape_Town_view_from_Cape_Sun.jpg"
+    },
+    {
+      "filename": "va-waterfront.jpg",
+      "alt": "Boats bob in the V&A Waterfront harbour with flat-topped Table Mountain behind.",
+      "credit": "Daniel Case",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cape_Town_waterfront_and_Table_Mountain_from_Victoria_Wharf_mall.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Cape_Town_waterfront_and_Table_Mountain_from_Victoria_Wharf_mall.jpg"
+    },
+    {
+      "filename": "boulders-beach-penguins.jpg",
+      "alt": "African penguins waddle across the sandy boulders at Boulders Beach.",
+      "credit": "Mike Peel (www.mikepeel.net)",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boulders_Beach_Penguin_Colony_4.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Boulders_Beach_Penguin_Colony_4.jpg"
+    },
+    {
+      "filename": "bo-kaap-houses.jpg",
+      "alt": "A row of brightly painted pink, blue, and yellow houses on a Bo-Kaap street.",
+      "credit": "Bernard DUPONT",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bo-Kaap_colourful_houses_(30114819980).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Bo-Kaap_colourful_houses_%2830114819980%29.jpg"
+    },
+    {
+      "filename": "cape-point.jpg",
+      "alt": "Dramatic cliffs and blue ocean at Cape Point where two seas meet.",
+      "credit": "Kallerna",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cape_Point_panorama_2019.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Cape_Point_panorama_2019.jpg"
+    }
+  ],
+  "links": [
+    { "url": "https://www.capetown.travel/", "label": "Cape Town Tourism (official)", "description": "Official tourism site with family attractions, events and travel tips." },
+    { "url": "https://kids.kiddle.co/Table_Mountain", "label": "Table Mountain facts for kids", "description": "Easy-read encyclopedia article about the famous flat-topped mountain." },
+    { "url": "https://www.aquarium.co.za/", "label": "Two Oceans Aquarium", "description": "Sharks, penguins, kelp forests and a children's play centre at the V&A Waterfront." },
+    { "url": "https://www.sanparks.org/parks/table-mountain/what-to-do/attractions/boulders-penguin-colony", "label": "Boulders Penguin Colony (SANParks)", "description": "Official park page about visiting the African penguins at Boulders Beach." },
+    { "url": "https://www.robben-island.org.za/", "label": "Robben Island Museum", "description": "UNESCO site and museum where Nelson Mandela was imprisoned." },
+    { "url": "https://www.sanbi.org/gardens/kirstenbosch/", "label": "Kirstenbosch National Botanical Garden", "description": "World-famous garden showcasing South Africa's unique plants beneath Table Mountain." }
+  ],
+  "sources": [
+    "https://kids.kiddle.co/Cape_Town",
+    "https://kids.kiddle.co/Table_Mountain",
+    "https://kids.britannica.com/students/article/Table-Mountain/605204",
+    "https://www.capetown.travel/get-to-know-the-african-penguins-at-boulders-beach/",
+    "https://www.sanparks.org/parks/table-mountain/what-to-do/attractions/boulders-penguin-colony",
+    "https://en.wikipedia.org/wiki/Robben_Island",
+    "https://whc.unesco.org/en/list/916/",
+    "https://www.sanbi.org/gardens/kirstenbosch/",
+    "https://www.aquarium.co.za/"
+  ],
+  "researchedAt": "2026-05-09T11:43:00Z"
+}

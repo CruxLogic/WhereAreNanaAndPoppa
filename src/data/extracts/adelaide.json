@@ -1,0 +1,89 @@
+{
+  "researchId": "adelaide",
+  "name": "Adelaide",
+  "country": "Australia",
+  "summary": "Adelaide is a friendly seaside city on the Kaurna Plains, famous for festivals, parks, beaches, and giant pandas at its zoo. Your cruise ship docks at Outer Harbor, and a quick train ride whisks you to a city packed with adventures. Pack sunscreen, a hat, and curiosity!",
+  "funFacts": [
+    "Adelaide Zoo is the only place in the Southern Hemisphere with giant pandas. Xing Qiu and Yi Lan arrived in 2024 and munch bamboo all day long.",
+    "Adelaide is nicknamed the City of Churches because early settlers from many religions built beautiful steeples that still poke above the rooftops today.",
+    "Locals call it the Festival City. Huge events like WOMADelaide, Fringe, and Illuminate fill the streets with lights, music, dancers, and giant puppets.",
+    "Adelaide sits on Kaurna Country, looked after by the Kaurna people for tens of thousands of years before any ship from Europe ever sailed in.",
+    "The world-famous Barossa Valley wine region is just up the road, but Adelaide grows fruit too. Beerenberg Farm lets families pick juicy strawberries."
+  ],
+  "thingsToDo": [
+    "Hop off the ship and walk 150 metres to Outer Harbor station, then catch the 40-minute train to Adelaide Railway Station on North Terrace.",
+    "Meet pandas Xing Qiu and Yi Lan, plus tree kangaroos and meerkats, at Adelaide Zoo, a short stroll from the city through the Botanic Garden.",
+    "Explore the South Australian Museum for free and gawp at the huge 18-metre sperm whale skeleton and the world's biggest Aboriginal cultures gallery.",
+    "Jump on the historic Glenelg tram at Victoria Square for a 25-minute ride to Glenelg Beach for sandcastles, ice cream, and waterslides at The Beachouse.",
+    "Picnic under shady trees at Adelaide Botanic Garden, then peek inside the giant glass Bicentennial Conservatory to find rainforest plants from far away.",
+    "Wander Adelaide Central Market near Victoria Square to taste fresh cheeses, fruits, doughnuts, and treats from over 70 stalls before catching the train back."
+  ],
+  "localWord": {
+    "word": "Niina marni",
+    "meaning": "Hello, are you good? — a friendly Kaurna greeting from the Adelaide Plains",
+    "pronunciation": "NEE-na MAR-nee"
+  },
+  "images": [
+    {
+      "filename": "hero-adelaide-skyline.jpg",
+      "alt": "Adelaide's city skyline rises behind the green parklands and the River Torrens on a sunny day.",
+      "credit": "Ardash Muradian",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adelaide_skyline,_December_2022.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Adelaide_skyline%2C_December_2022.jpg"
+    },
+    {
+      "filename": "adelaide-oval.jpg",
+      "alt": "The big lit-up Adelaide Oval stadium glows at night beside the river footbridge.",
+      "credit": "MaxMonaco",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adelaide_Oval_Exterior_April_2024.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Adelaide_Oval_Exterior_April_2024.jpg"
+    },
+    {
+      "filename": "glenelg-beach.jpg",
+      "alt": "Sunny Glenelg Beach with golden sand, blue water and the long jetty stretching out to sea.",
+      "credit": "eGuide Travel",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Glenelg_Beach_in_summer.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Glenelg_Beach_in_summer.jpg"
+    },
+    {
+      "filename": "cleland-koala.jpg",
+      "alt": "A fluffy koala clings to a tree branch at Cleland Wildlife Park near Adelaide.",
+      "credit": "Yu Chu Chin (Pangalau)",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koala_at_the_Cleland_Wildlife_Park_-_01.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Koala_at_the_Cleland_Wildlife_Park_-_01.jpg"
+    },
+    {
+      "filename": "adelaide-botanic-palm-house.jpg",
+      "alt": "The pretty old glass Palm House sits among lawns in the Adelaide Botanic Garden.",
+      "credit": "Peripitus",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palm_house,_Adelaide_Botanic_Gardens_-_oblique.JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Palm_house%2C_Adelaide_Botanic_Gardens_-_oblique.JPG"
+    }
+  ],
+  "links": [
+    { "url": "https://southaustralia.com/destinations/adelaide/things-to-do/family-and-kids", "label": "Family Fun in Adelaide (Official Tourism)", "description": "Official South Australia tourism guide with lots of kid-friendly ideas" },
+    { "url": "https://www.adelaidezoo.com.au/", "label": "Adelaide Zoo", "description": "Home of Xing Qiu and Yi Lan, the only giant pandas in the Southern Hemisphere" },
+    { "url": "https://www.samuseum.sa.gov.au/", "label": "South Australian Museum", "description": "Free museum with whale skeletons, fossils, and the world's biggest Aboriginal cultures gallery" },
+    { "url": "https://kids.kiddle.co/Adelaide", "label": "Adelaide Facts for Kids (Kiddle)", "description": "Easy-read encyclopedia entry written for younger readers" },
+    { "url": "https://en.wikipedia.org/wiki/Adelaide", "label": "Adelaide on Wikipedia", "description": "Background on the city, history, and culture" },
+    { "url": "https://www.flindersportholdings.com.au/passenger-information/", "label": "Outer Harbor Cruise Terminal Info", "description": "Practical details on getting from the ship to the city by train" }
+  ],
+  "sources": [
+    "https://southaustralia.com/destinations/adelaide/things-to-do/family-and-kids",
+    "https://en.wikipedia.org/wiki/Adelaide",
+    "https://en.wikipedia.org/wiki/Wang_Wang_and_Fu_Ni",
+    "https://www.flindersportholdings.com.au/passenger-information/",
+    "https://en.wikipedia.org/wiki/Kaurna",
+    "https://en.wikipedia.org/wiki/Kaurna_language",
+    "https://www.cityofadelaide.com.au/about-adelaide/kaurna-heritage/",
+    "https://kids.kiddle.co/Adelaide",
+    "https://www.samuseum.sa.gov.au/",
+    "https://southaustralia.com/destinations/adelaide/places/glenelg"
+  ],
+  "researchedAt": "2026-05-09T11:30:00Z"
+}

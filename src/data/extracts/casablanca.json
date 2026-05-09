@@ -1,0 +1,86 @@
+{
+  "researchId": "casablanca",
+  "name": "Casablanca",
+  "country": "Morocco",
+  "summary": "Casablanca is Morocco's biggest city, sitting right on the Atlantic Ocean where waves crash against white-painted buildings. Its name means 'White House' in Spanish! The amazing Hassan II Mosque rises straight out of the sea, and the city mixes French, Arab, and Amazigh (Berber) cultures all together.",
+  "funFacts": [
+    "The Hassan II Mosque has a minaret 210 metres tall, with a green laser beam at the top that shines toward Mecca over 30 kilometres away.",
+    "Part of the Hassan II Mosque was built directly over the Atlantic Ocean, and inside there's a glass floor where you can see the waves below.",
+    "The name 'Casablanca' is Spanish for 'White House', because so many of the city's buildings are painted bright white in the sunshine.",
+    "Moroccans pour mint tea from really high up to make a frothy foam on top, and the higher the pour, the more respect for the guest.",
+    "Long before it was Casablanca, the spot was an Amazigh (Berber) village called Anfa, meaning 'hill', and people still speak Tamazight today."
+  ],
+  "thingsToDo": [
+    "Tour the giant Hassan II Mosque, one of very few in Morocco that lets non-Muslim visitors inside, and walk on the plaza right above the ocean.",
+    "Wander the narrow alleys of the Old Medina just minutes from the cruise port, hunting for pottery, leather slippers, and sweet pastries.",
+    "Stroll the Corniche promenade in Ain Diab, watching surfers ride Atlantic waves while you sip a fresh-squeezed orange juice from a cafe.",
+    "Visit Morocco Mall and ride the elevator straight through a three-storey aquarium full of sharks, rays, and tropical fish swimming around you.",
+    "Step inside Rick's Cafe, a 1930s mansion built to look exactly like the bar from the famous old movie, with a leafy courtyard inside.",
+    "Explore the Habous Quarter, a friendlier 'new medina' built in the 1900s, perfect for spotting storks on rooftops and trying Moroccan cookies."
+  ],
+  "localWord": {
+    "word": "Salam",
+    "meaning": "Hello, or peace, used everywhere in Morocco",
+    "pronunciation": "sah-LAHM"
+  },
+  "images": [
+    {
+      "filename": "hero-hassan-ii-mosque.jpg",
+      "alt": "The huge Hassan II Mosque with its tall minaret rising beside the sparkling Atlantic Ocean in Casablanca.",
+      "credit": "Milamber's portfolio (Flickr)",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunshine_on_mosque_Hassan_II_in_Casablanca,_Morocco_-_Flickr_-_Milamber%27s_portfolio.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Sunshine_on_mosque_Hassan_II_in_Casablanca%2C_Morocco_-_Flickr_-_Milamber%27s_portfolio.jpg"
+    },
+    {
+      "filename": "old-medina-street.jpg",
+      "alt": "A busy little street inside the Old Medina of Casablanca, full of shops and people.",
+      "credit": "Jocelyn Erskine-Kellie",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:In_the_Medina,_Casablanca_(9109233856).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/In_the_Medina%2C_Casablanca_%289109233856%29.jpg"
+    },
+    {
+      "filename": "habous-quarter-view.jpg",
+      "alt": "A pretty arched walkway in the Habous Quarter, full of arches and traditional Moroccan shops.",
+      "credit": "Omalihy",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:One_of_the_most_instragmable_views_of_the_old_medina_the_habous_in_Casablanca.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/One_of_the_most_instragmable_views_of_the_old_medina_the_habous_in_Casablanca.jpg"
+    },
+    {
+      "filename": "place-mohammed-v.jpg",
+      "alt": "Place Mohammed V in Casablanca with its grand white buildings and big open square.",
+      "credit": "Hamza Izourane",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Place_Mohammed_V_-_Casablanca_-_2022.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Place_Mohammed_V_-_Casablanca_-_2022.jpg"
+    },
+    {
+      "filename": "moroccan-mint-tea.jpg",
+      "alt": "A pretty silver teapot pouring sweet Moroccan mint tea into little glasses on a tray.",
+      "credit": "Munfarid1",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moroccan_mint_tea_on_a_traditional_tray.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Moroccan_mint_tea_on_a_traditional_tray.jpg"
+    }
+  ],
+  "links": [
+    { "url": "https://en.wikipedia.org/wiki/Casablanca", "label": "Wikipedia: Casablanca", "description": "Full overview of the city's history, geography, and culture." },
+    { "url": "https://kids.kiddle.co/Hassan_II_Mosque", "label": "Kiddle Kids: Hassan II Mosque", "description": "Kid-friendly facts about the giant seaside mosque and its 210m minaret." },
+    { "url": "https://kids.britannica.com/students/article/Casablanca/273544", "label": "Britannica Kids: Casablanca", "description": "Easy-to-read article about Morocco's biggest port city." },
+    { "url": "https://www.visitmorocco.com/en/travel/casablanca", "label": "Visit Morocco (official tourism)", "description": "Morocco's official tourism site with sights, food, and travel tips." },
+    { "url": "https://www.lonelyplanet.com/morocco/casablanca", "label": "Lonely Planet: Casablanca", "description": "Top sights, neighbourhoods and family travel ideas in Casablanca." },
+    { "url": "https://www.fmh2.ma/en/mosque/hassan-2-mosque", "label": "Hassan II Mosque Foundation", "description": "Official site of the mosque with photos and visitor information." }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Casablanca",
+    "https://en.wikipedia.org/wiki/Hassan_II_Mosque",
+    "https://kids.kiddle.co/Hassan_II_Mosque",
+    "https://kids.britannica.com/students/article/Casablanca/273544",
+    "https://www.britannica.com/place/Casablanca-Morocco",
+    "https://www.fmh2.ma/en/mosque/hassan-2-mosque",
+    "https://en.wikipedia.org/wiki/Rick's_Caf%C3%A9_Casablanca"
+  ],
+  "researchedAt": "2026-05-09T12:01:00Z"
+}

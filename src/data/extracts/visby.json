@@ -1,0 +1,83 @@
+{
+  "researchId": "visby",
+  "name": "Visby",
+  "country": "Sweden",
+  "summary": "Visby is a tiny medieval town on the Swedish island of Gotland, wrapped in a stone wall over 700 years old that you can still walk along today. It is a UNESCO World Heritage site full of crooked lanes, ruined churches, climbing roses, and the home of the Pippi Longstocking films. The wider island is famous for spooky limestone sea stacks called raukar and lots and lots of sheep.",
+  "funFacts": [
+    "Visby's medieval wall stretches about 3.4 kilometres around the old town and still has 27 of its original tall watchtowers from the 1200s standing guard.",
+    "The real Villa Villekulla from the Pippi Longstocking films sits inside Kneippbyn park near Visby — fans can visit Pippi's actual house and climb on the roof.",
+    "Every August Visby hosts Medieval Week, when 40,000 visitors arrive in armour and gowns for jousting, sword fights, knights, jesters, and torch-lit markets.",
+    "Around the coast of Gotland stand strange limestone towers called raukar, carved by waves over millions of years — the tallest, Jungfrun, is 27 metres high.",
+    "Visby was the model for the harbour town in the famous Studio Ghibli film Kiki's Delivery Service, so it really is a movie town for kids."
+  ],
+  "thingsToDo": [
+    "Walk the top and base of the medieval Ringmuren wall, counting the watchtowers and finding the Powder Tower, the oldest stone building still standing in the town.",
+    "Wander through the giant roofless church ruins of St Nicolai and St Karin, where ivy and roses now climb walls that were once full of bells and candles.",
+    "Visit Gotlands Museum (Fornsalen) to see the world's biggest stash of Viking silver, mysterious carved picture stones, and the Skepp och Skoj children's play area.",
+    "Spend the afternoon at Kneippbyn Resort just south of town to meet Villa Villekulla from Pippi Longstocking and ride waterslides at the Pippi water park.",
+    "Picnic in Almedalen park beside the harbour, then climb to the Botaniska Trädgården garden to find tropical trees, rose tunnels, and the cliffside Maiden Tower.",
+    "Step inside St Mary's Cathedral on Sankt Hansgatan, finished in 1225, the only one of Visby's many old churches still holding services after almost 800 years."
+  ],
+  "localWord": { "word": "Hej", "meaning": "Hello", "pronunciation": "hay" },
+  "images": [
+    {
+      "filename": "hero-visby-walled-town.jpg",
+      "alt": "A wide view of Visby's old town from the clifftop, showing red-tiled roofs huddled inside the medieval ring wall by the blue Baltic Sea.",
+      "credit": "Alexandru Baboș (Albabos)",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Visby_panorama_fr%C3%A5n_klinten.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Visby_panorama_fr%C3%A5n_klinten.jpg"
+    },
+    {
+      "filename": "visby-gunpowder-tower-kruttornet.jpg",
+      "alt": "Visby's chunky stone Gunpowder Tower (Kruttornet), the oldest part of the medieval city wall, standing by the harbour.",
+      "credit": "Lena Calderon",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kruttornet_i_Visby.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Kruttornet_i_Visby.jpg"
+    },
+    {
+      "filename": "visby-flower-laneway-fiskargrand.jpg",
+      "alt": "Fiskargränd, a tiny cobbled Visby alley with old wooden houses dripping in pink climbing roses.",
+      "credit": "Mr Bullitt",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fiskargr%C3%A4nd_in_Visby.JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Fiskargr%C3%A4nd_in_Visby.JPG"
+    },
+    {
+      "filename": "gotland-raukar-langhammars.jpg",
+      "alt": "Tall limestone sea stacks (raukar) standing like stone giants on the Langhammars beach on Fårö, Gotland.",
+      "credit": "Jürgen Howaldt",
+      "license": "CC BY-SA 2.0 DE",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gotland_F%C3%A5r%C3%B6-Raukar_Langhammars.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Gotland_F%C3%A5r%C3%B6-Raukar_Langhammars.jpg"
+    },
+    {
+      "filename": "visby-st-marys-cathedral.jpg",
+      "alt": "Visby's St Mary's Cathedral with its dark pointy spires rising above the red rooftops of the old town.",
+      "credit": "L.G.foto (Leif Gustafsson)",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:0521Visby_domkyrka.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/0521Visby_domkyrka.jpg"
+    }
+  ],
+  "links": [
+    { "url": "https://visitsweden.com/where-to-go/southern-sweden/gotland/visby/", "label": "Visit Sweden — Visby", "description": "Sweden's official tourism site with photos and family ideas for Visby." },
+    { "url": "https://whc.unesco.org/en/list/731/", "label": "UNESCO — Hanseatic Town of Visby", "description": "Why Visby is a protected World Heritage Site, in plain language." },
+    { "url": "https://en.wikipedia.org/wiki/Visby", "label": "Wikipedia — Visby", "description": "All-round encyclopedia article about the walled city, its history, and quirks." },
+    { "url": "https://kneippbyn.se/en/utbud/pippi-langstrump/", "label": "Kneippbyn — Pippi Longstocking", "description": "The official park where Villa Villekulla and the Pippi water rides live." },
+    { "url": "https://www.gotlandsmuseum.se/", "label": "Gotlands Museum (Fornsalen)", "description": "Museum with Viking silver, picture stones, and a children's play exhibit." },
+    { "url": "https://www.medeltidsveckan.se/en/welcome/", "label": "Medeltidsveckan — Medieval Week", "description": "Visby's big August knight-and-jester festival with 500+ events." }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Visby",
+    "https://en.wikipedia.org/wiki/Visby_City_Wall",
+    "https://en.wikipedia.org/wiki/Villa_Villekulla",
+    "https://en.wikipedia.org/wiki/Rauk",
+    "https://en.wikipedia.org/wiki/Gotland_Museum",
+    "https://whc.unesco.org/en/list/731/",
+    "https://visitsweden.com/where-to-go/southern-sweden/gotland/visby/",
+    "https://www.britannica.com/place/Visby"
+  ],
+  "researchedAt": "2026-05-09T12:25:00Z"
+}

@@ -1,0 +1,86 @@
+{
+  "researchId": "melbourne",
+  "name": "Melbourne",
+  "country": "Australia",
+  "summary": "Melbourne is Australia's coolest southern city, packed with rattling trams, sandy beaches and laneways painted with colourful street art. Locals love sport, good food and unusual weather that can swap from sunny to stormy in one afternoon. From Station Pier you can hop a tram and reach the city in about 20 minutes.",
+  "funFacts": [
+    "Melbourne has the world's biggest tram network, with around 250 kilometres of track and 475 trams rumbling past parks, beaches and skyscrapers every single day.",
+    "Aussie Rules football was invented here in 1858, partly so cricketers could stay fit in winter by chasing an oval ball around muddy paddocks.",
+    "The sticky brown spread Vegemite was invented in Melbourne and is still made in Port Melbourne, just a short walk from where cruise ships dock.",
+    "Melbourne is famous for having four seasons in one day, so you might need sunscreen, a jumper and a raincoat all before lunchtime.",
+    "During the 1850s gold rush, so many treasure hunters arrived that whole tent cities sprang up overnight on the city's edges."
+  ],
+  "thingsToDo": [
+    "Hop on the free City Circle Tram, a heritage burgundy tram that loops past Federation Square, Parliament House and the old gold-rush buildings.",
+    "Wander the Ian Potter Children's Garden inside the Royal Botanic Gardens, splashing through fountains, crawling under bamboo and digging in the kitchen patch.",
+    "Meet kangaroos, platypuses and gorillas at Melbourne Zoo, then explore the new Dino Trail with life-sized animatronic dinosaurs that roar and move.",
+    "Hunt for rainbow street art down Hosier Lane, then grab hot jam doughnuts from the famous American Doughnut Kitchen van at Queen Victoria Market.",
+    "Build sandcastles at Port Melbourne Beach, just a 20-minute walk from Station Pier, with views of cargo ships and the city skyline behind you.",
+    "Climb the Eureka Skydeck on the Yarra River, ride 88 floors up in 38 seconds, and step inside The Edge, a glass cube hanging over the city."
+  ],
+  "localWord": {
+    "word": "arvo",
+    "meaning": "afternoon — Aussies love shortening words, so 'see you this arvo' just means 'see you this afternoon'",
+    "pronunciation": "AR-voh"
+  },
+  "images": [
+    {
+      "filename": "hero-flinders-street.jpg",
+      "alt": "The grand yellow Flinders Street Station with its big clocks and dome glowing in Melbourne's city centre.",
+      "credit": "Rob Deutscher",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flinders_Street_Station_3.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Flinders_Street_Station_3.jpg"
+    },
+    {
+      "filename": "melbourne-skyline.jpg",
+      "alt": "Melbourne's tall sparkly city skyscrapers seen from across the bay at Port Melbourne.",
+      "credit": "Bob Tan (Wanderingchina)",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Melbourne_city_skyline_from_the_perspective_of_Port_Melbourne.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Melbourne_city_skyline_from_the_perspective_of_Port_Melbourne.jpg"
+    },
+    {
+      "filename": "hosier-lane-street-art.jpg",
+      "alt": "A colourful Melbourne laneway covered in bright street-art paintings and light-box pictures.",
+      "credit": "Alpha (Flickr user avlxyz)",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hosier_Lane_Installations_Melbourne.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Hosier_Lane_Installations_Melbourne.jpg"
+    },
+    {
+      "filename": "melbourne-tram.jpg",
+      "alt": "Two shiny green-and-yellow Melbourne trams gliding down busy Bourke Street in the city.",
+      "credit": "Liamdavies",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:E_6001_and_E_6002_(Melbourne_trams)_in_Bourke_St_on_route_96,_2013.JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/E_6001_and_E_6002_%28Melbourne_trams%29_in_Bourke_St_on_route_96%2C_2013.JPG"
+    },
+    {
+      "filename": "royal-botanic-gardens.jpg",
+      "alt": "The peaceful Ornamental Lake at the Royal Botanic Gardens, with leafy trees reflected in the still water.",
+      "credit": "Rexness (Flickr)",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Late_afternoon_Ornamental_Lake_Royal_Botanical_Gardens_(4343384732).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Late_afternoon_Ornamental_Lake_Royal_Botanical_Gardens_%284343384732%29.jpg"
+    }
+  ],
+  "links": [
+    {"url": "https://www.visitmelbourne.com/", "label": "Visit Melbourne (official tourism)", "description": "Victoria's official travel site with maps, events and family itineraries."},
+    {"url": "https://www.zoo.org.au/melbourne/", "label": "Melbourne Zoo", "description": "Home to 300+ species, the Dino Trail and the Growing Wild kids' zone."},
+    {"url": "https://www.rbg.vic.gov.au/melbourne-gardens/", "label": "Royal Botanic Gardens Victoria", "description": "8,500 plant species and the Ian Potter Children's Garden to explore."},
+    {"url": "https://museumsvictoria.com.au/melbournemuseum/", "label": "Melbourne Museum", "description": "Dinosaur skeletons, a giant rainforest gallery and the Children's Gallery."},
+    {"url": "https://kids.kiddle.co/Melbourne", "label": "Melbourne facts for kids (Kiddle)", "description": "Easy-to-read encyclopedia page with photos and quick facts."},
+    {"url": "https://en.wikipedia.org/wiki/Melbourne", "label": "Melbourne (Wikipedia)", "description": "Background on history, geography, sport and culture for older readers."}
+  ],
+  "sources": [
+    "https://kids.kiddle.co/Melbourne",
+    "https://en.wikipedia.org/wiki/Wurundjeri",
+    "https://en.wikipedia.org/wiki/Melbourne_tram_route_109",
+    "https://www.zoo.org.au/melbourne/",
+    "https://www.rbg.vic.gov.au/melbourne-gardens/",
+    "https://www.visitmelbourne.com/",
+    "https://visitportmelbourne.com/cruise-ship-viewing-in-port-melbourne/"
+  ],
+  "researchedAt": "2026-05-09T11:25:00Z"
+}

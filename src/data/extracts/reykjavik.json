@@ -1,0 +1,81 @@
+{
+  "researchId": "reykjavik",
+  "name": "Reykjavik",
+  "country": "Iceland",
+  "summary": "Reykjavik is the world's northernmost capital city and your gateway to Iceland, the land of fire and ice. Here you can swim in warm geothermal pools, watch geysers shoot boiling water into the sky, chase rainbows over thundering waterfalls, and spot puffins bobbing on the sea. In June and July the sun barely sets, so the sky glows almost all night long.",
+  "funFacts": [
+    "Iceland sits on top of two giant tectonic plates (North American and Eurasian) that are slowly tearing apart by a few millimeters every single year.",
+    "The Strokkur geyser erupts roughly every 6 to 10 minutes, blasting boiling water up to 20 meters (65 feet) high — a natural rocket fountain.",
+    "Iceland is home to more than 130 volcanoes, and around 30 of them are still active, making the island one giant volcanic hotspot.",
+    "Thingvellir National Park hosted the world's first parliament, the Althing, way back in 930 AD — that's almost 1,100 years ago.",
+    "Icelandic horses have five gaits instead of the usual three, including the super-smooth tolt that feels like gliding on a magic carpet."
+  ],
+  "thingsToDo": [
+    "Ride the elevator up Hallgrimskirkja church tower, Iceland's tallest building at 74.5 meters, for sweeping views over Reykjavik's colorful rooftops.",
+    "Take a Golden Circle tour to see Thingvellir's tectonic rift, watch Strokkur geyser explode, and feel Gullfoss waterfall's mighty spray.",
+    "Hop on a whale watching boat from the Old Harbour — over 90% of summer tours spot whales, dolphins, or playful porpoises.",
+    "Explore Harpa concert hall and play with light reflections inside its dazzling honeycomb glass walls overlooking the harbour.",
+    "Float in the milky-blue Blue Lagoon geothermal spa, where steamy mineral water stays warm even when it's snowing outside.",
+    "Visit the Whales of Iceland museum to walk beside life-sized models of 23 whale species, including a giant blue whale."
+  ],
+  "localWord": { "word": "Takk", "meaning": "Thank you" },
+  "images": [
+    {
+      "filename": "hero-hallgrimskirkja.jpg",
+      "alt": "The tall pointy Hallgrimskirkja church in Reykjavik with a Viking statue out front.",
+      "credit": "sergejf (Flickr)",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hallgr%C3%ADmskirkja_(16282067598).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Hallgr%C3%ADmskirkja_%2816282067598%29.jpg"
+    },
+    {
+      "filename": "strokkur-geyser.jpg",
+      "alt": "A giant jet of hot water shooting up from Strokkur geyser in Iceland.",
+      "credit": "Andreas Tille",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Strokkur_geyser_eruption,_close-up_view.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Strokkur_geyser_eruption%2C_close-up_view.jpg"
+    },
+    {
+      "filename": "gullfoss-waterfall.jpg",
+      "alt": "The huge two-step Gullfoss waterfall thundering through an Icelandic canyon.",
+      "credit": "Megan McCormick",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gullfoss,_Iceland.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gullfoss%2C_Iceland.jpg"
+    },
+    {
+      "filename": "icelandic-horse.jpg",
+      "alt": "A fluffy Icelandic horse with a long mane standing in a field.",
+      "credit": "Just chaos (Flickr)",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Icelandic_horse.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Icelandic_horse.jpg"
+    },
+    {
+      "filename": "sun-voyager-sculpture.jpg",
+      "alt": "The shiny silver Sun Voyager sculpture shaped like a Viking ship by the Reykjavik shore.",
+      "credit": "Mario Falcetti",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Islanda-_Reykjav%C3%ADk-_S%C3%B3lfari%C3%B0_(Sun_Voyager).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Islanda-_Reykjav%C3%ADk-_S%C3%B3lfari%C3%B0_%28Sun_Voyager%29.jpg"
+    }
+  ],
+  "links": [
+    { "url": "https://visitreykjavik.is/", "label": "Visit Reykjavik (official)", "description": "The city's official tourism site with maps, family activities, and event listings." },
+    { "url": "https://www.visiticeland.com/", "label": "Visit Iceland (official)", "description": "Iceland's national tourism board covering nature, wildlife, and adventures." },
+    { "url": "https://en.wikipedia.org/wiki/Reykjav%C3%ADk", "label": "Reykjavik on Wikipedia", "description": "Background on the world's northernmost capital, its history, and its people." },
+    { "url": "https://kids.britannica.com/kids/article/Iceland/345874", "label": "Britannica Kids: Iceland", "description": "Kid-friendly article about Iceland's geography, volcanoes, and culture." },
+    { "url": "https://whc.unesco.org/en/list/1152/", "label": "UNESCO: Thingvellir National Park", "description": "Why this rift valley between two continents is a World Heritage Site." },
+    { "url": "https://www.hallgrimskirkja.is/en/", "label": "Hallgrimskirkja Church", "description": "Official site of Reykjavik's iconic tower with viewing platform info." }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Reykjav%C3%ADk",
+    "https://visitreykjavik.is/",
+    "https://www.visiticeland.com/",
+    "https://www.iceland.org/wildlife/icelandic-horse",
+    "https://whc.unesco.org/en/list/1152/",
+    "https://www.horsesoficeland.is/the-icelandic-horse-gaits/"
+  ],
+  "researchedAt": "2026-05-09T13:07:00Z"
+}

@@ -1,0 +1,85 @@
+{
+  "researchId": "isafjordur",
+  "name": "Ísafjörður",
+  "country": "Iceland",
+  "summary": "Isafjordur is the biggest town in Iceland's wild Westfjords, tucked on a narrow sandy spit with steep cliffs towering all around. Arctic foxes prowl nearby wilderness, the thunderous Dynjandi waterfall tumbles like a giant bridal veil, and in summer the sun barely sets at all.",
+  "funFacts": [
+    "The Westfjords sit on Iceland's oldest rocks, around 14 to 16 million years old, formed by ancient volcanoes long before the rest of the island existed.",
+    "The Arctic fox is Iceland's only native land mammal. It walked across the frozen sea from Greenland thousands of years ago, before any people arrived.",
+    "Dynjandi waterfall thunders down 100 metres in a wide, lacy curtain shape. Its name actually means 'thunderous' in Icelandic because of how loudly it roars.",
+    "Isafjordur's tiny airport is one of the trickiest in the world. Pilots must do a sharp turn between mountains seconds before landing, almost like a video game level.",
+    "Hornstrandir, just north of town, was once full of villages but everyone moved away by 1952. Today Arctic foxes rule the empty valleys and abandoned houses."
+  ],
+  "thingsToDo": [
+    "Tour Vigur Island by boat to walk among 100,000 puffins, see Iceland's only windmill, and post a card from Europe's smallest post office.",
+    "Visit the Westfjords Heritage Museum at Nedstikaupstadur, exploring 18th-century timber buildings packed with old fishing boats, diving suits, and 190 accordions.",
+    "Drive about 1.5 hours to Dynjandi waterfall and climb the rocky path past six smaller waterfalls to stand right beside the giant bridal veil.",
+    "Hop through the tunnel to Bolungarvik and meet a guide in lambskin clothing at Osvor Maritime Museum, a replica 1800s fishing camp by the sea.",
+    "Kayak inside the calm fjord with a local guide, spotting jellyfish, seabirds, and maybe seals while mountains rise straight up from the water.",
+    "Eat a famous fish feast at Tjoruhusid restaurant, where servers bring sizzling pans of freshly caught Westfjords fish straight to your wooden table."
+  ],
+  "localWord": {
+    "word": "Halló",
+    "meaning": "Hello",
+    "pronunciation": "HAH-loh"
+  },
+  "images": [
+    {
+      "filename": "hero-isafjordur-aerial.jpg",
+      "alt": "The colourful little town of Ísafjörður tucked under tall mountains beside a calm blue fjord.",
+      "credit": "Evgeniy Metyolkin",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%C3%8Dsafj%C3%B6r%C3%B0ur,_Iceland_-_panoramio_(1).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/%C3%8Dsafj%C3%B6r%C3%B0ur%2C_Iceland_-_panoramio_%281%29.jpg"
+    },
+    {
+      "filename": "dynjandi-waterfall.jpg",
+      "alt": "The huge Dynjandi waterfall tumbling down a mountain like a giant bridal veil.",
+      "credit": "Boaworm",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dynjandi_Iceland.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Dynjandi_Iceland.jpg"
+    },
+    {
+      "filename": "arctic-fox-summer.jpg",
+      "alt": "A fluffy brown Arctic fox standing on Icelandic grass in its summer coat.",
+      "credit": "George C. Tsiagalakis (Gts-tg)",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arctic_fox_during_summer_in_Iceland.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Arctic_fox_during_summer_in_Iceland.jpg"
+    },
+    {
+      "filename": "latrabjarg-cliffs.jpg",
+      "alt": "The towering Látrabjarg sea cliffs, the biggest bird cliffs in the North Atlantic.",
+      "credit": "Walter Sutter (Cherobim)",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Latrabjarg.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Latrabjarg.jpg"
+    },
+    {
+      "filename": "latrabjarg-puffins.jpg",
+      "alt": "Cute puffins and razorbills perched together on the grassy edge of the Látrabjarg cliffs.",
+      "credit": "Richard Gould",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Razorbills_and_Puffins.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Razorbills_and_Puffins.jpg"
+    }
+  ],
+  "links": [
+    { "url": "https://www.westfjords.is/en/destinations/towns/isafjordur", "label": "Visit Westfjords - Isafjordur", "description": "Official Westfjords tourism page about the town, harbour, and family activities." },
+    { "url": "https://en.wikipedia.org/wiki/%C3%8Dsafj%C3%B6r%C3%B0ur", "label": "Wikipedia - Isafjordur", "description": "Background on the town's history, name meaning, climate, and population." },
+    { "url": "https://en.wikipedia.org/wiki/Dynjandi", "label": "Wikipedia - Dynjandi", "description": "Facts about the 100-metre Dynjandi waterfall and the smaller falls below it." },
+    { "url": "https://www.westfjords.is/en/destinations/nature-reserves/hornstrandir-nature-reserve", "label": "Visit Westfjords - Hornstrandir", "description": "Official guide to the abandoned peninsula now home to Iceland's friendliest Arctic foxes." },
+    { "url": "https://www.vigurisland.com/visit", "label": "Vigur Heritage Farm", "description": "Family-run island reserve with puffins, eider ducks, a windmill, and a tiny post office." },
+    { "url": "https://guidetoiceland.is/nature-info/the-arctic-fox", "label": "Guide to Iceland - Arctic Fox", "description": "Kid-friendly facts about Iceland's only native land mammal and where to spot one." }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%8Dsafj%C3%B6r%C3%B0ur",
+    "https://www.westfjords.is/en/destinations/towns/isafjordur",
+    "https://en.wikipedia.org/wiki/Dynjandi",
+    "https://www.westfjords.is/en/destinations/nature-reserves/hornstrandir-nature-reserve",
+    "https://en.wikipedia.org/wiki/Westfjords_Heritage_Museum",
+    "https://en.wikipedia.org/wiki/Arctic_fox"
+  ],
+  "researchedAt": "2026-05-09T13:16:00Z"
+}

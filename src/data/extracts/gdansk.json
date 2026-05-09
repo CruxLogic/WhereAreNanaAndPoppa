@@ -1,0 +1,87 @@
+{
+  "researchId": "gdansk",
+  "name": "Gdansk",
+  "country": "Poland",
+  "summary": "Gdansk is a colourful old harbour city on the Baltic Sea in Poland, famous for golden amber treasure washed up on its beaches. Hundreds of years ago, ships from all over Europe traded here. It's also where Polish workers started a peaceful movement called Solidarity that helped change history.",
+  "funFacts": [
+    "Baltic amber is sticky tree sap that hardened into 'gold of the north' over 40 million years, and sometimes hides ancient insects trapped inside.",
+    "World War II began right here on 1 September 1939 when German guns fired on a tiny Polish base called Westerplatte at the harbour mouth.",
+    "A peaceful workers' movement called Solidarity (Solidarnosc) started at Gdansk's shipyard in August 1980 and grew to over 10 million members.",
+    "Neptune, the bronze sea-god guarding Long Market, has watched over the city since 1617, making him the oldest secular statue in all Poland.",
+    "The giant wooden Gdansk Crane was the largest port crane in medieval Europe — workers walked inside huge wooden wheels to lift heavy cargo onto ships."
+  ],
+  "thingsToDo": [
+    "Catch the SKM commuter train from Gdynia Glowna to Gdansk Glowny — it leaves every 20 minutes and takes about 35 minutes through pretty Tricity scenery.",
+    "Wander Long Market (Dlugi Targ) and pose with Neptune's Fountain in front of the gold-painted town hall and rainbow-coloured merchant houses.",
+    "Hunt for amber treasure on Mariacka Street, a cobbled lane of stone porches and dragon gargoyles where jewellers sell Baltic gold from little stalls.",
+    "Stand under the giant Gdansk Crane (Zuraw) by the Motlawa River and peek inside to see the medieval treadwheels workers once walked in.",
+    "Visit the European Solidarity Centre at the old shipyard gate and see the giant pen Lech Walesa used to sign the famous workers' agreement.",
+    "Take a pirate-style river cruise from the Green Gate to Westerplatte, where the very first shots of World War II were fired in 1939."
+  ],
+  "localWord": {
+    "word": "Czesc",
+    "meaning": "Hi! (a friendly hello to people you know)",
+    "pronunciation": "cheshch"
+  },
+  "images": [
+    {
+      "filename": "long-market-gdansk.jpg",
+      "alt": "The colourful row of tall, gabled merchant houses lining Gdańsk's Long Market square on a sunny day.",
+      "credit": "Nieszka",
+      "license": "CC BY-SA 3.0 PL",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Long_Market_(Dlugi_Targ)_in_Gdansk.JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Long_Market_%28Dlugi_Targ%29_in_Gdansk.JPG"
+    },
+    {
+      "filename": "gdansk-crane-zuraw.jpg",
+      "alt": "The big wooden medieval Gdańsk Crane (Żuraw) standing beside the Motława river.",
+      "credit": "Maciej Rolkowski",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brama_%C5%BBuraw,_Gda%C5%84sk_2021.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Brama_%C5%BBuraw%2C_Gda%C5%84sk_2021.jpg"
+    },
+    {
+      "filename": "mariacka-street.jpg",
+      "alt": "Pretty Mariacka Street in Gdańsk's Old Town, lined with stone porches and amber shops.",
+      "credit": "Michael Caven",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mariacka_Street_in_Gda%C5%84sk.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Mariacka_Street_in_Gda%C5%84sk.jpg"
+    },
+    {
+      "filename": "european-solidarity-centre.jpg",
+      "alt": "The rust-coloured steel walls of the European Solidarity Centre museum in Gdańsk.",
+      "credit": "Gerda Arendt",
+      "license": "CC0 1.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:European_Solidarity_Centre,_Gda%C5%84sk.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/European_Solidarity_Centre%2C_Gda%C5%84sk.jpg"
+    },
+    {
+      "filename": "amber-necklace.jpg",
+      "alt": "A close-up of a golden Baltic amber necklace with smooth honey-coloured beads.",
+      "credit": "Kim Bach",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amber_necklace.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Amber_necklace.jpg"
+    }
+  ],
+  "links": [
+    { "url": "https://visitgdansk.com/en/", "label": "Visit Gdansk (official tourism)", "description": "Official city tourism site with maps, family attractions and event listings." },
+    { "url": "https://www.poland.travel/en/gdansk-and-tricity/", "label": "Poland.travel — Gdansk and Tricity", "description": "Poland's official travel site explaining Gdansk, Sopot and Gdynia together." },
+    { "url": "https://kids.kiddle.co/Gda%C5%84sk", "label": "Kiddle: Gdansk facts for kids", "description": "Easy-reading encyclopedia page written specifically for children." },
+    { "url": "https://en.wikipedia.org/wiki/Gda%C5%84sk_Crane", "label": "Wikipedia: Gdansk Crane (Zuraw)", "description": "How medieval workers used giant treadwheels to lift cargo onto ships." },
+    { "url": "https://muzeum1939.pl/en", "label": "Museum of the Second World War", "description": "Official museum site about the war that began at Westerplatte in 1939." },
+    { "url": "https://ecs.gda.pl/en/", "label": "European Solidarity Centre", "description": "Museum at the shipyard telling the story of Solidarnosc and Lech Walesa." }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gda%C5%84sk",
+    "https://en.wikipedia.org/wiki/Gda%C5%84sk_Crane",
+    "https://en.wikipedia.org/wiki/Baltic_amber",
+    "https://en.wikipedia.org/wiki/Solidarity_(Polish_trade_union)",
+    "https://en.wikipedia.org/wiki/Museum_of_the_Second_World_War",
+    "https://kids.kiddle.co/Gda%C5%84sk",
+    "https://www.poland.travel/en/gdansk-and-tricity/",
+    "https://www.britannica.com/place/Gdansk"
+  ],
+  "researchedAt": "2026-05-09T12:20:00Z"
+}

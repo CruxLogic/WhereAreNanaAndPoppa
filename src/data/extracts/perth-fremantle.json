@@ -1,0 +1,89 @@
+{
+  "researchId": "perth-fremantle",
+  "name": "Fremantle (Perth)",
+  "country": "Australia",
+  "summary": "When your ship ties up at Fremantle, you've arrived at Perth's salty seaside doorway. Wander 'Freo's' old harbour streets, hop a 30-minute train into sunny Perth city, or jump on a fast ferry to Rottnest Island where smiley quokkas live. One day, three big choices!",
+  "funFacts": [
+    "Rottnest Island is home to about 10,000 quokkas, fluffy hopping marsupials famous as the world's happiest-looking animal and superstars of selfies.",
+    "Fremantle Prison was built by convicts in the 1850s using their own hands, and bad guys were locked inside for 136 years until 1991.",
+    "Perth is Australia's sunniest capital city, basking in roughly 3,200 hours of sunshine and almost 139 totally clear days every year.",
+    "The Swan River got its name from Dutch sailors in 1697 who were astonished to spot black swans there, instead of white ones like back home.",
+    "Just south of Fremantle, Penguin Island shelters around 200 wild bottlenose dolphins offshore plus a colony of tiny Little Penguins that come ashore at night."
+  ],
+  "thingsToDo": [
+    "Climb aboard the HMAS Ovens submarine at the WA Maritime Museum in Fremantle and squeeze through narrow hatches like a real Cold War sailor.",
+    "Take the 'Escape from Fremantle Prison' kids tour, helping cheeky Moondyne Joe Junior plot a getaway through the convict-built corridors.",
+    "Catch the fast Rottnest Express ferry from Fremantle, hire bikes on the island, and try snapping a respectful quokka selfie from two metres away.",
+    "Hop the Transperth Fremantle Line train 30 minutes into Perth, then ride the elevator up Kings Park's treetop walkway for huge Swan River views.",
+    "Browse the buzzing Fremantle Markets for snacks, magic tricks and street performers, then climb the spinning Fremantle Tourist Wheel by Esplanade Park.",
+    "Visit the historic Round House (1831) at the top of Arthur Head and watch the One O'Clock Gun thunder out across the Indian Ocean."
+  ],
+  "localWord": {
+    "word": "Kaya",
+    "meaning": "'Hello' in the Noongar language, spoken by the Whadjuk people who have cared for the Perth and Fremantle area for tens of thousands of years.",
+    "pronunciation": "KY-ah"
+  },
+  "images": [
+    {
+      "filename": "perth-skyline-elizabeth-quay.jpg",
+      "alt": "Perth's shiny city skyline rises above the Swan River at Elizabeth Quay.",
+      "credit": "Samuel Wiki",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elizabeth_Quay_February_2016_(cropped).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Elizabeth_Quay_February_2016_%28cropped%29.jpg"
+    },
+    {
+      "filename": "fremantle-harbour-cruise-ships.jpg",
+      "alt": "Three big cruise ships are docked side by side at Fremantle's busy harbour.",
+      "credit": "Gnangarra",
+      "license": "CC BY 2.5 AU",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:3_cruiseships_freo_harbour_gnangarra-100.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/3_cruiseships_freo_harbour_gnangarra-100.jpg"
+    },
+    {
+      "filename": "fremantle-prison-gatehouse.jpg",
+      "alt": "The tall stone gatehouse of historic Fremantle Prison stands under a bright blue sky.",
+      "credit": "Silver Birch Golden Wattle",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fremantle_Prison_Gatehouse.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Fremantle_Prison_Gatehouse.jpg"
+    },
+    {
+      "filename": "rottnest-quokka-selfie.jpg",
+      "alt": "A smiling little quokka peeks up close at the camera on Rottnest Island.",
+      "credit": "Drbethsnow",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quokka_selfie.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Quokka_selfie.jpg"
+    },
+    {
+      "filename": "cottesloe-beach.jpg",
+      "alt": "Soft white sand and turquoise waves stretch along sunny Cottesloe Beach.",
+      "credit": "Bram Souffreau",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cottesloe_beach.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Cottesloe_beach.jpg"
+    }
+  ],
+  "links": [
+    { "url": "https://www.visitfremantle.com.au/explore/things-to-do/families", "label": "Visit Fremantle - Things to do with kids", "description": "Official Fremantle visitor site with family-friendly playgrounds, beaches and markets." },
+    { "url": "https://www.rottnestisland.com/", "label": "Rottnest Island Authority", "description": "Official site for ferries, bikes and meeting the famous quokkas." },
+    { "url": "https://fremantleprison.com.au/tours/", "label": "Fremantle Prison Tours", "description": "World Heritage convict prison with a kid-friendly Escape Tour for ages 5-12." },
+    { "url": "https://visit.museum.wa.gov.au/maritime", "label": "WA Maritime Museum", "description": "Big harbour-side museum where you can tour the HMAS Ovens submarine." },
+    { "url": "https://kids.kiddle.co/Perth", "label": "Perth facts for kids (Kiddle)", "description": "Kid-friendly encyclopaedia page on Perth, Western Australia's sunny capital." },
+    { "url": "https://www.bgpa.wa.gov.au/kings-park", "label": "Kings Park & Botanic Garden", "description": "400-hectare park overlooking Perth city, with playgrounds and a treetop walkway." }
+  ],
+  "sources": [
+    "https://www.visitfremantle.com.au/explore/things-to-do/families",
+    "https://www.westernaustralia.com/us/plan-my-trip/planning-tools/travel-stories/its-baby-quokka-season-and-youre-invited",
+    "https://fremantleprison.com.au/tours/tour-prices/",
+    "https://visit.museum.wa.gov.au/maritime/hmas-ovens",
+    "https://en.wikipedia.org/wiki/Perth",
+    "https://en.wikipedia.org/wiki/Swan_River_(Western_Australia)",
+    "https://en.wikipedia.org/wiki/Whadjuk",
+    "https://www.fremantle.wa.gov.au/page/welcome-country",
+    "https://noongarlanguage.com.au/",
+    "https://kids.kiddle.co/Perth"
+  ],
+  "researchedAt": "2026-05-09T11:35:00Z"
+}

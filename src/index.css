@@ -1,0 +1,167 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --sky-high: #29355A;
+  --sky-mid-1: #6B6E8C;
+  --sky-mid-2: #B89A95;
+  --sky-peach: #E8B69A;
+  --sky-glow: #F2D2AE;
+  --sky-cream: #F7E9CE;
+  --ink: #1B2A4E;
+  --ocean-deep: #1F3142;
+  --ocean: #355068;
+  --ocean-lit: #6E94AE;
+  --earth-sienna: #B88A5E;
+  --earth-olive: #9AA374;
+  --earth-ochre: #D4B271;
+  --vermillion: #C4452F;
+  --vermillion-glow: #E07A65;
+  --parchment: #F5EBD8;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+}
+
+body {
+  font-family: "Newsreader", Georgia, serif;
+  font-feature-settings: "liga" 1, "kern" 1, "onum" 1;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  color: var(--ink);
+  background: var(--sky-high);
+}
+
+/* Dawn sky — vertical gradient that fills the whole viewport */
+.dawn-sky {
+  background:
+    radial-gradient(
+      120% 90% at 78% 22%,
+      rgba(255, 230, 195, 0.55) 0%,
+      rgba(255, 230, 195, 0) 45%
+    ),
+    linear-gradient(
+      to bottom,
+      var(--sky-high) 0%,
+      var(--sky-mid-1) 18%,
+      var(--sky-mid-2) 38%,
+      var(--sky-peach) 58%,
+      var(--sky-glow) 78%,
+      var(--sky-cream) 100%
+    );
+}
+
+/* Faint stars in the upper sky */
+.dawn-sky::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background-image:
+    radial-gradient(1px 1px at 12% 8%, rgba(255, 240, 220, 0.55), transparent 60%),
+    radial-gradient(1px 1px at 28% 14%, rgba(255, 240, 220, 0.4), transparent 60%),
+    radial-gradient(1px 1px at 44% 6%, rgba(255, 240, 220, 0.6), transparent 60%),
+    radial-gradient(1px 1px at 62% 11%, rgba(255, 240, 220, 0.35), transparent 60%),
+    radial-gradient(1px 1px at 76% 4%, rgba(255, 240, 220, 0.5), transparent 60%),
+    radial-gradient(1px 1px at 88% 16%, rgba(255, 240, 220, 0.45), transparent 60%),
+    radial-gradient(1px 1px at 35% 22%, rgba(255, 240, 220, 0.3), transparent 60%),
+    radial-gradient(1px 1px at 58% 26%, rgba(255, 240, 220, 0.25), transparent 60%);
+  mask-image: linear-gradient(to bottom, black 0%, black 30%, transparent 55%);
+  -webkit-mask-image: linear-gradient(to bottom, black 0%, black 30%, transparent 55%);
+}
+
+/* Subtle paper grain over everything for warmth */
+.dawn-sky::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.06;
+  mix-blend-mode: multiply;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='240'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0.1 0 0 0 0 0.05 0 0 0 0 0 0 0 0 0.7 0'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+}
+
+/* Newsreader display tuning */
+.display {
+  font-family: "Newsreader", Georgia, serif;
+  font-optical-sizing: auto;
+  font-feature-settings: "ss01" 1, "ss02" 1;
+}
+
+.tracker {
+  font-family: "JetBrains Mono", monospace;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+/* Marker reveal stagger (set --i index inline) */
+@keyframes marker-pop {
+  0% { transform: scale(0); opacity: 0; }
+  60% { transform: scale(1.18); opacity: 1; }
+  100% { transform: scale(1); opacity: 1; }
+}
+.marker-pop {
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: marker-pop 520ms cubic-bezier(0.34, 1.56, 0.64, 1) backwards;
+}
+
+/* Today marker pulse */
+@keyframes today-pulse {
+  0%, 100% { r: 6; opacity: 0.9; }
+  50% { r: 14; opacity: 0; }
+}
+.today-pulse {
+  animation: today-pulse 2.4s ease-out infinite;
+  transform-origin: center;
+}
+
+/* Route arc draw on load */
+@keyframes route-draw {
+  from { stroke-dashoffset: var(--len, 4000); }
+  to { stroke-dashoffset: 0; }
+}
+.route-draw {
+  stroke-dasharray: var(--len, 4000);
+  animation: route-draw 2400ms cubic-bezier(0.4, 0, 0.2, 1) backwards;
+}
+
+/* Panel slide-in */
+@keyframes panel-in {
+  from { transform: translateX(110%); }
+  to { transform: translateX(0); }
+}
+.panel-in {
+  animation: panel-in 420ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+/* Title rise */
+@keyframes rise {
+  from { transform: translateY(8px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+.rise { animation: rise 700ms cubic-bezier(0.16, 1, 0.3, 1) backwards; }
+
+/* Reduce motion */
+@media (prefers-reduced-motion: reduce) {
+  .marker-pop,
+  .today-pulse,
+  .route-draw,
+  .panel-in,
+  .rise {
+    animation: none !important;
+  }
+}
+
+/* Scrollbar in timeline */
+.timeline-scroll {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.timeline-scroll::-webkit-scrollbar { display: none; }

@@ -1,0 +1,671 @@
+[
+  {
+    "id": "auckland-start",
+    "name": "Auckland",
+    "country": "New Zealand",
+    "coords": [
+      -36.8485,
+      174.7633
+    ],
+    "arrivalDate": "2026-05-06",
+    "departureDate": "2026-05-06",
+    "departureTime": "22:00",
+    "stopType": "homePort",
+    "notes": "Queens Wharf, Shed 10, 99 Quay Street"
+  },
+  {
+    "id": "sydney-australia",
+    "name": "Sydney",
+    "country": "Australia",
+    "coords": [
+      -33.8688,
+      151.2093
+    ],
+    "arrivalDate": "2026-05-10",
+    "departureDate": "2026-05-10",
+    "arrivalTime": "06:00",
+    "departureTime": "18:00",
+    "stopType": "port",
+    "notes": "Overseas Passenger Terminal"
+  },
+  {
+    "id": "melbourne",
+    "name": "Melbourne",
+    "country": "Australia",
+    "coords": [
+      -37.8136,
+      144.9631
+    ],
+    "arrivalDate": "2026-05-12",
+    "departureDate": "2026-05-12",
+    "arrivalTime": "09:00",
+    "departureTime": "21:00",
+    "stopType": "port",
+    "notes": "Station Pier"
+  },
+  {
+    "id": "adelaide",
+    "name": "Adelaide",
+    "country": "Australia",
+    "coords": [
+      -34.9285,
+      138.6007
+    ],
+    "arrivalDate": "2026-05-14",
+    "departureDate": "2026-05-14",
+    "arrivalTime": "07:00",
+    "departureTime": "16:00",
+    "stopType": "port",
+    "notes": "Adelaide Cruise Terminal"
+  },
+  {
+    "id": "perth-fremantle",
+    "name": "Perth (Fremantle)",
+    "country": "Australia",
+    "coords": [
+      -32.0569,
+      115.7474
+    ],
+    "arrivalDate": "2026-05-18",
+    "departureDate": "2026-05-18",
+    "arrivalTime": "08:00",
+    "departureTime": "17:00",
+    "stopType": "port",
+    "notes": "Fremantle"
+  },
+  {
+    "id": "port-louis",
+    "name": "Port Louis",
+    "country": "Mauritius",
+    "coords": [
+      -20.1619,
+      57.4989
+    ],
+    "arrivalDate": "2026-05-26",
+    "departureDate": "2026-05-26",
+    "arrivalTime": "08:00",
+    "departureTime": "17:00",
+    "stopType": "port"
+  },
+  {
+    "id": "cape-town",
+    "name": "Cape Town",
+    "country": "South Africa",
+    "coords": [
+      -33.9249,
+      18.4241
+    ],
+    "arrivalDate": "2026-06-01",
+    "departureDate": "2026-06-02",
+    "arrivalTime": "07:00",
+    "departureTime": "18:00",
+    "stopType": "port",
+    "notes": "Overnight"
+  },
+  {
+    "id": "walvis-bay",
+    "name": "Walvis Bay",
+    "country": "Namibia",
+    "coords": [
+      -22.9576,
+      14.5053
+    ],
+    "arrivalDate": "2026-06-04",
+    "departureDate": "2026-06-04",
+    "arrivalTime": "09:00",
+    "departureTime": "18:00",
+    "stopType": "port"
+  },
+  {
+    "id": "mindelo",
+    "name": "Mindelo",
+    "country": "Cape Verde",
+    "coords": [
+      16.8901,
+      -24.9819
+    ],
+    "arrivalDate": "2026-06-12",
+    "departureDate": "2026-06-12",
+    "arrivalTime": "09:00",
+    "departureTime": "17:30",
+    "stopType": "scenic",
+    "notes": "Scenic stop"
+  },
+  {
+    "id": "gran-canaria-las-palmas",
+    "name": "Gran Canaria (Las Palmas)",
+    "country": "Spain",
+    "coords": [
+      28.1235,
+      -15.4363
+    ],
+    "arrivalDate": "2026-06-15",
+    "departureDate": "2026-06-15",
+    "arrivalTime": "07:00",
+    "departureTime": "16:00",
+    "stopType": "port"
+  },
+  {
+    "id": "casablanca",
+    "name": "Casablanca",
+    "country": "Morocco",
+    "coords": [
+      33.5731,
+      -7.5898
+    ],
+    "arrivalDate": "2026-06-17",
+    "departureDate": "2026-06-17",
+    "arrivalTime": "07:00",
+    "departureTime": "20:00",
+    "stopType": "port",
+    "notes": "For Marrakech"
+  },
+  {
+    "id": "la-coruna",
+    "name": "La Coruna",
+    "country": "Spain",
+    "coords": [
+      43.3623,
+      -8.4115
+    ],
+    "arrivalDate": "2026-06-19",
+    "departureDate": "2026-06-19",
+    "arrivalTime": "08:00",
+    "departureTime": "17:00",
+    "stopType": "port",
+    "notes": "For Santiago De Compostela"
+  },
+  {
+    "id": "le-havre",
+    "name": "Le Havre",
+    "country": "France",
+    "coords": [
+      49.4938,
+      0.1077
+    ],
+    "arrivalDate": "2026-06-21",
+    "departureDate": "2026-06-21",
+    "arrivalTime": "07:00",
+    "departureTime": "19:30",
+    "stopType": "port",
+    "notes": "For Paris/Normandy"
+  },
+  {
+    "id": "zeebrugge",
+    "name": "Zeebrugge",
+    "country": "Belgium",
+    "coords": [
+      51.3299,
+      3.2089
+    ],
+    "arrivalDate": "2026-06-22",
+    "departureDate": "2026-06-22",
+    "arrivalTime": "09:00",
+    "departureTime": "18:00",
+    "stopType": "port",
+    "notes": "For Brussels/Bruges"
+  },
+  {
+    "id": "gdansk",
+    "name": "Gdansk",
+    "country": "Poland",
+    "coords": [
+      54.5189,
+      18.5305
+    ],
+    "arrivalDate": "2026-06-25",
+    "departureDate": "2026-06-25",
+    "arrivalTime": "08:30",
+    "departureTime": "18:30",
+    "stopType": "port",
+    "notes": "Gdynia"
+  },
+  {
+    "id": "visby",
+    "name": "Visby",
+    "country": "Sweden",
+    "coords": [
+      57.6348,
+      18.2948
+    ],
+    "arrivalDate": "2026-06-26",
+    "departureDate": "2026-06-26",
+    "arrivalTime": "08:00",
+    "departureTime": "16:00",
+    "stopType": "port"
+  },
+  {
+    "id": "helsinki",
+    "name": "Helsinki",
+    "country": "Finland",
+    "coords": [
+      60.1699,
+      24.9384
+    ],
+    "arrivalDate": "2026-06-27",
+    "departureDate": "2026-06-27",
+    "arrivalTime": "10:00",
+    "departureTime": "21:00",
+    "stopType": "port"
+  },
+  {
+    "id": "tallinn",
+    "name": "Tallinn",
+    "country": "Estonia",
+    "coords": [
+      59.437,
+      24.7536
+    ],
+    "arrivalDate": "2026-06-28",
+    "departureDate": "2026-06-28",
+    "arrivalTime": "07:00",
+    "departureTime": "16:00",
+    "stopType": "port"
+  },
+  {
+    "id": "stockholm",
+    "name": "Stockholm",
+    "country": "Sweden",
+    "coords": [
+      59.3293,
+      18.0686
+    ],
+    "arrivalDate": "2026-06-29",
+    "departureDate": "2026-06-29",
+    "arrivalTime": "07:00",
+    "departureTime": "16:00",
+    "stopType": "port"
+  },
+  {
+    "id": "copenhagen",
+    "name": "Copenhagen",
+    "country": "Denmark",
+    "coords": [
+      55.6761,
+      12.5683
+    ],
+    "arrivalDate": "2026-07-01",
+    "departureDate": "2026-07-01",
+    "arrivalTime": "10:00",
+    "departureTime": "21:00",
+    "stopType": "port"
+  },
+  {
+    "id": "amsterdam",
+    "name": "Amsterdam",
+    "country": "Netherlands",
+    "coords": [
+      52.4607,
+      4.5683
+    ],
+    "arrivalDate": "2026-07-03",
+    "departureDate": "2026-07-03",
+    "arrivalTime": "07:00",
+    "departureTime": "18:00",
+    "stopType": "port",
+    "notes": "IJmuiden"
+  },
+  {
+    "id": "dover",
+    "name": "Dover",
+    "country": "United Kingdom",
+    "coords": [
+      51.1279,
+      1.3134
+    ],
+    "arrivalDate": "2026-07-04",
+    "departureDate": "2026-07-04",
+    "arrivalTime": "04:00",
+    "departureTime": "21:00",
+    "stopType": "port",
+    "notes": "For London"
+  },
+  {
+    "id": "shetland-islands",
+    "name": "Shetland Islands",
+    "country": "United Kingdom",
+    "coords": [
+      60.1546,
+      -1.1494
+    ],
+    "arrivalDate": "2026-07-06",
+    "departureDate": "2026-07-06",
+    "arrivalTime": "07:00",
+    "departureTime": "16:00",
+    "stopType": "port",
+    "notes": "Lerwick, Water Shuttle Required"
+  },
+  {
+    "id": "reykjavik",
+    "name": "Reykjavik",
+    "country": "Iceland",
+    "coords": [
+      64.1466,
+      -21.9426
+    ],
+    "arrivalDate": "2026-07-08",
+    "departureDate": "2026-07-08",
+    "arrivalTime": "10:00",
+    "departureTime": "21:00",
+    "stopType": "port"
+  },
+  {
+    "id": "grundarfjordur",
+    "name": "Grundarfjordur",
+    "country": "Iceland",
+    "coords": [
+      64.9226,
+      -23.2531
+    ],
+    "arrivalDate": "2026-07-09",
+    "departureDate": "2026-07-09",
+    "arrivalTime": "07:00",
+    "departureTime": "18:00",
+    "stopType": "port",
+    "notes": "Water Shuttle Required"
+  },
+  {
+    "id": "isafjordur",
+    "name": "Isafjordur",
+    "country": "Iceland",
+    "coords": [
+      66.075,
+      -23.1233
+    ],
+    "arrivalDate": "2026-07-10",
+    "departureDate": "2026-07-10",
+    "arrivalTime": "08:00",
+    "departureTime": "18:00",
+    "stopType": "port",
+    "notes": "Wheelchair Access Limited"
+  },
+  {
+    "id": "st-johns",
+    "name": "St. John's",
+    "country": "Canada",
+    "coords": [
+      47.5615,
+      -52.7126
+    ],
+    "arrivalDate": "2026-07-14",
+    "departureDate": "2026-07-14",
+    "arrivalTime": "08:00",
+    "departureTime": "18:00",
+    "stopType": "port"
+  },
+  {
+    "id": "corner-brook",
+    "name": "Corner Brook",
+    "country": "Canada",
+    "coords": [
+      48.9492,
+      -57.9525
+    ],
+    "arrivalDate": "2026-07-16",
+    "departureDate": "2026-07-16",
+    "arrivalTime": "08:00",
+    "departureTime": "17:00",
+    "stopType": "port"
+  },
+  {
+    "id": "quebec-city",
+    "name": "Quebec City",
+    "country": "Canada",
+    "coords": [
+      46.8139,
+      -71.208
+    ],
+    "arrivalDate": "2026-07-18",
+    "departureDate": "2026-07-19",
+    "arrivalTime": "09:00",
+    "departureTime": "19:00",
+    "stopType": "port",
+    "notes": "Overnight"
+  },
+  {
+    "id": "saguenay",
+    "name": "Saguenay",
+    "country": "Canada",
+    "coords": [
+      48.428,
+      -71.0683
+    ],
+    "arrivalDate": "2026-07-20",
+    "departureDate": "2026-07-20",
+    "arrivalTime": "07:00",
+    "departureTime": "17:00",
+    "stopType": "port"
+  },
+  {
+    "id": "charlottetown",
+    "name": "Charlottetown",
+    "country": "Canada",
+    "coords": [
+      46.2382,
+      -63.1311
+    ],
+    "arrivalDate": "2026-07-22",
+    "departureDate": "2026-07-22",
+    "arrivalTime": "09:00",
+    "departureTime": "18:00",
+    "stopType": "port"
+  },
+  {
+    "id": "sydney-nova-scotia",
+    "name": "Sydney",
+    "country": "Canada",
+    "coords": [
+      46.1351,
+      -60.1831
+    ],
+    "arrivalDate": "2026-07-23",
+    "departureDate": "2026-07-23",
+    "arrivalTime": "08:00",
+    "departureTime": "17:00",
+    "stopType": "port"
+  },
+  {
+    "id": "halifax",
+    "name": "Halifax",
+    "country": "Canada",
+    "coords": [
+      44.6488,
+      -63.5752
+    ],
+    "arrivalDate": "2026-07-24",
+    "departureDate": "2026-07-24",
+    "arrivalTime": "09:00",
+    "departureTime": "18:00",
+    "stopType": "port"
+  },
+  {
+    "id": "new-york-city",
+    "name": "New York City",
+    "country": "United States",
+    "coords": [
+      40.7128,
+      -74.006
+    ],
+    "arrivalDate": "2026-07-26",
+    "departureDate": "2026-07-27",
+    "arrivalTime": "07:00",
+    "departureTime": "18:00",
+    "stopType": "port",
+    "notes": "Manhattan or Brooklyn, Overnight"
+  },
+  {
+    "id": "miami",
+    "name": "Miami",
+    "country": "United States",
+    "coords": [
+      25.7617,
+      -80.1918
+    ],
+    "arrivalDate": "2026-07-30",
+    "departureDate": "2026-07-30",
+    "arrivalTime": "07:00",
+    "departureTime": "16:00",
+    "stopType": "port"
+  },
+  {
+    "id": "cartagena",
+    "name": "Cartagena",
+    "country": "Colombia",
+    "coords": [
+      10.391,
+      -75.4794
+    ],
+    "arrivalDate": "2026-08-02",
+    "departureDate": "2026-08-02",
+    "arrivalTime": "07:00",
+    "departureTime": "15:00",
+    "stopType": "port"
+  },
+  {
+    "id": "panama-canal",
+    "name": "Panama Canal",
+    "country": "Panama",
+    "coords": [
+      9.082,
+      -79.771
+    ],
+    "arrivalDate": "2026-08-03",
+    "departureDate": "2026-08-03",
+    "arrivalTime": "06:00",
+    "departureTime": "18:00",
+    "stopType": "scenic",
+    "notes": "Full Transit New Locks, Scenic Cruising"
+  },
+  {
+    "id": "manta",
+    "name": "Manta",
+    "country": "Ecuador",
+    "coords": [
+      -0.9677,
+      -80.7089
+    ],
+    "arrivalDate": "2026-08-05",
+    "departureDate": "2026-08-05",
+    "arrivalTime": "05:00",
+    "departureTime": "18:00",
+    "stopType": "port"
+  },
+  {
+    "id": "lima",
+    "name": "Lima",
+    "country": "Peru",
+    "coords": [
+      -12.0464,
+      -77.1428
+    ],
+    "arrivalDate": "2026-08-08",
+    "departureDate": "2026-08-09",
+    "arrivalTime": "05:00",
+    "departureTime": "18:00",
+    "stopType": "port",
+    "notes": "Callao, Overnight"
+  },
+  {
+    "id": "pisco",
+    "name": "Pisco",
+    "country": "Peru",
+    "coords": [
+      -13.715,
+      -76.2178
+    ],
+    "arrivalDate": "2026-08-10",
+    "departureDate": "2026-08-10",
+    "arrivalTime": "07:00",
+    "departureTime": "16:00",
+    "stopType": "port",
+    "notes": "General San Martin"
+  },
+  {
+    "id": "easter-island",
+    "name": "Easter Island",
+    "country": "Chile",
+    "coords": [
+      -27.1127,
+      -109.3497
+    ],
+    "arrivalDate": "2026-08-15",
+    "departureDate": "2026-08-15",
+    "arrivalTime": "07:00",
+    "departureTime": "18:00",
+    "stopType": "port",
+    "notes": "Water Shuttle Required, Wheelchair Access Limited"
+  },
+  {
+    "id": "pitcairn-island",
+    "name": "Pitcairn Island",
+    "country": "United Kingdom",
+    "coords": [
+      -25.0664,
+      -130.1015
+    ],
+    "arrivalDate": "2026-08-18",
+    "departureDate": "2026-08-18",
+    "arrivalTime": "08:00",
+    "departureTime": "12:00",
+    "stopType": "scenic",
+    "notes": "Scenic Cruising"
+  },
+  {
+    "id": "papeete",
+    "name": "Papeete",
+    "country": "French Polynesia",
+    "coords": [
+      -17.5516,
+      -149.5585
+    ],
+    "arrivalDate": "2026-08-21",
+    "departureDate": "2026-08-21",
+    "arrivalTime": "08:00",
+    "departureTime": "23:00",
+    "stopType": "port"
+  },
+  {
+    "id": "moorea",
+    "name": "Moorea",
+    "country": "French Polynesia",
+    "coords": [
+      -17.5388,
+      -149.8295
+    ],
+    "arrivalDate": "2026-08-22",
+    "departureDate": "2026-08-22",
+    "arrivalTime": "08:00",
+    "departureTime": "18:00",
+    "stopType": "port",
+    "notes": "Water Shuttle Required, Wheelchair Access Limited"
+  },
+  {
+    "id": "cross-international-date-line",
+    "name": "Cross International Date Line",
+    "country": "International Date Line",
+    "coords": [
+      -26,
+      180
+    ],
+    "arrivalDate": "2026-08-25",
+    "departureDate": "2026-08-25",
+    "arrivalTime": "12:00",
+    "departureTime": "13:00",
+    "stopType": "dateline",
+    "notes": "Cross Int’L Dateline"
+  },
+  {
+    "id": "auckland-finish",
+    "name": "Auckland",
+    "country": "New Zealand",
+    "coords": [
+      -36.8485,
+      174.7633
+    ],
+    "arrivalDate": "2026-08-29",
+    "departureDate": "2026-08-29",
+    "arrivalTime": "07:00",
+    "stopType": "homePort",
+    "notes": "Queens Wharf, Shed 10, 99 Quay Street"
+  }
+]

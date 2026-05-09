@@ -1,0 +1,86 @@
+{
+  "researchId": "mindelo",
+  "name": "Mindelo",
+  "country": "Cape Verde",
+  "summary": "Mindelo is a colorful port town on São Vicente, a volcanic island in Cabo Verde, off west Africa. People speak Portuguese and Kriolu, sing soulful songs called morna, and look out across a bright blue bay at Monte Cara, a mountain shaped like a giant sleeping face.",
+  "funFacts": [
+    "Mindelo's most famous singer, Cesária Évora, was called the Barefoot Diva because she always performed without shoes, just like she did as a kid.",
+    "Across the bay stands Monte Cara, a 490-metre volcanic peak whose ridges look exactly like a human face gazing up at the sky.",
+    "Every February, Mindelo throws Cape Verde's biggest Carnival, with feathered costumes, drumming bands, and a special children's parade through the streets.",
+    "Cabo Verde is ten volcanic islands that popped up from the Atlantic Ocean, and nobody lived on São Vicente at all until the 1790s.",
+    "Morna, the slow guitar music born in Mindelo, was added to UNESCO's list of world cultural treasures in 2019."
+  ],
+  "thingsToDo": [
+    "Stroll ten minutes from the cruise terminal to Praça Nova, the leafy main square where local families meet under tall trees and pastel buildings.",
+    "Wander the colorful Mercado Municipal to spot tropical fruit, fresh fish, and chatty vendors selling spices in a pretty pink-and-yellow building.",
+    "Visit the Cesária Évora Museum to see the Barefoot Diva's sparkly dresses, photos, and awards inside an old colonial mansion.",
+    "Dig your toes into the soft golden sand at Praia da Laginha, a calm city beach a short walk from where the cruise ship docks.",
+    "Find the giant Cesária Évora mural and look across Porto Grande Bay for the best photo of Monte Cara's sleeping-giant face.",
+    "Catch the one-hour ferry to neighboring Santo Antão island for a quick glimpse of dramatic green mountain peaks and winding coastal roads."
+  ],
+  "localWord": {
+    "word": "Tud dret?",
+    "meaning": "A friendly Kriolu greeting meaning 'Everything all right?' that people say all day long.",
+    "pronunciation": "tood dret"
+  },
+  "images": [
+    {
+      "filename": "hero-porto-grande-monte-cara.jpg",
+      "alt": "View across Porto Grande Bay in Mindelo with the Monte Cara mountain rising on the far shore.",
+      "credit": "Henryk Kotowski",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mindelo_och_portogrande.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Mindelo_och_portogrande.jpg"
+    },
+    {
+      "filename": "praca-nova-mindelo.jpg",
+      "alt": "Praça Nova, the leafy main square in the heart of Mindelo where families gather under the trees.",
+      "credit": "Manuel de Sousa",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Praca_Nova_(S_Vicente,_Cabo_Verde).JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Praca_Nova_%28S_Vicente%2C_Cabo_Verde%29.JPG"
+    },
+    {
+      "filename": "mindelo-colonial-building.jpg",
+      "alt": "A bright, colourful old colonial building on a Mindelo street showing the town's Portuguese-era architecture.",
+      "credit": "Capewhere",
+      "license": "Public Domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mindelo_colonial1.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Mindelo_colonial1.jpg"
+    },
+    {
+      "filename": "praia-da-laginha-beach.jpg",
+      "alt": "Praia da Laginha, Mindelo's golden city beach with calm turquoise water perfect for a swim.",
+      "credit": "Kisoliveira",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Praia_da_Laginha_-_Mindelo_-_S%C3%A3o_Vicente_-_Cabo_Verde.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Praia_da_Laginha_-_Mindelo_-_S%C3%A3o_Vicente_-_Cabo_Verde.jpg"
+    },
+    {
+      "filename": "casa-cesaria-evora.jpg",
+      "alt": "The blue-painted house of famous Cape Verdean singer Cesária Évora, a much-loved Mindelo landmark.",
+      "credit": "Joehawkins",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Casa_Ces%C3%A1ria_%C3%89vora,_Nov.2022.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Casa_Ces%C3%A1ria_%C3%89vora%2C_Nov.2022.jpg"
+    }
+  ],
+  "links": [
+    { "url": "https://en.wikipedia.org/wiki/Mindelo", "label": "Wikipedia: Mindelo", "description": "Background on the town's history, port, and culture." },
+    { "url": "https://en.wikipedia.org/wiki/S%C3%A3o_Vicente,_Cape_Verde", "label": "Wikipedia: São Vicente island", "description": "Facts about the volcanic island Mindelo sits on." },
+    { "url": "https://en.wikipedia.org/wiki/Monte_Cara", "label": "Wikipedia: Monte Cara", "description": "The face-shaped mountain across the bay." },
+    { "url": "https://www.britannica.com/place/Mindelo", "label": "Britannica: Mindelo", "description": "Short encyclopedia entry on the port city." },
+    { "url": "https://cabo-verde.cv/cesaria-evora-the-queen-of-morna/", "label": "Cabo Verde Tourism: Cesária Évora", "description": "Official tourism page about the Barefoot Diva." },
+    { "url": "https://www.saovicentecarnival.com/", "label": "São Vicente Carnival", "description": "Official site for Mindelo's huge yearly Carnival." }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mindelo",
+    "https://en.wikipedia.org/wiki/S%C3%A3o_Vicente,_Cape_Verde",
+    "https://en.wikipedia.org/wiki/Monte_Cara",
+    "https://en.wikipedia.org/wiki/Ces%C3%A1ria_%C3%89vora",
+    "https://en.wikipedia.org/wiki/Cape_Verdean_Creole",
+    "https://www.britannica.com/place/Mindelo",
+    "https://cabo-verde.cv/cesaria-evora-the-queen-of-morna/"
+  ],
+  "researchedAt": "2026-05-09T11:53:00Z"
+}

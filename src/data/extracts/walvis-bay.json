@@ -1,0 +1,88 @@
+{
+  "researchId": "walvis-bay",
+  "name": "Walvis Bay",
+  "country": "Namibia",
+  "summary": "Walvis Bay is a Namibian port where pink flamingos wade in a giant lagoon and the world's oldest desert crashes right into the Atlantic Ocean. Towering orange dunes meet cold blue waves, fog rolls in to water tiny beetles and ancient plants, and the German seaside town of Swakopmund sits just up the road.",
+  "funFacts": [
+    "Up to 162,000 birds gather at Walvis Bay's lagoon, and most of southern Africa's pink flamingos spend winter wading in the salty pools here.",
+    "The Namib is probably the oldest desert on Earth, baking under the sun for around 55 to 80 million years, way before humans existed.",
+    "At Sandwich Harbour, some of the planet's tallest sand dunes tumble straight into the cold Atlantic Ocean, a sight you can barely see anywhere else.",
+    "Thick coastal fog rolls in over 180 days a year, and clever beetles do headstands so droplets slide down their backs into their mouths.",
+    "The weird welwitschia plant grows only two leaves its whole life, drinks fog through them, and some are over 2,000 years old."
+  ],
+  "thingsToDo": [
+    "Walk along Walvis Bay Lagoon at sunrise to spot thousands of greater and lesser flamingos turning the shoreline a wobbly shade of pink.",
+    "Hop on a catamaran cruise into the bay to meet curious dolphins and friendly Cape fur seals that pop up beside the boat at Pelican Point.",
+    "Buckle into a 4x4 Sandwich Harbour adventure where guides drive you up giant dunes that drop straight down into crashing Atlantic waves.",
+    "Climb Dune 7, one of the world's tallest coastal dunes at 132 metres, then zoom back down on a sandboard or quad bike.",
+    "Drive 30 kilometres up to Swakopmund to wander German colonial streets, eat apple strudel, and visit the National Marine Aquarium of Namibia.",
+    "Search the Moon Landscape and Welwitschia Plains for the famous two-leaved desert plant that has been quietly growing since Roman times."
+  ],
+  "localWord": {
+    "word": "Hallo",
+    "meaning": "Hello in Afrikaans, one of Namibia's main languages",
+    "pronunciation": "HAH-loh"
+  },
+  "images": [
+    {
+      "filename": "hero-dunes-meet-ocean.jpg",
+      "alt": "Giant sand dunes tumble right into the blue Atlantic Ocean at Sandwich Harbour near Walvis Bay.",
+      "credit": "Red Dune Safaris",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Namib_desert_meets_Atlantic_ocean.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Namib_desert_meets_Atlantic_ocean.jpg"
+    },
+    {
+      "filename": "walvis-bay-lagoon-flamingos.jpg",
+      "alt": "A big flock of bright pink flamingos wading in the shallow lagoon at Walvis Bay.",
+      "credit": "Diego Delso, delso.photo",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flamencos_comunes_(Phoenicopterus_roseus),_Walvis_Bay,_Namibia,_2018-08-05,_DD_19.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flamencos_comunes_%28Phoenicopterus_roseus%29%2C_Walvis_Bay%2C_Namibia%2C_2018-08-05%2C_DD_19.jpg"
+    },
+    {
+      "filename": "cape-fur-seal-colony.jpg",
+      "alt": "Hundreds of Cape fur seals barking and lazing on the rocky Namibian shoreline.",
+      "credit": "Patricia Bischof",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cape_Cross_Robbenkolonie_Namibia.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Cape_Cross_Robbenkolonie_Namibia.jpg"
+    },
+    {
+      "filename": "swakopmund-lighthouse.jpg",
+      "alt": "The red-and-white striped Swakopmund lighthouse seen from above with the colourful seaside town around it.",
+      "credit": "Olga Ernst",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Swakopmund_Lighthouse,_Namibia.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Aerial_view_of_Swakopmund_Lighthouse%2C_Namibia.jpg"
+    },
+    {
+      "filename": "welwitschia-plant.jpg",
+      "alt": "A funny-looking ancient Welwitschia plant with long curly leaves growing in the Namib Desert.",
+      "credit": "Erongoguy (Steffen Jahn)",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brandberg_Welwitschia.JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Brandberg_Welwitschia.JPG"
+    }
+  ],
+  "links": [
+    { "url": "https://www.namibiatourism.com.na/", "label": "Namibia Tourism Board", "description": "Official tourism site for Namibia with maps, regions, and trip planning info." },
+    { "url": "https://en.wikipedia.org/wiki/Walvis_Bay", "label": "Walvis Bay on Wikipedia", "description": "Background on the port town, its history, lagoon, and geography." },
+    { "url": "https://kids.britannica.com/students/article/Swakopmund/610068", "label": "Swakopmund - Britannica Kids", "description": "Kid-friendly article on the German colonial town just up the coast." },
+    { "url": "https://kids.kiddle.co/Welwitschia", "label": "Welwitschia facts for kids", "description": "Easy-to-read page about the strange 2,000-year-old desert plant." },
+    { "url": "https://en.wikipedia.org/wiki/Namib", "label": "Namib Desert on Wikipedia", "description": "Why the Namib is the world's oldest desert and how creatures drink fog." },
+    { "url": "https://rsis.ramsar.org/ris/742", "label": "Walvis Bay Ramsar Site", "description": "Official wetland listing explaining the flamingos and 100,000+ birds." }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Walvis_Bay",
+    "https://en.wikipedia.org/wiki/Namib",
+    "https://en.wikipedia.org/wiki/Swakopmund",
+    "https://en.wikipedia.org/wiki/Welwitschia",
+    "https://rsis.ramsar.org/ris/742",
+    "https://www.kew.org/plants/welwitschia-mirabilis",
+    "https://kids.kiddle.co/Welwitschia",
+    "https://kids.britannica.com/students/article/Swakopmund/610068",
+    "https://www.sandwich-harbour.com/"
+  ],
+  "researchedAt": "2026-05-09T11:48:00Z"
+}

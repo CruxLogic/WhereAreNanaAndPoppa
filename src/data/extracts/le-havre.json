@@ -1,0 +1,87 @@
+{
+  "researchId": "le-havre",
+  "name": "Le Havre",
+  "country": "France",
+  "summary": "Bonjour from Le Havre! This Normandy port was almost completely flattened in WWII, then rebuilt entirely in concrete and is now a UNESCO World Heritage city. From here you can train to Paris and the Eiffel Tower, walk Etretat's white chalk cliffs shaped like an elephant dipping its trunk, or wander Honfleur, the painted-postcard harbour that inspired Monet.",
+  "funFacts": [
+    "Le Havre was rebuilt from rubble after 1945 using prefabricated concrete blocks on a giant grid, and the whole city is now a UNESCO World Heritage Site.",
+    "The Saint Joseph Church belltower in Le Havre is 107 metres tall, one of France's tallest, and glows with thousands of coloured glass panels inside.",
+    "At Etretat the chalk cliffs form natural arches and a 70-metre stone needle. Writer Guy de Maupassant said one arch looks like an elephant dipping its trunk in the sea.",
+    "The Bayeux Tapestry is an embroidered comic strip nearly 70 metres long, telling the 1066 story of William the Conqueror sailing from Normandy to invade England.",
+    "Painter Claude Monet grew up in Le Havre and painted Honfleur's harbour just across the river. Many people say modern art was basically born around here."
+  ],
+  "thingsToDo": [
+    "Catch a train from Le Havre station to Paris in about 2.5 hours, zoom to the Eiffel Tower or Louvre, then race back before the ship leaves at 7:30pm.",
+    "Spot Le Volcan, the white whale-shaped culture centre by Brazilian architect Oscar Niemeyer, then walk to MuMa museum to see Monet seascapes by the harbour.",
+    "Splash at Les Bains des Docks, Jean Nouvel's all-white aquatic centre inspired by Roman baths, with an Olympic-size outdoor pool heated all year.",
+    "Take a coach to Etretat (about 30km north) and hike the clifftop path to see the Aiguille needle and the elephant-trunk Arche d'Amont.",
+    "Cross the giant Pont de Normandie bridge to Honfleur, wander the old slate-covered harbour, eat a crepe and find spots Monet and Boudin painted.",
+    "Join a D-Day tour to Omaha Beach, Pointe du Hoc bunkers and the American Cemetery, where Allied soldiers landed on 6 June 1944."
+  ],
+  "localWord": {
+    "word": "Bonjour",
+    "meaning": "Hello / good day in French",
+    "pronunciation": "bon-ZHOOR"
+  },
+  "images": [
+    {
+      "filename": "le-havre-saint-joseph-church.jpg",
+      "alt": "The tall concrete tower of Saint-Joseph's Church rising over Le Havre.",
+      "credit": "Alexandre Prevot",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%C3%89glise_Saint-Joseph_du_Havre_(49832991847).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/%C3%89glise_Saint-Joseph_du_Havre_%2849832991847%29.jpg"
+    },
+    {
+      "filename": "etretat-chalk-cliffs-arch.jpg",
+      "alt": "The famous white chalk cliffs and natural stone arch (Porte d'Aval) at Etretat in Normandy.",
+      "credit": "Olivier Dugornay (Ifremer)",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Falaises_d%27Etretat_et_Porte_d%27Aval_(Ifremer_00751-86299_-_43894).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Falaises_d%27Etretat_et_Porte_d%27Aval_%28Ifremer_00751-86299_-_43894%29.jpg"
+    },
+    {
+      "filename": "honfleur-vieux-bassin.jpg",
+      "alt": "Colorful tall houses reflected in Honfleur's old harbour, full of fishing boats.",
+      "credit": "SimonCourtecuisse",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Centre_Historique_d%27Honfleur.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Centre_Historique_d%27Honfleur.jpg"
+    },
+    {
+      "filename": "eiffel-tower-paris.jpg",
+      "alt": "The iconic Eiffel Tower standing tall against a blue Paris sky.",
+      "credit": "Benh LIEU SONG",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tour_Eiffel_Wikimedia_Commons.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg"
+    },
+    {
+      "filename": "mont-saint-michel.jpg",
+      "alt": "The fairytale island abbey of Mont Saint-Michel rising from the bay in afternoon light.",
+      "credit": "Lynx1211",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mont_St_Michel_in_the_afternoon.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Mont_St_Michel_in_the_afternoon.jpg"
+    }
+  ],
+  "links": [
+    { "url": "https://www.lehavre-etretat-tourisme.com/en/", "label": "Le Havre Etretat Tourism (official)", "description": "Official visitor site with maps, kids' activities and cliff walks." },
+    { "url": "https://whc.unesco.org/en/list/1181/", "label": "UNESCO: Le Havre, the City Rebuilt by Auguste Perret", "description": "Why the whole rebuilt concrete city is a World Heritage Site." },
+    { "url": "https://en.wikipedia.org/wiki/%C3%89tretat", "label": "Wikipedia: Etretat", "description": "All about the chalk cliffs, arches and the famous Needle." },
+    { "url": "https://kids.britannica.com/students/article/Bayeux-Tapestry/317141", "label": "Britannica Kids: Bayeux Tapestry", "description": "Kid-level explainer of the 70-metre embroidered story of 1066." },
+    { "url": "https://en.normandie-tourisme.fr/discover/d-day-and-the-battle-of-normandy/dday-landing-beaches/omaha-beach/", "label": "Normandy Tourism: Omaha Beach", "description": "Family-friendly guide to the D-Day landing beaches." },
+    { "url": "https://en.wikipedia.org/wiki/Le_Havre", "label": "Wikipedia: Le Havre", "description": "Background on the port, WWII bombing and modern city." }
+  ],
+  "sources": [
+    "https://whc.unesco.org/en/list/1181/",
+    "https://en.wikipedia.org/wiki/Le_Havre",
+    "https://en.wikipedia.org/wiki/%C3%89tretat",
+    "https://en.normandie-tourisme.fr/unmissable-sites/etretat/",
+    "https://en.wikipedia.org/wiki/Bayeux_Tapestry",
+    "https://kids.britannica.com/students/article/Bayeux-Tapestry/317141",
+    "https://en.normandie-tourisme.fr/discover/d-day-and-the-battle-of-normandy/dday-landing-beaches/omaha-beach/",
+    "https://en.wikipedia.org/wiki/Les_Bains_Des_Docks"
+  ],
+  "researchedAt": "2026-05-09T12:10:00Z"
+}
