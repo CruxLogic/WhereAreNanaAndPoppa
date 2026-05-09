@@ -6,17 +6,11 @@ import { formatLongDate } from "../utils/tripStatus";
 interface ShipPanelProps {
   open: boolean;
   onClose: () => void;
-  livePosition?: {
-    lat: number;
-    lon: number;
-    speedKn: number | null;
-    timestamp: string;
-  } | null;
 }
 
 const baseUrl = (import.meta.env.BASE_URL ?? "/").replace(/\/$/, "");
 
-export function ShipPanel({ open, onClose, livePosition }: ShipPanelProps) {
+export function ShipPanel({ open, onClose }: ShipPanelProps) {
   const [lightboxIndex, setLightboxIndex] = useState<number | null>(null);
   const asideRef = useRef<HTMLElement>(null);
 
@@ -47,7 +41,7 @@ export function ShipPanel({ open, onClose, livePosition }: ShipPanelProps) {
   return (
     <aside
       ref={asideRef}
-      className="panel-in parchment-scroll absolute top-0 right-0 z-30 w-full sm:w-[34rem] md:w-[38rem] lg:w-[40rem] bg-parchment shadow-panel overflow-y-auto sm:bottom-[104px] bottom-0"
+      className="panel-in parchment-scroll absolute top-0 right-0 z-30 w-full sm:w-[22rem] md:w-[24rem] lg:w-[26rem] xl:w-[34rem] 2xl:w-[40rem] bg-parchment shadow-panel overflow-y-auto sm:bottom-[104px] bottom-0"
     >
       <div className="relative px-7 pt-7 pb-10">
         <button
@@ -85,7 +79,7 @@ export function ShipPanel({ open, onClose, livePosition }: ShipPanelProps) {
           </button>
         </div>
 
-        <div className="mt-5 grid grid-cols-2 gap-x-5 gap-y-3 border-y border-ink/10 py-4">
+        <div className="mt-5 grid grid-cols-3 gap-x-5 gap-y-3 border-y border-ink/10 py-4">
           <div>
             <p className="tracker text-[9px] text-ink/50">Embark</p>
             <p className="display text-ink mt-0.5" style={{ fontSize: "0.95rem" }}>
@@ -103,20 +97,6 @@ export function ShipPanel({ open, onClose, livePosition }: ShipPanelProps) {
             <p className="display text-ink mt-0.5" style={{ fontSize: "0.95rem" }}>
               {shipData.voyage.totalDays} days
             </p>
-          </div>
-          <div>
-            <p className="tracker text-[9px] text-ink/50">Last AIS fix</p>
-            <p className="font-mono text-[12px] text-ink mt-0.5">
-              {livePosition
-                ? `${livePosition.lat.toFixed(2)}, ${livePosition.lon.toFixed(2)}`
-                : "—"}
-            </p>
-            {livePosition && (
-              <p className="tracker text-[9px] text-ink/55 mt-0.5">
-                {formatRelative(livePosition.timestamp)}
-                {livePosition.speedKn != null ? ` · ${livePosition.speedKn.toFixed(1)} kn` : ""}
-              </p>
-            )}
           </div>
         </div>
 
@@ -285,15 +265,3 @@ function formatDayMonthYear(iso: string): string {
   return `${String(day).padStart(2, "0")} ${MONTHS[m - 1]} ${String(y).slice(-2)}`;
 }
 
-function formatRelative(iso: string): string {
-  const t = new Date(iso).getTime();
-  if (!Number.isFinite(t)) return iso;
-  const diffMs = Date.now() - t;
-  const mins = Math.round(diffMs / 60000);
-  if (mins < 1) return "just now";
-  if (mins < 60) return `${mins} min ago`;
-  const hours = Math.round(mins / 60);
-  if (hours < 24) return `${hours} h ago`;
-  const days = Math.round(hours / 24);
-  return `${days} d ago`;
-}

@@ -3,7 +3,6 @@ import maplibregl from "maplibre-gl";
 import "maplibre-gl/dist/maplibre-gl.css";
 import { geoInterpolate } from "d3-geo";
 import type { SortedTrip, TripStatus } from "../utils/tripStatus";
-import type { ShipPosition } from "../App";
 import type { Destination } from "../types";
 
 interface GlobeProps {
@@ -11,7 +10,6 @@ interface GlobeProps {
   status: TripStatus;
   selectedId: string | null;
   onSelect: (id: string | null) => void;
-  shipPos: ShipPosition | null;
   onShipSelect: () => void;
 }
 
@@ -33,7 +31,6 @@ export function Globe({
   status,
   selectedId,
   onSelect,
-  shipPos,
   onShipSelect,
 }: GlobeProps) {
   const containerRef = useRef<HTMLDivElement>(null);
@@ -89,7 +86,7 @@ export function Globe({
       attachShipMarker(
         map,
         shipMarkerRef,
-        currentShipLngLat(status, shipPosRef.current),
+        currentShipLngLat(status),
         status.phase === "in-port",
         onShipSelectRef,
       );
@@ -120,8 +117,6 @@ export function Globe({
   // Refs we need inside the map handlers without re-binding the map
   const selectedIdRef = useRef(selectedId);
   selectedIdRef.current = selectedId;
-  const shipPosRef = useRef(shipPos);
-  shipPosRef.current = shipPos;
   const statusRef = useRef(status);
   statusRef.current = status;
 
@@ -144,11 +139,11 @@ export function Globe({
     attachShipMarker(
       map,
       shipMarkerRef,
-      currentShipLngLat(status, shipPos),
+      currentShipLngLat(status),
       status.phase === "in-port",
       onShipSelectRef,
     );
-  }, [trip, status, shipPos, selectedId]);
+  }, [trip, status, selectedId]);
 
   // Fly to selected destination
   useEffect(() => {
@@ -564,11 +559,7 @@ function attachShipMarker(
   }
 }
 
-function currentShipLngLat(
-  status: TripStatus,
-  shipPos: ShipPosition | null,
-): [number, number] | null {
-  if (shipPos) return [shipPos.lon, shipPos.lat];
+function currentShipLngLat(status: TripStatus): [number, number] | null {
   if (status.phase === "at-sea") {
     const [lat, lng] = status.currentCoord;
     return [lng, lat];
