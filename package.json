@@ -8,7 +8,8 @@
     "build": "tsc -b && vite build",
     "preview": "vite preview",
     "typecheck": "tsc -b --noEmit",
-    "fetch-position": "tsx scripts/fetch-ship-position.ts"
+    "fetch-position": "tsx scripts/fetch-ship-position.ts",
+    "hash-password": "tsx scripts/hash-password.ts"
   },
   "dependencies": {
     "d3-geo": "^3.1.1",
