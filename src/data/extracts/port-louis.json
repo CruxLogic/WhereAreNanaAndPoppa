@@ -2,31 +2,49 @@
   "researchId": "port-louis",
   "name": "Port Louis",
   "country": "Mauritius",
-  "summary": "Mauritius is a sunny island nation in the Indian Ocean, east of Madagascar, with green mountains poking up like crinkled hats. It is famous as the only home of the dodo, a chunky flightless bird that vanished long ago. People here speak French, English and Mauritian Creole, and celebrate Hindu, Christian, Muslim and Chinese festivals all on one small island.",
+  "summary": "Port Louis is the capital of Mauritius, a sunny island in the Indian Ocean east of Madagascar. It sits beside a busy harbour with green volcanic mountains poking up behind the city.",
   "funFacts": [
     "The dodo lived only on Mauritius and was wiped out by the 1680s after sailors and the dogs, pigs and rats they brought hunted them.",
     "Mauritian Creole mixes French with words from Africa, India and Madagascar, so 'how are you?' becomes 'ki manyer?' instead of a French sentence.",
-    "Sugar cane covers huge fields across Mauritius because British rulers brought half a million workers from India in the 1800s to grow it.",
-    "At Chamarel you can see sand in seven natural colours, red, brown, violet, green, blue, purple and yellow, made by old volcanic rock.",
-    "Mauritius is the only African country where Hinduism is the biggest religion, but Christian, Muslim and Buddhist festivals are also national holidays."
+    "At Chamarel, sand falls naturally into seven different colours — red, brown, violet, green, blue, purple and yellow — made from old volcanic rock.",
+    "Mauritius is the only African country where Hinduism is the biggest religion, but Christian, Muslim and Buddhist festivals are also national holidays.",
+    "The Blue Penny Museum in Port Louis keeps two of the world's rarest stamps in a dark room and lights them up for just ten minutes each hour."
   ],
   "thingsToDo": [
-    "Walk straight off the ship into Le Caudan Waterfront for shops, snacks and a sea-facing playground only minutes from the cruise terminal.",
-    "Visit the Blue Penny Museum at Caudan to glimpse two of the world's rarest stamps, shown for just ten minutes each hour.",
-    "Wander the Central Market near Place d'Armes to sniff vanilla, chillies and spices and try fresh pineapple sliced into crinkly stars.",
-    "Hike up to the Citadel (Fort Adelaide) above the city for a breezy view over the harbour, racetrack and pointy Pieter Both mountain.",
-    "Taxi to Pamplemousses Botanical Garden to spot giant Victoria water lilies, big enough to hold a small child, and slow-moving giant tortoises.",
-    "Step inside the Natural History Museum at the Mauritius Institute to meet a reconstructed dodo skeleton and learn how the bird lived."
+    "Stroll around Le Caudan Waterfront for shops, snacks and boats, just minutes from the cruise terminal.",
+    "Sniff vanilla, chillies and tropical fruit at the bustling Central Market near Place d'Armes.",
+    "Hike up to the Citadel at Fort Adelaide for breezy views over the harbour and city.",
+    "Visit Aapravasi Ghat, a UNESCO site where Indian workers first stepped ashore in the 1800s.",
+    "Meet a reconstructed dodo skeleton at the Natural History Museum in the Mauritius Institute.",
+    "Take a taxi to Pamplemousses Garden to see giant water lilies and slow-moving giant tortoises."
+  ],
+  "wildlife": [
+    {
+      "name": "Dodo",
+      "description": "Chunky flightless bird that lived only on Mauritius before sailors and rats wiped it out."
+    },
+    {
+      "name": "Mauritius Kestrel",
+      "description": "Small brown falcon that nearly vanished but was saved with just four birds left."
+    },
+    {
+      "name": "Pink Pigeon",
+      "description": "Soft pink dove found only on Mauritius, also rescued from the edge of extinction."
+    },
+    {
+      "name": "Aldabra Giant Tortoise",
+      "description": "Huge slow reptile that can live over 150 years and weigh as much as a fridge."
+    }
   ],
   "localWord": {
     "word": "Bonzour",
-    "meaning": "Hello / good morning in Mauritian Creole",
+    "meaning": "Hello / good morning in Mauritian Creole.",
     "pronunciation": "bon-ZOOR"
   },
   "images": [
     {
       "filename": "hero-port-louis-harbour.jpg",
-      "alt": "Port Louis city and harbour seen from a mountain peak with green hills around it",
+      "alt": "Port Louis city and harbour seen from a mountain peak with green hills around it.",
       "credit": "carrotmadman6",
       "license": "CC BY 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Port_Louis_from_Le_Pouce.jpg",
@@ -34,7 +52,7 @@
     },
     {
       "filename": "caudan-waterfront.jpg",
-      "alt": "Colourful shops and boats along the Caudan Waterfront marina in Port Louis",
+      "alt": "Colourful shops and boats along the Caudan Waterfront marina in Port Louis.",
       "credit": "Mip130916",
       "license": "CC BY-SA 3.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Caudan_waterfront_(11).jpg",
@@ -42,7 +60,7 @@
     },
     {
       "filename": "aapravasi-ghat.jpg",
-      "alt": "Stone steps and old buildings of Aapravasi Ghat, a UNESCO World Heritage site in Port Louis",
+      "alt": "Stone steps and old buildings of Aapravasi Ghat, a UNESCO World Heritage site in Port Louis.",
       "credit": "Ashish Bhatnagar",
       "license": "CC BY-SA 3.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aapravasi_ghat_museum,_Port_Louis,_Mauritius.jpg",
@@ -50,7 +68,7 @@
     },
     {
       "filename": "central-market.jpg",
-      "alt": "Busy stalls of fruit and goods inside the Central Market of Port Louis",
+      "alt": "Busy stalls of fruit and goods inside the Central Market of Port Louis.",
       "credit": "Didier Baertschiger",
       "license": "CC BY-SA 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mauritius_-_Port_Louis_(Central_Market)_(17118303459).jpg",
@@ -58,33 +76,71 @@
     },
     {
       "filename": "fort-adelaide-citadel.jpg",
-      "alt": "The stone Citadel of Fort Adelaide on a hill above Port Louis with the city below",
+      "alt": "The stone Citadel of Fort Adelaide on a hill above Port Louis with the city below.",
       "credit": "Arne Mueseler",
       "license": "CC BY-SA 3.0 DE",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mauritius_citadelle_fort_adelaide.jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Mauritius_citadelle_fort_adelaide.jpg"
+    },
+    {
+      "filename": "champ-de-mars.jpg",
+      "alt": "The Champ de Mars racecourse in Port Louis with mountains rising behind the track.",
+      "credit": "Martin Falbisoner",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Champ_de_Mars_Racecourse.JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/The_Champ_de_Mars_Racecourse.JPG"
+    },
+    {
+      "filename": "dodo-painting.jpg",
+      "alt": "A 1628 painting by Roelant Savery showing a chunky dodo among other birds.",
+      "credit": "Roelant Savery (1628)",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roelant_Savery_-_Landscape_with_Birds_-_WGA20885.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Roelant_Savery_-_Landscape_with_Birds_-_WGA20885.jpg"
+    },
+    {
+      "filename": "mauritius-kestrel.jpg",
+      "alt": "A brown-and-white Mauritius kestrel perched on a branch in Ebony Forest.",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mauritius_kestrel_(Falco_punctatus).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Mauritius_kestrel_%28Falco_punctatus%29.jpg"
+    },
+    {
+      "filename": "pink-pigeon.jpg",
+      "alt": "A soft pink Mauritius pigeon perched on a branch.",
+      "credit": "Ltshears",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pink_Pigeon_057.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Pink_Pigeon_057.jpg"
+    },
+    {
+      "filename": "aldabra-tortoise.jpg",
+      "alt": "A huge Aldabra giant tortoise on Île aux Aigrettes nature reserve in Mauritius.",
+      "credit": "Abu Shawka",
+      "license": "CC0 1.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aldabra_tortoise_Ile_aux_Aigrettes_-_Mauritius.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Aldabra_tortoise_Ile_aux_Aigrettes_-_Mauritius.jpg"
     }
   ],
   "links": [
-    { "url": "https://en.wikipedia.org/wiki/Port_Louis", "label": "Wikipedia: Port Louis", "description": "Overview of the capital city, its harbour, history and main sights." },
-    { "url": "https://www.britannica.com/animal/dodo-extinct-bird", "label": "Britannica: The Dodo", "description": "Clear, kid-readable explanation of the dodo and why it disappeared." },
-    { "url": "https://whc.unesco.org/en/list/1227/", "label": "UNESCO: Aapravasi Ghat", "description": "Official page on the Port Louis site where indentured workers first arrived." },
-    { "url": "https://bluepenny.museum/", "label": "Blue Penny Museum", "description": "Home of the world-famous 1847 Mauritius stamps at Caudan Waterfront." },
-    { "url": "https://chamarel7colouredearth.com/", "label": "Chamarel 7 Coloured Earth", "description": "Pictures and facts about the rainbow-striped sand dunes and tortoise park." },
-    { "url": "https://en.wikipedia.org/wiki/Sir_Seewoosagur_Ramgoolam_Botanical_Garden", "label": "Pamplemousses Botanical Garden", "description": "The Southern Hemisphere's oldest botanical garden, famous for giant water lilies." }
+    { "url": "https://kids.kiddle.co/Mauritius", "label": "Mauritius Facts for Kids (Kiddle)", "description": "A kid-friendly summary of the island and its wildlife." },
+    { "url": "https://www.britannica.com/animal/dodo-extinct-bird", "label": "Britannica: The Dodo", "description": "Easy-read explanation of the dodo and why it disappeared." },
+    { "url": "https://en.wikipedia.org/wiki/Port_Louis", "label": "Port Louis on Wikipedia", "description": "Big-picture facts about the capital, its harbour and history." }
   ],
   "sources": [
     "https://en.wikipedia.org/wiki/Port_Louis",
+    "https://en.wikipedia.org/wiki/Mauritius",
     "https://en.wikipedia.org/wiki/Dodo",
-    "https://www.britannica.com/animal/dodo-extinct-bird",
+    "https://en.wikipedia.org/wiki/Mauritius_kestrel",
+    "https://en.wikipedia.org/wiki/Pink_pigeon",
+    "https://en.wikipedia.org/wiki/Aldabra_giant_tortoise",
     "https://en.wikipedia.org/wiki/Seven_Coloured_Earths",
-    "https://chamarel7colouredearth.com/",
-    "https://www.omniglot.com/language/phrases/mauritiancreole.htm",
-    "https://en.wikipedia.org/wiki/Sir_Seewoosagur_Ramgoolam_Botanical_Garden",
-    "https://en.wikipedia.org/wiki/Blue_Penny_Museum",
-    "https://whc.unesco.org/en/list/1227/",
     "https://en.wikipedia.org/wiki/Aapravasi_Ghat",
-    "https://en.wikipedia.org/wiki/Religion_in_Mauritius"
+    "https://en.wikipedia.org/wiki/Blue_Penny_Museum",
+    "https://en.wikipedia.org/wiki/Sir_Seewoosagur_Ramgoolam_Botanical_Garden",
+    "https://whc.unesco.org/en/list/1227/",
+    "https://kids.kiddle.co/Mauritius"
   ],
-  "researchedAt": "2026-05-09T11:38:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }

@@ -2,26 +2,43 @@
   "researchId": "moorea",
   "name": "Moorea",
   "country": "French Polynesia",
-  "summary": "Moorea is a heart-shaped volcanic island just a 30-minute ferry ride from Tahiti, with two huge twin bays carved into its north coast. Towering green peaks like Mount Rotui rise straight from the sea, and the warm lagoons are bursting with friendly stingrays, reef sharks and tropical fish. From August to October, humpback whales swim all the way from Antarctica to have their babies right here.",
+  "summary": "Moorea is a heart-shaped tropical island in the South Pacific, a short ferry ride from Tahiti. Towering green volcanic peaks rise straight out of a warm turquoise lagoon full of friendly reef sharks, stingrays and sea turtles.",
   "funFacts": [
-    "Seen from a plane, Moorea looks like a giant heart floating in the Pacific Ocean, made by an old volcano that collapsed about 1.5 million years ago.",
-    "The two huge bays, Cook's Bay and Opunohu Bay, are actually the inside of an ancient volcano crater, with Mount Rotui standing tall in the middle.",
-    "Every winter, humpback whales swim thousands of kilometres from icy Antarctica to Moorea's warm lagoons to give birth and teach their calves to swim.",
-    "At a place called the Lagoonarium, kids can stand in waist-deep water while smooth, friendly stingrays glide around their legs and small black-tip reef sharks zip past.",
-    "The name Moorea means 'yellow lizard' in Tahitian, from an old legend about a magical egg that hatched a bright yellow baby lizard."
+    "From a plane Moorea looks like a giant green heart, made by an old volcano that collapsed into the sea about 1.5 million years ago.",
+    "Mount Mou'a Puta has a famous hole right through the top, and Polynesian legend says a god's spear punched it clean through the rock.",
+    "Each winter humpback whales swim thousands of kilometres from icy Antarctica to Moorea's warm lagoons to give birth to their calves.",
+    "In Stingray Bay you can stand in waist-deep water while smooth, friendly stingrays glide gently around your legs.",
+    "The name Moorea means 'yellow lizard' in Tahitian, from an old story about a magical egg that hatched a bright yellow lizard."
   ],
   "thingsToDo": [
-    "Snorkel with stingrays and black-tip reef sharks at the Lagoonarium or Stingray World, where the lagoon is shallow enough that grown-ups can stand up.",
-    "Drive up to the Belvedere Lookout for an amazing view of both bays at once, with Mount Rotui rising like a giant green wall in the middle.",
-    "Hop on a humpback whale watching boat tour (best August through October) to spot mother whales and their playful calves blowing spouts.",
-    "Wander around Cook's Bay village or take a sailing trip across Opunohu Bay, looking up at jagged peaks that some say look like cathedral spires.",
-    "Stop at a juicy pineapple plantation and the Rotui factory to taste fresh tropical juices, jams and smoothies made from fruit grown right there.",
-    "Visit the Tiki Village Cultural Centre to watch Polynesian dancers, drummers and a fiery torch-spinning fire dance, and try a few hip-shaking moves yourself."
+    "Drive up to the Belvedere Lookout for an amazing view of Cook's Bay, Opunohu Bay and Mount Rotui in the middle.",
+    "Snorkel with friendly stingrays and small blacktip reef sharks in the shallow turquoise lagoon at Stingray Bay.",
+    "Hop on a whale-watching boat from July to November to spot mother humpback whales and their playful calves.",
+    "Splash and build sandcastles at Temae Beach, with white sand, palm trees and the island of Tahiti right across the sea.",
+    "Hike or ride up Magic Mountain for a panorama of the reef, the lagoon and the jagged peaks of the island.",
+    "Watch Polynesian dancers, drummers and fire-spinners put on a show at the Tiki Village cultural centre."
+  ],
+  "wildlife": [
+    {
+      "name": "Humpback Whale",
+      "description": "Giant ocean traveller that visits Moorea every July to November to have its calves."
+    },
+    {
+      "name": "Blacktip Reef Shark",
+      "description": "Small shy shark with black-tipped fins that zips around the shallow lagoon."
+    },
+    {
+      "name": "Pink Whipray",
+      "description": "Big smooth stingray that glides over sandy lagoon floors looking for snacks."
+    },
+    {
+      "name": "Green Sea Turtle",
+      "description": "Calm reptile with a beautiful patterned shell that grazes on seagrass in the lagoon."
+    }
   ],
   "localWord": {
     "word": "Ia ora na",
-    "meaning": "Hello / may you live well (Tahitian greeting used any time of day)",
-    "pronunciation": "ee-ah oh-RAH-nah"
+    "meaning": "Hello, in Tahitian, the language of Moorea's Polynesian people."
   },
   "images": [
     {
@@ -34,19 +51,27 @@
     },
     {
       "filename": "moorea-belvedere-lookout.jpg",
-      "alt": "View from Belvedere Lookout showing Opunohu Bay and Cook's Bay with jungle peaks in between.",
+      "alt": "View from Belvedere Lookout showing Opunohu Bay and Cook's Bay with jungle peaks between them.",
       "credit": "Michael R Perry",
       "license": "CC BY 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Opunohu_Bay_and_Cook%27s_Bay_Seen_From_Belvedere_Lookout_in_Moorea_(6597138321).jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Opunohu_Bay_and_Cook%27s_Bay_Seen_From_Belvedere_Lookout_in_Moorea_%286597138321%29.jpg"
     },
     {
-      "filename": "moorea-mt-tohiea.jpg",
-      "alt": "The tall jagged volcanic peak of Mount Tohiea rising above Moorea's green forest.",
-      "credit": "Balou46",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PF-Moorea-mt_tohiea.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/PF-Moorea-mt_tohiea.jpg"
+      "filename": "moorea-mt-rotui.jpg",
+      "alt": "Mount Rotui rising between Opunohu Bay and Cook's Bay on Moorea, seen from the Belvedere.",
+      "credit": "Daniel Julie",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:DSC00050_French_Oc%C3%A9ania_Moor%C3%A9a_Island_Mount_Rotui_and_Opunohu_and_Cook_Bay_(8044054128).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/DSC00050_French_Oc%C3%A9ania_Moor%C3%A9a_Island_Mount_Rotui_and_Opunohu_and_Cook_Bay_%288044054128%29.jpg"
+    },
+    {
+      "filename": "moorea-mouaputa.jpg",
+      "alt": "The pointed peak of Mount Mou'a Puta, with its famous hole through the summit, seen from Cook's Bay.",
+      "credit": "Jp2207",
+      "license": "CC0 1.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mouaputa_and_Tohivea_from_Cooks_Bay,_2025.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Mouaputa_and_Tohivea_from_Cooks_Bay%2C_2025.jpg"
     },
     {
       "filename": "moorea-turquoise-lagoon.jpg",
@@ -57,8 +82,40 @@
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Lagon_turquoise_de_Moorea%2C_Polyn%C3%A9sie_Fran%C3%A7aise.jpg"
     },
     {
+      "filename": "moorea-temae-beach.jpg",
+      "alt": "White sand and turquoise water at Temae Beach on Moorea, with the island of Tahiti across the sea.",
+      "credit": "Fanny98716",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moorea_-_Plage_de_Temae.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Moorea_-_Plage_de_Temae.jpg"
+    },
+    {
+      "filename": "moorea-humpback-whale-calf.jpg",
+      "alt": "A humpback whale and its calf swimming in the clear blue water near Moorea.",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Humpback_whale_(Megaptera_novaeangliae)_with_calf_Moorea.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Humpback_whale_%28Megaptera_novaeangliae%29_with_calf_Moorea.jpg"
+    },
+    {
+      "filename": "moorea-blacktip-reef-shark.jpg",
+      "alt": "A small blacktip reef shark gliding through the shallow lagoon at Moorea.",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blacktip_reef_shark_(Carcharhinus_melanopterus)_Moorea.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Blacktip_reef_shark_%28Carcharhinus_melanopterus%29_Moorea.jpg"
+    },
+    {
+      "filename": "moorea-pink-whipray.jpg",
+      "alt": "A pink whipray stingray gliding over the sandy floor of the Moorea lagoon.",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pink_whipray_(Pateobatis_fai)_Moorea.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Pink_whipray_%28Pateobatis_fai%29_Moorea.jpg"
+    },
+    {
       "filename": "moorea-green-sea-turtle.jpg",
-      "alt": "A friendly green sea turtle gliding through the clear blue waters around Moorea.",
+      "alt": "A green sea turtle gliding through the clear blue water around Moorea.",
       "credit": "Charles J. Sharp",
       "license": "CC BY-SA 4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Green_sea_turtle_(Chelonia_mydas)_Moorea.jpg",
@@ -66,20 +123,20 @@
     }
   ],
   "links": [
-    { "url": "https://en.wikipedia.org/wiki/Mo%CA%BBorea", "label": "Moorea on Wikipedia", "description": "Big-picture facts about the island's volcano, bays, history and people." },
-    { "url": "https://www.britannica.com/place/Moorea", "label": "Moorea - Britannica", "description": "Short, clear encyclopedia entry about Moorea's geography and history." },
-    { "url": "https://tahititourisme.com/en-us/islands/moorea/", "label": "Moorea - Tahiti Tourisme (official)", "description": "Official French Polynesia travel site with photos, activities and culture info." },
-    { "url": "https://www.tahititourisme.com/activities/diving/maritime-species/whales/", "label": "Swimming with the Whales", "description": "Official guide to humpback whale season (July to November) in Moorea." },
-    { "url": "https://tikivillage.pf/en/", "label": "Tiki Village Cultural Centre", "description": "Polynesian dance, drumming and fire-dance shows kids love." },
-    { "url": "https://en.wikipedia.org/wiki/Cook%27s_Bay_(Moorea)", "label": "Cook's Bay on Wikipedia", "description": "Story of how Captain Cook's crew visited the bay in 1769 and 1777." }
+    { "url": "https://kids.kiddle.co/Mo%CA%BBorea", "label": "Moorea Facts for Kids (Kiddle)", "description": "A kid-friendly summary of the island, its bays and people." },
+    { "url": "https://en.wikipedia.org/wiki/Mo%CA%BBorea", "label": "Moorea on Wikipedia", "description": "Big-picture facts about the island's volcano, bays and history." },
+    { "url": "https://www.britannica.com/place/Moorea", "label": "Moorea - Britannica", "description": "Short, clear encyclopedia entry on Moorea's geography and history." }
   ],
   "sources": [
     "https://en.wikipedia.org/wiki/Mo%CA%BBorea",
     "https://en.wikipedia.org/wiki/Opunohu_Bay",
     "https://en.wikipedia.org/wiki/Cook%27s_Bay_(Moorea)",
     "https://www.britannica.com/place/Moorea",
-    "https://www.tahititourisme.com/activities/diving/maritime-species/whales/",
-    "https://tikivillage.pf/en/"
+    "https://en.wikipedia.org/wiki/Humpback_whale",
+    "https://en.wikipedia.org/wiki/Blacktip_reef_shark",
+    "https://en.wikipedia.org/wiki/Pateobatis_fai",
+    "https://en.wikipedia.org/wiki/Green_sea_turtle",
+    "https://kids.kiddle.co/Mo%CA%BBorea"
   ],
-  "researchedAt": "2026-05-09T14:43:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }

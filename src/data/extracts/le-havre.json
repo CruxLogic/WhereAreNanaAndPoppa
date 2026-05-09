@@ -2,86 +2,142 @@
   "researchId": "le-havre",
   "name": "Le Havre",
   "country": "France",
-  "summary": "Bonjour from Le Havre! This Normandy port was almost completely flattened in WWII, then rebuilt entirely in concrete and is now a UNESCO World Heritage city. From here you can train to Paris and the Eiffel Tower, walk Etretat's white chalk cliffs shaped like an elephant dipping its trunk, or wander Honfleur, the painted-postcard harbour that inspired Monet.",
+  "summary": "Le Havre is a busy port city on the Normandy coast of France. After it was flattened in World War II it was rebuilt entirely in concrete by architect Auguste Perret, and the whole new city centre is now a UNESCO World Heritage Site.",
   "funFacts": [
-    "Le Havre was rebuilt from rubble after 1945 using prefabricated concrete blocks on a giant grid, and the whole city is now a UNESCO World Heritage Site.",
-    "The Saint Joseph Church belltower in Le Havre is 107 metres tall, one of France's tallest, and glows with thousands of coloured glass panels inside.",
-    "At Etretat the chalk cliffs form natural arches and a 70-metre stone needle. Writer Guy de Maupassant said one arch looks like an elephant dipping its trunk in the sea.",
-    "The Bayeux Tapestry is an embroidered comic strip nearly 70 metres long, telling the 1066 story of William the Conqueror sailing from Normandy to invade England.",
-    "Painter Claude Monet grew up in Le Havre and painted Honfleur's harbour just across the river. Many people say modern art was basically born around here."
+    "Le Havre's Saint-Joseph Church has a square concrete tower that shoots up 107 metres, and inside thousands of coloured glass squares glow like a giant kaleidoscope.",
+    "The whole city centre was rebuilt after 1945 using prefabricated concrete blocks on a giant grid, and UNESCO calls it one of the world's best post-war cities.",
+    "Le Volcan, in the middle of town, is a curvy white building shaped a bit like a volcano or a whale, designed by Brazilian architect Oscar Niemeyer.",
+    "Just up the coast at Etretat, the white chalk cliffs form huge natural arches and a tall stone needle that pokes 70 metres out of the sea.",
+    "Painter Claude Monet grew up in Le Havre, and his painting of the harbour here gave the whole 'Impressionist' art movement its name."
   ],
   "thingsToDo": [
-    "Catch a train from Le Havre station to Paris in about 2.5 hours, zoom to the Eiffel Tower or Louvre, then race back before the ship leaves at 7:30pm.",
-    "Spot Le Volcan, the white whale-shaped culture centre by Brazilian architect Oscar Niemeyer, then walk to MuMa museum to see Monet seascapes by the harbour.",
-    "Splash at Les Bains des Docks, Jean Nouvel's all-white aquatic centre inspired by Roman baths, with an Olympic-size outdoor pool heated all year.",
-    "Take a coach to Etretat (about 30km north) and hike the clifftop path to see the Aiguille needle and the elephant-trunk Arche d'Amont.",
-    "Cross the giant Pont de Normandie bridge to Honfleur, wander the old slate-covered harbour, eat a crepe and find spots Monet and Boudin painted.",
-    "Join a D-Day tour to Omaha Beach, Pointe du Hoc bunkers and the American Cemetery, where Allied soldiers landed on 6 June 1944."
+    "Climb the steps inside Saint-Joseph's Church and look up at thousands of coloured glass tiles glowing in the tower.",
+    "Wander Auguste Perret's concrete city centre and the wide Avenue Foch, sometimes called Le Havre's Champs-Elysees.",
+    "Hunt for Monet seascapes inside MuMa, the glass-and-steel modern art museum right by the harbour.",
+    "Spot Le Volcan, the curvy white culture centre by Oscar Niemeyer, and peek into its underground library.",
+    "Splash and skim stones at Plage du Havre, the long pebbly beach right next to the city.",
+    "Take a coach to the Etretat cliffs and walk the clifftop path to see the famous arch and stone needle."
+  ],
+  "wildlife": [
+    {
+      "name": "Red Squirrel",
+      "description": "Bright orange-red squirrel with fluffy ear tufts that scampers through Normandy's woods."
+    },
+    {
+      "name": "European Herring Gull",
+      "description": "Big grey-and-white seagull with a yellow beak that yells loudly above the harbour."
+    },
+    {
+      "name": "Atlantic Puffin",
+      "description": "Round black-and-white seabird with a colourful striped beak, nesting on nearby chalk cliffs."
+    },
+    {
+      "name": "Harbour Seal",
+      "description": "Chubby spotted seal that pops its round head out of the water along the Normandy coast."
+    }
   ],
   "localWord": {
     "word": "Bonjour",
-    "meaning": "Hello / good day in French",
+    "meaning": "Hello or good day in French.",
     "pronunciation": "bon-ZHOOR"
   },
   "images": [
     {
-      "filename": "le-havre-saint-joseph-church.jpg",
-      "alt": "The tall concrete tower of Saint-Joseph's Church rising over Le Havre.",
-      "credit": "Alexandre Prevot",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%C3%89glise_Saint-Joseph_du_Havre_(49832991847).jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/%C3%89glise_Saint-Joseph_du_Havre_%2849832991847%29.jpg"
+      "filename": "saint-joseph-church.jpg",
+      "alt": "The tall concrete tower of Saint-Joseph's Church rising over Le Havre's rebuilt city centre.",
+      "credit": "Grdela",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eglise_St_Joseph_et_centre_reconstruit_perret.JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Eglise_St_Joseph_et_centre_reconstruit_perret.JPG"
     },
     {
-      "filename": "etretat-chalk-cliffs-arch.jpg",
-      "alt": "The famous white chalk cliffs and natural stone arch (Porte d'Aval) at Etretat in Normandy.",
+      "filename": "hotel-de-ville-perret.jpg",
+      "alt": "Le Havre's Hotel de Ville, the city hall designed by Auguste Perret in concrete after WWII.",
+      "credit": "Alexandre Prevot",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_de_Ville_du_Havre_(53893881495).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/H%C3%B4tel_de_Ville_du_Havre_%2853893881495%29.jpg"
+    },
+    {
+      "filename": "muma-museum.jpg",
+      "alt": "The glass-and-steel MuMa modern art museum sitting beside the harbour in Le Havre.",
+      "credit": "Jean-Pierre Dalbera",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Le_mus%C3%A9e_d%27art_moderne_Andr%C3%A9_Malraux_(Le_Havre)_(51487304038).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Le_mus%C3%A9e_d%27art_moderne_Andr%C3%A9_Malraux_%28Le_Havre%29_%2851487304038%29.jpg"
+    },
+    {
+      "filename": "le-volcan-niemeyer.jpg",
+      "alt": "Le Volcan, the curvy white cultural centre by Oscar Niemeyer in central Le Havre.",
+      "credit": "Philippe Roudaut",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Le_Volcan_du_Havre.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Le_Volcan_du_Havre.jpg"
+    },
+    {
+      "filename": "plage-du-havre.jpg",
+      "alt": "Sunset over the long pebbly Plage du Havre beach beside the city.",
+      "credit": "Florian Pepellin",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coucher_de_soleil_sur_la_plage_du_Havre_(juillet_2024).JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Coucher_de_soleil_sur_la_plage_du_Havre_%28juillet_2024%29.JPG"
+    },
+    {
+      "filename": "etretat-cliffs.jpg",
+      "alt": "The white chalk cliffs and natural Porte d'Aval arch at Etretat in Normandy.",
       "credit": "Olivier Dugornay (Ifremer)",
       "license": "CC BY 4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Falaises_d%27Etretat_et_Porte_d%27Aval_(Ifremer_00751-86299_-_43894).jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Falaises_d%27Etretat_et_Porte_d%27Aval_%28Ifremer_00751-86299_-_43894%29.jpg"
     },
     {
-      "filename": "honfleur-vieux-bassin.jpg",
-      "alt": "Colorful tall houses reflected in Honfleur's old harbour, full of fishing boats.",
-      "credit": "SimonCourtecuisse",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Centre_Historique_d%27Honfleur.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Centre_Historique_d%27Honfleur.jpg"
+      "filename": "red-squirrel.jpg",
+      "alt": "A bright orange-red squirrel with fluffy ear tufts perched on a branch.",
+      "credit": "Ray eye",
+      "license": "CC BY-SA 2.0 DE",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eichh%C3%B6rnchen_D%C3%BCsseldorf_Hofgarten_edit.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Eichh%C3%B6rnchen_D%C3%BCsseldorf_Hofgarten_edit.jpg"
     },
     {
-      "filename": "eiffel-tower-paris.jpg",
-      "alt": "The iconic Eiffel Tower standing tall against a blue Paris sky.",
-      "credit": "Benh LIEU SONG",
+      "filename": "herring-gull.jpg",
+      "alt": "A European herring gull standing tall, showing its grey wings and yellow beak.",
+      "credit": "Kulac",
       "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tour_Eiffel_Wikimedia_Commons.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Larus_argentatus01.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Larus_argentatus01.jpg"
     },
     {
-      "filename": "mont-saint-michel.jpg",
-      "alt": "The fairytale island abbey of Mont Saint-Michel rising from the bay in afternoon light.",
-      "credit": "Lynx1211",
+      "filename": "atlantic-puffin.jpg",
+      "alt": "An Atlantic puffin standing on a clifftop showing its bright striped beak.",
+      "credit": "Charles J. Sharp",
       "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mont_St_Michel_in_the_afternoon.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Mont_St_Michel_in_the_afternoon.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Puffin_(Fratercula_arctica).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Puffin_%28Fratercula_arctica%29.jpg"
+    },
+    {
+      "filename": "harbour-seal.jpg",
+      "alt": "A spotted harbour seal poking its round head out of the water.",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_seal_(Phoca_vitulina).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Common_seal_%28Phoca_vitulina%29.jpg"
     }
   ],
   "links": [
-    { "url": "https://www.lehavre-etretat-tourisme.com/en/", "label": "Le Havre Etretat Tourism (official)", "description": "Official visitor site with maps, kids' activities and cliff walks." },
-    { "url": "https://whc.unesco.org/en/list/1181/", "label": "UNESCO: Le Havre, the City Rebuilt by Auguste Perret", "description": "Why the whole rebuilt concrete city is a World Heritage Site." },
-    { "url": "https://en.wikipedia.org/wiki/%C3%89tretat", "label": "Wikipedia: Etretat", "description": "All about the chalk cliffs, arches and the famous Needle." },
-    { "url": "https://kids.britannica.com/students/article/Bayeux-Tapestry/317141", "label": "Britannica Kids: Bayeux Tapestry", "description": "Kid-level explainer of the 70-metre embroidered story of 1066." },
-    { "url": "https://en.normandie-tourisme.fr/discover/d-day-and-the-battle-of-normandy/dday-landing-beaches/omaha-beach/", "label": "Normandy Tourism: Omaha Beach", "description": "Family-friendly guide to the D-Day landing beaches." },
-    { "url": "https://en.wikipedia.org/wiki/Le_Havre", "label": "Wikipedia: Le Havre", "description": "Background on the port, WWII bombing and modern city." }
+    { "url": "https://whc.unesco.org/en/list/1181/", "label": "UNESCO: Le Havre rebuilt by Auguste Perret", "description": "Why the whole rebuilt concrete city is a World Heritage Site." },
+    { "url": "https://en.wikipedia.org/wiki/Le_Havre", "label": "Le Havre on Wikipedia", "description": "Big-picture facts about the port, its history and the city today." },
+    { "url": "https://kids.kiddle.co/Le_Havre", "label": "Le Havre Facts for Kids (Kiddle)", "description": "A kid-friendly summary of Le Havre." }
   ],
   "sources": [
-    "https://whc.unesco.org/en/list/1181/",
     "https://en.wikipedia.org/wiki/Le_Havre",
+    "https://whc.unesco.org/en/list/1181/",
+    "https://en.wikipedia.org/wiki/%C3%89glise_Saint-Joseph_du_Havre",
+    "https://en.wikipedia.org/wiki/Le_Volcan",
+    "https://en.wikipedia.org/wiki/Museum_of_modern_art_Andr%C3%A9_Malraux_-_MuMa",
     "https://en.wikipedia.org/wiki/%C3%89tretat",
-    "https://en.normandie-tourisme.fr/unmissable-sites/etretat/",
-    "https://en.wikipedia.org/wiki/Bayeux_Tapestry",
-    "https://kids.britannica.com/students/article/Bayeux-Tapestry/317141",
-    "https://en.normandie-tourisme.fr/discover/d-day-and-the-battle-of-normandy/dday-landing-beaches/omaha-beach/",
-    "https://en.wikipedia.org/wiki/Les_Bains_Des_Docks"
+    "https://en.wikipedia.org/wiki/Atlantic_puffin",
+    "https://en.wikipedia.org/wiki/Harbor_seal",
+    "https://kids.kiddle.co/Le_Havre"
   ],
-  "researchedAt": "2026-05-09T12:10:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }

@@ -2,30 +2,48 @@
   "researchId": "grundarfjordur",
   "name": "Grundarfjörður",
   "country": "Iceland",
-  "summary": "Grundarfjörður is a tiny fishing village of about 900 people on Iceland's Snæfellsnes peninsula, often called 'Iceland in Miniature' because it has glaciers, lava, beaches and waterfalls all in one place. Right beside town stands Kirkjufell, the pointy 'arrowhead mountain' from Game of Thrones and the most photographed mountain in Iceland. Nearby sits Snæfellsjökull, a glacier-topped volcano made famous by Jules Verne's Journey to the Center of the Earth.",
+  "summary": "Grundarfjörður is a tiny fishing village on Iceland's western coast, tucked beside a deep fjord and the famous pointy mountain Kirkjufell. Just behind it stands Snæfellsjökull, a volcano with a glacier on top.",
   "funFacts": [
-    "Kirkjufell means 'Church Mountain' and is famous as the spooky 'arrowhead mountain' that the Hound saw beyond the Wall in Game of Thrones seasons 6 and 7.",
-    "Kirkjufell isn't a volcano. It's a nunatak: a stripey stack of lava and sandstone that poked up through Ice Age glaciers like a rocky island in a sea of ice.",
-    "Snæfellsjökull is a 700,000-year-old volcano with a glacier on top, and Jules Verne picked it as the secret entrance to the center of the Earth in his 1864 adventure novel.",
-    "The whole Snæfellsnes peninsula is nicknamed 'Iceland in Miniature' because it squeezes glaciers, black beaches, lava fields, cliffs and fishing villages into one small region.",
-    "Grundarfjörður is one of the only spots in Iceland where killer whales swim close to shore, and the village even has an orca sculpture to celebrate them."
+    "Kirkjufell means 'Church Mountain' and is the most photographed mountain in Iceland, with a pretty waterfall called Kirkjufellsfoss right in front of it.",
+    "Snæfellsjökull is a volcano with a thick cap of ice on top, and a writer named Jules Verne picked it as the secret entrance to the centre of the Earth.",
+    "Pods of killer whales swim into the fjord every winter chasing herring, and the village even has a stone sculpture shaped like an orca to celebrate them.",
+    "The whole peninsula is nicknamed 'Iceland in miniature' because it has glaciers, lava fields, black beaches and waterfalls all squeezed into one small area.",
+    "Only about 900 people live in Grundarfjörður, and the rainbow-painted village church has tall pointy windows that match the shape of Kirkjufell behind it."
   ],
   "thingsToDo": [
-    "Photograph Kirkjufell mountain with the three-step Kirkjufellsfoss waterfall in front of it - one of the most famous views on Earth and right next to the village.",
-    "Drive into Snæfellsjökull National Park to see the glacier-capped volcano that inspired Journey to the Center of the Earth, with lava fields all around.",
-    "Climb Saxhóll crater using the award-winning metal staircase - only 10 to 15 minutes up, with huge ocean and lava-field views from an old volcano top.",
-    "Walk Djúpalónssandur black pebble beach and try lifting the four ancient 'lifting stones' that Icelandic fishermen once used to test their strength.",
-    "Visit tiny Búðakirkja, a coal-black wooden church standing alone on a lava field - a favorite stop for photos and one of Iceland's most unusual buildings.",
-    "Join a whale-watching boat from Grundarfjörður's harbor to look for orcas, humpbacks and white-beaked dolphins that feed in the fjord."
+    "Take a photo of pointy Kirkjufell mountain with Kirkjufellsfoss waterfall splashing in front of it.",
+    "Hop on a whale-watching boat from the harbour to look for killer whales and humpback whales.",
+    "Drive into Snæfellsjökull National Park to see the glacier-topped volcano up close.",
+    "Walk along Djúpalónssandur, a beach covered in smooth, shiny black pebbles instead of sand.",
+    "Crawl through Vatnshellir, an 8,000-year-old lava cave that twists deep underground.",
+    "Wander Grundarfjörður's little harbour and spot the colourful village church above the houses."
+  ],
+  "wildlife": [
+    {
+      "name": "Atlantic Puffin",
+      "description": "Chubby black-and-white seabird with a bright orange beak that nests in clifftop burrows."
+    },
+    {
+      "name": "Arctic Fox",
+      "description": "Small fluffy fox with a thick winter coat that turns snowy white when it snows."
+    },
+    {
+      "name": "Icelandic Horse",
+      "description": "Friendly short-legged horse with a shaggy mane and an extra bouncy way of running called the tölt."
+    },
+    {
+      "name": "Killer Whale",
+      "description": "Big black-and-white ocean hunter that visits the fjord in winter to chase shoals of herring."
+    }
   ],
   "localWord": {
-    "word": "Fjörður",
-    "meaning": "fjord - a long, narrow sea inlet carved by ancient glaciers, like the one Grundarfjörður sits on"
+    "word": "Halló",
+    "meaning": "Hello, in Icelandic — the language spoken in Grundarfjörður."
   },
   "images": [
     {
       "filename": "hero-kirkjufell-mountain.jpg",
-      "alt": "A pointy mountain shaped like a witch's hat stands behind a small waterfall in Iceland.",
+      "alt": "The pointy Kirkjufell mountain rises behind the small Kirkjufellsfoss waterfall in Iceland.",
       "credit": "Sean Afnan (via Unsplash)",
       "license": "CC0 1.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kirkjufellsfoss,_Iceland_(Unsplash_1GrhuyHfzsI).jpg",
@@ -33,51 +51,93 @@
     },
     {
       "filename": "grundarfjordur-village-aerial.jpg",
-      "alt": "A view from above of the tiny seaside village of Grundarfjordur with Kirkjufell mountain nearby.",
+      "alt": "A view from above of the small seaside village of Grundarfjörður with Kirkjufell mountain nearby.",
       "credit": "Chensiyuan",
       "license": "CC BY-SA 4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:1_grundarfj%C3%B6r%C3%B0ur_2017_aerial_pano.jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/1_grundarfj%C3%B6r%C3%B0ur_2017_aerial_pano.jpg"
     },
     {
+      "filename": "grundarfjordur-church.jpg",
+      "alt": "The bright village church of Grundarfjörður with its tall pointy windows.",
+      "credit": "Maarten Visser",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Church_in_Grundarfj%C3%B6r%C3%B0ur,_Iceland_-_UK5A4528_(8619053007).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Church_in_Grundarfj%C3%B6r%C3%B0ur%2C_Iceland_-_UK5A4528_%288619053007%29.jpg"
+    },
+    {
       "filename": "snaefellsjokull-glacier-volcano.jpg",
-      "alt": "A snow-covered volcano with a white glacier on top sits beneath a blue Iceland sky.",
+      "alt": "Snæfellsjökull, a snow-covered volcano with a glacier on top, beneath a blue Iceland sky.",
       "credit": "Steinninn",
       "license": "CC BY 4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sn%C3%A6fellsj%C3%B6kull_2024_(0750).jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Sn%C3%A6fellsj%C3%B6kull_2024_%280750%29.jpg"
     },
     {
-      "filename": "budakirkja-black-church.jpg",
-      "alt": "A tiny black wooden church stands alone on a green field in the Iceland countryside.",
-      "credit": "Javier Olivares Sebastia",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Black_B%C3%BA%C3%B0ir_Church,_(B%C3%BA%C3%B0akirkja).jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Black_B%C3%BA%C3%B0ir_Church%2C_%28B%C3%BA%C3%B0akirkja%29.jpg"
-    },
-    {
       "filename": "djupalonssandur-black-pebble-beach.jpg",
-      "alt": "Smooth shiny black pebbles cover a beach where dark cliffs meet the ocean.",
+      "alt": "Smooth shiny black pebbles cover a beach where dark cliffs meet the ocean at Djúpalónssandur.",
       "credit": "Rob Oo",
       "license": "CC BY 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dj%C3%BApal%C3%B3nssandur_(14453228065).jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Dj%C3%BApal%C3%B3nssandur_%2814453228065%29.jpg"
+    },
+    {
+      "filename": "vatnshellir-lava-cave.jpg",
+      "alt": "Inside Vatnshellir lava cave, with rocky walls lit by torches.",
+      "credit": "David Jones",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vatnshellir_Cave_(45777444622).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Vatnshellir_Cave_%2845777444622%29.jpg"
+    },
+    {
+      "filename": "atlantic-puffin.jpg",
+      "alt": "An Atlantic puffin with a bright orange beak holding a beakful of small silver fish.",
+      "credit": "Chris Down",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atlantic_puffin_with_fresh_catch_of_sand_eels.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Atlantic_puffin_with_fresh_catch_of_sand_eels.jpg"
+    },
+    {
+      "filename": "arctic-fox.jpg",
+      "alt": "An Arctic fox in its snowy white winter coat sits on the snow in Iceland.",
+      "credit": "Jonatan Pie (via Unsplash)",
+      "license": "CC0 1.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vulpes_lagopus_in_Iceland.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Vulpes_lagopus_in_Iceland.jpg"
+    },
+    {
+      "filename": "icelandic-horse.jpg",
+      "alt": "A shaggy Icelandic horse stands in a green field with mountains behind it.",
+      "credit": "todd.vision",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Icelandic_horses_(42442897474).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Icelandic_horses_%2842442897474%29.jpg"
+    },
+    {
+      "filename": "orca-killer-whale.jpg",
+      "alt": "A black-and-white killer whale leaps high out of the sea.",
+      "credit": "Buiobuione",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Buiobuione_Killer_whale_in_Telegraph_Cove_Vancouver_Island_01.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Buiobuione_Killer_whale_in_Telegraph_Cove_Vancouver_Island_01.jpg"
     }
   ],
   "links": [
-    { "url": "https://en.wikipedia.org/wiki/Grundarfj%C3%B6r%C3%B0ur", "label": "Wikipedia: Grundarfjörður", "description": "Background on the village, its harbor, population and history." },
-    { "url": "https://en.wikipedia.org/wiki/Kirkjufell", "label": "Wikipedia: Kirkjufell", "description": "Facts about the 463m 'Church Mountain' and its Game of Thrones role." },
-    { "url": "https://en.wikipedia.org/wiki/Sn%C3%A6fellsj%C3%B6kull", "label": "Wikipedia: Snæfellsjökull", "description": "The glacier-topped volcano that inspired Jules Verne's famous novel." },
-    { "url": "https://www.west.is/en/place/saxholl-crater", "label": "West Iceland: Saxhóll Crater", "description": "Official West Iceland page on the easy-to-climb crater with staircase." },
-    { "url": "https://www.iceland.org/national-parks/snaefellsjokull", "label": "Snæfellsjökull National Park guide", "description": "Kid-friendly overview of the park, beaches, lava fields and wildlife." },
-    { "url": "https://guidetoiceland.is/travel-iceland/drive/grundarfjordur", "label": "Guide to Iceland: Grundarfjörður", "description": "Travel guide with photos, activities and local highlights for visitors." }
+    { "url": "https://kids.kiddle.co/Iceland", "label": "Iceland Facts for Kids (Kiddle)", "description": "A kid-friendly summary of the country Grundarfjörður is in." },
+    { "url": "https://en.wikipedia.org/wiki/Grundarfj%C3%B6r%C3%B0ur", "label": "Grundarfjörður on Wikipedia", "description": "Background on the village, its harbour and history." },
+    { "url": "https://en.wikipedia.org/wiki/Kirkjufell", "label": "Wikipedia: Kirkjufell", "description": "Facts about Iceland's famous pointy 'Church Mountain'." }
   ],
   "sources": [
     "https://en.wikipedia.org/wiki/Grundarfj%C3%B6r%C3%B0ur",
     "https://en.wikipedia.org/wiki/Kirkjufell",
     "https://en.wikipedia.org/wiki/Sn%C3%A6fellsj%C3%B6kull",
-    "https://www.west.is/en/place/saxholl-crater",
-    "https://guidetoiceland.is/travel-iceland/drive/grundarfjordur"
+    "https://en.wikipedia.org/wiki/Sn%C3%A6fellsj%C3%B6kull_National_Park",
+    "https://en.wikipedia.org/wiki/Dj%C3%BApal%C3%B3nssandur",
+    "https://en.wikipedia.org/wiki/Atlantic_puffin",
+    "https://en.wikipedia.org/wiki/Arctic_fox",
+    "https://en.wikipedia.org/wiki/Icelandic_horse",
+    "https://en.wikipedia.org/wiki/Killer_whale",
+    "https://kids.kiddle.co/Iceland"
   ],
-  "researchedAt": "2026-05-09T13:11:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }

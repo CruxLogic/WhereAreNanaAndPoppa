@@ -2,84 +2,141 @@
   "researchId": "manta",
   "name": "Manta",
   "country": "Ecuador",
-  "summary": "Manta is a sunny Pacific coast city in Ecuador where huge fishing boats haul in more tuna than almost anywhere else on Earth. Just up the road in Montecristi, weavers make the world's real Panama hats by hand. Nearby forests echo with howler monkeys and beaches stretch for miles.",
+  "summary": "Manta is a sunny city on Ecuador's Pacific coast, famous for its huge tuna fishing fleet and long sandy beaches. Right next door is Montecristi, the small town where the world's real Panama hats are woven by hand.",
   "funFacts": [
-    "Plot twist: Panama hats aren't from Panama. They're hand-woven from toquilla straw in Montecristi, Ecuador, and UNESCO added the craft to its heritage list in 2012.",
-    "Manta is one of the planet's biggest tuna ports. Fishing boats unload tons of tuna onto Tarqui Beach starting around 6am, and seabirds line up for the leftovers.",
-    "Ecuador is named after the equator, the invisible line splitting Earth in half. A French scientist actually sailed into Manta's port in 1735 to measure exactly where it was.",
-    "The Pacoche forest near Manta is full of howler monkeys whose roars carry over a mile through the trees, sounding more like dinosaurs than monkeys.",
-    "Ecuador doesn't print its own paper money. Since 2000, people pay for everything from ceviche to taxi rides using regular United States dollars."
+    "Panama hats are not actually from Panama at all. They are woven from toquilla straw in Montecristi, just up the road from Manta.",
+    "Manta is one of the biggest tuna fishing ports in the whole world, and you can watch boats unload fish onto the beach at sunrise.",
+    "The forest at Pacoche is full of howler monkeys whose deep roars can travel more than a mile through the trees.",
+    "Isla de la Plata is nicknamed 'the poor man's Galapagos' because you can see blue-footed boobies and frigatebirds there.",
+    "Every year from June to September, huge humpback whales swim past Manta to have their babies in the warm Pacific waters."
   ],
   "thingsToDo": [
-    "Drive 30 minutes to Montecristi and watch artisans weave a single Panama hat from toquilla straw, a process that can take weavers up to several months.",
-    "Visit Tarqui Beach fish market right after sunrise to see fishermen unload tuna, mahi-mahi and even sharks straight from colourful wooden boats onto the sand.",
-    "Hike the Sendero del Mono trail in Pacoche Wildlife Refuge with a local guide to spot howler and capuchin monkeys plus over 250 kinds of birds.",
-    "Splash and build sandcastles at Murcielago Beach, Manta's main city beach, where you can grab fresh coconut water and watch surfers ride Pacific waves.",
-    "Try ceviche or encebollado, a famous coastal soup made from tuna, yuca and onions, at a beachside restaurant. Locals eat it with crunchy plantain chips called chifles.",
-    "Take a 40-minute drive to Crucita Beach and watch paragliders launch off cliffs, soaring over the ocean in one of the world's top paragliding spots."
+    "Splash in the waves and build sandcastles at Murcielago, Manta's main city beach.",
+    "Visit Montecristi nearby and watch weavers turn straw into a real Panama hat.",
+    "Walk the forest trails of Pacoche Wildlife Refuge to spot howler monkeys and bright birds.",
+    "Run on the soft white sand of Los Frailes beach inside Machalilla National Park.",
+    "Take a boat to Isla de la Plata to meet blue-footed boobies waddling on the cliffs.",
+    "Watch paragliders launch off the cliffs at Crucita and float over the ocean."
+  ],
+  "wildlife": [
+    {
+      "name": "Humpback Whale",
+      "description": "Giant ocean animal that swims to Manta's coast each winter to have babies."
+    },
+    {
+      "name": "Blue-footed Booby",
+      "description": "Funny seabird with bright turquoise-blue feet that does a silly dance."
+    },
+    {
+      "name": "Magnificent Frigatebird",
+      "description": "Black seabird where the male puffs up a huge red balloon on his throat."
+    },
+    {
+      "name": "Mantled Howler Monkey",
+      "description": "Furry tree-dwelling monkey whose loud roar carries for miles through the forest."
+    }
   ],
   "localWord": {
-    "word": "Chuta!",
-    "meaning": "An Ecuadorian way to say 'Whoa!' or 'Wow!' when something surprises you, like spotting a monkey or seeing a giant tuna.",
-    "pronunciation": "CHOO-tah"
+    "word": "Hola",
+    "meaning": "Hello, in Spanish, the language people speak in Ecuador."
   },
   "images": [
     {
-      "filename": "manta-harbour-wide-view.jpg",
-      "alt": "A wide panoramic view of the city of Manta, Ecuador and its harbour seen from the sea on a sunny day.",
-      "credit": "Gordon Leggett",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2022-10-04a_Wide_view_of_the_city_of_Manta,_Ecuador.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/2022-10-04a_Wide_view_of_the_city_of_Manta%2C_Ecuador.jpg"
-    },
-    {
-      "filename": "murcielago-beach-fishermen.jpg",
-      "alt": "Fishermen pulling their boats and nets onto the sand at Murcielago Beach in Manta, Ecuador.",
+      "filename": "murcielago-beach.jpg",
+      "alt": "The long sandy curve of Murcielago Beach, Manta's main city beach on the Pacific.",
       "credit": "Cayambe",
       "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ecuador_Manta_Murci%C3%A9lago_fishermen.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Ecuador_Manta_Murci%C3%A9lago_fishermen.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manta_Ec_playa_Murci%C3%A9lago.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Manta_Ec_playa_Murci%C3%A9lago.jpg"
     },
     {
-      "filename": "panama-hats-montecristi.jpg",
-      "alt": "Traditional toquilla straw Panama hats being woven by hand in Montecristi, Ecuador.",
-      "credit": "Sylvain2803",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panama_hats_montecristi.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Panama_hats_montecristi.jpg"
+      "filename": "montecristi-panama-hat.jpg",
+      "alt": "A finely woven toquilla straw Panama hat made by hand in Montecristi, Ecuador.",
+      "credit": "Lamarquezahats",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Optimo_Montecristi_Panama_Hat.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Optimo_Montecristi_Panama_Hat.jpg"
     },
     {
-      "filename": "pacoche-forest-howler-tree.jpg",
-      "alt": "A tall forest tree at Pacoche near Manta where howler monkeys come to rest and feed.",
+      "filename": "pacoche-forest.jpg",
+      "alt": "Tall trees of the Pacoche cloud forest reserve near Manta where howler monkeys live.",
       "credit": "Daniel777",
       "license": "CC BY-SA 3.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bosque_de_Pacoche,_Manta.jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Bosque_de_Pacoche%2C_Manta.jpg"
     },
     {
-      "filename": "manta-malecon-promenade.jpg",
-      "alt": "The colourful Malecon Escenico waterfront promenade in Manta, Ecuador, looking out over the Pacific.",
-      "credit": "Siguifredoagapito",
-      "license": "Public Domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Malecon_Escenico_Manta.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Malecon_Escenico_Manta.jpg"
+      "filename": "crucita-paragliding.jpg",
+      "alt": "A paraglider soars above the cliffs and beach at Crucita, Ecuador.",
+      "credit": "Sebastian De la Cadena",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parapente_Crucita.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Parapente_Crucita.jpg"
+    },
+    {
+      "filename": "los-frailes-beach.jpg",
+      "alt": "The white sand and turquoise water of Los Frailes beach in Machalilla National Park.",
+      "credit": "Danny Buitron",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Playa_de_los_Frailes.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Playa_de_los_Frailes.jpg"
+    },
+    {
+      "filename": "isla-de-la-plata.jpg",
+      "alt": "Visitors and a guide on Isla de la Plata, Ecuador's seabird island off Manta's coast.",
+      "credit": "DickClarkMises",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Isla_de_la_Plata_tour.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Isla_de_la_Plata_tour.jpg"
+    },
+    {
+      "filename": "humpback-whale.jpg",
+      "alt": "A humpback whale leaping out of the ocean.",
+      "credit": "JimJones1971",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Humpback_whale_breaching.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Humpback_whale_breaching.jpg"
+    },
+    {
+      "filename": "blue-footed-booby.jpg",
+      "alt": "A blue-footed booby standing on a rock at Isla de la Plata, showing its bright blue feet.",
+      "credit": "DickClarkMises",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blue-footed_Booby_at_Isla_de_la_Plata.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Blue-footed_Booby_at_Isla_de_la_Plata.jpg"
+    },
+    {
+      "filename": "frigatebird.jpg",
+      "alt": "A male magnificent frigatebird puffing out his bright red throat pouch.",
+      "credit": "ImagePerson",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Lucia_Magnificent_Frigatebird_Fregata_magnificens_male_1067.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/St_Lucia_Magnificent_Frigatebird_Fregata_magnificens_male_1067.jpg"
+    },
+    {
+      "filename": "howler-monkey.jpg",
+      "alt": "A mantled howler monkey carrying its baby on its back in the rainforest.",
+      "credit": "Rhododendrites",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mantled_howler_monkey_and_baby_(81337)2.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Mantled_howler_monkey_and_baby_%2881337%292.jpg"
     }
   ],
   "links": [
-    { "url": "https://en.wikipedia.org/wiki/Manta,_Ecuador", "label": "Wikipedia: Manta, Ecuador", "description": "Overview of Manta's history, tuna industry, beaches and connection to the equator expedition of 1735." },
-    { "url": "https://kids.nationalgeographic.com/geography/countries/article/ecuador", "label": "Nat Geo Kids: Ecuador", "description": "Kid-friendly country guide covering Ecuador's geography, animals, the Andes and Galapagos Islands." },
-    { "url": "https://ich.unesco.org/en/RL/traditional-weaving-of-the-ecuadorian-toquilla-straw-hat-00729", "label": "UNESCO: Toquilla Straw Hat Weaving", "description": "Official UNESCO page about the Ecuadorian craft behind real Panama hats, recognised in 2012." },
-    { "url": "https://pacochelodge.org/", "label": "Pacoche Wildlife Refuge", "description": "Information about the howler monkey forest and Monkey Trail just south of Manta." },
-    { "url": "https://ecuador.travel/en/destinations/manabi/manta/", "label": "Ecuador.travel: Manta", "description": "Ecuador's official tourism site with Manta highlights, beaches and Manabi food." },
-    { "url": "https://kids.kiddle.co/Ciudad_Mitad_del_Mundo", "label": "Kiddle: Middle of the World", "description": "Kid encyclopedia entry about the famous equator monument near Quito, Ecuador." }
+    { "url": "https://kids.kiddle.co/Manta,_Ecuador", "label": "Manta Facts for Kids (Kiddle)", "description": "A short kid-friendly summary of Manta and its tuna port." },
+    { "url": "https://en.wikipedia.org/wiki/Manta,_Ecuador", "label": "Manta on Wikipedia", "description": "Big-picture facts about the city, its beaches and fishing fleet." },
+    { "url": "https://kids.nationalgeographic.com/geography/countries/article/ecuador", "label": "Nat Geo Kids: Ecuador", "description": "An easy guide to Ecuador, its animals and its place on the equator." }
   ],
   "sources": [
     "https://en.wikipedia.org/wiki/Manta,_Ecuador",
-    "https://ich.unesco.org/en/RL/traditional-weaving-of-the-ecuadorian-toquilla-straw-hat-00729",
-    "https://pacochelodge.org/",
-    "https://kids.nationalgeographic.com/geography/countries/article/ecuador",
-    "https://www.britannica.com/place/Ecuador",
-    "https://en.wikipedia.org/wiki/Currency_of_Ecuador"
+    "https://en.wikipedia.org/wiki/Montecristi,_Ecuador",
+    "https://en.wikipedia.org/wiki/Machalilla_National_Park",
+    "https://en.wikipedia.org/wiki/Isla_de_la_Plata",
+    "https://en.wikipedia.org/wiki/Blue-footed_booby",
+    "https://en.wikipedia.org/wiki/Magnificent_frigatebird",
+    "https://en.wikipedia.org/wiki/Mantled_howler",
+    "https://en.wikipedia.org/wiki/Humpback_whale",
+    "https://kids.kiddle.co/Manta,_Ecuador"
   ],
-  "researchedAt": "2026-05-09T14:14:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }

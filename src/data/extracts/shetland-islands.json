@@ -2,34 +2,84 @@
   "researchId": "shetland-islands",
   "name": "Shetland Islands (Lerwick)",
   "country": "United Kingdom",
-  "summary": "Shetland is a wild, windswept group of Scottish islands far up in the North Sea, actually closer to Norway than to London. Vikings ruled here for 500 years, so kids can spot Norse names everywhere, meet tiny tough Shetland ponies, watch puffins on the cliffs, and in summer enjoy the 'simmer dim' when the sun barely sets.",
+  "summary": "Shetland is a windswept group of more than 100 Scottish islands far up in the North Sea, closer to Norway than to London. It is famous for tiny Shetland ponies, Viking history, and clifftops packed with puffins.",
   "funFacts": [
-    "Shetland has more than 100 islands but only 16 have people living on them. The rest belong to sheep, seabirds, and a lot of wind.",
-    "Every January in Lerwick, around 1,000 people dressed as Vikings march with flaming torches and set fire to a giant wooden longship called a galley.",
-    "Shetland ponies are the smallest horse breed in the world, usually about 102cm tall, but they are so strong they once hauled coal in deep British mines.",
-    "Puffins, the orange-beaked 'clowns of the sea', return to Sumburgh Head's clifftop burrows every April after spending eight whole months out at sea.",
-    "In midsummer the sun barely sets at all. The locals call this glowing twilight the 'simmer dim', and it stays light enough to read a book outside at midnight."
+    "Vikings ruled Shetland for 500 years, so kids can spot Norse names on almost every village, hill and bay across the islands.",
+    "Shetland ponies are the smallest horse breed in the world, only about a metre tall, but strong enough to once haul coal from deep mines.",
+    "Every January around 1,000 people in Lerwick dress as Vikings, march with flaming torches, and burn a giant wooden longship called a galley.",
+    "Puffins, the orange-beaked 'clowns of the sea', return to Sumburgh Head's clifftop burrows every April after eight whole months out at sea.",
+    "In midsummer the sun barely sets at all. Locals call this glowing twilight the 'simmer dim' and read books outside at midnight."
   ],
   "thingsToDo": [
-    "Wander Lerwick's Old Town along Commercial Street, peek at The Lodberrie waterfront houses (famous from the TV show Shetland), and shop for chunky Shetland wool jumpers.",
-    "Step inside the free Shetland Museum and Archives on the harbour to see Viking treasures, a Stone Age burial urn, hanging fishing boats, and wild Up Helly Aa costumes.",
-    "Walk up to Clickimin Broch, a 2,000-year-old stone tower right beside a loch, free to climb around and only fifteen minutes from the cruise tender pier.",
-    "Take a tour about an hour south to Sumburgh Head to see thousands of puffins nesting beside the lighthouse path (best from late April through early August).",
-    "Right next to Sumburgh Head, explore Jarlshof's incredible jumble of Stone Age, Iron Age, Viking and medieval ruins poking out of the grass by the sea.",
-    "Meet real Shetland ponies on a 'puffins and ponies' minibus tour, or look for them grazing in fields as you cross the windswept Mainland."
+    "Wander Lerwick's old stone-paved Commercial Street and peek at the Lodberrie waterfront houses jutting straight into the sea.",
+    "Climb around Mousa Broch, a 13-metre Iron Age stone tower on a tiny island, the tallest broch still standing in the world.",
+    "Visit Sumburgh Head lighthouse and watch thousands of puffins nesting in burrows along the grassy clifftop path.",
+    "Explore Jarlshof's incredible jumble of Stone Age, Iron Age, Viking and medieval ruins poking out of the grass by the sea.",
+    "Walk across the sandy tombolo bridge to St Ninian's Isle, one of Europe's largest sand bars connecting an island to land.",
+    "Meet real Shetland ponies on a 'puffins and ponies' minibus tour, or spot them grazing in fields across the windswept Mainland."
+  ],
+  "wildlife": [
+    {
+      "name": "Shetland Pony",
+      "description": "Tiny shaggy horse only a metre tall, with a thick mane built for icy island winters."
+    },
+    {
+      "name": "Atlantic Puffin",
+      "description": "Black and white seabird with a bright orange beak, nesting in clifftop burrows at Sumburgh Head."
+    },
+    {
+      "name": "Eurasian Otter",
+      "description": "Playful brown swimmer that hunts crabs and fish along Shetland's quiet rocky shores."
+    },
+    {
+      "name": "Killer Whale (Orca)",
+      "description": "Huge black and white dolphin often spotted hunting seals from Shetland's clifftop paths."
+    }
   ],
   "localWord": {
     "word": "peerie",
-    "meaning": "small or little (locals say 'peerie bairn' for a small child)"
+    "meaning": "Small or little in the Shetland dialect — locals say 'peerie bairn' for a small child."
   },
   "images": [
     {
-      "filename": "hero-lerwick-harbour.jpg",
-      "alt": "Boats moored at Lerwick Harbour in the Shetland Islands as evening light hits the water.",
-      "credit": "Colin Park",
+      "filename": "hero-lerwick-commercial-street.jpg",
+      "alt": "Old stone houses lining Lerwick's narrow flagstone-paved Commercial Street.",
+      "credit": "Robert W Watt",
       "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Evening_at_Lerwick_Harbour_-_geograph.org.uk_-_6475901.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Evening_at_Lerwick_Harbour_-_geograph.org.uk_-_6475901.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Commercial_Street_(main_street),_Lerwick_(on_a_wet_day)_-_geograph.org.uk_-_2705337.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Commercial_Street_%28main_street%29%2C_Lerwick_%28on_a_wet_day%29_-_geograph.org.uk_-_2705337.jpg"
+    },
+    {
+      "filename": "jarlshof-prehistoric-ruins.jpg",
+      "alt": "Ancient stone ruins of Jarlshof, a 4,000-year-old prehistoric and Norse settlement on the southern tip of Shetland.",
+      "credit": "Chris Allen",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jarlshof_Prehistoric_Site_-_geograph.org.uk_-_1192050.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Jarlshof_Prehistoric_Site_-_geograph.org.uk_-_1192050.jpg"
+    },
+    {
+      "filename": "mousa-broch.jpg",
+      "alt": "The tall round Iron Age stone tower of Mousa Broch standing on the island of Mousa.",
+      "credit": "Langus",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mousa_broch.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Mousa_broch.jpg"
+    },
+    {
+      "filename": "sumburgh-head-lighthouse.jpg",
+      "alt": "The white Sumburgh Head lighthouse perched on top of a steep grassy sea cliff.",
+      "credit": "Nicholas Mutton",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sumburgh_Head_lighthouse_-_geograph.org.uk_-_960856.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Sumburgh_Head_lighthouse_-_geograph.org.uk_-_960856.jpg"
+    },
+    {
+      "filename": "st-ninians-isle-tombolo.jpg",
+      "alt": "A long curving sandy tombolo bridge linking St Ninian's Isle to the Shetland Mainland.",
+      "credit": "Colin Smith",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Europe%27s_Finest_Tombolo_-_geograph.org.uk_-_2035128.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Europe%27s_Finest_Tombolo_-_geograph.org.uk_-_2035128.jpg"
     },
     {
       "filename": "shetland-pony-closeup.jpg",
@@ -48,29 +98,34 @@
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Atlantic_Puffins_at_Sumburgh_Head%2C_Shetland%2C_UK.jpg"
     },
     {
+      "filename": "eurasian-otter.jpg",
+      "alt": "A wet Eurasian otter sitting on the rocks at Toft pier in Shetland.",
+      "credit": "Mike Pennington",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Otter_(Lutra_lutra)_at_Toft_pier_-_geograph.org.uk_-_7094503.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Otter_%28Lutra_lutra%29_at_Toft_pier_-_geograph.org.uk_-_7094503.jpg"
+    },
+    {
+      "filename": "orca-killer-whale.jpg",
+      "alt": "The tall black dorsal fin of a killer whale slicing above the waves.",
+      "credit": "Buiobuione",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dorsal_fin_of_a_killer_whale_-_Sooke_Coast,_Sooke_-_British_Columbia.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Dorsal_fin_of_a_killer_whale_-_Sooke_Coast%2C_Sooke_-_British_Columbia.jpg"
+    },
+    {
       "filename": "up-helly-aa-galley-burning.jpg",
       "alt": "A Viking longship burning in flames during the Up Helly Aa fire festival in Shetland.",
       "credit": "Mike Pennington",
       "license": "CC BY-SA 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_galley_alight,_Norik_Up_Helly_Aa_-_geograph.org.uk_-_1183234.jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/The_galley_alight%2C_Norik_Up_Helly_Aa_-_geograph.org.uk_-_1183234.jpg"
-    },
-    {
-      "filename": "jarlshof-prehistoric-ruins.jpg",
-      "alt": "Ancient stone ruins of Jarlshof, a 4,000-year-old prehistoric village on the southern tip of Shetland.",
-      "credit": "Chris Allen",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jarlshof_Prehistoric_Site_-_geograph.org.uk_-_1192050.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Jarlshof_Prehistoric_Site_-_geograph.org.uk_-_1192050.jpg"
     }
   ],
   "links": [
-    { "url": "https://www.shetland.org/cruise/ports/lerwick", "label": "Shetland.org - Lerwick Cruise Port", "description": "Official Shetland tourism guide for cruise visitors arriving at Lerwick." },
-    { "url": "https://www.shetland.org/visit/do/family/clickimin-broch", "label": "Shetland.org - Clickimin Broch", "description": "Family-friendly guide to climbing around the ancient stone tower in Lerwick." },
-    { "url": "https://en.wikipedia.org/wiki/Up_Helly_Aa", "label": "Wikipedia - Up Helly Aa", "description": "All about Shetland's Viking fire festival and the burning of the longship." },
-    { "url": "https://kids.britannica.com/students/article/Shetland-Islands/277032", "label": "Britannica Kids - Shetland Islands", "description": "Kid-level overview of Shetland's geography, history and Viking past." },
-    { "url": "https://www.rspb.org.uk/days-out/reserves/sumburgh-head", "label": "RSPB - Sumburgh Head", "description": "Where to spot puffins, guillemots and other seabirds at Shetland's southern tip." },
-    { "url": "https://www.historicenvironment.scot/visit-a-place/places/jarlshof-prehistoric-and-norse-settlement/", "label": "Historic Environment Scotland - Jarlshof", "description": "Official site for the 4,000-year-old Jarlshof settlement near Sumburgh." }
+    { "url": "https://kids.britannica.com/students/article/Shetland-Islands/277032", "label": "Britannica Kids: Shetland Islands", "description": "Kid-level overview of Shetland's geography, history and Viking past." },
+    { "url": "https://en.wikipedia.org/wiki/Shetland", "label": "Shetland on Wikipedia", "description": "Big-picture facts about the islands, their wildlife and Norse history." },
+    { "url": "https://kids.kiddle.co/Shetland", "label": "Shetland Facts for Kids (Kiddle)", "description": "A kid-friendly summary of the Shetland Islands." }
   ],
   "sources": [
     "https://en.wikipedia.org/wiki/Shetland",
@@ -78,8 +133,13 @@
     "https://www.shetland.org/cruise/ports/lerwick",
     "https://en.wikipedia.org/wiki/Up_Helly_Aa",
     "https://en.wikipedia.org/wiki/Jarlshof",
+    "https://en.wikipedia.org/wiki/Broch_of_Mousa",
+    "https://en.wikipedia.org/wiki/Sumburgh_Head",
+    "https://en.wikipedia.org/wiki/St_Ninian%27s_Isle",
     "https://en.wikipedia.org/wiki/Shetland_pony",
+    "https://en.wikipedia.org/wiki/Atlantic_puffin",
+    "https://en.wikipedia.org/wiki/Killer_whale",
     "https://en.wikipedia.org/wiki/Shetland_dialect"
   ],
-  "researchedAt": "2026-05-09T13:01:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }

@@ -2,47 +2,92 @@
   "researchId": "reykjavik",
   "name": "Reykjavik",
   "country": "Iceland",
-  "summary": "Reykjavik is the world's northernmost capital city and your gateway to Iceland, the land of fire and ice. Here you can swim in warm geothermal pools, watch geysers shoot boiling water into the sky, chase rainbows over thundering waterfalls, and spot puffins bobbing on the sea. In June and July the sun barely sets, so the sky glows almost all night long.",
+  "summary": "Reykjavik is the capital of Iceland and the world's most northerly capital city. It sits between volcanoes and the cold sea, with colourful houses, steamy hot pools and a tall rocket-shaped church above the rooftops.",
   "funFacts": [
-    "Iceland sits on top of two giant tectonic plates (North American and Eurasian) that are slowly tearing apart by a few millimeters every single year.",
-    "The Strokkur geyser erupts roughly every 6 to 10 minutes, blasting boiling water up to 20 meters (65 feet) high — a natural rocket fountain.",
-    "Iceland is home to more than 130 volcanoes, and around 30 of them are still active, making the island one giant volcanic hotspot.",
-    "Thingvellir National Park hosted the world's first parliament, the Althing, way back in 930 AD — that's almost 1,100 years ago.",
-    "Icelandic horses have five gaits instead of the usual three, including the super-smooth tolt that feels like gliding on a magic carpet."
+    "Hallgrimskirkja church is Reykjavik's tallest building at 74.5 metres, and its pointy concrete tower is shaped like cooled lava and basalt rocks.",
+    "Iceland sits on top of two giant tectonic plates that are slowly pulling apart, so the island grows a few millimetres wider every single year.",
+    "The Strokkur geyser near Reykjavik blasts boiling water up to 20 metres into the sky every six to ten minutes, like a natural rocket fountain.",
+    "Reykjavik's tap water is heated underground by volcanoes, so people fill their swimming pools and even melt the snow off pavements with it.",
+    "In June the sun barely sets in Reykjavik, so kids can still see daylight at midnight during the long summer 'white nights'."
   ],
   "thingsToDo": [
-    "Ride the elevator up Hallgrimskirkja church tower, Iceland's tallest building at 74.5 meters, for sweeping views over Reykjavik's colorful rooftops.",
-    "Take a Golden Circle tour to see Thingvellir's tectonic rift, watch Strokkur geyser explode, and feel Gullfoss waterfall's mighty spray.",
-    "Hop on a whale watching boat from the Old Harbour — over 90% of summer tours spot whales, dolphins, or playful porpoises.",
-    "Explore Harpa concert hall and play with light reflections inside its dazzling honeycomb glass walls overlooking the harbour.",
-    "Float in the milky-blue Blue Lagoon geothermal spa, where steamy mineral water stays warm even when it's snowing outside.",
-    "Visit the Whales of Iceland museum to walk beside life-sized models of 23 whale species, including a giant blue whale."
+    "Ride the lift up Hallgrimskirkja's tall rocket-like tower for sweeping views over Reykjavik's colourful rooftops.",
+    "Walk along the harbour to the shiny silver Sun Voyager sculpture that looks like a Viking longship.",
+    "Explore Harpa concert hall and watch sunlight bounce around its giant honeycomb glass walls.",
+    "Float in the warm milky-blue water of the Blue Lagoon, even when snow is falling around you.",
+    "Take a Golden Circle day trip to see Strokkur geyser erupt and giant Gullfoss waterfall thunder by.",
+    "Hop on a whale-watching boat from the Old Harbour to spot humpback and minke whales out at sea."
   ],
-  "localWord": { "word": "Takk", "meaning": "Thank you" },
+  "wildlife": [
+    {
+      "name": "Icelandic Horse",
+      "description": "Small fluffy horse with a thick mane and five gaits, including a super-smooth one called the tolt."
+    },
+    {
+      "name": "Atlantic Puffin",
+      "description": "Black-and-white seabird with a bright orange beak that nests in burrows on Iceland's cliffs."
+    },
+    {
+      "name": "Arctic Fox",
+      "description": "Iceland's only native land mammal, with a thick white winter coat to hide in the snow."
+    },
+    {
+      "name": "Humpback Whale",
+      "description": "Huge ocean giant that breaches and slaps the water on whale-watching trips near Reykjavik."
+    }
+  ],
+  "localWord": {
+    "word": "Halló",
+    "meaning": "Hello in Icelandic — easy, it sounds like the English word."
+  },
   "images": [
     {
       "filename": "hero-hallgrimskirkja.jpg",
-      "alt": "The tall pointy Hallgrimskirkja church in Reykjavik with a Viking statue out front.",
+      "alt": "The tall rocket-like tower of Hallgrimskirkja church rising above Reykjavik.",
       "credit": "sergejf (Flickr)",
       "license": "CC BY-SA 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hallgr%C3%ADmskirkja_(16282067598).jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Hallgr%C3%ADmskirkja_%2816282067598%29.jpg"
     },
     {
+      "filename": "sun-voyager-sculpture.jpg",
+      "alt": "The shiny silver Sun Voyager sculpture shaped like a Viking longship beside Reykjavik harbour.",
+      "credit": "Mario Falcetti",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Islanda-_Reykjav%C3%ADk-_S%C3%B3lfari%C3%B0_(Sun_Voyager).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Islanda-_Reykjav%C3%ADk-_S%C3%B3lfari%C3%B0_%28Sun_Voyager%29.jpg"
+    },
+    {
+      "filename": "harpa-concert-hall.jpg",
+      "alt": "Harpa concert hall in Reykjavik, with its honeycomb glass walls reflecting the sky.",
+      "credit": "Matthew Bellemare",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Harpa_(38859105685).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Harpa_%2838859105685%29.jpg"
+    },
+    {
+      "filename": "perlan-dome.jpg",
+      "alt": "The shiny glass dome of Perlan sitting on top of huge hot-water tanks above Reykjavik.",
+      "credit": "Ray Swi-hymn",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20190623_Perlan_8841_(48469867211).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/20190623_Perlan_8841_%2848469867211%29.jpg"
+    },
+    {
+      "filename": "blue-lagoon.jpg",
+      "alt": "Steamy milky-blue water of the Blue Lagoon geothermal spa with black lava rocks around it.",
+      "credit": "cjuneau (Flickr)",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blue_Lagoon,_Iceland_(7164586033).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Blue_Lagoon%2C_Iceland_%287164586033%29.jpg"
+    },
+    {
       "filename": "strokkur-geyser.jpg",
-      "alt": "A giant jet of hot water shooting up from Strokkur geyser in Iceland.",
+      "alt": "A giant jet of hot water shooting up from Strokkur geyser on Iceland's Golden Circle.",
       "credit": "Andreas Tille",
       "license": "CC BY-SA 3.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Strokkur_geyser_eruption,_close-up_view.jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Strokkur_geyser_eruption%2C_close-up_view.jpg"
-    },
-    {
-      "filename": "gullfoss-waterfall.jpg",
-      "alt": "The huge two-step Gullfoss waterfall thundering through an Icelandic canyon.",
-      "credit": "Megan McCormick",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gullfoss,_Iceland.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gullfoss%2C_Iceland.jpg"
     },
     {
       "filename": "icelandic-horse.jpg",
@@ -53,29 +98,46 @@
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Icelandic_horse.jpg"
     },
     {
-      "filename": "sun-voyager-sculpture.jpg",
-      "alt": "The shiny silver Sun Voyager sculpture shaped like a Viking ship by the Reykjavik shore.",
-      "credit": "Mario Falcetti",
-      "license": "CC BY 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Islanda-_Reykjav%C3%ADk-_S%C3%B3lfari%C3%B0_(Sun_Voyager).jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Islanda-_Reykjav%C3%ADk-_S%C3%B3lfari%C3%B0_%28Sun_Voyager%29.jpg"
+      "filename": "atlantic-puffin.jpg",
+      "alt": "An Atlantic puffin with a bright orange beak standing on a grassy cliff in Iceland.",
+      "credit": "Chris 73 / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atlantic_Puffin_Iceland.JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Atlantic_Puffin_Iceland.JPG"
+    },
+    {
+      "filename": "arctic-fox.jpg",
+      "alt": "A snowy-white Arctic fox standing on snow in Iceland.",
+      "credit": "Jonathan Pie",
+      "license": "CC0 1.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vulpes_lagopus_in_Iceland_(cropped).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Vulpes_lagopus_in_Iceland_%28cropped%29.jpg"
+    },
+    {
+      "filename": "humpback-whale.jpg",
+      "alt": "A humpback whale arching out of the sea on a deep dive.",
+      "credit": "U.S. Fish and Wildlife Service",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Humpback_whale_breaching_in_southeast_alaska.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Humpback_whale_breaching_in_southeast_alaska.jpg"
     }
   ],
   "links": [
-    { "url": "https://visitreykjavik.is/", "label": "Visit Reykjavik (official)", "description": "The city's official tourism site with maps, family activities, and event listings." },
-    { "url": "https://www.visiticeland.com/", "label": "Visit Iceland (official)", "description": "Iceland's national tourism board covering nature, wildlife, and adventures." },
-    { "url": "https://en.wikipedia.org/wiki/Reykjav%C3%ADk", "label": "Reykjavik on Wikipedia", "description": "Background on the world's northernmost capital, its history, and its people." },
-    { "url": "https://kids.britannica.com/kids/article/Iceland/345874", "label": "Britannica Kids: Iceland", "description": "Kid-friendly article about Iceland's geography, volcanoes, and culture." },
-    { "url": "https://whc.unesco.org/en/list/1152/", "label": "UNESCO: Thingvellir National Park", "description": "Why this rift valley between two continents is a World Heritage Site." },
-    { "url": "https://www.hallgrimskirkja.is/en/", "label": "Hallgrimskirkja Church", "description": "Official site of Reykjavik's iconic tower with viewing platform info." }
+    { "url": "https://kids.britannica.com/kids/article/Iceland/345874", "label": "Britannica Kids: Iceland", "description": "A short, easy-read article about Iceland's land and people." },
+    { "url": "https://en.wikipedia.org/wiki/Reykjav%C3%ADk", "label": "Reykjavik on Wikipedia", "description": "Big-picture facts about the city, its harbour and history." },
+    { "url": "https://kids.kiddle.co/Reykjav%C3%ADk", "label": "Reykjavik Facts for Kids (Kiddle)", "description": "A kid-friendly summary of Reykjavik." }
   ],
   "sources": [
     "https://en.wikipedia.org/wiki/Reykjav%C3%ADk",
-    "https://visitreykjavik.is/",
-    "https://www.visiticeland.com/",
-    "https://www.iceland.org/wildlife/icelandic-horse",
-    "https://whc.unesco.org/en/list/1152/",
-    "https://www.horsesoficeland.is/the-icelandic-horse-gaits/"
+    "https://en.wikipedia.org/wiki/Hallgr%C3%ADmskirkja",
+    "https://en.wikipedia.org/wiki/Harpa_(concert_hall)",
+    "https://en.wikipedia.org/wiki/Perlan",
+    "https://en.wikipedia.org/wiki/Blue_Lagoon_(geothermal_spa)",
+    "https://en.wikipedia.org/wiki/Strokkur",
+    "https://en.wikipedia.org/wiki/Icelandic_horse",
+    "https://en.wikipedia.org/wiki/Atlantic_puffin",
+    "https://en.wikipedia.org/wiki/Arctic_fox",
+    "https://kids.kiddle.co/Reykjav%C3%ADk"
   ],
-  "researchedAt": "2026-05-09T13:07:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }

@@ -2,25 +2,43 @@
   "researchId": "la-coruna",
   "name": "A Coruña",
   "country": "Spain",
-  "summary": "A Coruña is a sparkly seaside city on a peninsula in green Galicia, northwest Spain, where Atlantic waves crash against rocky cliffs. Its biggest superstar is the Tower of Hercules, a Roman lighthouse that has been guiding ships for almost 2,000 years and still works today! From here, pilgrims can also follow an ancient walking path called the Camino to the famous cathedral in Santiago de Compostela.",
+  "summary": "A Coruña is a windy seaside city in Galicia, northwest Spain, where Atlantic waves crash on rocky cliffs. It is famous for the Tower of Hercules, a Roman lighthouse that has flashed its light to ships for almost 2,000 years.",
   "funFacts": [
-    "The Tower of Hercules is the world's oldest working lighthouse. Romans built it over 1,900 years ago and its light still warns ships at sea every night.",
-    "People in Galicia speak their own language called Galego, which sounds a bit like a mix of Spanish and Portuguese. 'Hello' is 'Ola'.",
-    "A Coruña is nicknamed the Crystal City because hundreds of houses have white glass balconies that sparkle in the sun and shelter people from the rainy Atlantic weather.",
-    "An old legend says the hero Hercules battled a giant named Geryon for three days here, then buried the giant's head and built a city on top.",
-    "The famous local dish is pulpo (octopus), boiled, snipped with scissors onto a wooden plate, sprinkled with paprika and sea salt, and eaten with toothpicks!"
+    "The Tower of Hercules is the world's oldest working lighthouse — Romans built it nearly 1,900 years ago and its light still warns ships every night.",
+    "A Coruña is nicknamed the 'Crystal City' because hundreds of houses have white glass balconies that sparkle in the sun and shelter people from rainy weather.",
+    "An old legend says the hero Hercules battled a giant called Geryon for three days here, then buried the giant's head and built a city on top.",
+    "The local treat is pulpo — boiled octopus snipped with scissors onto a wooden plate, sprinkled with paprika and salt, and eaten with toothpicks.",
+    "People in Galicia speak their own language called Galego, which sounds a bit like a mix of Spanish and Portuguese, and they say 'Ola' for hello."
   ],
   "thingsToDo": [
-    "Climb the spiral staircase inside the Tower of Hercules, the world's oldest working Roman lighthouse, for huge views over the Atlantic Ocean and rocky coast.",
-    "Meet sharks, octopuses and a friendly grey seal named Nemo at the Aquarium Finisterrae, which has touch pools and an underwater Nautilus room.",
-    "Explore the human body with hands-on experiments at the Domus museum (also called Casa do Home), a curving science building right above the sea.",
-    "Watch a planetarium show and balance the giant Foucault pendulum at the Casa de las Ciencias science museum inside Santa Margarita park.",
-    "Wander Praza de María Pita, the huge arcaded main square named after a local heroine, then walk along the glass-galleried Marina to Riazor beach for sandcastles.",
-    "Take a train or coach about an hour east to Santiago de Compostela to see the giant cathedral where Camino pilgrims arrive after walking hundreds of kilometres."
+    "Climb the spiral staircase up the Tower of Hercules for huge views over the wild Atlantic Ocean.",
+    "Meet sharks, octopuses and a friendly seal at the Aquarium Finisterrae's touch pools and underwater Nautilus room.",
+    "Build sandcastles and paddle in the rolling waves at Riazor Beach right in the middle of the city.",
+    "Walk along the glass-galleried Marina to spot hundreds of sparkling white balconies above the seafront.",
+    "Cross the bridge to the Castle of San Antón, an old island fortress that is now a museum of pirates and treasures.",
+    "Wander Plaza de María Pita, the huge arcaded square named after a brave local heroine, and watch street musicians play."
+  ],
+  "wildlife": [
+    {
+      "name": "Atlantic Puffin",
+      "description": "Small black-and-white seabird with a stripy orange beak that nests on wild Atlantic cliffs."
+    },
+    {
+      "name": "Common Octopus",
+      "description": "Eight-armed sea creature called pulpo here, very clever and Galicia's most famous dish."
+    },
+    {
+      "name": "Gooseneck Barnacle",
+      "description": "Strange shellfish called percebes that cling to rocks battered by big crashing waves."
+    },
+    {
+      "name": "Common Dolphin",
+      "description": "Sleek grey dolphin with yellow side stripes that leaps through waves off the Galician coast."
+    }
   ],
   "localWord": {
     "word": "Ola",
-    "meaning": "Hello (in Galician)"
+    "meaning": "Hello, in Galego (Galician), the language spoken in A Coruña."
   },
   "images": [
     {
@@ -32,20 +50,20 @@
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Torre_de_H%C3%A9rcules%2C_La_Coru%C3%B1a%2C_Espa%C3%B1a%2C_2015-09-25%2C_DD_35-37_HDR.jpg"
     },
     {
-      "filename": "galerias-marina-a-coruna.jpg",
-      "alt": "A long row of white glass-fronted balconies sparkles along A Coruña's Marina seafront, the city's famous galerías.",
-      "credit": "kdperico (via Flickr)",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Galer%C3%ADas_A_Marina,_A_Coru%C3%B1a.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Galer%C3%ADas_A_Marina,_A_Coru%C3%B1a.jpg"
-    },
-    {
       "filename": "plaza-maria-pita.jpg",
       "alt": "Plaza de María Pita's grand arcaded square sits in front of A Coruña's elegant city hall with its blue domes.",
       "credit": "Diego Delso, delso.photo",
       "license": "CC BY-SA 4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plaza_de_Mar%C3%ADa_Pita,_La_Coru%C3%B1a,_Espa%C3%B1a,_2015-09-25,_DD_91.jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Plaza_de_Mar%C3%ADa_Pita%2C_La_Coru%C3%B1a%2C_Espa%C3%B1a%2C_2015-09-25%2C_DD_91.jpg"
+    },
+    {
+      "filename": "galerias-marina-a-coruna.jpg",
+      "alt": "A long row of white glass-fronted balconies sparkles along A Coruña's Marina seafront, the city's famous galerías.",
+      "credit": "kdperico (via Flickr)",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Galer%C3%ADas_A_Marina,_A_Coru%C3%B1a.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Galer%C3%ADas_A_Marina,_A_Coru%C3%B1a.jpg"
     },
     {
       "filename": "riazor-beach.jpg",
@@ -56,31 +74,69 @@
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Playa_de_Riazor%2C_La_Coru%C3%B1a%2C_Espa%C3%B1a%2C_2015-09-24%2C_DD_06.JPG"
     },
     {
-      "filename": "santiago-de-compostela-cathedral.jpg",
-      "alt": "The towering stone west façade of Santiago de Compostela Cathedral rises above the Obradoiro square.",
-      "credit": "Fernando",
+      "filename": "aquarium-finisterrae.jpg",
+      "alt": "The seaside entrance to A Coruña's Aquarium Finisterrae beside a rocky bay.",
+      "credit": "Marcus (Wikimedia Commons user Marcus news)",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Entrada_del_Aquarium_Finisterrae.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Entrada_del_Aquarium_Finisterrae.jpg"
+    },
+    {
+      "filename": "castle-san-anton.jpg",
+      "alt": "The stone Castle of San Antón sits on its little island in A Coruña harbour.",
+      "credit": "Diego Delso, delso.photo",
       "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Santiago_cathedral_2021.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Santiago_cathedral_2021.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castillo_de_San_Ant%C3%B3n,_La_Coru%C3%B1a,_Espa%C3%B1a,_2015-09-25,_DD_66.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Castillo_de_San_Ant%C3%B3n%2C_La_Coru%C3%B1a%2C_Espa%C3%B1a%2C_2015-09-25%2C_DD_66.jpg"
+    },
+    {
+      "filename": "atlantic-puffin.jpg",
+      "alt": "An Atlantic puffin with a colourful orange beak stands on a grassy clifftop.",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Puffin_(Fratercula_arctica).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Puffin_%28Fratercula_arctica%29.jpg"
+    },
+    {
+      "filename": "common-octopus.jpg",
+      "alt": "A common octopus stretches its eight long arms across a rocky seabed.",
+      "credit": "albert kok",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Octopus2.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Octopus2.jpg"
+    },
+    {
+      "filename": "gooseneck-barnacles.jpg",
+      "alt": "A cluster of gooseneck barnacles, called percebes, clings tightly to a wave-splashed rock.",
+      "credit": "Hans Hillewaert",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pollicipes_pollicipes.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Pollicipes_pollicipes.jpg"
+    },
+    {
+      "filename": "common-dolphin.jpg",
+      "alt": "A common dolphin leaps clear of the ocean, showing its yellow side stripe.",
+      "credit": "NOAA NMFS",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_dolphin_noaa.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Common_dolphin_noaa.jpg"
     }
   ],
   "links": [
-    { "url": "https://www.turismocoruna.com/en", "label": "Turismo A Coruña (official)", "description": "Official city tourism site with maps, opening times and family-friendly itineraries." },
-    { "url": "https://whc.unesco.org/en/list/1312/", "label": "UNESCO: Tower of Hercules", "description": "World Heritage page explaining why the Roman lighthouse is so special." },
-    { "url": "https://en.wikipedia.org/wiki/Tower_of_Hercules", "label": "Wikipedia: Tower of Hercules", "description": "Background on the lighthouse's age, height, myths and modern restoration." },
-    { "url": "https://www.coruna.gal/mc2/es/aquarium-finisterrae", "label": "Aquarium Finisterrae", "description": "Official aquarium site with the seal pool, Nautilus room and touch tanks." },
-    { "url": "https://www.santiagoturismo.com/", "label": "Santiago de Compostela tourism", "description": "Plan a day-trip to the cathedral and meet pilgrims finishing the Camino." },
-    { "url": "https://en.wikipedia.org/wiki/Camino_de_Santiago", "label": "Wikipedia: Camino de Santiago", "description": "Kid-readable overview of the famous walking pilgrimage routes across Spain." }
+    { "url": "https://whc.unesco.org/en/list/1312/", "label": "UNESCO: Tower of Hercules", "description": "World Heritage page on the world's oldest working Roman lighthouse." },
+    { "url": "https://en.wikipedia.org/wiki/A_Coru%C3%B1a", "label": "A Coruña on Wikipedia", "description": "Big-picture facts about the city, its harbour, language and history." },
+    { "url": "https://kids.kiddle.co/A_Coru%C3%B1a", "label": "A Coruña Facts for Kids (Kiddle)", "description": "A kid-friendly summary of the Galician seaside city." }
   ],
   "sources": [
+    "https://en.wikipedia.org/wiki/A_Coru%C3%B1a",
     "https://en.wikipedia.org/wiki/Tower_of_Hercules",
     "https://whc.unesco.org/en/list/1312/",
-    "https://www.britannica.com/topic/Tower-of-Hercules",
-    "https://www.turismo.gal/que-visitar/destacados/torre-de-hercules/historia-da-torre?langId=en_US",
     "https://en.wikipedia.org/wiki/Aquarium_Finisterrae",
+    "https://en.wikipedia.org/wiki/Castle_of_San_Ant%C3%B3n",
     "https://en.wikipedia.org/wiki/Polbo_%C3%A1_feira",
-    "https://whc.unesco.org/en/list/669/",
-    "https://en.wikipedia.org/wiki/Camino_de_Santiago"
+    "https://en.wikipedia.org/wiki/Pollicipes_pollicipes",
+    "https://en.wikipedia.org/wiki/Atlantic_puffin",
+    "https://kids.kiddle.co/A_Coru%C3%B1a"
   ],
-  "researchedAt": "2026-05-09T12:05:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }

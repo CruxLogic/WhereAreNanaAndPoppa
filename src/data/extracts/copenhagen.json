@@ -2,25 +2,43 @@
   "researchId": "copenhagen",
   "name": "Copenhagen",
   "country": "Denmark",
-  "summary": "Copenhagen is Denmark's capital, where Hans Christian Andersen wrote The Little Mermaid and The Ugly Duckling. You'll find Tivoli Gardens, the world's second-oldest amusement park, plus the famous Little Mermaid statue by the harbour. It's the bike capital of the world, and LEGO bricks were invented here too.",
+  "summary": "Copenhagen is the capital of Denmark, a city of canals, castles and bicycles. It is the home of LEGO and of Hans Christian Andersen, the storyteller who wrote The Little Mermaid and The Ugly Duckling.",
   "funFacts": [
-    "Tivoli Gardens opened in 1843 and inspired Walt Disney when he was dreaming up Disneyland, so every Disney park has a little Copenhagen magic in it.",
-    "Copenhageners own around five times more bicycles than cars, and on busy days more bikes than cars roll through the city centre.",
-    "LEGO was invented in Denmark in 1932, and the name comes from two Danish words, 'leg godt', which mean 'play well'.",
-    "Hans Christian Andersen, born in Denmark, wrote The Little Mermaid, The Ugly Duckling, Thumbelina and The Princess and the Pea.",
-    "The Little Mermaid statue is tiny, only about 1.25 metres tall, and many visitors are surprised by how small the world-famous bronze girl really is."
+    "Tivoli Gardens opened in 1843, making it one of the oldest amusement parks in the world, and it inspired Walt Disney when he was dreaming up Disneyland.",
+    "Copenhageners own about five times more bicycles than cars, and on busy days more bikes than cars roll through the city centre.",
+    "LEGO bricks were invented in Denmark in 1932, and the name comes from two Danish words, 'leg godt', which mean 'play well'.",
+    "The Round Tower has a curving brick ramp inside instead of stairs, wide enough that a horse and carriage can spiral all the way to the top.",
+    "The Little Mermaid statue is much smaller than people expect, only about 1.25 metres tall, sitting on a rock right by the harbour."
   ],
   "thingsToDo": [
-    "Spin through Tivoli Gardens, riding the wooden roller coaster from 1914 and the Flying Trunk ride that visits 32 Hans Christian Andersen fairy tales.",
-    "Hop on a canal boat from Nyhavn, gliding past the rainbow row of old sailor houses where Hans Christian Andersen once lived at number 67.",
-    "Walk along the harbour to meet the Little Mermaid statue, then explore the star-shaped Kastellet fortress with its grassy ramparts nearby.",
-    "Climb the Round Tower's curving brick ramp, wide enough for a horse, up to a rooftop platform with sweeping views over the old city.",
-    "Visit Rosenborg Castle to peek at Denmark's real crown jewels and royal swords, then run around the King's Garden park outside.",
-    "Pop into the giant LEGO flagship store on Stroget shopping street to build mini-figures and spot huge brick sculptures."
+    "Spin through Tivoli Gardens and ride the wooden roller coaster from 1914, one of the oldest still running anywhere.",
+    "Hop on a canal boat from Nyhavn, gliding past the rainbow row of old sailor houses by the water.",
+    "Walk along the harbour to meet the Little Mermaid statue, then explore the star-shaped Kastellet fortress nearby.",
+    "Climb the Round Tower's curving brick ramp up to a rooftop platform with sweeping views over the old city.",
+    "Visit Rosenborg Castle to peek at Denmark's real crown jewels, then run around the King's Garden park outside.",
+    "Cross the bridge to Christiansborg Palace, where the Queen welcomes guests and you can climb the tallest tower in town."
+  ],
+  "wildlife": [
+    {
+      "name": "Red Deer",
+      "description": "Denmark's biggest wild animal, with rusty-brown fur and huge branching antlers on the stags."
+    },
+    {
+      "name": "Harbour Seal",
+      "description": "Plump grey-spotted seal that pops its whiskery head out of the water around Danish coasts."
+    },
+    {
+      "name": "Mute Swan",
+      "description": "Denmark's national bird, a snowy-white swan with an orange beak and graceful curved neck."
+    },
+    {
+      "name": "White-tailed Eagle",
+      "description": "Huge brown eagle with a snowy white tail, soaring over Danish lakes and forests."
+    }
   ],
   "localWord": {
     "word": "Hej",
-    "meaning": "Hello (used by everyone, all day long)",
+    "meaning": "Hello in Danish, used by everyone, all day long.",
     "pronunciation": "hi"
   },
   "images": [
@@ -41,6 +59,14 @@
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Blue_Hour_at_Tivoli_%2834139793764%29.jpg"
     },
     {
+      "filename": "little-mermaid.jpg",
+      "alt": "The Little Mermaid bronze statue sitting on her rock by Copenhagen's harbour.",
+      "credit": "klndonnelly",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Little_Mermaid_home.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/The_Little_Mermaid_home.jpg"
+    },
+    {
       "filename": "rosenborg-castle.jpg",
       "alt": "The red-brick Renaissance towers of Rosenborg Castle rise above its leafy royal gardens.",
       "credit": "Kallerna",
@@ -57,29 +83,62 @@
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Copenhagen_-_Rundet%C3%A5rn_-_2013.jpg"
     },
     {
-      "filename": "copenhagen-cyclists.jpg",
-      "alt": "Lots of people ride bikes through Kongens Nytorv square showing Copenhagen's bicycle culture.",
-      "credit": "Johan Wessman / News Oresund",
-      "license": "CC BY 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20191213_cyklister_vid_Kongens_Nytorv_Kopenhamn_0139_(49215402887).jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/20191213_cyklister_vid_Kongens_Nytorv_Kopenhamn_0139_%2849215402887%29.jpg"
+      "filename": "christiansborg-palace.jpg",
+      "alt": "Christiansborg Palace seen across the canal, with its tall green spire rising above the rooftops.",
+      "credit": "Julian Herzog",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Christiansborg_Slot_Copenhagen_2014_01.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Christiansborg_Slot_Copenhagen_2014_01.jpg"
+    },
+    {
+      "filename": "red-deer.jpg",
+      "alt": "A herd of red deer grazing in the Lille Vildmose nature reserve in Denmark.",
+      "credit": "Lille Vildmose Centret",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lille_Vildmose_(Kronhjorte).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Lille_Vildmose_%28Kronhjorte%29.jpg"
+    },
+    {
+      "filename": "harbour-seal.jpg",
+      "alt": "A whiskery harbour seal resting on a rock with water all around.",
+      "credit": "Andreas Trepte",
+      "license": "CC BY-SA 2.5",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_Seal_Phoca_vitulina.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Common_Seal_Phoca_vitulina.jpg"
+    },
+    {
+      "filename": "mute-swan.jpg",
+      "alt": "A snowy-white mute swan in flight with its long neck stretched forward.",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mute_swan_in_flight.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Mute_swan_in_flight.jpg"
+    },
+    {
+      "filename": "white-tailed-eagle.jpg",
+      "alt": "A white-tailed eagle gliding low over the water with wings spread wide.",
+      "credit": "Yathin S Krishnappa",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Haliaeetus_albicilla_(Svolv%C3%A6r,_2012).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Haliaeetus_albicilla_%28Svolv%C3%A6r%2C_2012%29.jpg"
     }
   ],
   "links": [
-    { "url": "https://www.visitcopenhagen.com/copenhagen/planning/the-little-mermaid-gdk586951", "label": "VisitCopenhagen: The Little Mermaid", "description": "Official city guide page about the famous statue and how to find her on the harbour walk." },
-    { "url": "https://www.tivoli.dk/en", "label": "Tivoli Gardens", "description": "Official site for the world's second-oldest amusement park, with rides, gardens and fairy-tale shows." },
-    { "url": "https://en.wikipedia.org/wiki/Copenhagen", "label": "Wikipedia: Copenhagen", "description": "Big-picture facts about the city, its history, harbour and Danish royal family." },
-    { "url": "https://kids.kiddle.co/The_Little_Mermaid_(statue)", "label": "Kiddle: Little Mermaid statue", "description": "Kid-friendly encyclopedia page about the statue and Hans Christian Andersen's fairy tale." },
-    { "url": "https://www.visitdenmark.com/denmark/highlights/design-and-architecture/lego", "label": "VisitDenmark: LEGO", "description": "Official tourism page on Denmark's most famous toy and where to play with bricks." },
-    { "url": "https://www.nationalgeographic.com/travel/article/family-trip-to-home-of-lego-billund-denmark", "label": "National Geographic: Family trip to LEGO's home", "description": "Family travel article about Billund, the Danish town where LEGO was invented." }
+    { "url": "https://kids.kiddle.co/Copenhagen", "label": "Copenhagen Facts for Kids (Kiddle)", "description": "A kid-friendly summary of Copenhagen and its sights." },
+    { "url": "https://en.wikipedia.org/wiki/Copenhagen", "label": "Copenhagen on Wikipedia", "description": "Big-picture facts about the city, its harbour and Danish royal family." },
+    { "url": "https://www.tivoli.dk/en", "label": "Tivoli Gardens", "description": "Official site for one of the world's oldest amusement parks." }
   ],
   "sources": [
+    "https://en.wikipedia.org/wiki/Copenhagen",
+    "https://en.wikipedia.org/wiki/Nyhavn",
+    "https://en.wikipedia.org/wiki/Tivoli_Gardens",
     "https://en.wikipedia.org/wiki/The_Little_Mermaid_(statue)",
-    "https://en.wikipedia.org/wiki/The_Lego_Group",
+    "https://en.wikipedia.org/wiki/Rosenborg_Castle",
+    "https://en.wikipedia.org/wiki/Rundet%C3%A5rn",
+    "https://en.wikipedia.org/wiki/Christiansborg_Palace",
     "https://en.wikipedia.org/wiki/Cycling_in_Copenhagen",
-    "https://www.visitcopenhagen.com/copenhagen/planning/the-little-mermaid-gdk586951",
-    "https://www.visitdenmark.com/denmark/highlights/design-and-architecture/lego",
-    "https://kids.kiddle.co/The_Little_Mermaid_(statue)"
+    "https://kids.kiddle.co/Copenhagen"
   ],
-  "researchedAt": "2026-05-09T12:46:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }
+

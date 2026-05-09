@@ -2,27 +2,48 @@
   "researchId": "tallinn",
   "name": "Tallinn",
   "country": "Estonia",
-  "summary": "Tallinn is like stepping into a real fairy tale! Estonia's capital has a UNESCO-listed Old Town with cobbled streets, towering city walls, and the hilltop Toompea Castle. It's also one of the most digital countries on Earth, where people even vote online.",
+  "summary": "Tallinn is the capital of Estonia, a small country on the chilly Baltic Sea. It is famous for its walled medieval Old Town with red-roofed towers, cobbled lanes and a tall pink castle on a hill.",
   "funFacts": [
-    "Tallinn's Old Town became a UNESCO World Heritage Site in 1997 and still has city walls dotted with around 26 medieval defence towers you can spot.",
-    "Skype, the app that let people video-call each other for free, was invented right here in Tallinn back in 2003 by Estonian programmers.",
-    "Estonia is so digital that people file taxes, sign documents, and even vote online - kids call it e-Estonia, and it only takes minutes.",
-    "Town Hall Square hides Europe's oldest continuously running pharmacy, Raeapteek, open since 1422 - it once sold powdered unicorn horn and burnt hedgehog!",
-    "The Estonian language has no future tense and no words for 'he' or 'she' - everyone is just 'tema', and you guess the time from context."
+    "Tallinn's Old Town is more than 800 years old and still has thick stone walls and around 26 round towers, like a real-life fairy tale castle town.",
+    "On Town Hall Square stands Raeapteek, the oldest pharmacy in Europe still working today — it has been selling medicines since the year 1422.",
+    "Skype, the app that lets people video-call each other for free, was invented by programmers right here in Tallinn back in 2003.",
+    "Estonian forests are full of brown bears, wolves and shy lynx — there are more bears in tiny Estonia than people in some big cities.",
+    "Estonia is so digital that grown-ups can vote in elections using a computer, and almost every kid learns about coding at school."
   ],
   "thingsToDo": [
-    "Walk 15 minutes from the cruise port through Fat Margaret's Tower into the cobbled Old Town and find the warrior weather vane Old Thomas above Town Hall.",
-    "Climb Toompea Hill to the pink castle (now Estonia's Parliament) and pop up to Patkuli viewing platform's 157 steps for a postcard view of red rooftops.",
-    "Step inside Raeapteek on Town Hall Square, Europe's oldest pharmacy, where a tiny museum shows weird medieval medicines like marzipan, mummy powder, and snake potions.",
-    "Explore Lennusadam Seaplane Harbour's giant hangars to climb aboard the real 1936 submarine Lembit, try sub simulators, and follow the cat-shaped family trail.",
-    "Wander Telliskivi Creative City, a colourful old factory district full of street art, food trucks, and quirky shops - super photogenic and just outside Old Town.",
-    "Hop a quick tram to Kadriorg Park and the Kumu Art Museum, a curvy modern building hiding centuries of Estonian art plus playful kids' workshops."
+    "Walk around the medieval Old Town walls and count the chunky red-roofed towers.",
+    "Climb Toompea Hill to see the pink castle and the tall Pikk Hermann tower flying Estonia's flag.",
+    "Step into the cobbled Town Hall Square and visit Raeapteek, Europe's oldest pharmacy.",
+    "Peek inside the huge Alexander Nevsky Cathedral with its black onion-shaped domes.",
+    "Climb the spire of St Olaf's Church for a sky-high view over the red rooftops.",
+    "Wander the flower gardens of pink Kadriorg Palace built by a Russian tsar long ago."
   ],
-  "localWord": { "word": "Tere", "meaning": "Hello", "pronunciation": "TEH-reh" },
+  "wildlife": [
+    {
+      "name": "Brown Bear",
+      "description": "Big shaggy forest bear that loves berries, fish and a long winter sleep."
+    },
+    {
+      "name": "Eurasian Lynx",
+      "description": "Spotted wild cat with tufted ears that quietly hunts in Estonia's snowy woods."
+    },
+    {
+      "name": "White Stork",
+      "description": "Tall white bird with long red legs that builds huge nests on rooftops."
+    },
+    {
+      "name": "Grey Seal",
+      "description": "Whiskery sea mammal that flops on Baltic rocks and dives for fish."
+    }
+  ],
+  "localWord": {
+    "word": "Tere",
+    "meaning": "Hello, in Estonian — say it like TEH-reh."
+  },
   "images": [
     {
       "filename": "hero-tallinn-old-town-panorama.jpg",
-      "alt": "A sweeping view of Tallinn's Old Town with red-tiled rooftops, church spires, and stone walls seen from Toompea hill.",
+      "alt": "A sweeping view of Tallinn's Old Town with red-tiled rooftops, church spires and stone walls.",
       "credit": "Diego Delso (Poco a poco)",
       "license": "CC BY-SA 3.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vistas_panor%C3%A1micas_desde_Toompea,_Tallinn,_Estonia,_2012-08-05,_DD_16.JPG",
@@ -30,11 +51,19 @@
     },
     {
       "filename": "tallinn-town-hall-square.jpg",
-      "alt": "The cobbled Town Hall Square in Tallinn surrounded by colourful old houses and the tall Gothic town hall tower.",
+      "alt": "The cobbled Town Hall Square in Tallinn with colourful old houses and the tall Gothic town hall tower.",
       "credit": "Pierre Andre Leclercq",
       "license": "CC BY-SA 4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tallinn_Raekoja_plats_(4).JPG",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Tallinn_Raekoja_plats_%284%29.JPG"
+    },
+    {
+      "filename": "tallinn-pikk-hermann.jpg",
+      "alt": "The tall Pikk Hermann tower of Toompea Castle flying the blue, black and white Estonian flag.",
+      "credit": "Diego Delso (Poco a poco)",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pikk_Hermann,_Tallin,_Estonia,_2012-08-05,_DD_02.JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Pikk_Hermann%2C_Tallin%2C_Estonia%2C_2012-08-05%2C_DD_02.JPG"
     },
     {
       "filename": "tallinn-alexander-nevsky-cathedral.jpg",
@@ -59,24 +88,55 @@
       "license": "CC BY-SA 3.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palacio_presidencial_Kadriorg,_Tallinn,_Estonia,_2012-08-12,_DD_10.JPG",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Palacio_presidencial_Kadriorg%2C_Tallinn%2C_Estonia%2C_2012-08-12%2C_DD_10.JPG"
+    },
+    {
+      "filename": "brown-bear.jpg",
+      "alt": "A shaggy brown bear running across grass.",
+      "credit": "Malene Thyssen",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brown_bear_(Ursus_arctos_arctos)_running.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Brown_bear_%28Ursus_arctos_arctos%29_running.jpg"
+    },
+    {
+      "filename": "eurasian-lynx.jpg",
+      "alt": "A Eurasian lynx with spotted fur and tufted ears watching from the forest.",
+      "credit": "mpiet",
+      "license": "CC BY-SA 2.0 DE",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lynx_lynx2.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Lynx_lynx2.jpg"
+    },
+    {
+      "filename": "white-stork.jpg",
+      "alt": "A white stork with long red legs standing in a meadow.",
+      "credit": "Andre Karwath (Aka)",
+      "license": "CC BY-SA 2.5",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ciconia_ciconia_(aka).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Ciconia_ciconia_%28aka%29.jpg"
+    },
+    {
+      "filename": "grey-seal.jpg",
+      "alt": "A whiskery grey seal resting on a rock in the Baltic Sea near Estonia.",
+      "credit": "Jaan Minakov",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grey_Seal,_Estonia_2.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Grey_Seal%2C_Estonia_2.jpg"
     }
   ],
   "links": [
-    { "url": "https://www.visittallinn.ee/eng", "label": "Visit Tallinn (official)", "description": "Tallinn's official tourism site with neighbourhood guides and the Tallinn Card." },
-    { "url": "https://en.wikipedia.org/wiki/Tallinn", "label": "Wikipedia: Tallinn", "description": "Big-picture facts on Tallinn's history, Old Town, and modern Estonia." },
-    { "url": "https://meremuuseum.ee/lennusadam/en/for-children-and-families/", "label": "Lennusadam for Families", "description": "Kids' page for the Seaplane Harbour with submarine, simulators, and family trail." },
-    { "url": "https://raeapteek.ee/en/our-story/", "label": "Raeapteek Pharmacy Museum", "description": "Story of Europe's oldest working pharmacy, open since 1422 in Town Hall Square." },
-    { "url": "https://visitestonia.com/en/patkuli-viewing-platform", "label": "Patkuli Viewing Platform", "description": "Official guide to the best lookout for Old Town's red rooftops and city walls." },
-    { "url": "https://e-estonia.com/", "label": "e-Estonia", "description": "How Estonia became one of the world's most digital countries, with online voting and schools." }
+    { "url": "https://kids.kiddle.co/Tallinn", "label": "Tallinn Facts for Kids (Kiddle)", "description": "A kid-friendly summary of Tallinn." },
+    { "url": "https://en.wikipedia.org/wiki/Tallinn", "label": "Tallinn on Wikipedia", "description": "Big-picture facts about the city, its Old Town and people." },
+    { "url": "https://kids.kiddle.co/Estonia", "label": "Estonia Facts for Kids (Kiddle)", "description": "Easy-read facts about Estonia, its forests and animals." }
   ],
   "sources": [
     "https://en.wikipedia.org/wiki/Tallinn",
-    "https://www.visittallinn.ee/eng",
+    "https://en.wikipedia.org/wiki/Toompea_Castle",
+    "https://en.wikipedia.org/wiki/Alexander_Nevsky_Cathedral,_Tallinn",
     "https://en.wikipedia.org/wiki/Raeapteek",
-    "https://en.wikipedia.org/wiki/Seaplane_Harbour",
-    "https://en.wikipedia.org/wiki/Toompea",
-    "https://en.wikipedia.org/wiki/Estonian_language",
-    "https://e-estonia.com/"
+    "https://en.wikipedia.org/wiki/Kadriorg_Palace",
+    "https://en.wikipedia.org/wiki/St._Olaf%27s_Church,_Tallinn",
+    "https://en.wikipedia.org/wiki/Wildlife_of_Estonia",
+    "https://en.wikipedia.org/wiki/Grey_seal",
+    "https://kids.kiddle.co/Tallinn"
   ],
-  "researchedAt": "2026-05-09T12:36:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }

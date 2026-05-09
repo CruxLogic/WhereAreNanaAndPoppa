@@ -1,27 +1,44 @@
 {
   "researchId": "halifax",
   "name": "Halifax",
-  "country": "Canada (Nova Scotia)",
-  "summary": "Halifax is the biggest city in Atlantic Canada, perched around a huge harbour where cruise ships dock right downtown. You can climb the star-shaped Citadel hill above the city, hear cannons boom at noon, visit Titanic survivors' artifacts and graves, and snap photos at Peggy's Cove lighthouse. Don't leave without trying a donair, the city's wonderfully messy official food.",
+  "country": "Canada",
+  "summary": "Halifax is the biggest city in Atlantic Canada, built around one of the world's largest natural harbours. It is famous for its star-shaped hilltop fort, its booming noon cannon and its strong links to the Titanic.",
   "funFacts": [
-    "Halifax has one of the world's largest natural harbours, deep enough for giant cruise ships and warships to glide right up to the downtown boardwalk.",
-    "When the Titanic sank in 1912, rescue ships brought victims to Halifax. Today 121 are buried at Fairview Lawn Cemetery, more than anywhere else on Earth.",
-    "Soldiers have fired the Citadel's noon gun almost every single day since 1857. You can set your watch by the boom, which echoes across the whole harbour.",
-    "In 1917 a ship loaded with explosives blew up in Halifax Harbour. It was the biggest human-made blast before the atomic bomb, shattering windows 80 km away.",
-    "The donair, Halifax's official food, was invented here in the 1970s. It's spiced beef wrapped in flatbread with a sweet, garlicky sauce made from condensed milk."
+    "Soldiers have fired the noon gun on Citadel Hill almost every single day since 1857, and the boom echoes right across Halifax Harbour.",
+    "When the Titanic sank in 1912, rescue ships brought the lost to Halifax, and 121 people are buried together at Fairview Lawn Cemetery.",
+    "In 1917 a ship full of explosives blew up in the harbour. It was the biggest human-made blast on Earth before the atomic bomb.",
+    "The Old Town Clock at the foot of the Citadel has been ticking since 1803 and is one of the oldest working clocks in North America.",
+    "Halifax invented the donair, a messy spiced-beef wrap with sweet garlicky sauce, and made it the city's official food in 2015."
   ],
   "thingsToDo": [
-    "Climb Citadel Hill to explore the star-shaped Fort George, watch kilted Highlanders drill, and cover your ears for the famous noon gun cannon firing.",
-    "Visit the Maritime Museum of the Atlantic on the waterfront to see real Titanic deckchairs, the Unknown Child's tiny shoes, and Halifax Explosion artifacts.",
-    "Take a 50-minute drive or tour bus to Peggy's Cove to scramble across pink granite boulders around Canada's most photographed lighthouse.",
-    "Wander the flowerbeds, fountains, and bandstand at Halifax Public Gardens, a Victorian park opened in 1867 just minutes from the cruise terminal.",
-    "Step inside Pier 21, where nearly one million immigrants first set foot in Canada between 1928 and 1971, and find their stories on giant interactive screens.",
-    "Stroll the harbourwalk boardwalk for ice cream, buskers, and a saltwater wave-machine, then grab a donair from a classic spot like Tony's or King of Donair."
+    "Climb up to the star-shaped Halifax Citadel and cover your ears for the famous noon gun cannon firing.",
+    "Wander the colourful flowerbeds and Victorian bandstand at the leafy Halifax Public Gardens.",
+    "See real Titanic deckchairs and the Unknown Child's tiny shoes at the Maritime Museum of the Atlantic.",
+    "Drive out to Peggy's Cove to scramble across pink granite boulders around Canada's most photographed lighthouse.",
+    "Stroll the Halifax Waterfront Boardwalk for ice cream, buskers and a giant wooden wave to climb on.",
+    "Look up at the Old Town Clock, an unusual three-tiered wooden clock tower that has chimed since 1803."
+  ],
+  "wildlife": [
+    {
+      "name": "Humpback Whale",
+      "description": "Giant ocean animal that swims past Nova Scotia each summer to feed in cool Atlantic waters."
+    },
+    {
+      "name": "Harbour Seal",
+      "description": "Chubby spotted swimmer often spotted bobbing its head out of Halifax Harbour."
+    },
+    {
+      "name": "Atlantic Puffin",
+      "description": "Small black-and-white seabird with a brightly striped beak, sometimes called a sea parrot."
+    },
+    {
+      "name": "Bald Eagle",
+      "description": "Huge brown eagle with a snowy white head that soars over Nova Scotia's coast."
+    }
   ],
   "localWord": {
     "word": "Kwe'",
-    "meaning": "Hello in Mi'kmaq, the language of Nova Scotia's Indigenous people",
-    "pronunciation": "kway"
+    "meaning": "Hello, in Mi'kmaw, the language of Nova Scotia's First People."
   },
   "images": [
     {
@@ -41,14 +58,6 @@
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Halifax_Citadel.jpg"
     },
     {
-      "filename": "peggys-cove-lighthouse.jpg",
-      "alt": "The bright red and white Peggy's Cove lighthouse standing on smooth granite rocks beside the blue Atlantic Ocean.",
-      "credit": "Dionysos1970",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peggy%27s_Cove_Lighthouse_3784.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Peggy%27s_Cove_Lighthouse_3784.jpg"
-    },
-    {
       "filename": "halifax-public-gardens.jpg",
       "alt": "The colourful Victorian gates at the entrance of the leafy Halifax Public Gardens.",
       "credit": "Hayden Soloviev",
@@ -63,24 +72,72 @@
       "license": "CC BY-SA 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maritime_Museum_of_the_Atlantic_(Halifax_NS,_April_1_2007)_(442463055).jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Maritime_Museum_of_the_Atlantic_%28Halifax_NS%2C_April_1_2007%29_%28442463055%29.jpg"
+    },
+    {
+      "filename": "peggys-cove-lighthouse.jpg",
+      "alt": "The bright red and white Peggy's Cove lighthouse standing on smooth granite rocks beside the blue Atlantic Ocean.",
+      "credit": "Dionysos1970",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peggy%27s_Cove_Lighthouse_3784.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Peggy%27s_Cove_Lighthouse_3784.jpg"
+    },
+    {
+      "filename": "old-town-clock.jpg",
+      "alt": "The white three-tiered Old Town Clock tower on the slope of Citadel Hill in Halifax.",
+      "credit": "Hunter Bloor",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Halifax_Town_Clock_2022.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Halifax_Town_Clock_2022.jpg"
+    },
+    {
+      "filename": "humpback-whale.jpg",
+      "alt": "A humpback whale breaching out of the ocean.",
+      "credit": "JimJones1971",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Humpback_whale_breaching.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Humpback_whale_breaching.jpg"
+    },
+    {
+      "filename": "harbour-seal.jpg",
+      "alt": "A spotted harbour seal resting on a rock by the sea.",
+      "credit": "Seenicksphotography",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_Seal.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Common_Seal.jpg"
+    },
+    {
+      "filename": "atlantic-puffin.jpg",
+      "alt": "An Atlantic puffin standing on a grassy clifftop, showing its bright orange and yellow striped beak.",
+      "credit": "Andreas Trepte",
+      "license": "CC BY-SA 2.5",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atlantic_Puffin_Fratercula_arctica.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Atlantic_Puffin_Fratercula_arctica.jpg"
+    },
+    {
+      "filename": "bald-eagle.jpg",
+      "alt": "A bald eagle in flight, with a snowy white head and big brown wings spread wide.",
+      "credit": "Andy Morffew",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bald_Eagle_(Haliaeetus_leucocephalus)_Kachemak_Bay,_Alaska.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bald_Eagle_%28Haliaeetus_leucocephalus%29_Kachemak_Bay%2C_Alaska.jpg"
     }
   ],
   "links": [
-    { "url": "https://discoverhalifaxns.com/", "label": "Discover Halifax (official tourism)", "description": "Official visitor site with maps, events, and family attractions around the cruise port." },
-    { "url": "https://parks.canada.ca/lhn-nhs/ns/halifax", "label": "Halifax Citadel National Historic Site", "description": "Parks Canada page on the star-shaped fort, noon gun, and dress-up activities for kids." },
-    { "url": "https://maritimemuseum.novascotia.ca/what-see-do/titanic-unsinkable-ship-and-halifax", "label": "Maritime Museum: Titanic exhibit", "description": "The museum's own page on its permanent Titanic gallery and Halifax's role in the disaster." },
-    { "url": "https://en.wikipedia.org/wiki/Halifax_Explosion", "label": "Wikipedia: Halifax Explosion", "description": "Full background on the 1917 blast that shaped modern Halifax." },
-    { "url": "https://kids.kiddle.co/Halifax_Explosion", "label": "Kiddle: Halifax Explosion for kids", "description": "Plain-language version of the Halifax Explosion story written for younger readers." },
-    { "url": "https://pier21.ca/", "label": "Canadian Museum of Immigration at Pier 21", "description": "Stories of one million newcomers who arrived through Halifax's seaport." }
+    { "url": "https://kids.kiddle.co/Halifax,_Nova_Scotia", "label": "Halifax Facts for Kids (Kiddle)", "description": "A kid-friendly summary of Halifax, its harbour and history." },
+    { "url": "https://en.wikipedia.org/wiki/Halifax,_Nova_Scotia", "label": "Halifax on Wikipedia", "description": "Big-picture facts about the city, its harbour and people." },
+    { "url": "https://parks.canada.ca/lhn-nhs/ns/halifax", "label": "Halifax Citadel National Historic Site", "description": "Parks Canada page on the star-shaped fort and its noon gun." }
   ],
   "sources": [
+    "https://en.wikipedia.org/wiki/Halifax,_Nova_Scotia",
+    "https://en.wikipedia.org/wiki/Halifax_Citadel",
+    "https://en.wikipedia.org/wiki/Halifax_Public_Gardens",
+    "https://en.wikipedia.org/wiki/Maritime_Museum_of_the_Atlantic",
+    "https://en.wikipedia.org/wiki/Peggy%27s_Cove",
+    "https://en.wikipedia.org/wiki/Old_Town_Clock",
     "https://en.wikipedia.org/wiki/Halifax_Explosion",
-    "https://www.britannica.com/event/Halifax-explosion",
-    "https://maritimemuseum.novascotia.ca/what-see-do/titanic-unsinkable-ship-and-halifax",
-    "https://en.wikipedia.org/wiki/Fairview_Lawn_Cemetery",
-    "https://parks.canada.ca/lhn-nhs/ns/halifax/activ/histoire-vivante-living-history",
-    "https://en.wikipedia.org/wiki/Donair",
-    "https://en.wikipedia.org/wiki/Canadian_Museum_of_Immigration_at_Pier_21"
+    "https://en.wikipedia.org/wiki/Atlantic_puffin",
+    "https://en.wikipedia.org/wiki/Bald_eagle",
+    "https://kids.kiddle.co/Halifax,_Nova_Scotia"
   ],
-  "researchedAt": "2026-05-09T13:52:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }

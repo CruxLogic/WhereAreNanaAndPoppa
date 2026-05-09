@@ -2,31 +2,49 @@
   "researchId": "cape-town",
   "name": "Cape Town",
   "country": "South Africa",
-  "summary": "Cape Town sits at the southern tip of Africa, watched over by flat-topped Table Mountain and lapped by two oceans. You can ride a spinning cable car up to the clouds, meet wild African penguins waddling on a beach, and visit the island where Nelson Mandela was once held prisoner.",
+  "summary": "Cape Town sits at the southern tip of Africa, watched over by flat-topped Table Mountain. It is famous for its harbour, wild African penguins on the beach, and the prison island where Nelson Mandela was once held.",
   "funFacts": [
-    "Table Mountain often wears a fluffy white cloud called the 'tablecloth' — a legend says it comes from a smoking contest between a pirate and the devil.",
-    "Cape Town belongs to the Cape Floral Kingdom, the smallest but richest of Earth's six plant kingdoms, with around 9,000 plant species, most found nowhere else.",
-    "About 2,000 to 3,000 African penguins live at Boulders Beach, waddling between giant granite rocks and braying like little donkeys at sunset.",
-    "Nelson Mandela was locked up on Robben Island for 18 years in a tiny cell barely bigger than a bathroom — today the prison is a museum run by former inmates.",
-    "South Africa has 11 official languages, so you might hear Xhosa clicks, Afrikaans, Zulu and English all spoken on the same busy street."
+    "Table Mountain is so flat on top it looks like a giant table, and it often wears a fluffy white cloud that locals call 'the tablecloth'.",
+    "Around 2,000 wild African penguins live at Boulders Beach near Cape Town, and they bray like little donkeys when calling each other.",
+    "Nelson Mandela was kept prisoner on Robben Island for 18 years inside a tiny stone cell barely bigger than a bathroom.",
+    "Cape Town has the world's smallest plant kingdom right on its doorstep, with around 9,000 kinds of flower, most found nowhere else on Earth.",
+    "South Africa has 11 official languages, so on one Cape Town street you might hear Xhosa clicks, Afrikaans, Zulu and English all at once."
   ],
   "thingsToDo": [
-    "Wander the V&A Waterfront right where your ship docks, watching seals splash, harbour boats bob, and street performers entertain shoppers near Table Mountain views.",
-    "Ride the spinning Table Mountain Cableway — the floor rotates 360 degrees so everyone gets a panoramic view of the city, ocean and Robben Island.",
-    "Tiptoe along the boardwalks at Boulders Beach in Simon's Town to watch wild African penguins nesting, swimming and sunbathing among smooth granite rocks.",
-    "Catch the ferry to Robben Island for a tour led by a former political prisoner, then peek inside Nelson Mandela's tiny prison cell.",
-    "Float through the towering kelp forest tank at the Two Oceans Aquarium, then meet rockhopper penguins, ragged-tooth sharks and a giant green sea turtle.",
-    "Explore Kirstenbosch Botanical Garden's Boomslang treetop walkway, hunting for proteas, sugarbirds and rock hyraxes (called 'dassies') along the slopes."
+    "Ride the spinning cable car up Table Mountain to peek at the city from above the clouds.",
+    "Wander the V&A Waterfront harbour to watch boats, seals and street performers.",
+    "Tiptoe along the boardwalks at Boulders Beach to meet wild African penguins.",
+    "Catch a ferry to Robben Island and step inside Nelson Mandela's tiny prison cell.",
+    "Drive to Cape of Good Hope, the dramatic cliffs at the very tip of Africa.",
+    "Walk the curvy Boomslang treetop bridge in Kirstenbosch Botanical Garden."
+  ],
+  "wildlife": [
+    {
+      "name": "African Penguin",
+      "description": "Black-and-white seabird that waddles on Boulders Beach and brays like a donkey."
+    },
+    {
+      "name": "Cape Fur Seal",
+      "description": "Whiskery brown seal that splashes around the harbour and barks loudly on the rocks."
+    },
+    {
+      "name": "Southern Right Whale",
+      "description": "Huge gentle whale that swims close to Cape Town's coast every winter to have babies."
+    },
+    {
+      "name": "Dassie",
+      "description": "Furry guinea-pig-shaped 'rock rabbit' that suns itself on Table Mountain boulders."
+    }
   ],
   "localWord": {
     "word": "Molo",
-    "meaning": "Hello (to one person) in Xhosa, one of South Africa's most-spoken languages",
+    "meaning": "Hello to one person, in Xhosa, one of South Africa's most-spoken languages.",
     "pronunciation": "MOH-loh"
   },
   "images": [
     {
       "filename": "hero-table-mountain.jpg",
-      "alt": "Table Mountain rising over Cape Town's city bowl and harbour at golden hour.",
+      "alt": "Flat-topped Table Mountain rises above Cape Town's city bowl and harbour at golden hour.",
       "credit": "Discott",
       "license": "CC BY-SA 4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cape_Town_view_from_Cape_Sun.jpg",
@@ -49,40 +67,78 @@
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Boulders_Beach_Penguin_Colony_4.jpg"
     },
     {
-      "filename": "bo-kaap-houses.jpg",
-      "alt": "A row of brightly painted pink, blue, and yellow houses on a Bo-Kaap street.",
-      "credit": "Bernard DUPONT",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bo-Kaap_colourful_houses_(30114819980).jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Bo-Kaap_colourful_houses_%2830114819980%29.jpg"
+      "filename": "robben-island.jpg",
+      "alt": "Robben Island sits in Table Bay, seen from the slopes of Table Mountain.",
+      "credit": "Andreas Tusche",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cape_Town_and_Robben_Island_seen_from_Table_Mountain.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Cape_Town_and_Robben_Island_seen_from_Table_Mountain.jpg"
     },
     {
-      "filename": "cape-point.jpg",
-      "alt": "Dramatic cliffs and blue ocean at Cape Point where two seas meet.",
-      "credit": "Kallerna",
+      "filename": "cape-of-good-hope.jpg",
+      "alt": "Rocky cliffs and blue ocean at the Cape of Good Hope, the southern tip of Africa.",
+      "credit": "Zaian",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cape_of_Good_Hope_(Zaian_2008).JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Cape_of_Good_Hope_%28Zaian_2008%29.JPG"
+    },
+    {
+      "filename": "kirstenbosch-garden.jpg",
+      "alt": "Wide view of Kirstenbosch Botanical Garden with Table Mountain rising behind.",
+      "credit": "Didier B (Sam67fr)",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kirstenbosch_-_View_from_the_Botanical_Gardens.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Kirstenbosch_-_View_from_the_Botanical_Gardens.jpg"
+    },
+    {
+      "filename": "african-penguin.jpg",
+      "alt": "Closeup of an African penguin showing its black-and-white feathers and pink eye patch.",
+      "credit": "Dr. P. Dee Boersma / U.S. Fish and Wildlife Service",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:African_penguin_(Spheniscus_demersus)_FWS_14209.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/African_penguin_%28Spheniscus_demersus%29_FWS_14209.jpg"
+    },
+    {
+      "filename": "cape-fur-seal.jpg",
+      "alt": "A whiskery Cape fur seal rests on rocks at Hout Bay near Cape Town.",
+      "credit": "Martinvl",
       "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cape_Point_panorama_2019.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Cape_Point_panorama_2019.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cape_Fur_Seal_(Arctocephalus_pusillus),_Hout_Bay.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Cape_Fur_Seal_%28Arctocephalus_pusillus%29%2C_Hout_Bay.jpg"
+    },
+    {
+      "filename": "southern-right-whale.jpg",
+      "alt": "A southern right whale floats at the ocean surface with its calf resting on top.",
+      "credit": "Gregory \"Slobirdr\" Smith",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Southern_Right_Whale_(Eubalaena_australis)_(16172696979).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Southern_Right_Whale_%28Eubalaena_australis%29_%2816172696979%29.jpg"
+    },
+    {
+      "filename": "dassie-rock-hyrax.jpg",
+      "alt": "A furry dassie (rock hyrax) sitting on a rock at Cape Point.",
+      "credit": "David Stanley",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rock_Hyrax_or_Dassie_(16605169249).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Rock_Hyrax_or_Dassie_%2816605169249%29.jpg"
     }
   ],
   "links": [
-    { "url": "https://www.capetown.travel/", "label": "Cape Town Tourism (official)", "description": "Official tourism site with family attractions, events and travel tips." },
-    { "url": "https://kids.kiddle.co/Table_Mountain", "label": "Table Mountain facts for kids", "description": "Easy-read encyclopedia article about the famous flat-topped mountain." },
-    { "url": "https://www.aquarium.co.za/", "label": "Two Oceans Aquarium", "description": "Sharks, penguins, kelp forests and a children's play centre at the V&A Waterfront." },
-    { "url": "https://www.sanparks.org/parks/table-mountain/what-to-do/attractions/boulders-penguin-colony", "label": "Boulders Penguin Colony (SANParks)", "description": "Official park page about visiting the African penguins at Boulders Beach." },
-    { "url": "https://www.robben-island.org.za/", "label": "Robben Island Museum", "description": "UNESCO site and museum where Nelson Mandela was imprisoned." },
-    { "url": "https://www.sanbi.org/gardens/kirstenbosch/", "label": "Kirstenbosch National Botanical Garden", "description": "World-famous garden showcasing South Africa's unique plants beneath Table Mountain." }
+    { "url": "https://kids.kiddle.co/Cape_Town", "label": "Cape Town Facts for Kids (Kiddle)", "description": "A short, easy-read overview of Cape Town." },
+    { "url": "https://kids.kiddle.co/Table_Mountain", "label": "Table Mountain for Kids", "description": "Kid-friendly facts about the famous flat-topped mountain." },
+    { "url": "https://en.wikipedia.org/wiki/Cape_Town", "label": "Cape Town on Wikipedia", "description": "Big-picture facts about the city, its harbour and people." }
   ],
   "sources": [
-    "https://kids.kiddle.co/Cape_Town",
-    "https://kids.kiddle.co/Table_Mountain",
-    "https://kids.britannica.com/students/article/Table-Mountain/605204",
-    "https://www.capetown.travel/get-to-know-the-african-penguins-at-boulders-beach/",
-    "https://www.sanparks.org/parks/table-mountain/what-to-do/attractions/boulders-penguin-colony",
+    "https://en.wikipedia.org/wiki/Cape_Town",
+    "https://en.wikipedia.org/wiki/Table_Mountain",
     "https://en.wikipedia.org/wiki/Robben_Island",
-    "https://whc.unesco.org/en/list/916/",
-    "https://www.sanbi.org/gardens/kirstenbosch/",
-    "https://www.aquarium.co.za/"
+    "https://en.wikipedia.org/wiki/Cape_of_Good_Hope",
+    "https://en.wikipedia.org/wiki/Boulders_Beach",
+    "https://en.wikipedia.org/wiki/Kirstenbosch_National_Botanical_Garden",
+    "https://en.wikipedia.org/wiki/African_penguin",
+    "https://en.wikipedia.org/wiki/Southern_right_whale",
+    "https://en.wikipedia.org/wiki/Rock_hyrax",
+    "https://kids.kiddle.co/Cape_Town"
   ],
-  "researchedAt": "2026-05-09T11:43:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }

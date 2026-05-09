@@ -2,31 +2,49 @@
   "researchId": "adelaide",
   "name": "Adelaide",
   "country": "Australia",
-  "summary": "Adelaide is a friendly seaside city on the Kaurna Plains, famous for festivals, parks, beaches, and giant pandas at its zoo. Your cruise ship docks at Outer Harbor, and a quick train ride whisks you to a city packed with adventures. Pack sunscreen, a hat, and curiosity!",
+  "summary": "Adelaide is the capital of South Australia, sitting between green hills and a long sandy coast. It is famous for its parklands, its grand old churches, and Adelaide Zoo, the only place in the southern hemisphere with giant pandas.",
   "funFacts": [
-    "Adelaide Zoo is the only place in the Southern Hemisphere with giant pandas. Xing Qiu and Yi Lan arrived in 2024 and munch bamboo all day long.",
-    "Adelaide is nicknamed the City of Churches because early settlers from many religions built beautiful steeples that still poke above the rooftops today.",
-    "Locals call it the Festival City. Huge events like WOMADelaide, Fringe, and Illuminate fill the streets with lights, music, dancers, and giant puppets.",
-    "Adelaide sits on Kaurna Country, looked after by the Kaurna people for tens of thousands of years before any ship from Europe ever sailed in.",
-    "The world-famous Barossa Valley wine region is just up the road, but Adelaide grows fruit too. Beerenberg Farm lets families pick juicy strawberries."
+    "Adelaide is nicknamed the 'City of Churches' because early settlers built dozens of beautiful church steeples that still poke above the rooftops today.",
+    "The whole city centre is wrapped in a ring of green parklands, so wherever you walk you are never far from grass, big trees and picnic spots.",
+    "Adelaide Zoo is the only zoo in the southern hemisphere with giant pandas — fluffy black-and-white bears that munch bamboo for hours every day.",
+    "Adelaide Oval is one of the world's prettiest cricket grounds, with grassy hills, an old scoreboard from 1911, and seats for 53,000 fans.",
+    "The land Adelaide is built on is called Tarndanya by the Kaurna people, who have looked after it for tens of thousands of years."
   ],
   "thingsToDo": [
-    "Hop off the ship and walk 150 metres to Outer Harbor station, then catch the 40-minute train to Adelaide Railway Station on North Terrace.",
-    "Meet pandas Xing Qiu and Yi Lan, plus tree kangaroos and meerkats, at Adelaide Zoo, a short stroll from the city through the Botanic Garden.",
-    "Explore the South Australian Museum for free and gawp at the huge 18-metre sperm whale skeleton and the world's biggest Aboriginal cultures gallery.",
-    "Jump on the historic Glenelg tram at Victoria Square for a 25-minute ride to Glenelg Beach for sandcastles, ice cream, and waterslides at The Beachouse.",
-    "Picnic under shady trees at Adelaide Botanic Garden, then peek inside the giant glass Bicentennial Conservatory to find rainforest plants from far away.",
-    "Wander Adelaide Central Market near Victoria Square to taste fresh cheeses, fruits, doughnuts, and treats from over 70 stalls before catching the train back."
+    "Visit Adelaide Zoo to meet the giant pandas Xing Qiu and Yi Lan, plus koalas, meerkats and tree kangaroos.",
+    "Catch the historic Glenelg tram from the city out to Glenelg Beach for sandcastles and a paddle in the sea.",
+    "Wander the Adelaide Botanic Garden and step inside the giant glasshouses to find rainforest plants and water lilies.",
+    "Look around the South Australian Museum and gawp at its 18-metre sperm whale skeleton hanging from the ceiling.",
+    "Watch a cricket or footy match at Adelaide Oval, or climb its roof for a giant view across the city.",
+    "Taste fresh fruit, cheese and doughnuts at the buzzing Adelaide Central Market, one of the biggest fresh markets in the world."
+  ],
+  "wildlife": [
+    {
+      "name": "Koala",
+      "description": "Sleepy grey marsupial that hugs gum trees in the Adelaide Hills and munches eucalyptus leaves all day."
+    },
+    {
+      "name": "Eastern Grey Kangaroo",
+      "description": "Big bouncy animal with a long tail and a pouch where its little joey rides."
+    },
+    {
+      "name": "Giant Panda",
+      "description": "Famous black-and-white bear from China that lives at Adelaide Zoo and eats bamboo."
+    },
+    {
+      "name": "Australian Sea Lion",
+      "description": "Friendly sandy-coloured seal that flops on South Australia's beaches, like Seal Bay on Kangaroo Island."
+    }
   ],
   "localWord": {
     "word": "Niina marni",
-    "meaning": "Hello, are you good? — a friendly Kaurna greeting from the Adelaide Plains",
+    "meaning": "Hello, are you good? — a friendly Kaurna greeting from the Adelaide Plains.",
     "pronunciation": "NEE-na MAR-nee"
   },
   "images": [
     {
       "filename": "hero-adelaide-skyline.jpg",
-      "alt": "Adelaide's city skyline rises behind the green parklands and the River Torrens on a sunny day.",
+      "alt": "Adelaide's city skyline rises behind the green parklands and the River Torrens.",
       "credit": "Ardash Muradian",
       "license": "CC BY-SA 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adelaide_skyline,_December_2022.jpg",
@@ -34,19 +52,43 @@
     },
     {
       "filename": "adelaide-oval.jpg",
-      "alt": "The big lit-up Adelaide Oval stadium glows at night beside the river footbridge.",
+      "alt": "The big lit-up Adelaide Oval cricket stadium glows at night beside the river footbridge.",
       "credit": "MaxMonaco",
       "license": "CC BY-SA 4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adelaide_Oval_Exterior_April_2024.jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Adelaide_Oval_Exterior_April_2024.jpg"
     },
     {
+      "filename": "st-peters-cathedral.jpg",
+      "alt": "St Peter's Cathedral, a tall stone church with twin spires, in central Adelaide.",
+      "credit": "DXR",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Peter%27s_Cathedral,_Adelaide,_Northeast_view_20230214_1.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/St_Peter%27s_Cathedral%2C_Adelaide%2C_Northeast_view_20230214_1.jpg"
+    },
+    {
       "filename": "glenelg-beach.jpg",
-      "alt": "Sunny Glenelg Beach with golden sand, blue water and the long jetty stretching out to sea.",
+      "alt": "Glenelg Beach with golden sand, blue water and the long jetty stretching out to sea.",
       "credit": "eGuide Travel",
       "license": "CC BY 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Glenelg_Beach_in_summer.jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Glenelg_Beach_in_summer.jpg"
+    },
+    {
+      "filename": "adelaide-botanic-palm-house.jpg",
+      "alt": "The pretty old glass Palm House sits among lawns in the Adelaide Botanic Garden.",
+      "credit": "Peripitus",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palm_house,_Adelaide_Botanic_Gardens_-_oblique.JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Palm_house%2C_Adelaide_Botanic_Gardens_-_oblique.JPG"
+    },
+    {
+      "filename": "adelaide-railway-station.jpg",
+      "alt": "The grand sandstone facade of Adelaide Railway Station on North Terrace.",
+      "credit": "RegionVisitor90",
+      "license": "CC0 1.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adelaide_Railway_Station_From_Hindley_Street_20240321.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Adelaide_Railway_Station_From_Hindley_Street_20240321.jpg"
     },
     {
       "filename": "cleland-koala.jpg",
@@ -57,33 +99,46 @@
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Koala_at_the_Cleland_Wildlife_Park_-_01.jpg"
     },
     {
-      "filename": "adelaide-botanic-palm-house.jpg",
-      "alt": "The pretty old glass Palm House sits among lawns in the Adelaide Botanic Garden.",
-      "credit": "Peripitus",
+      "filename": "eastern-grey-kangaroo.jpg",
+      "alt": "An eastern grey kangaroo standing in the bush, alert with its big ears up.",
+      "credit": "Transaero",
       "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palm_house,_Adelaide_Botanic_Gardens_-_oblique.JPG",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Palm_house%2C_Adelaide_Botanic_Gardens_-_oblique.JPG"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eastern_Grey_Kangaroo.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Eastern_Grey_Kangaroo.jpg"
+    },
+    {
+      "filename": "giant-panda-adelaide-zoo.jpg",
+      "alt": "Wang Wang the giant panda munching on a stalk of bamboo at Adelaide Zoo.",
+      "credit": "Manyman",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giant_Panda_eating_Bamboo.JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Giant_Panda_eating_Bamboo.JPG"
+    },
+    {
+      "filename": "australian-sea-lion.jpg",
+      "alt": "An Australian sea lion and her pup resting on the sand at Seal Bay, Kangaroo Island.",
+      "credit": "Didier B (Sam67fr)",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sea_lion_and_pup_in_Seal_Bay_-_Kangaroo_Island.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Sea_lion_and_pup_in_Seal_Bay_-_Kangaroo_Island.jpg"
     }
   ],
   "links": [
-    { "url": "https://southaustralia.com/destinations/adelaide/things-to-do/family-and-kids", "label": "Family Fun in Adelaide (Official Tourism)", "description": "Official South Australia tourism guide with lots of kid-friendly ideas" },
-    { "url": "https://www.adelaidezoo.com.au/", "label": "Adelaide Zoo", "description": "Home of Xing Qiu and Yi Lan, the only giant pandas in the Southern Hemisphere" },
-    { "url": "https://www.samuseum.sa.gov.au/", "label": "South Australian Museum", "description": "Free museum with whale skeletons, fossils, and the world's biggest Aboriginal cultures gallery" },
-    { "url": "https://kids.kiddle.co/Adelaide", "label": "Adelaide Facts for Kids (Kiddle)", "description": "Easy-read encyclopedia entry written for younger readers" },
-    { "url": "https://en.wikipedia.org/wiki/Adelaide", "label": "Adelaide on Wikipedia", "description": "Background on the city, history, and culture" },
-    { "url": "https://www.flindersportholdings.com.au/passenger-information/", "label": "Outer Harbor Cruise Terminal Info", "description": "Practical details on getting from the ship to the city by train" }
+    { "url": "https://kids.kiddle.co/Adelaide", "label": "Adelaide Facts for Kids (Kiddle)", "description": "An easy-read encyclopedia entry written for younger readers." },
+    { "url": "https://en.wikipedia.org/wiki/Adelaide", "label": "Adelaide on Wikipedia", "description": "Big-picture facts about the city, its parklands and people." },
+    { "url": "https://kids.britannica.com/kids/article/Adelaide/345613", "label": "Britannica Kids: Adelaide", "description": "A short, easy-read article about Adelaide for kids." }
   ],
   "sources": [
-    "https://southaustralia.com/destinations/adelaide/things-to-do/family-and-kids",
     "https://en.wikipedia.org/wiki/Adelaide",
+    "https://en.wikipedia.org/wiki/Adelaide_Zoo",
     "https://en.wikipedia.org/wiki/Wang_Wang_and_Fu_Ni",
-    "https://www.flindersportholdings.com.au/passenger-information/",
+    "https://en.wikipedia.org/wiki/Adelaide_Oval",
+    "https://en.wikipedia.org/wiki/Adelaide_Botanic_Garden",
+    "https://en.wikipedia.org/wiki/St_Peter%27s_Cathedral,_Adelaide",
+    "https://en.wikipedia.org/wiki/Glenelg,_South_Australia",
     "https://en.wikipedia.org/wiki/Kaurna",
-    "https://en.wikipedia.org/wiki/Kaurna_language",
-    "https://www.cityofadelaide.com.au/about-adelaide/kaurna-heritage/",
-    "https://kids.kiddle.co/Adelaide",
-    "https://www.samuseum.sa.gov.au/",
-    "https://southaustralia.com/destinations/adelaide/places/glenelg"
+    "https://en.wikipedia.org/wiki/Australian_sea_lion",
+    "https://kids.kiddle.co/Adelaide"
   ],
-  "researchedAt": "2026-05-09T11:30:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }

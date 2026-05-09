@@ -1,22 +1,40 @@
 {
   "researchId": "corner-brook",
   "name": "Corner Brook",
-  "country": "Canada (Newfoundland)",
-  "summary": "Corner Brook is Newfoundland's second-biggest city, tucked into a sparkling bay on Canada's east coast. It's the gateway to Gros Morne National Park, a UNESCO World Heritage Site where you can actually walk on rocks pushed up from deep inside the Earth. Famous explorer Captain James Cook mapped this very coastline before sailing off to discover the Pacific.",
+  "country": "Canada",
+  "summary": "Corner Brook is a small city tucked into a sparkling fjord on the west coast of Newfoundland, Canada. It's the gateway to Gros Morne National Park, where huge cliffs, fjords and orange rocks make the land look like another planet.",
   "funFacts": [
-    "Gros Morne National Park became a UNESCO World Heritage Site in 1987 because it shows how continents crash and drift, like a slow-motion puzzle of the planet.",
-    "At the Tablelands, orange and rusty rocks are actually pieces of Earth's mantle, normally hidden 30 kilometres underground beneath your feet.",
-    "Western Brook Pond's towering cliffs are about 1.2 billion years old, carved by giant Ice Age glaciers into a freshwater fjord 600 metres deep.",
-    "Captain James Cook mapped Newfoundland's coast in the 1760s before his Pacific voyages, and his charts stayed in use for around 100 years.",
-    "Corner Brook grew up around one of the world's biggest paper mills, built in 1925, which still rolls out giant rolls of newsprint today."
+    "Captain James Cook mapped the bays around Corner Brook in the 1760s, and his sea charts were so good they were still being used 100 years later.",
+    "At the Tablelands in Gros Morne, the rusty orange rocks are pieces of Earth's mantle pushed up from 30 kilometres underground — almost no other place lets you walk on them.",
+    "Western Brook Pond is a freshwater fjord with cliffs about 1.2 billion years old, carved out by giant Ice Age glaciers.",
+    "Newfoundland has more moose per square kilometre than anywhere else in the world, even though only four were brought to the island in 1904.",
+    "Marble Mountain just outside Corner Brook gets some of the deepest snow in eastern Canada, with about 5 metres falling each winter."
   ],
   "thingsToDo": [
-    "Climb up to the Captain James Cook Monument on Crow Hill for sweeping bay views and read about the explorer who mapped this coast in 1767.",
-    "Drive about 1 hour north into Gros Morne National Park to hike the Tablelands Trail, walking across rusty rocks from Earth's mantle.",
-    "Take a boat tour on Western Brook Pond fjord, gliding between billion-year-old cliffs and one of eastern North America's tallest waterfalls.",
-    "Zoom down nine zip lines at Marble Zip Tours in Steady Brook, soaring 300 feet above Steady Brook Falls and the Humber Valley.",
-    "Picnic and play at Margaret Bowater Park, a leafy spot in the heart of downtown with gardens, a pool, and gentle walking paths.",
-    "Hunt for puffin keychains, maple candy, and quirky souvenirs at the Newfoundland Emporium downtown, packed with local crafts and treats."
+    "Climb Crow Hill to the Captain James Cook Monument and look out over the whole sparkling Bay of Islands.",
+    "Drive an hour north into Gros Morne National Park and walk on the orange Tablelands rocks from deep inside the Earth.",
+    "Take a boat tour through Western Brook Pond fjord, gliding between billion-year-old cliffs and tall waterfalls.",
+    "Ski, snowboard or zipline at Marble Mountain, Atlantic Canada's biggest ski hill, just ten minutes from town.",
+    "Visit Lobster Cove Head Lighthouse and look for whales, seabirds and icebergs out in the Atlantic Ocean.",
+    "Picnic at Margaret Bowater Park downtown, a leafy spot with gardens, a pool and gentle walking paths."
+  ],
+  "wildlife": [
+    {
+      "name": "Moose",
+      "description": "Huge antlered deer that munches leaves in the forest — Newfoundland has more moose than anywhere else."
+    },
+    {
+      "name": "Newfoundland Caribou",
+      "description": "Shaggy reindeer cousin with curved antlers that wanders the open hills of Gros Morne."
+    },
+    {
+      "name": "Humpback Whale",
+      "description": "Giant ocean animal that visits the bay each summer and sometimes leaps right out of the water."
+    },
+    {
+      "name": "Atlantic Puffin",
+      "description": "Chubby black-and-white seabird with a bright orange beak — Newfoundland's official provincial bird."
+    }
   ],
   "localWord": {
     "word": "Best kind",
@@ -25,7 +43,7 @@
   "images": [
     {
       "filename": "hero-corner-brook-from-above.jpg",
-      "alt": "A bird's-eye view of Corner Brook town nestled beside the sparkling waters of the Bay of Islands fjord.",
+      "alt": "A bird's-eye view of Corner Brook tucked beside the sparkling waters of the Bay of Islands fjord.",
       "credit": "Rob Schmidt",
       "license": "CC BY 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Corner_Brook_from_above.jpg",
@@ -56,30 +74,70 @@
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Western_Brook_Pond_cliffs.png"
     },
     {
+      "filename": "marble-mountain-ski.jpg",
+      "alt": "Snowy ski runs and chairlifts on Marble Mountain just outside Corner Brook.",
+      "credit": "DunDooey",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marble_Mountain_Ski_resort.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Marble_Mountain_Ski_resort.jpg"
+    },
+    {
+      "filename": "lobster-cove-head-lighthouse.jpg",
+      "alt": "The red-and-white Lobster Cove Head Lighthouse standing on rocks above the sea in Gros Morne National Park.",
+      "credit": "Adavyd",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lobster_Cove_Head_Lighthouse_Newfoundland_Canada_DSC_2950.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Lobster_Cove_Head_Lighthouse_Newfoundland_Canada_DSC_2950.jpg"
+    },
+    {
       "filename": "gros-morne-bull-moose.jpg",
       "alt": "A big bull moose with huge antlers stands among the grass in Gros Morne National Park.",
       "credit": "Aconcagua (Wikimedia Commons)",
       "license": "CC BY-SA 3.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gros_Morne_NP_bullmoose.jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Gros_Morne_NP_bullmoose.jpg"
+    },
+    {
+      "filename": "woodland-caribou.jpg",
+      "alt": "A shaggy woodland caribou with curved antlers standing in a mountain meadow.",
+      "credit": "Thomas Hartmann (ThartmannWiki)",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mountain-type_Woodland_Caribou.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Mountain-type_Woodland_Caribou.jpg"
+    },
+    {
+      "filename": "humpback-whale.jpg",
+      "alt": "A humpback whale leaping out of the ocean.",
+      "credit": "JimJones1971",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Humpback_whale_breaching.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Humpback_whale_breaching.jpg"
+    },
+    {
+      "filename": "atlantic-puffin.jpg",
+      "alt": "An Atlantic puffin with a bright orange beak standing on a grassy cliff.",
+      "credit": "Andreas Trepte",
+      "license": "CC BY-SA 2.5",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atlantic_Puffin_Fratercula_arctica.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Atlantic_Puffin_Fratercula_arctica.jpg"
     }
   ],
   "links": [
-    { "url": "https://parks.canada.ca/pn-np/nl/grosmorne", "label": "Gros Morne National Park (Parks Canada)", "description": "Official park site with maps, trails, wildlife, and visitor info." },
-    { "url": "https://whc.unesco.org/en/list/419/", "label": "Gros Morne UNESCO World Heritage page", "description": "Why this park is one of the most important geological places on Earth." },
-    { "url": "https://kids.kiddle.co/Corner_Brook", "label": "Corner Brook facts for kids (Kiddle)", "description": "Easy-reading encyclopedia entry about the city for younger readers." },
-    { "url": "https://en.wikipedia.org/wiki/Western_Brook_Pond", "label": "Western Brook Pond (Wikipedia)", "description": "All about the famous freshwater fjord and its giant cliffs." },
-    { "url": "https://www.newfoundlandlabrador.com/trip-ideas/road-trips/western/captain-cooks-trail", "label": "Captain Cook's Trail (Newfoundland & Labrador Tourism)", "description": "Follow the route of the explorer who mapped this coast." },
-    { "url": "https://marbleziptours.com/", "label": "Marble Zip Tours", "description": "Eastern Canada's longest zip line, just outside Corner Brook." }
+    { "url": "https://kids.kiddle.co/Corner_Brook", "label": "Corner Brook Facts for Kids (Kiddle)", "description": "An easy-read summary of the city for younger readers." },
+    { "url": "https://en.wikipedia.org/wiki/Corner_Brook", "label": "Corner Brook on Wikipedia", "description": "Big-picture facts about the city, its bay and its people." },
+    { "url": "https://parks.canada.ca/pn-np/nl/grosmorne", "label": "Gros Morne National Park (Parks Canada)", "description": "Maps, trails, wildlife and visitor info for the park nearby." }
   ],
   "sources": [
     "https://en.wikipedia.org/wiki/Corner_Brook",
     "https://en.wikipedia.org/wiki/Gros_Morne_National_Park",
     "https://en.wikipedia.org/wiki/Western_Brook_Pond",
+    "https://en.wikipedia.org/wiki/Tablelands_(Gros_Morne_National_Park)",
+    "https://en.wikipedia.org/wiki/Marble_Mountain_(Newfoundland)",
     "https://whc.unesco.org/en/list/419/",
     "https://parks.canada.ca/pn-np/nl/grosmorne",
-    "https://www.heritage.nf.ca/articles/exploration/james-cook.php",
-    "https://www.britannica.com/place/Corner-Brook"
+    "https://en.wikipedia.org/wiki/Moose_in_Newfoundland_and_Labrador",
+    "https://en.wikipedia.org/wiki/Atlantic_puffin",
+    "https://kids.kiddle.co/Corner_Brook"
   ],
-  "researchedAt": "2026-05-09T13:26:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }

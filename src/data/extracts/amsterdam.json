@@ -2,31 +2,60 @@
   "researchId": "amsterdam",
   "name": "Amsterdam",
   "country": "Netherlands",
-  "summary": "Amsterdam is a city of water and bicycles. About 165 canals and 1,500 bridges weave between 90 little islands, which is why people call it the Venice of the North. It's where Anne Frank wrote her famous diary, Vincent van Gogh's swirling paintings hang in a whole museum, and creaky windmills still spin just outside town.",
+  "summary": "Amsterdam is the capital of the Netherlands, a watery city built around 165 canals and 1,500 bridges. It is famous for its leaning canal houses, art museums, and clattering bicycles everywhere.",
   "funFacts": [
-    "Amsterdam has roughly 165 canals and around 1,500 bridges connecting about 90 islands. The whole canal ring was dug by hand more than 400 years ago.",
-    "There are more bicycles in Amsterdam than people. Locals zoom across special bike lanes every day, and even police officers chase suspects on two wheels.",
-    "Anne Frank was a young girl who hid from the Nazis in a secret annex behind a bookcase. Her diary, written upstairs, has been read in over 70 languages.",
-    "Vincent van Gogh painted swirling skies and sunflowers, but he only sold one picture while alive. Today his Amsterdam museum holds 200 of his paintings.",
-    "Amsterdam's old canal houses lean and tilt sideways because the soft, swampy ground keeps shifting. Many sit on long wooden poles hammered deep into the mud."
+    "Amsterdam was built on swampy ground, so its old houses sit on long wooden poles hammered deep into the mud — that is why many of them lean sideways.",
+    "There are more bicycles in Amsterdam than people, and even the police chase suspects on two wheels through the busy bike lanes.",
+    "Anne Frank was a young girl who hid from the Nazis in a secret room behind a bookcase, and her diary has been read in over 70 languages.",
+    "Vincent van Gogh painted swirling skies and bright sunflowers, and a whole museum in Amsterdam holds around 200 of his colourful paintings.",
+    "The city's curving canal ring was dug by hand more than 400 years ago and is so special it is now a UNESCO World Heritage Site."
   ],
   "thingsToDo": [
-    "Catch the public bus 382 or DFDS shuttle from IJmuiden's Felison cruise terminal toward Amsterdam Centraal station, about 25-35 km and roughly an hour away.",
-    "Hop on a glass-roofed canal cruise from near Centraal Station to glide past leaning houses, narrow bridges, and houseboats in the UNESCO-listed canal ring.",
-    "Get hands-on at NEMO Science Museum, the giant green ship-shaped building on Oosterdok where kids can do chain-reaction experiments and lab workshops.",
-    "Pick a famous-painting museum: see Rembrandt's Night Watch at the Rijksmuseum, or Sunflowers and Bedroom paintings at the Van Gogh Museum next door.",
-    "Run, kick a ball, or rent bikes in Vondelpark, Amsterdam's huge green park with ponds, playgrounds, and free outdoor concerts in summer.",
-    "Take a quick 18-minute train to Zaanse Schans to watch real working windmills grind mustard and saw wood, then peek inside a wooden-clog workshop."
+    "Glide along the UNESCO-listed canals on a glass-roofed boat to spot leaning houses, arched bridges, and bobbing houseboats.",
+    "Visit the Anne Frank House and peek behind the famous bookcase that hid the secret annex during the Second World War.",
+    "See Rembrandt's giant painting The Night Watch at the Rijksmuseum, a grand red-brick building filled with Dutch treasures.",
+    "Spot Sunflowers and other swirling masterpieces at the Van Gogh Museum, home to the world's biggest collection of his art.",
+    "Run, kick a ball, or rent bikes in leafy Vondelpark, with its ponds, playgrounds, and free outdoor concerts in summer.",
+    "Catch a quick train to Zaanse Schans to watch traditional wooden windmills spin and peek inside a clog-maker's workshop."
   ],
-  "localWord": { "word": "Hallo", "meaning": "Hello in Dutch", "pronunciation": "HAH-loh" },
+  "wildlife": [
+    {
+      "name": "Eurasian Coot",
+      "description": "Sooty-black water bird with a bright white forehead, often seen swimming in Amsterdam's canals."
+    },
+    {
+      "name": "Common Pochard",
+      "description": "Diving duck with a chestnut-red head and grey body, found on city ponds and lakes."
+    },
+    {
+      "name": "Mute Swan",
+      "description": "Big white swan with an orange beak that glides quietly across Dutch canals and rivers."
+    },
+    {
+      "name": "Harbour Seal",
+      "description": "Spotted grey seal that lounges on Wadden Sea sandbanks north of Amsterdam."
+    }
+  ],
+  "localWord": {
+    "word": "Hallo",
+    "meaning": "Hello in Dutch, said HAH-loh."
+  },
   "images": [
     {
       "filename": "hero-amsterdam-canal-keizersgracht.jpg",
-      "alt": "A pretty Amsterdam canal lined with arched stone bridges all lit up at dusk.",
+      "alt": "An Amsterdam canal lined with arched stone bridges all lit up at dusk.",
       "credit": "Massimo Catarinella",
       "license": "CC BY-SA 3.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:KeizersgrachtReguliersgrachtAmsterdam.jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/KeizersgrachtReguliersgrachtAmsterdam.jpg"
+    },
+    {
+      "filename": "anne-frank-house.jpg",
+      "alt": "The Anne Frank House on the Prinsengracht canal next to the Westerkerk church tower.",
+      "credit": "Yair Haklai",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anne_Frank_House-Prinsengracht-Westerkerk-Amsterdam.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Anne_Frank_House-Prinsengracht-Westerkerk-Amsterdam.jpg"
     },
     {
       "filename": "rijksmuseum-amsterdam.jpg",
@@ -37,12 +66,20 @@
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Rijksmuseum_Amsterdam.jpg"
     },
     {
-      "filename": "amsterdam-canal-houses-damrak.jpg",
-      "alt": "A row of colourful, leaning canal houses glowing at golden hour over the water.",
-      "credit": "Basile Morin",
+      "filename": "van-gogh-museum.jpg",
+      "alt": "The modern stone facade of the Van Gogh Museum in Amsterdam.",
+      "credit": "Acediscovery",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Van-Gogh-Museum-facade_Amsterdam.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Van-Gogh-Museum-facade_Amsterdam.jpg"
+    },
+    {
+      "filename": "royal-palace-dam-square.jpg",
+      "alt": "The grand Royal Palace standing on Dam Square in central Amsterdam.",
+      "credit": "Diego Delso",
       "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Colorful_canal_houses_at_golden_hour_in_Damrak_avenue_Amsterdam_the_Netherlands.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Colorful_canal_houses_at_golden_hour_in_Damrak_avenue_Amsterdam_the_Netherlands.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palacio_Real,_%C3%81msterdam,_Pa%C3%ADses_Bajos,_2016-05-30,_DD_07-09_HDR.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Palacio_Real%2C_%C3%81msterdam%2C_Pa%C3%ADses_Bajos%2C_2016-05-30%2C_DD_07-09_HDR.jpg"
     },
     {
       "filename": "zaanse-schans-windmills.jpg",
@@ -53,30 +90,58 @@
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Amsterdam%2C_Netherlands_Windmills.jpg"
     },
     {
-      "filename": "nemo-science-museum-amsterdam.jpg",
-      "alt": "The big green ship-shaped NEMO Science Museum rising above the Amsterdam harbour.",
-      "credit": "Erik Zachte",
+      "filename": "eurasian-coot.jpg",
+      "alt": "A black Eurasian coot with a white forehead swims on calm water.",
+      "credit": "Richard Bartz",
+      "license": "CC BY-SA 2.5",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bl%C3%A4sshuhn_Fulica_atra_Richard_Bartz.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Bl%C3%A4sshuhn_Fulica_atra_Richard_Bartz.jpg"
+    },
+    {
+      "filename": "common-pochard.jpg",
+      "alt": "A male common pochard duck with a chestnut head and grey body on the water.",
+      "credit": "Luis nunes alberto",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aythya_ferina_male.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Aythya_ferina_male.jpg"
+    },
+    {
+      "filename": "mute-swan.jpg",
+      "alt": "A mute swan landing on water with wings spread wide, photographed in the Netherlands.",
+      "credit": "Bj.schoenmakers",
+      "license": "CC0 1.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cygnus_olor_(Mute_Swan)_landing_on_water,_Arnhem,_the_Netherlands.JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Cygnus_olor_%28Mute_Swan%29_landing_on_water%2C_Arnhem%2C_the_Netherlands.JPG"
+    },
+    {
+      "filename": "harbour-seal.jpg",
+      "alt": "A spotted harbour seal resting on rocks by the sea.",
+      "credit": "Tewy",
       "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amsterdam-Nemo-Museum.JPG",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Amsterdam-Nemo-Museum.JPG"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Harbor_Seal_(Phoca_vitulina)_01.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Harbor_Seal_%28Phoca_vitulina%29_01.jpg"
     }
   ],
   "links": [
-    { "url": "https://www.iamsterdam.com/en", "label": "I amsterdam (official)", "description": "Official tourism site with family activities, museum cards, and canal cruise info." },
-    { "url": "https://en.wikipedia.org/wiki/Amsterdam", "label": "Wikipedia: Amsterdam", "description": "Big-picture history, canals, famous residents, and city facts." },
-    { "url": "https://www.nemosciencemuseum.nl/en/", "label": "NEMO Science Museum", "description": "Hands-on science museum near Centraal Station, perfect for ages 7-12." },
-    { "url": "https://www.annefrank.org/en/", "label": "Anne Frank House", "description": "Museum of the secret annex where Anne hid and wrote her diary." },
-    { "url": "https://www.dezaanseschans.nl/en/", "label": "Zaanse Schans", "description": "Working windmills, wooden clogs, and cheese, 18 minutes by train." },
-    { "url": "https://www.vangoghmuseum.nl/en", "label": "Van Gogh Museum", "description": "World's biggest collection of Vincent van Gogh paintings and letters." }
+    { "url": "https://kids.kiddle.co/Amsterdam", "label": "Amsterdam Facts for Kids (Kiddle)", "description": "A kid-friendly summary of Amsterdam's canals, history, and people." },
+    { "url": "https://en.wikipedia.org/wiki/Amsterdam", "label": "Amsterdam on Wikipedia", "description": "Big-picture facts about the city, its canals, and its famous residents." },
+    { "url": "https://www.annefrank.org/en/", "label": "Anne Frank House", "description": "Museum of the secret annex where Anne hid and wrote her diary." }
   ],
   "sources": [
     "https://en.wikipedia.org/wiki/Amsterdam",
-    "https://en.wikipedia.org/wiki/IJmuiden",
     "https://en.wikipedia.org/wiki/Canals_of_Amsterdam",
-    "https://en.wikipedia.org/wiki/Zaanse_Schans",
     "https://en.wikipedia.org/wiki/Anne_Frank_House",
-    "https://www.iamsterdam.com/en",
-    "https://www.nemosciencemuseum.nl/en/"
+    "https://en.wikipedia.org/wiki/Van_Gogh_Museum",
+    "https://en.wikipedia.org/wiki/Rijksmuseum",
+    "https://en.wikipedia.org/wiki/Royal_Palace_of_Amsterdam",
+    "https://en.wikipedia.org/wiki/Vondelpark",
+    "https://en.wikipedia.org/wiki/Zaanse_Schans",
+    "https://en.wikipedia.org/wiki/Eurasian_coot",
+    "https://en.wikipedia.org/wiki/Common_pochard",
+    "https://en.wikipedia.org/wiki/Mute_swan",
+    "https://en.wikipedia.org/wiki/Harbor_seal",
+    "https://en.wikipedia.org/wiki/European_hedgehog",
+    "https://kids.kiddle.co/Amsterdam"
   ],
-  "researchedAt": "2026-05-09T12:51:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }

@@ -2,21 +2,39 @@
   "researchId": "sydney-australia",
   "name": "Sydney",
   "country": "Australia",
-  "summary": "Sydney is Australia's biggest city, wrapped around a sparkling harbour with a giant arched bridge and a building shaped like billowing white sails. Beaches, ferries, and forest-filled parks are all within minutes of the city centre, and you might spot cockatoos, possums, or a humpback whale offshore.",
+  "summary": "Sydney is Australia's biggest city, built around a huge sparkling harbour. It is famous for its Opera House with white sail-shaped roofs and the giant arched Harbour Bridge that crosses the water beside it.",
   "funFacts": [
-    "The Sydney Opera House looks like sails or seashells, and its roof is covered in more than one million shiny tiles made in Sweden.",
-    "Locals nicknamed the Sydney Harbour Bridge 'the Coathanger' because its huge steel arch curves like a hanger above the water.",
-    "Sydney sits on the land of the Gadigal people, who have lived around this harbour for tens of thousands of years before the city existed.",
-    "Wild sulphur-crested cockatoos, screechy white parrots with bright yellow mohawks, hang out in city parks and sometimes try to steal your sandwich.",
-    "Bondi Beach is so famous that lifeguards there star in their own TV show, watching swimmers between the red-and-yellow safety flags every day."
+    "The Sydney Opera House looks like white sails or seashells, and its roof is covered in more than one million shiny tiles.",
+    "The Sydney Harbour Bridge is so huge that locals nicknamed it 'the Coathanger' — its big steel arch curves like one above the water.",
+    "Bondi Beach is one of the most famous beaches in the world, with golden sand and lifeguards who star in their own TV show.",
+    "Wild sulphur-crested cockatoos in Sydney are so clever they have learned to pop open rubbish bins with their beaks and feet.",
+    "Every winter thousands of humpback whales swim past Sydney's beaches on their long journey from Antarctica to warmer tropical seas."
   ],
   "thingsToDo": [
-    "Walk straight off the ship at Circular Quay to the Sydney Opera House and take a family tour beneath those giant white sail-shaped roofs.",
-    "Catch a yellow-and-green ferry across the harbour to Taronga Zoo and ride the Sky Safari cable car above koalas, kangaroos and Sumatran tigers.",
-    "Climb the BridgeClimb stairs or wander Cumberland Street to the Pylon Lookout for top-of-the-world views over the Sydney Harbour Bridge.",
-    "Wander the free Royal Botanic Garden next to the Opera House to spot cockatoos, ibises and a tiny stingless native bee hive near Maiden Theatre.",
-    "Explore The Rocks laneways behind the cruise terminal, where Sydney's oldest streets, weekend market stalls and meat-pie shops sit beside the harbour.",
-    "Hop a quick train or taxi to Bondi Beach for sandcastles, the kid-safe ocean pool and a stroll along the cliff path toward Tamarama."
+    "Visit the Sydney Opera House and walk underneath its huge white sail-shaped roofs.",
+    "Cross the Sydney Harbour Bridge on foot or by car for sweeping views over the boats below.",
+    "Catch a ferry across the harbour to Taronga Zoo to meet koalas, kangaroos and tigers.",
+    "Build sandcastles and paddle in the safe ocean pool at famous Bondi Beach.",
+    "Wander the leafy Royal Botanic Garden next to the Opera House and spot bright cockatoos.",
+    "Explore the old stone laneways of The Rocks, Sydney's oldest neighbourhood right by the harbour."
+  ],
+  "wildlife": [
+    {
+      "name": "Koala",
+      "description": "Sleepy grey marsupial that hugs gum trees and munches their leaves all day."
+    },
+    {
+      "name": "Eastern Grey Kangaroo",
+      "description": "Big bouncy animal with a long tail and a pouch for its joey."
+    },
+    {
+      "name": "Sulphur-crested Cockatoo",
+      "description": "Loud snowy-white parrot with a bright yellow mohawk on its head."
+    },
+    {
+      "name": "Humpback Whale",
+      "description": "Giant ocean animal that swims past Sydney's coast every winter."
+    }
   ],
   "localWord": {
     "word": "Bujari gamarruwa",
@@ -25,7 +43,7 @@
   "images": [
     {
       "filename": "hero-opera-house.jpg",
-      "alt": "The Sydney Opera House glowing white against a deep blue twilight sky, seen from the Harbour Bridge.",
+      "alt": "The white sail-shaped roofs of the Sydney Opera House at twilight.",
       "credit": "DAVID ILIFF",
       "license": "CC BY-SA 3.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_-_Dec_2008.jpg",
@@ -33,7 +51,7 @@
     },
     {
       "filename": "harbour-bridge-and-opera-house.jpg",
-      "alt": "The mighty steel arch of the Sydney Harbour Bridge stretches over the water with the Opera House sails beside it.",
+      "alt": "The Sydney Harbour Bridge stretches over the water beside the Opera House sails.",
       "credit": "User:Gaz (English Wikipedia)",
       "license": "CC BY-SA 3.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sydney_Harbour_Bridge_and_Opera_House.jpg",
@@ -41,49 +59,84 @@
     },
     {
       "filename": "bondi-beach.jpg",
-      "alt": "Golden sand and turquoise waves curve along Sydney's famous Bondi Beach on a sunny day.",
+      "alt": "Golden sand and turquoise waves at Sydney's famous Bondi Beach.",
       "credit": "TheRocksConcierge",
       "license": "CC BY-SA 4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bondi_Beach_Cultural_Landscape.jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Bondi_Beach_Cultural_Landscape.jpg"
     },
     {
+      "filename": "sydney-tower.jpg",
+      "alt": "Sydney Tower rising tall above the city skyline.",
+      "credit": "Jkather",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sydney_Tower.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Sydney_Tower.jpg"
+    },
+    {
+      "filename": "the-rocks.jpg",
+      "alt": "A street in The Rocks, Sydney's old harbourside neighbourhood with sandstone heritage buildings.",
+      "credit": "Returned dude12345",
+      "license": "CC0 1.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Street_scene_from_The_Rocks_district_of_Sydney.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Street_scene_from_The_Rocks_district_of_Sydney.jpg"
+    },
+    {
+      "filename": "sydney-harbour-from-taronga.jpg",
+      "alt": "Wide view of Sydney Harbour and the city skyline from Taronga Zoo.",
+      "credit": "Fin 22",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sydney_Harbour_viewed_from_Taronga_Zoo.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Sydney_Harbour_viewed_from_Taronga_Zoo.jpg"
+    },
+    {
       "filename": "koala-taronga-zoo.jpg",
-      "alt": "A fluffy grey koala clings to a eucalyptus branch at Taronga Zoo, looking sleepy and adorable.",
+      "alt": "A fluffy grey koala clings to a eucalyptus branch.",
       "credit": "Yimhaa",
       "license": "CC0 1.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koala_in_Taronga_Zoo,_Australia.jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Koala_in_Taronga_Zoo%2C_Australia.jpg"
     },
     {
-      "filename": "sydney-harbour-from-taronga.jpg",
-      "alt": "A wide blue view of Sydney Harbour with sailboats and the city skyline, seen from high up at Taronga Zoo.",
-      "credit": "Fin 22",
+      "filename": "kangaroo.jpg",
+      "alt": "An eastern grey kangaroo grazing in the bush.",
+      "credit": "Transaero",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eastern_Grey_Kangaroo.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Eastern_Grey_Kangaroo.jpg"
+    },
+    {
+      "filename": "sulphur-crested-cockatoo.jpg",
+      "alt": "A white sulphur-crested cockatoo showing its bright yellow head crest.",
+      "credit": "Andrew Mercer",
       "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sydney_Harbour_viewed_from_Taronga_Zoo.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Sydney_Harbour_viewed_from_Taronga_Zoo.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sulphur-crested_Cockatoo_-_AndrewMercer_-_DSC20087.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Sulphur-crested_Cockatoo_-_AndrewMercer_-_DSC20087.jpg"
+    },
+    {
+      "filename": "humpback-whale.jpg",
+      "alt": "A humpback whale breaching out of the ocean.",
+      "credit": "JimJones1971",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Humpback_whale_breaching.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Humpback_whale_breaching.jpg"
     }
   ],
   "links": [
-    { "url": "https://www.sydney.com/destinations/sydney", "label": "Sydney.com (official)", "description": "The city's own travel website with maps, family ideas and what's on while you're in town." },
-    { "url": "https://www.sydneyoperahouse.com/visit-us/family-and-kids", "label": "Opera House for kids", "description": "Family tours, shows and backstage peeks inside the famous sail-shaped building." },
-    { "url": "https://taronga.org.au/sydney-zoo", "label": "Taronga Zoo Sydney", "description": "Australia's harbourside zoo where you can ride a cable car over koalas and tigers." },
-    { "url": "https://en.wikipedia.org/wiki/Sydney", "label": "Sydney on Wikipedia", "description": "A big-picture page about the city, its harbour, history and people." },
-    { "url": "https://kids.britannica.com/kids/article/Sydney-Opera-House/602771", "label": "Britannica Kids: Opera House", "description": "A short, easy-read explanation of how the famous building was designed and built." },
-    { "url": "https://www.botanicgardens.org.au/discover-and-learn/curious-kids", "label": "Botanic Gardens for curious kids", "description": "Activities and trails to spot plants, bees and birds in the gardens beside the Opera House." }
+    { "url": "https://kids.britannica.com/kids/article/Sydney-Opera-House/602771", "label": "Britannica Kids: Opera House", "description": "A short, easy-read explanation of the famous building." },
+    { "url": "https://en.wikipedia.org/wiki/Sydney", "label": "Sydney on Wikipedia", "description": "Big-picture facts about the city, its harbour and people." },
+    { "url": "https://kids.kiddle.co/Sydney", "label": "Sydney Facts for Kids (Kiddle)", "description": "A kid-friendly summary of Sydney." }
   ],
   "sources": [
-    "https://www.britannica.com/topic/Sydney-Opera-House",
-    "https://www.britannica.com/topic/Sydney-Harbour-Bridge",
-    "https://kids.britannica.com/kids/article/Sydney-Opera-House/602771",
     "https://en.wikipedia.org/wiki/Sydney",
-    "https://en.wikipedia.org/wiki/Circular_Quay",
-    "https://en.wikipedia.org/wiki/Overseas_Passenger_Terminal",
-    "https://www.sydney.com/destinations/sydney",
-    "https://news.cityofsydney.nsw.gov.au/articles/sydneys-first-languages",
-    "https://www.sydneyoperahouse.com/visit-us/family-and-kids",
-    "https://taronga.org.au/sydney-zoo",
-    "https://www.botanicgardens.org.au/royal-botanic-garden-sydney"
+    "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+    "https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge",
+    "https://en.wikipedia.org/wiki/Bondi_Beach",
+    "https://en.wikipedia.org/wiki/The_Rocks,_New_South_Wales",
+    "https://en.wikipedia.org/wiki/Royal_Botanic_Garden,_Sydney",
+    "https://en.wikipedia.org/wiki/Sulphur-crested_cockatoo",
+    "https://en.wikipedia.org/wiki/Humpback_whale",
+    "https://kids.kiddle.co/Sydney"
   ],
-  "researchedAt": "2026-05-09T11:30:00Z"
+  "researchedAt": "2026-05-09T13:30:00Z"
 }

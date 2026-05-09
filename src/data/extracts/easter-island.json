@@ -2,34 +2,52 @@
   "researchId": "easter-island",
   "name": "Easter Island (Rapa Nui)",
   "country": "Chile",
-  "summary": "Easter Island, called Rapa Nui by the Polynesian people who live there, is one of the loneliest islands on Earth, sitting in the Pacific Ocean thousands of kilometres from anywhere. It belongs to Chile and is famous for nearly 1,000 giant stone giants called moai, carved from volcanic rock hundreds of years ago. The triangle-shaped island was built by three sleeping volcanoes.",
+  "summary": "Easter Island, called Rapa Nui by the Polynesian people who live there, is one of the loneliest islands on Earth and famous for nearly 1,000 giant stone statues called moai.",
   "funFacts": [
-    "Easter Island is so remote that the nearest neighbours are Chile (about 3,500km away) and tiny Pitcairn Island (about 2,000km), making it one of the most isolated inhabited spots on Earth.",
-    "There are nearly 1,000 moai statues scattered across the island, and the heaviest one ever raised onto a platform tipped the scales at around 86 tonnes, heavier than a blue whale.",
-    "The biggest moai ever attempted, nicknamed El Gigante, is still lying in the quarry unfinished. If stood up it would tower around 21 metres tall, taller than a six-storey building.",
-    "Those famous 'Easter Island heads' actually have full bodies. They were buried up to the shoulders by centuries of dirt, and archaeologists have dug some out to reveal hidden arms and torsos.",
-    "The Rapa Nui people speak their own Polynesian language (related to Hawaiian, Maori and Tahitian), plus Spanish, because Chile is the country that governs the island today."
+    "Easter Island sits in the Pacific Ocean about 3,500 kilometres from Chile, making it one of the most remote inhabited places in the whole world.",
+    "There are nearly 1,000 moai statues on the island, and the heaviest one ever raised onto a platform weighs about 86 tonnes, heavier than 14 elephants.",
+    "The famous 'Easter Island heads' actually have full bodies hidden underground, with arms and tummies that diggers found buried by centuries of dirt.",
+    "The island was made by three sleeping volcanoes that pushed up through the sea, leaving big round craters that are now filled with reedy lakes.",
+    "Rapa Nui kids learn two languages at school: Spanish, because the island belongs to Chile, plus Rapa Nui, a Polynesian language related to Maori and Hawaiian."
   ],
   "thingsToDo": [
-    "Visit Ahu Tongariki, the giant ceremonial platform where 15 enormous moai stand shoulder-to-shoulder facing inland; it is breathtaking right after sunrise.",
-    "Explore Rano Raraku, the volcanic crater quarry where the moai were carved, and spot nearly 400 half-finished giants still poking out of the grassy slopes.",
-    "Swim or paddle at Anakena Beach, a palm-fringed cove with white sand, turquoise water, and its own row of moai watching over the picnic spot.",
-    "Climb up to Orongo, a stone-hut village perched on the rim of the Rano Kau crater, famous for cliff-edge views and ancient birdman rock carvings.",
-    "Wander Hanga Roa town to grab empanadas, see fishermen at the harbour, and pop into the Father Sebastian Englert Anthropological Museum to learn moai secrets.",
-    "Drop by Ahu Tahai near town, the easiest moai to reach on foot, including the only restored statue with white coral and obsidian eyes staring back at you."
+    "Watch the sun rise behind Ahu Tongariki, where 15 huge moai stand shoulder-to-shoulder facing the island.",
+    "Wander the grassy slopes of Rano Raraku, the volcanic quarry where the moai were carved out of stone.",
+    "Build sandcastles on Anakena Beach and visit Ahu Nau Nau, a row of moai right next to the palm trees.",
+    "Climb up to Orongo, an old stone-hut village perched on the rim of the Rano Kau volcano crater.",
+    "Visit Ahu Akivi to meet the seven moai that face the sea instead of looking inland like all the others.",
+    "Touch the smooth round magic stone at Te Pito Kura, said by Rapa Nui legend to be the navel of the world."
+  ],
+  "wildlife": [
+    {
+      "name": "Red-tailed Tropicbird",
+      "description": "White seabird with two long red tail feathers that streams behind it like ribbons in the wind."
+    },
+    {
+      "name": "Masked Booby",
+      "description": "Big white seabird with a black mask around its face that dives like an arrow for fish."
+    },
+    {
+      "name": "Green Sea Turtle",
+      "description": "Friendly ocean reptile that swims in the warm bay at Anakena Beach and munches sea grass."
+    },
+    {
+      "name": "Feral Horse",
+      "description": "Wild horse that roams freely across the grassy hills of Rapa Nui, often grazing near the moai."
+    }
   ],
   "localWord": {
     "word": "Iorana",
-    "meaning": "hello and goodbye in Rapa Nui"
+    "meaning": "Hello and goodbye in Rapa Nui, the Polynesian language of Easter Island."
   },
   "images": [
     {
       "filename": "hero-ahu-tongariki.jpg",
-      "alt": "Fifteen giant stone moai statues stand in a row at Ahu Tongariki as the sun rises behind them.",
-      "credit": "Andreschile79",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ahu_Tongariki_al_amanecer.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ahu_Tongariki_al_amanecer.jpg"
+      "alt": "A row of giant stone moai statues stand at Ahu Tongariki facing inland.",
+      "credit": "Rivi",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ahu_Tongariki.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Ahu_Tongariki.jpg"
     },
     {
       "filename": "rano-raraku-quarry.jpg",
@@ -40,45 +58,85 @@
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Moais_enterrado_en_ladera_de_Rano_Raraku.JPG"
     },
     {
-      "filename": "anakena-beach-moai.jpg",
-      "alt": "Stone moai stand near palm trees on the white sand of Anakena Beach with blue ocean in the background.",
-      "credit": "Joe Ross",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anakena_Moai_-_Rapa_Nui_-_Easter_Island_-_Isla_de_Pasqua.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Anakena_Moai_-_Rapa_Nui_-_Easter_Island_-_Isla_de_Pasqua.jpg"
+      "filename": "anakena-beach-ahu-nau-nau.jpg",
+      "alt": "A row of moai stand on Ahu Nau Nau on the white sand of Anakena Beach.",
+      "credit": "Guillaume Massardier",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moais_Anakena.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Moais_Anakena.jpg"
     },
     {
-      "filename": "rano-kau-crater.jpg",
-      "alt": "A huge round volcano crater with a green lake inside it sits next to the deep blue Pacific Ocean.",
-      "credit": "Alanbritom",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crater_Rano_Kau_-_Flickr_-_Alanbritom.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Crater_Rano_Kau_-_Flickr_-_Alanbritom.jpg"
-    },
-    {
-      "filename": "ahu-ko-te-riku-moai-eyes.jpg",
-      "alt": "A single tall moai statue wearing a red stone topknot stares out with bright white coral eyes.",
-      "credit": "Chris malebran",
+      "filename": "orongo-village.jpg",
+      "alt": "Round stone huts of the old Orongo ceremonial village on the rim of the Rano Kau volcano.",
+      "credit": "Kallerna",
       "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moai_Ahu_Ko_Te_Riku.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Moai_Ahu_Ko_Te_Riku.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Easter_Island_13.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Easter_Island_13.jpg"
+    },
+    {
+      "filename": "ahu-akivi-seven-moai.jpg",
+      "alt": "The seven moai of Ahu Akivi standing in a row, facing the ocean.",
+      "credit": "Kallerna",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ahu_Akivi_Easter_Island.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Ahu_Akivi_Easter_Island.jpg"
+    },
+    {
+      "filename": "te-pito-kura-magic-stone.jpg",
+      "alt": "The smooth round magic stone of Te Pito Kura inside a low circle of rocks.",
+      "credit": "Bjarte Sorensen",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:AhuTePitoKura.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/AhuTePitoKura.jpg"
+    },
+    {
+      "filename": "red-tailed-tropicbird.jpg",
+      "alt": "A red-tailed tropicbird sits on its nest, showing two long red tail feathers.",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red-tailed_tropicbird_(Phaethon_rubricauda_rubricauda)_nesting.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Red-tailed_tropicbird_%28Phaethon_rubricauda_rubricauda%29_nesting.jpg"
+    },
+    {
+      "filename": "masked-booby.jpg",
+      "alt": "A masked booby seabird with a white body and dark mask around its eyes.",
+      "credit": "Drew Avery",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Masked_Booby_-_Sula_dactylatra_(5613352337).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Masked_Booby_-_Sula_dactylatra_%285613352337%29.jpg"
+    },
+    {
+      "filename": "green-sea-turtle.jpg",
+      "alt": "A green sea turtle glides through clear blue ocean water.",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Green_sea_turtle_(Chelonia_mydas)_Moorea.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Green_sea_turtle_%28Chelonia_mydas%29_Moorea.jpg"
+    },
+    {
+      "filename": "feral-horse.jpg",
+      "alt": "Free-range horses graze on the open grassy hills of Rapa Nui.",
+      "credit": "Mary Madigan",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Free-range_horses,_Rapa_Nui.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Free-range_horses%2C_Rapa_Nui.jpg"
     }
   ],
   "links": [
-    { "url": "https://en.wikipedia.org/wiki/Easter_Island", "label": "Wikipedia: Easter Island", "description": "Big overview of the island's geography, people, history and the moai." },
-    { "url": "https://en.wikipedia.org/wiki/Moai", "label": "Wikipedia: Moai", "description": "Everything about the giant statues, including how they were carved and moved." },
-    { "url": "https://whc.unesco.org/en/list/715/", "label": "UNESCO: Rapa Nui National Park", "description": "Why the whole archaeological park is a World Heritage Site." },
-    { "url": "https://www.chile.travel/en/destination/easter-island/", "label": "Chile Travel: Easter Island", "description": "Chile's official tourism site with photos and visitor tips." },
-    { "url": "https://imaginarapanui.com/en/", "label": "Imagina Rapa Nui", "description": "Local guide to Rapa Nui culture, language and main sights." },
-    { "url": "https://www.easterisland.travel/", "label": "EasterIsland.travel", "description": "Friendly guide with maps, history and things to do for visitors." }
+    { "url": "https://kids.kiddle.co/Easter_Island", "label": "Easter Island Facts for Kids (Kiddle)", "description": "A kid-friendly summary of Rapa Nui, the moai and the people." },
+    { "url": "https://en.wikipedia.org/wiki/Easter_Island", "label": "Easter Island on Wikipedia", "description": "Big-picture facts about the island, its history and the moai statues." },
+    { "url": "https://whc.unesco.org/en/list/715/", "label": "UNESCO: Rapa Nui National Park", "description": "Why the whole archaeological park is a World Heritage Site." }
   ],
   "sources": [
     "https://en.wikipedia.org/wiki/Easter_Island",
     "https://en.wikipedia.org/wiki/Moai",
+    "https://en.wikipedia.org/wiki/Ahu_Tongariki",
+    "https://en.wikipedia.org/wiki/Rano_Raraku",
+    "https://en.wikipedia.org/wiki/Anakena",
+    "https://en.wikipedia.org/wiki/Orongo",
+    "https://en.wikipedia.org/wiki/Ahu_Akivi",
     "https://whc.unesco.org/en/list/715/",
-    "https://www.chile.travel/en/destination/easter-island/",
-    "https://imaginarapanui.com/en/rapa-nui-culture/rapa-nui-language/",
-    "https://www.easterisland.travel/"
+    "https://kids.kiddle.co/Easter_Island"
   ],
-  "researchedAt": "2026-05-09T14:29:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }

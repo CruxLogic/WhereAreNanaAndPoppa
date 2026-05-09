@@ -1,26 +1,44 @@
 {
   "researchId": "charlottetown",
   "name": "Charlottetown",
-  "country": "Canada (PEI)",
-  "summary": "Charlottetown is the capital of Prince Edward Island, Canada's tiniest province, and the place where Canada was born at a famous meeting in 1864. It's the home of red dirt roads, warm sandy beaches, fresh lobster, and the storybook world of Anne of Green Gables.",
+  "country": "Canada",
+  "summary": "Charlottetown is the small seaside capital of Prince Edward Island, Canada's tiniest province. It is famous as the birthplace of Canada, where leaders met in 1864, and for its bright red beaches and Anne of Green Gables stories.",
   "funFacts": [
-    "Canada itself was first dreamed up in Charlottetown in 1864, when leaders met to talk about joining their colonies into one big country.",
-    "The novel Anne of Green Gables was written by Lucy Maud Montgomery, who grew up in PEI; the book has been translated into more than 36 languages.",
-    "PEI's beaches and dirt roads glow rust-red because the soil and sandstone are packed with iron oxide, basically the same stuff as rust.",
-    "The Confederation Bridge stretches 12.9 kilometres and is the world's longest bridge built across waters that freeze solid every winter.",
-    "Prince Edward Island is Canada's smallest province, so small you can drive across it in just a few hours, yet it has its own cute licence plates."
+    "Canada was first dreamed up in Charlottetown in 1864, when leaders met at Province House to talk about joining their colonies into one big country.",
+    "PEI's beaches and country roads glow rust-red because the soil and sandstone are packed with iron, basically the same stuff that makes nails go rusty.",
+    "The Confederation Bridge that links PEI to the mainland is 12.9 kilometres long, the world's longest bridge built across waters that freeze every winter.",
+    "Anne of Green Gables, the famous redhead from PEI, was created by author Lucy Maud Montgomery and her book has been translated into more than 36 languages.",
+    "Prince Edward Island is so small you can drive across the whole province in just a few hours, yet it has its own cute potato-shaped licence plates."
   ],
   "thingsToDo": [
-    "Walk the grounds of Province House National Historic Site, where Canada's founding meeting happened in 1864, then peek at the Confederation Centre next door.",
-    "Catch the Anne of Green Gables musical at the Confederation Centre of the Arts, Canada's longest-running show, perfect for young readers.",
-    "Take a 35-minute drive to Cavendish to tour Green Gables Heritage Place, the farmhouse that inspired the famous redhead's adventures.",
-    "Splash on Cavendish or Brackley Beach to feel warm Atlantic water and squish your toes into PEI's bright red sand under sandstone cliffs.",
-    "Stroll Victoria Row, a car-free brick street with street musicians, ice cream, and patios, then head to Peake's Quay boardwalk for harbour views.",
-    "Order fresh PEI lobster, mussels, or a lobster roll at a waterfront restaurant; the island is one of Canada's biggest lobster-fishing places."
+    "Tour Province House, the grand stone building where Canada's founding meeting happened in 1864.",
+    "Drive to Cavendish to visit Green Gables Heritage Place, the green-roofed farmhouse from the Anne stories.",
+    "Squish your toes in PEI's bright red sand at Cavendish or Brackley Beach in PEI National Park.",
+    "Walk Victoria Row, a car-free brick street with street musicians, ice cream shops and harbour views nearby.",
+    "Climb the spiral staircase of Point Prim Lighthouse, PEI's oldest and only round brick lighthouse.",
+    "Try fresh PEI lobster or a lobster roll at a waterfront restaurant on Peake's Quay boardwalk."
+  ],
+  "wildlife": [
+    {
+      "name": "Red Fox",
+      "description": "Bushy-tailed orange fox often seen trotting along PEI's red-dirt roads and farm fields."
+    },
+    {
+      "name": "Harbour Seal",
+      "description": "Plump speckled seal that pops its round head out of PEI's bays and harbours."
+    },
+    {
+      "name": "Atlantic Puffin",
+      "description": "Little black-and-white seabird with a bright rainbow-coloured beak nicknamed the sea parrot."
+    },
+    {
+      "name": "Common Loon",
+      "description": "Black-and-white diving bird with red eyes and a haunting yodel call across PEI lakes."
+    }
   ],
   "localWord": {
     "word": "Kwe'",
-    "meaning": "Hello or greetings in Mi'kmaq, the language of PEI's first people, who call the island Epekwitk meaning 'cradled on the waves'.",
+    "meaning": "Hello in Mi'kmaw, the language of PEI's first people, who call the island Epekwitk meaning 'cradled on the waves'.",
     "pronunciation": "gway"
   },
   "images": [
@@ -63,24 +81,63 @@
       "license": "Public domain",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blooming_Point_Beach,_Prince_Edward_Island.jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Blooming_Point_Beach%2C_Prince_Edward_Island.jpg"
+    },
+    {
+      "filename": "point-prim-lighthouse.jpg",
+      "alt": "The tall round brick Point Prim Lighthouse glows at sunset on PEI's south coast.",
+      "credit": "Marty Aligata (Msact)",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Point_Prim_Lighthouse_at_sunset_August_5,_2019.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Point_Prim_Lighthouse_at_sunset_August_5%2C_2019.jpg"
+    },
+    {
+      "filename": "red-fox.jpg",
+      "alt": "A bright orange red fox with a bushy white-tipped tail on Prince Edward Island.",
+      "credit": "Dennis Jarvis (archer10)",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PEI-002_-_Red_Fox_(2015).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/PEI-002_-_Red_Fox_%282015%29.jpg"
+    },
+    {
+      "filename": "harbour-seal.jpg",
+      "alt": "A speckled harbour seal resting with its round head raised.",
+      "credit": "NOAA",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_seal.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Common_seal.jpg"
+    },
+    {
+      "filename": "atlantic-puffin.jpg",
+      "alt": "Close-up of an Atlantic puffin's black-and-white face and bright rainbow beak.",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Puffin_(Fratercula_arctica)_head.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Puffin_%28Fratercula_arctica%29_head.jpg"
+    },
+    {
+      "filename": "common-loon.jpg",
+      "alt": "A black-and-white common loon with red eyes swimming on a calm lake.",
+      "credit": "P199",
+      "license": "CC BY-SA 2.5",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_Loon.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Common_Loon.jpg"
     }
   ],
   "links": [
-    { "url": "https://www.tourismpei.com/", "label": "Tourism PEI (Official)", "description": "Official Prince Edward Island tourism site with maps, beaches, and family attractions." },
-    { "url": "https://en.wikipedia.org/wiki/Charlottetown", "label": "Wikipedia: Charlottetown", "description": "Background on the city's history, harbour, and Birthplace of Confederation nickname." },
-    { "url": "https://parks.canada.ca/lhn-nhs/pe/provincehouse", "label": "Parks Canada: Province House", "description": "Parks Canada page about the historic legislature building and 1864 conference." },
-    { "url": "https://confederationcentre.com/", "label": "Confederation Centre of the Arts", "description": "Home of the Anne of Green Gables musical and family-friendly galleries downtown." },
-    { "url": "https://www.tourismpei.com/anne-of-green-gables", "label": "Anne of Green Gables on PEI", "description": "Official guide to Green Gables Heritage Place in Cavendish and Anne sites across the island." },
-    { "url": "https://portcharlottetown.com/information-for-cruise-passengers/", "label": "Port Charlottetown for Cruise Passengers", "description": "Port info, walking map, and shore-excursion ideas for one-day cruise visitors." }
+    { "url": "https://kids.kiddle.co/Charlottetown", "label": "Charlottetown Facts for Kids (Kiddle)", "description": "A kid-friendly summary of Charlottetown and its history." },
+    { "url": "https://en.wikipedia.org/wiki/Charlottetown", "label": "Charlottetown on Wikipedia", "description": "Big-picture facts about the city, its harbour and people." },
+    { "url": "https://parks.canada.ca/lhn-nhs/pe/provincehouse", "label": "Parks Canada: Province House", "description": "Parks Canada page about the historic building and the 1864 Confederation meeting." }
   ],
   "sources": [
     "https://en.wikipedia.org/wiki/Charlottetown",
     "https://en.wikipedia.org/wiki/Prince_Edward_Island",
+    "https://en.wikipedia.org/wiki/Province_House_(Prince_Edward_Island)",
     "https://en.wikipedia.org/wiki/Confederation_Bridge",
     "https://en.wikipedia.org/wiki/Anne_of_Green_Gables",
-    "https://parks.canada.ca/lhn-nhs/pe/provincehouse",
-    "https://confederationcentre.com/",
-    "https://www.tourismpei.com/"
+    "https://en.wikipedia.org/wiki/Point_Prim_Light",
+    "https://en.wikipedia.org/wiki/Atlantic_puffin",
+    "https://en.wikipedia.org/wiki/Common_loon",
+    "https://kids.kiddle.co/Charlottetown"
   ],
-  "researchedAt": "2026-05-09T13:42:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }

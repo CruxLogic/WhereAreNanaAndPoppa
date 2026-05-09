@@ -2,25 +2,43 @@
   "researchId": "perth-fremantle",
   "name": "Fremantle (Perth)",
   "country": "Australia",
-  "summary": "When your ship ties up at Fremantle, you've arrived at Perth's salty seaside doorway. Wander 'Freo's' old harbour streets, hop a 30-minute train into sunny Perth city, or jump on a fast ferry to Rottnest Island where smiley quokkas live. One day, three big choices!",
+  "summary": "Fremantle is the salty old port town that guards Perth, Western Australia's sunny capital city. Cruise ships tie up beside heritage stone buildings, and a quick ferry ride away is Rottnest Island, home to the smiley little quokka.",
   "funFacts": [
-    "Rottnest Island is home to about 10,000 quokkas, fluffy hopping marsupials famous as the world's happiest-looking animal and superstars of selfies.",
-    "Fremantle Prison was built by convicts in the 1850s using their own hands, and bad guys were locked inside for 136 years until 1991.",
-    "Perth is Australia's sunniest capital city, basking in roughly 3,200 hours of sunshine and almost 139 totally clear days every year.",
-    "The Swan River got its name from Dutch sailors in 1697 who were astonished to spot black swans there, instead of white ones like back home.",
-    "Just south of Fremantle, Penguin Island shelters around 200 wild bottlenose dolphins offshore plus a colony of tiny Little Penguins that come ashore at night."
+    "Perth is Australia's sunniest capital city, with about 3,200 hours of sunshine and 139 totally clear days every year.",
+    "Rottnest Island is home to about 10,000 quokkas, fluffy hopping marsupials famous as 'the world's happiest-looking animal'.",
+    "Fremantle Prison was built by convicts in the 1850s using their own hands, and prisoners were locked inside until 1991.",
+    "The Swan River was named by Dutch sailors in 1697 who were amazed to spot black swans there, instead of white ones.",
+    "Kings Park sits high on a hill above Perth and is bigger than New York's Central Park, with treetop walkways for huge views."
   ],
   "thingsToDo": [
-    "Climb aboard the HMAS Ovens submarine at the WA Maritime Museum in Fremantle and squeeze through narrow hatches like a real Cold War sailor.",
-    "Take the 'Escape from Fremantle Prison' kids tour, helping cheeky Moondyne Joe Junior plot a getaway through the convict-built corridors.",
-    "Catch the fast Rottnest Express ferry from Fremantle, hire bikes on the island, and try snapping a respectful quokka selfie from two metres away.",
-    "Hop the Transperth Fremantle Line train 30 minutes into Perth, then ride the elevator up Kings Park's treetop walkway for huge Swan River views.",
-    "Browse the buzzing Fremantle Markets for snacks, magic tricks and street performers, then climb the spinning Fremantle Tourist Wheel by Esplanade Park.",
-    "Visit the historic Round House (1831) at the top of Arthur Head and watch the One O'Clock Gun thunder out across the Indian Ocean."
+    "Take a 'Convict' or 'Escape' tour of Fremantle Prison and walk through the old stone cell blocks.",
+    "Catch the fast Rottnest Express ferry from Fremantle and try to snap a smiley quokka selfie.",
+    "Climb the historic Round House at Arthur Head and watch the One O'Clock Gun fire over the ocean.",
+    "Hop the Transperth train into Perth city and ride up Kings Park's treetop walkway over the gum trees.",
+    "Browse the buzzing Fremantle Markets for snacks, magic tricks and street performers in the heart of Freo.",
+    "Splash in the gentle waves and shady pine trees of famous Cottesloe Beach as the sun sets."
+  ],
+  "wildlife": [
+    {
+      "name": "Quokka",
+      "description": "Fluffy little hopping marsupial that looks like it's always smiling, found wild on Rottnest Island."
+    },
+    {
+      "name": "Black Swan",
+      "description": "Beautiful glossy-black swan with a bright red beak, the symbol of Western Australia."
+    },
+    {
+      "name": "Little Penguin",
+      "description": "World's smallest penguin, only 30cm tall, that waddles ashore at Penguin Island near Fremantle."
+    },
+    {
+      "name": "Bottlenose Dolphin",
+      "description": "Friendly grey dolphin that swims and surfs in the waves along WA's coast."
+    }
   ],
   "localWord": {
     "word": "Kaya",
-    "meaning": "'Hello' in the Noongar language, spoken by the Whadjuk people who have cared for the Perth and Fremantle area for tens of thousands of years.",
+    "meaning": "Hello, in Noongar, the language of the Whadjuk people of the Perth area.",
     "pronunciation": "KY-ah"
   },
   "images": [
@@ -34,7 +52,7 @@
     },
     {
       "filename": "fremantle-harbour-cruise-ships.jpg",
-      "alt": "Three big cruise ships are docked side by side at Fremantle's busy harbour.",
+      "alt": "Three big cruise ships docked side by side at Fremantle's busy harbour.",
       "credit": "Gnangarra",
       "license": "CC BY 2.5 AU",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:3_cruiseships_freo_harbour_gnangarra-100.jpg",
@@ -42,11 +60,35 @@
     },
     {
       "filename": "fremantle-prison-gatehouse.jpg",
-      "alt": "The tall stone gatehouse of historic Fremantle Prison stands under a bright blue sky.",
+      "alt": "The tall stone gatehouse of historic Fremantle Prison under a bright blue sky.",
       "credit": "Silver Birch Golden Wattle",
       "license": "CC BY-SA 4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fremantle_Prison_Gatehouse.jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Fremantle_Prison_Gatehouse.jpg"
+    },
+    {
+      "filename": "round-house-fremantle.jpg",
+      "alt": "The Round House, Fremantle's old stone prison from 1831, perched at Arthur Head.",
+      "credit": "Gnangarra",
+      "license": "CC BY 2.5 AU",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roundhouse_gnangarra-1.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Roundhouse_gnangarra-1.jpg"
+    },
+    {
+      "filename": "cottesloe-beach.jpg",
+      "alt": "Soft white sand and turquoise waves stretch along sunny Cottesloe Beach.",
+      "credit": "Bram Souffreau",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cottesloe_beach.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Cottesloe_beach.jpg"
+    },
+    {
+      "filename": "kings-park-perth-view.jpg",
+      "alt": "Perth city skyline seen across the Swan River from Kings Park's lookout.",
+      "credit": "JarrahTree",
+      "license": "CC BY 2.5 AU",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kings_Park_skyline,_Narrows_Bridge_and_train_crossing.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Kings_Park_skyline%2C_Narrows_Bridge_and_train_crossing.jpg"
     },
     {
       "filename": "rottnest-quokka-selfie.jpg",
@@ -57,33 +99,47 @@
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Quokka_selfie.jpg"
     },
     {
-      "filename": "cottesloe-beach.jpg",
-      "alt": "Soft white sand and turquoise waves stretch along sunny Cottesloe Beach.",
-      "credit": "Bram Souffreau",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cottesloe_beach.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Cottesloe_beach.jpg"
+      "filename": "black-swan.jpg",
+      "alt": "A glossy black swan with a bright red beak glides on still water.",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Black_swan_(Cygnus_atratus)_Bruny.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Black_swan_%28Cygnus_atratus%29_Bruny.jpg"
+    },
+    {
+      "filename": "little-penguin.jpg",
+      "alt": "A tiny Little Penguin waddles across the sand toward the sea.",
+      "credit": "Avenue",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Little_Blue_Penguin_(Eudyptula_minor)_released_on_a_beach,_heading_for_the_sea.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Little_Blue_Penguin_%28Eudyptula_minor%29_released_on_a_beach%2C_heading_for_the_sea.jpg"
+    },
+    {
+      "filename": "bottlenose-dolphin.jpg",
+      "alt": "A friendly bottlenose dolphin pokes its head above the water at Monkey Mia.",
+      "credit": "Dinkum",
+      "license": "CC0 1.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dolphin_-_Monkey_Mia,_WA.JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Dolphin_-_Monkey_Mia%2C_WA.JPG"
     }
   ],
   "links": [
-    { "url": "https://www.visitfremantle.com.au/explore/things-to-do/families", "label": "Visit Fremantle - Things to do with kids", "description": "Official Fremantle visitor site with family-friendly playgrounds, beaches and markets." },
-    { "url": "https://www.rottnestisland.com/", "label": "Rottnest Island Authority", "description": "Official site for ferries, bikes and meeting the famous quokkas." },
-    { "url": "https://fremantleprison.com.au/tours/", "label": "Fremantle Prison Tours", "description": "World Heritage convict prison with a kid-friendly Escape Tour for ages 5-12." },
-    { "url": "https://visit.museum.wa.gov.au/maritime", "label": "WA Maritime Museum", "description": "Big harbour-side museum where you can tour the HMAS Ovens submarine." },
-    { "url": "https://kids.kiddle.co/Perth", "label": "Perth facts for kids (Kiddle)", "description": "Kid-friendly encyclopaedia page on Perth, Western Australia's sunny capital." },
-    { "url": "https://www.bgpa.wa.gov.au/kings-park", "label": "Kings Park & Botanic Garden", "description": "400-hectare park overlooking Perth city, with playgrounds and a treetop walkway." }
+    { "url": "https://kids.kiddle.co/Perth", "label": "Perth Facts for Kids (Kiddle)", "description": "A kid-friendly summary of Perth, Western Australia's sunny capital." },
+    { "url": "https://en.wikipedia.org/wiki/Fremantle", "label": "Fremantle on Wikipedia", "description": "Big-picture facts about Fremantle, Perth's heritage port town." },
+    { "url": "https://kids.kiddle.co/Quokka", "label": "Quokka Facts for Kids (Kiddle)", "description": "All about the smiley little marsupial of Rottnest Island." }
   ],
   "sources": [
-    "https://www.visitfremantle.com.au/explore/things-to-do/families",
-    "https://www.westernaustralia.com/us/plan-my-trip/planning-tools/travel-stories/its-baby-quokka-season-and-youre-invited",
-    "https://fremantleprison.com.au/tours/tour-prices/",
-    "https://visit.museum.wa.gov.au/maritime/hmas-ovens",
     "https://en.wikipedia.org/wiki/Perth",
+    "https://en.wikipedia.org/wiki/Fremantle",
+    "https://en.wikipedia.org/wiki/Fremantle_Prison",
+    "https://en.wikipedia.org/wiki/Round_House,_Fremantle",
+    "https://en.wikipedia.org/wiki/Rottnest_Island",
+    "https://en.wikipedia.org/wiki/Quokka",
+    "https://en.wikipedia.org/wiki/Kings_Park,_Western_Australia",
     "https://en.wikipedia.org/wiki/Swan_River_(Western_Australia)",
-    "https://en.wikipedia.org/wiki/Whadjuk",
-    "https://www.fremantle.wa.gov.au/page/welcome-country",
-    "https://noongarlanguage.com.au/",
+    "https://en.wikipedia.org/wiki/Black_swan",
+    "https://en.wikipedia.org/wiki/Little_penguin",
     "https://kids.kiddle.co/Perth"
   ],
-  "researchedAt": "2026-05-09T11:35:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }

@@ -2,23 +2,45 @@
   "researchId": "visby",
   "name": "Visby",
   "country": "Sweden",
-  "summary": "Visby is a tiny medieval town on the Swedish island of Gotland, wrapped in a stone wall over 700 years old that you can still walk along today. It is a UNESCO World Heritage site full of crooked lanes, ruined churches, climbing roses, and the home of the Pippi Longstocking films. The wider island is famous for spooky limestone sea stacks called raukar and lots and lots of sheep.",
+  "summary": "Visby is a tiny medieval town on the Swedish island of Gotland, wrapped in a thick stone wall over 700 years old. Its crooked lanes are full of ruined churches and climbing roses.",
   "funFacts": [
-    "Visby's medieval wall stretches about 3.4 kilometres around the old town and still has 27 of its original tall watchtowers from the 1200s standing guard.",
-    "The real Villa Villekulla from the Pippi Longstocking films sits inside Kneippbyn park near Visby — fans can visit Pippi's actual house and climb on the roof.",
-    "Every August Visby hosts Medieval Week, when 40,000 visitors arrive in armour and gowns for jousting, sword fights, knights, jesters, and torch-lit markets.",
-    "Around the coast of Gotland stand strange limestone towers called raukar, carved by waves over millions of years — the tallest, Jungfrun, is 27 metres high.",
-    "Visby was the model for the harbour town in the famous Studio Ghibli film Kiki's Delivery Service, so it really is a movie town for kids."
+    "Visby's medieval Ringmuren wall stretches about 3.4 kilometres around the old town and still has 27 of its tall watchtowers from the 1200s standing.",
+    "The real Villa Villekulla house from the Pippi Longstocking films sits inside Kneippbyn park, where kids can climb on the roof just like Pippi.",
+    "Every August Visby hosts Medieval Week, when thousands of visitors arrive in armour and gowns for jousting, sword fights, jesters and torch-lit markets.",
+    "Around the coast of Gotland stand strange limestone towers called raukar, carved by waves over millions of years — the tallest is 27 metres high.",
+    "The seas around Gotland are home to the chunky Baltic grey seal, one of the biggest seals in the world, with bull seals weighing as much as a pony."
   ],
   "thingsToDo": [
-    "Walk the top and base of the medieval Ringmuren wall, counting the watchtowers and finding the Powder Tower, the oldest stone building still standing in the town.",
-    "Wander through the giant roofless church ruins of St Nicolai and St Karin, where ivy and roses now climb walls that were once full of bells and candles.",
-    "Visit Gotlands Museum (Fornsalen) to see the world's biggest stash of Viking silver, mysterious carved picture stones, and the Skepp och Skoj children's play area.",
-    "Spend the afternoon at Kneippbyn Resort just south of town to meet Villa Villekulla from Pippi Longstocking and ride waterslides at the Pippi water park.",
-    "Picnic in Almedalen park beside the harbour, then climb to the Botaniska Trädgården garden to find tropical trees, rose tunnels, and the cliffside Maiden Tower.",
-    "Step inside St Mary's Cathedral on Sankt Hansgatan, finished in 1225, the only one of Visby's many old churches still holding services after almost 800 years."
+    "Walk the top of the medieval Ringmuren wall and count its 27 ancient watchtowers.",
+    "Step inside St Mary's Cathedral, finished in 1225, the only old Visby church still in use.",
+    "Explore the giant roofless ruin of St Karin's church, where ivy and roses climb the walls.",
+    "Picnic in Almedalen park beside the harbour and watch sailboats come and go.",
+    "Find rose tunnels and tropical trees in the cliffside Botaniska Trädgården garden.",
+    "Take a trip to Fårö island to see the spooky raukar sea-stacks rising from the beach."
   ],
-  "localWord": { "word": "Hej", "meaning": "Hello", "pronunciation": "hay" },
+  "wildlife": [
+    {
+      "name": "Gotland Pony (Gotlandsruss)",
+      "description": "Small, tough native pony of Gotland that has roamed the island's forests for thousands of years."
+    },
+    {
+      "name": "Baltic Grey Seal",
+      "description": "Big spotty seal with a long horse-like nose that loves to sunbathe on Gotland's rocks."
+    },
+    {
+      "name": "Common Eider",
+      "description": "Chunky sea duck with a sloping green-and-white head that bobs around the Baltic coast."
+    },
+    {
+      "name": "Mute Swan",
+      "description": "Huge white bird with an orange bill that glides across Visby's harbour and ponds."
+    }
+  ],
+  "localWord": {
+    "word": "Hej",
+    "meaning": "Hello in Swedish.",
+    "pronunciation": "hay"
+  },
   "images": [
     {
       "filename": "hero-visby-walled-town.jpg",
@@ -27,6 +49,22 @@
       "license": "CC BY 3.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Visby_panorama_fr%C3%A5n_klinten.jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Visby_panorama_fr%C3%A5n_klinten.jpg"
+    },
+    {
+      "filename": "visby-st-marys-cathedral.jpg",
+      "alt": "Visby's St Mary's Cathedral with its dark pointy spires rising above the red rooftops of the old town.",
+      "credit": "L.G.foto (Leif Gustafsson)",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:0521Visby_domkyrka.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/0521Visby_domkyrka.jpg"
+    },
+    {
+      "filename": "visby-st-karins-ruin.jpg",
+      "alt": "The tall roofless arches of St Karin's medieval church ruin in the middle of Visby.",
+      "credit": "Arkland",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sankta_Karin_kyrkoruin.jpeg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Sankta_Karin_kyrkoruin.jpeg"
     },
     {
       "filename": "visby-gunpowder-tower-kruttornet.jpg",
@@ -53,31 +91,53 @@
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Gotland_F%C3%A5r%C3%B6-Raukar_Langhammars.jpg"
     },
     {
-      "filename": "visby-st-marys-cathedral.jpg",
-      "alt": "Visby's St Mary's Cathedral with its dark pointy spires rising above the red rooftops of the old town.",
-      "credit": "L.G.foto (Leif Gustafsson)",
+      "filename": "gotland-pony.jpg",
+      "alt": "A small chestnut Gotland pony (Gotlandsruss) standing in a paddock.",
+      "credit": "Sallis Lindqvist",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gotlandsruss.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Gotlandsruss.jpg"
+    },
+    {
+      "filename": "baltic-grey-seal.jpg",
+      "alt": "A big spotted Baltic grey seal stretching on a sunny rocky shore.",
+      "credit": "Atemue",
       "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:0521Visby_domkyrka.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/0521Visby_domkyrka.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grey_Seal,_Brodtener_Winkel,_German_Baltic_Sea_1.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Grey_Seal%2C_Brodtener_Winkel%2C_German_Baltic_Sea_1.jpg"
+    },
+    {
+      "filename": "common-eider.jpg",
+      "alt": "A male common eider duck with a sloping black-and-white head floating on calm water.",
+      "credit": "DAVID ILIFF",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Somateria_mollissima_(Common_Eider)_male,_London_Wetland_Centre_-_Diliff.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Somateria_mollissima_%28Common_Eider%29_male%2C_London_Wetland_Centre_-_Diliff.jpg"
+    },
+    {
+      "filename": "mute-swan.jpg",
+      "alt": "An adult mute swan with a bright orange bill gliding on water.",
+      "credit": "Peter Broster",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mute_Swan_-_Cygnus_Olor.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Mute_Swan_-_Cygnus_Olor.jpg"
     }
   ],
   "links": [
-    { "url": "https://visitsweden.com/where-to-go/southern-sweden/gotland/visby/", "label": "Visit Sweden — Visby", "description": "Sweden's official tourism site with photos and family ideas for Visby." },
-    { "url": "https://whc.unesco.org/en/list/731/", "label": "UNESCO — Hanseatic Town of Visby", "description": "Why Visby is a protected World Heritage Site, in plain language." },
-    { "url": "https://en.wikipedia.org/wiki/Visby", "label": "Wikipedia — Visby", "description": "All-round encyclopedia article about the walled city, its history, and quirks." },
-    { "url": "https://kneippbyn.se/en/utbud/pippi-langstrump/", "label": "Kneippbyn — Pippi Longstocking", "description": "The official park where Villa Villekulla and the Pippi water rides live." },
-    { "url": "https://www.gotlandsmuseum.se/", "label": "Gotlands Museum (Fornsalen)", "description": "Museum with Viking silver, picture stones, and a children's play exhibit." },
-    { "url": "https://www.medeltidsveckan.se/en/welcome/", "label": "Medeltidsveckan — Medieval Week", "description": "Visby's big August knight-and-jester festival with 500+ events." }
+    { "url": "https://kids.kiddle.co/Visby", "label": "Visby Facts for Kids (Kiddle)", "description": "A kid-friendly summary of Visby and its medieval wall." },
+    { "url": "https://en.wikipedia.org/wiki/Visby", "label": "Visby on Wikipedia", "description": "Big-picture facts about the walled city, its history, and people." },
+    { "url": "https://whc.unesco.org/en/list/731/", "label": "UNESCO — Hanseatic Town of Visby", "description": "Why Visby is a protected World Heritage Site, in plain language." }
   ],
   "sources": [
     "https://en.wikipedia.org/wiki/Visby",
     "https://en.wikipedia.org/wiki/Visby_City_Wall",
-    "https://en.wikipedia.org/wiki/Villa_Villekulla",
     "https://en.wikipedia.org/wiki/Rauk",
-    "https://en.wikipedia.org/wiki/Gotland_Museum",
+    "https://en.wikipedia.org/wiki/Gotland_Pony",
+    "https://en.wikipedia.org/wiki/Grey_seal",
+    "https://en.wikipedia.org/wiki/Common_eider",
+    "https://en.wikipedia.org/wiki/Mute_swan",
     "https://whc.unesco.org/en/list/731/",
-    "https://visitsweden.com/where-to-go/southern-sweden/gotland/visby/",
-    "https://www.britannica.com/place/Visby"
+    "https://kids.kiddle.co/Visby"
   ],
-  "researchedAt": "2026-05-09T12:25:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }

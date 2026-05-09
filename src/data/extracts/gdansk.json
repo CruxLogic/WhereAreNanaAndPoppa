@@ -2,31 +2,48 @@
   "researchId": "gdansk",
   "name": "Gdansk",
   "country": "Poland",
-  "summary": "Gdansk is a colourful old harbour city on the Baltic Sea in Poland, famous for golden amber treasure washed up on its beaches. Hundreds of years ago, ships from all over Europe traded here. It's also where Polish workers started a peaceful movement called Solidarity that helped change history.",
+  "summary": "Gdansk is a colourful old harbour city on Poland's Baltic coast. It is famous for golden amber washed up on its beaches, its tall painted merchant houses and its big medieval wooden crane on the river.",
   "funFacts": [
     "Baltic amber is sticky tree sap that hardened into 'gold of the north' over 40 million years, and sometimes hides ancient insects trapped inside.",
-    "World War II began right here on 1 September 1939 when German guns fired on a tiny Polish base called Westerplatte at the harbour mouth.",
-    "A peaceful workers' movement called Solidarity (Solidarnosc) started at Gdansk's shipyard in August 1980 and grew to over 10 million members.",
-    "Neptune, the bronze sea-god guarding Long Market, has watched over the city since 1617, making him the oldest secular statue in all Poland.",
-    "The giant wooden Gdansk Crane was the largest port crane in medieval Europe — workers walked inside huge wooden wheels to lift heavy cargo onto ships."
+    "World War II began in Gdansk on 1 September 1939 when German guns fired on a tiny Polish base called Westerplatte at the harbour mouth.",
+    "A peaceful workers' movement called Solidarity started at Gdansk's shipyard in 1980 and grew to over ten million members across Poland.",
+    "The bronze sea-god Neptune has stood guarding Long Market since 1617, making him the oldest secular statue in all of Poland.",
+    "The wooden Gdansk Crane was the biggest port crane in medieval Europe, lifted by workers walking inside huge wooden treadwheels."
   ],
   "thingsToDo": [
-    "Catch the SKM commuter train from Gdynia Glowna to Gdansk Glowny — it leaves every 20 minutes and takes about 35 minutes through pretty Tricity scenery.",
-    "Wander Long Market (Dlugi Targ) and pose with Neptune's Fountain in front of the gold-painted town hall and rainbow-coloured merchant houses.",
-    "Hunt for amber treasure on Mariacka Street, a cobbled lane of stone porches and dragon gargoyles where jewellers sell Baltic gold from little stalls.",
-    "Stand under the giant Gdansk Crane (Zuraw) by the Motlawa River and peek inside to see the medieval treadwheels workers once walked in.",
-    "Visit the European Solidarity Centre at the old shipyard gate and see the giant pen Lech Walesa used to sign the famous workers' agreement.",
-    "Take a pirate-style river cruise from the Green Gate to Westerplatte, where the very first shots of World War II were fired in 1939."
+    "Wander Long Market and pose with Neptune's Fountain in front of rainbow-coloured merchant houses.",
+    "Stand under the giant wooden Gdansk Crane beside the Motlawa River and peek inside its medieval treadwheels.",
+    "Hunt for amber treasure on cobbled Mariacka Street, lined with stone porches and quirky dragon gargoyles.",
+    "Take a pirate-style river cruise from the Green Gate out to the Westerplatte memorial at the harbour mouth.",
+    "Visit the European Solidarity Centre in its rust-red building at the old shipyard gate.",
+    "Catch a tram out to Oliwa Cathedral to hear its huge organ playing with moving wooden angels."
+  ],
+  "wildlife": [
+    {
+      "name": "White Stork",
+      "description": "Tall white-and-black bird with a red beak that builds huge stick nests on Polish chimneys."
+    },
+    {
+      "name": "European Bison",
+      "description": "Shaggy brown giant of Poland's old forests and Europe's heaviest wild land animal."
+    },
+    {
+      "name": "Eurasian Beaver",
+      "description": "Furry river engineer with orange teeth and a flat tail that builds dams from logs."
+    },
+    {
+      "name": "Grey Seal",
+      "description": "Whiskery sea mammal with spotty fur that hauls out on Baltic beaches to rest and pup."
+    }
   ],
   "localWord": {
     "word": "Czesc",
-    "meaning": "Hi! (a friendly hello to people you know)",
-    "pronunciation": "cheshch"
+    "meaning": "Hi! A friendly Polish hello, said like 'cheshch'."
   },
   "images": [
     {
       "filename": "long-market-gdansk.jpg",
-      "alt": "The colourful row of tall, gabled merchant houses lining Gdańsk's Long Market square on a sunny day.",
+      "alt": "The colourful row of tall, gabled merchant houses lining Gdansk's Long Market square on a sunny day.",
       "credit": "Nieszka",
       "license": "CC BY-SA 3.0 PL",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Long_Market_(Dlugi_Targ)_in_Gdansk.JPG",
@@ -34,7 +51,7 @@
     },
     {
       "filename": "gdansk-crane-zuraw.jpg",
-      "alt": "The big wooden medieval Gdańsk Crane (Żuraw) standing beside the Motława river.",
+      "alt": "The big wooden medieval Gdansk Crane (Zuraw) standing beside the Motlawa river.",
       "credit": "Maciej Rolkowski",
       "license": "CC BY-SA 4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brama_%C5%BBuraw,_Gda%C5%84sk_2021.jpg",
@@ -42,7 +59,7 @@
     },
     {
       "filename": "mariacka-street.jpg",
-      "alt": "Pretty Mariacka Street in Gdańsk's Old Town, lined with stone porches and amber shops.",
+      "alt": "Pretty Mariacka Street in Gdansk's Old Town, lined with stone porches and amber shops.",
       "credit": "Michael Caven",
       "license": "CC BY 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mariacka_Street_in_Gda%C5%84sk.jpg",
@@ -50,38 +67,76 @@
     },
     {
       "filename": "european-solidarity-centre.jpg",
-      "alt": "The rust-coloured steel walls of the European Solidarity Centre museum in Gdańsk.",
+      "alt": "The rust-coloured steel walls of the European Solidarity Centre museum in Gdansk.",
       "credit": "Gerda Arendt",
       "license": "CC0 1.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:European_Solidarity_Centre,_Gda%C5%84sk.jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/European_Solidarity_Centre%2C_Gda%C5%84sk.jpg"
     },
     {
-      "filename": "amber-necklace.jpg",
-      "alt": "A close-up of a golden Baltic amber necklace with smooth honey-coloured beads.",
-      "credit": "Kim Bach",
+      "filename": "westerplatte-monument.jpg",
+      "alt": "The tall stone Westerplatte Monument that remembers the start of World War II in 1939.",
+      "credit": "Holger Weinandt",
+      "license": "CC BY-SA 3.0 DE",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Westerplatte-Denkmal_Danzig_2010.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Westerplatte-Denkmal_Danzig_2010.jpg"
+    },
+    {
+      "filename": "oliwa-cathedral.jpg",
+      "alt": "The twin pointed towers of Oliwa Cathedral rising above the trees in Gdansk.",
+      "credit": "Aimaina hikari",
+      "license": "CC0 1.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oliwa_Cathedral_1.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Oliwa_Cathedral_1.jpg"
+    },
+    {
+      "filename": "white-stork.jpg",
+      "alt": "A white stork with a long red beak standing tall in a meadow.",
+      "credit": "Richard Bartz",
+      "license": "CC BY-SA 2.5",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:White_Stork_Wei%C3%9Fstorch_Ciconia_ciconia.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/White_Stork_Wei%C3%9Fstorch_Ciconia_ciconia.jpg"
+    },
+    {
+      "filename": "european-bison.jpg",
+      "alt": "A big shaggy brown European bison, also called a wisent, standing in a Polish reserve.",
+      "credit": "Crusier",
       "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amber_necklace.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Amber_necklace.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bison_bonasus_Oliwa_4.JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bison_bonasus_Oliwa_4.JPG"
+    },
+    {
+      "filename": "eurasian-beaver.jpg",
+      "alt": "A Eurasian beaver beside a river dam in northern Poland.",
+      "credit": "Klaudiusz Muchowski",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castor_fiber_vistulanus2.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Castor_fiber_vistulanus2.jpg"
+    },
+    {
+      "filename": "grey-seal.jpg",
+      "alt": "A whiskery grey seal resting on the shore.",
+      "credit": "Andreas Trepte",
+      "license": "CC BY-SA 2.5",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Halichoerus_grypus_He3.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Halichoerus_grypus_He3.jpg"
     }
   ],
   "links": [
-    { "url": "https://visitgdansk.com/en/", "label": "Visit Gdansk (official tourism)", "description": "Official city tourism site with maps, family attractions and event listings." },
-    { "url": "https://www.poland.travel/en/gdansk-and-tricity/", "label": "Poland.travel — Gdansk and Tricity", "description": "Poland's official travel site explaining Gdansk, Sopot and Gdynia together." },
-    { "url": "https://kids.kiddle.co/Gda%C5%84sk", "label": "Kiddle: Gdansk facts for kids", "description": "Easy-reading encyclopedia page written specifically for children." },
-    { "url": "https://en.wikipedia.org/wiki/Gda%C5%84sk_Crane", "label": "Wikipedia: Gdansk Crane (Zuraw)", "description": "How medieval workers used giant treadwheels to lift cargo onto ships." },
-    { "url": "https://muzeum1939.pl/en", "label": "Museum of the Second World War", "description": "Official museum site about the war that began at Westerplatte in 1939." },
-    { "url": "https://ecs.gda.pl/en/", "label": "European Solidarity Centre", "description": "Museum at the shipyard telling the story of Solidarnosc and Lech Walesa." }
+    { "url": "https://kids.kiddle.co/Gda%C5%84sk", "label": "Gdansk Facts for Kids (Kiddle)", "description": "A kid-friendly summary of Gdansk." },
+    { "url": "https://en.wikipedia.org/wiki/Gda%C5%84sk", "label": "Gdansk on Wikipedia", "description": "Big-picture facts about the city, its harbour and history." },
+    { "url": "https://ecs.gda.pl/en/", "label": "European Solidarity Centre", "description": "Museum at the shipyard telling the story of Solidarity." }
   ],
   "sources": [
     "https://en.wikipedia.org/wiki/Gda%C5%84sk",
     "https://en.wikipedia.org/wiki/Gda%C5%84sk_Crane",
     "https://en.wikipedia.org/wiki/Baltic_amber",
     "https://en.wikipedia.org/wiki/Solidarity_(Polish_trade_union)",
-    "https://en.wikipedia.org/wiki/Museum_of_the_Second_World_War",
-    "https://kids.kiddle.co/Gda%C5%84sk",
-    "https://www.poland.travel/en/gdansk-and-tricity/",
-    "https://www.britannica.com/place/Gdansk"
+    "https://en.wikipedia.org/wiki/Westerplatte",
+    "https://en.wikipedia.org/wiki/Oliwa_Cathedral",
+    "https://en.wikipedia.org/wiki/White_stork",
+    "https://en.wikipedia.org/wiki/European_bison",
+    "https://kids.kiddle.co/Gda%C5%84sk"
   ],
-  "researchedAt": "2026-05-09T12:20:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }

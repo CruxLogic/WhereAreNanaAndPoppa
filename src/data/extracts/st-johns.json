@@ -1,31 +1,49 @@
 {
   "researchId": "st-johns",
   "name": "St. John's",
-  "country": "Canada (Newfoundland)",
-  "summary": "St. John's is a colourful, salty-air city perched on the eastern edge of Canada — one of the oldest English-founded cities in North America. Bright Jellybean Row houses tumble down hills above a busy harbour, while puffins, whales, and even icebergs cruise past the rocky coast each summer. From Signal Hill, where the first transatlantic radio message was heard in 1901, you can see the wild Atlantic stretch all the way to the horizon.",
+  "country": "Canada",
+  "summary": "St. John's is a colourful seaside city on the eastern tip of Canada, with rainbow houses tumbling down hills above a busy harbour. Whales, puffins and even icebergs cruise past its rocky shore each summer.",
   "funFacts": [
-    "Cape Spear, just outside the city, is the easternmost point of North America (excluding Greenland) — stand there and nobody on the continent is further east than you.",
-    "On Signal Hill in 1901, Italian inventor Guglielmo Marconi heard the very first wireless radio message sent across the Atlantic Ocean — three faint clicks tapped from England.",
-    "Every spring and summer, gigantic 10,000-year-old icebergs drift down 'Iceberg Alley' from Greenland, sometimes floating right past St. John's harbour like floating glass mountains.",
-    "The Atlantic Puffin, Newfoundland's provincial bird, gathers in colonies near St. John's — Witless Bay alone hosts over 260,000 nesting pairs, the biggest puffin city in North America.",
-    "Downtown's 'Jellybean Row' houses are painted purple, lime, pink, and turquoise — the trend started in the 1970s when locals began brightening up old wooden homes one colour at a time."
+    "Cape Spear, just outside the city, is the easternmost point of North America — stand on its rocks and nobody on the whole continent is further east than you.",
+    "On Signal Hill in 1901, inventor Guglielmo Marconi heard the very first wireless radio message ever sent across the Atlantic — three faint clicks tapped from England.",
+    "Every spring, gigantic 10,000-year-old icebergs drift down 'Iceberg Alley' from Greenland, sometimes floating right past St. John's harbour like floating glass mountains.",
+    "Witless Bay near St. John's is home to over 260,000 pairs of nesting Atlantic puffins, making it the biggest puffin city in North America.",
+    "Downtown's famous 'Jellybean Row' houses are painted purple, lime, pink and turquoise — locals started brightening up old wooden homes back in the 1970s."
   ],
   "thingsToDo": [
-    "Climb up Signal Hill to Cabot Tower for huge ocean views, then explore the spot where Marconi caught the first transatlantic radio signal in 1901.",
-    "Walk along Water Street and Gower Street downtown to spot the candy-coloured Jellybean Row houses — bring a camera and count how many colours you see.",
-    "Drive 15 minutes to Cape Spear Lighthouse and stand on the easternmost rocks in North America while watching for whales spouting offshore.",
-    "Hop on a boat tour from Bay Bulls or the harbour to spot Atlantic puffins, humpback whales, and maybe a giant iceberg drifting past in summer.",
-    "Visit The Rooms museum, a giant building shaped like fishing sheds, to meet the famous giant squid and explore Newfoundland's wild history.",
-    "Wander tiny Quidi Vidi Village over the hill, see the 18th-century battery, and watch fishing boats bob in one of the prettiest little harbours anywhere."
+    "Climb Signal Hill to Cabot Tower for huge ocean views and the spot where the first transatlantic radio signal was heard.",
+    "Wander downtown to spot the candy-coloured Jellybean Row houses and count how many bright colours you can find.",
+    "Drive to Cape Spear Lighthouse and stand on the easternmost rocks in North America while watching for whales offshore.",
+    "Hop on a boat tour to spot Atlantic puffins, humpback whales and maybe a giant iceberg drifting past in summer.",
+    "Visit The Rooms museum, a giant building shaped like fishing sheds, to meet a real giant squid and explore Newfoundland history.",
+    "Wander tiny Quidi Vidi Village over the hill and watch fishing boats bob in one of the prettiest little harbours anywhere."
+  ],
+  "wildlife": [
+    {
+      "name": "Atlantic Puffin",
+      "description": "Newfoundland's small black-and-white provincial bird with a bright orange beak — nicknamed the 'sea parrot'."
+    },
+    {
+      "name": "Newfoundland Dog",
+      "description": "Huge gentle black dog with webbed paws, famous for swimming and rescuing people from cold water."
+    },
+    {
+      "name": "Humpback Whale",
+      "description": "Giant ocean animal that gathers here every summer in the world's biggest feeding population."
+    },
+    {
+      "name": "Harp Seal",
+      "description": "Fluffy white pup that is born on floating sea ice and rides icebergs past the coast."
+    }
   ],
   "localWord": {
     "word": "Yes b'y!",
-    "meaning": "A super common Newfoundland expression meaning 'yes, friend!' or sometimes 'no way, really?!' — depending on how you say it. 'B'y' is short for 'boy' but means buddy or pal."
+    "meaning": "A super common Newfoundland expression meaning 'yes, friend!' — 'b'y' is short for 'boy' but means buddy or pal."
   },
   "images": [
     {
       "filename": "hero-jellybean-row.jpg",
-      "alt": "Bright pink, yellow, blue, and green row houses line a street in downtown St. John's.",
+      "alt": "Bright pink, yellow, blue and green row houses line a street in downtown St. John's.",
       "credit": "Kenny Louie",
       "license": "CC BY 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jelly_Bean_Row_(7701369614).jpg",
@@ -48,12 +66,20 @@
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Cape_Spear_lighthouse.jpg"
     },
     {
-      "filename": "iceberg-st-johns-harbour.jpg",
-      "alt": "A tall sailing ship glides past giant white icebergs entering St. John's harbour.",
-      "credit": "US Embassy Canada",
-      "license": "CC BY 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:USCGC_Eagle_Passes_Icebergs_in_St._John%27s_harbor_(14766743414).jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/USCGC_Eagle_Passes_Icebergs_in_St._John%27s_harbor_%2814766743414%29.jpg"
+      "filename": "harbour-narrows.jpg",
+      "alt": "Boats and the rocky entrance called the Narrows lead into St. John's harbour.",
+      "credit": "Ryan Hodnett",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Narrows_and_St._John%27s_Harbour_-_St._John%27s,_Newfoundland_2019-08-22.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/The_Narrows_and_St._John%27s_Harbour_-_St._John%27s%2C_Newfoundland_2019-08-22.jpg"
+    },
+    {
+      "filename": "the-rooms.jpg",
+      "alt": "The Rooms museum building, shaped like giant fishing sheds, overlooks the city.",
+      "credit": "Shhewitt",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Rooms_(Southeast_face),_St._John%27s,_Newfoundland,_Canada.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/The_Rooms_%28Southeast_face%29%2C_St._John%27s%2C_Newfoundland%2C_Canada.jpg"
     },
     {
       "filename": "quidi-vidi-village.jpg",
@@ -62,24 +88,59 @@
       "license": "CC BY-SA 4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quidi_Vidi_Village_(St._John%27s)_Panorama.jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Quidi_Vidi_Village_%28St._John%27s%29_Panorama.jpg"
+    },
+    {
+      "filename": "atlantic-puffin.jpg",
+      "alt": "An Atlantic puffin with a bright orange beak stands on a rocky cliff.",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Puffin_(Fratercula_arctica).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Puffin_%28Fratercula_arctica%29.jpg"
+    },
+    {
+      "filename": "newfoundland-dog.jpg",
+      "alt": "A big black Newfoundland dog with a thick fluffy coat sits outdoors.",
+      "credit": "Dan Morgan (DanDee Shots)",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Newfoundland_dog_Smoky.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Newfoundland_dog_Smoky.jpg"
+    },
+    {
+      "filename": "humpback-whale.jpg",
+      "alt": "A humpback whale's tail rises out of the ocean off the Newfoundland coast.",
+      "credit": "Ryan Hodnett",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Humpback_Whale_(Megaptera_novaeangliae)_-_Elliston,_Newfoundland_2019-08-13_(02).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Humpback_Whale_%28Megaptera_novaeangliae%29_-_Elliston%2C_Newfoundland_2019-08-13_%2802%29.jpg"
+    },
+    {
+      "filename": "harp-seal.jpg",
+      "alt": "A fluffy white harp seal pup rests on snowy sea ice beside its mother.",
+      "credit": "Visit Greenland",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Harp_seal_mother_and_pup.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Harp_seal_mother_and_pup.jpg"
     }
   ],
   "links": [
-    { "url": "https://www.newfoundlandlabrador.com/destinations/st-johns", "label": "Newfoundland & Labrador Tourism: St. John's", "description": "Official provincial tourism page with photos, attractions, and trip ideas for the city." },
-    { "url": "https://parks.canada.ca/lhn-nhs/nl/spear", "label": "Parks Canada: Cape Spear Lighthouse", "description": "Official site for the easternmost point in North America and its historic lighthouse." },
-    { "url": "https://en.wikipedia.org/wiki/St._John%27s,_Newfoundland_and_Labrador", "label": "Wikipedia: St. John's", "description": "In-depth article covering the city's history, geography, Signal Hill, and culture." },
-    { "url": "https://therooms.ca/", "label": "The Rooms Museum", "description": "Newfoundland's biggest museum, art gallery, and archive — including the famous giant squid." },
-    { "url": "https://kids.kiddle.co/Cape_Spear", "label": "Kiddle: Cape Spear Facts for Kids", "description": "Kid-friendly encyclopedia entry on Cape Spear's lighthouse and easternmost-point fame." },
-    { "url": "https://www.britannica.com/place/St-Johns-Newfoundland-and-Labrador", "label": "Britannica: St. John's", "description": "Encyclopedia overview of the city's founding, harbour, and significance." }
+    { "url": "https://kids.kiddle.co/Cape_Spear", "label": "Kiddle: Cape Spear Facts for Kids", "description": "A kid-friendly explainer of Cape Spear's lighthouse and easternmost-point fame." },
+    { "url": "https://en.wikipedia.org/wiki/St._John%27s,_Newfoundland_and_Labrador", "label": "St. John's on Wikipedia", "description": "Big-picture facts about the city, its harbour and its history." },
+    { "url": "https://www.britannica.com/place/St-Johns-Newfoundland-and-Labrador", "label": "Britannica: St. John's", "description": "Encyclopedia overview of the city's founding, harbour and significance." }
   ],
   "sources": [
     "https://en.wikipedia.org/wiki/St._John%27s,_Newfoundland_and_Labrador",
     "https://www.britannica.com/place/St-Johns-Newfoundland-and-Labrador",
-    "https://www.newfoundlandlabrador.com/destinations/st-johns",
     "https://en.wikipedia.org/wiki/Cape_Spear",
-    "https://parks.canada.ca/lhn-nhs/nl/spear",
+    "https://en.wikipedia.org/wiki/Signal_Hill,_St._John%27s",
+    "https://en.wikipedia.org/wiki/The_Rooms",
+    "https://en.wikipedia.org/wiki/Quidi_Vidi",
+    "https://en.wikipedia.org/wiki/Atlantic_puffin",
+    "https://en.wikipedia.org/wiki/Newfoundland_dog",
+    "https://en.wikipedia.org/wiki/Humpback_whale",
+    "https://en.wikipedia.org/wiki/Harp_seal",
     "https://www.gov.nl.ca/aboutnl/emblem/puffin.html",
-    "https://en.wikipedia.org/wiki/Witless_Bay_Ecological_Reserve"
+    "https://en.wikipedia.org/wiki/Witless_Bay_Ecological_Reserve",
+    "https://kids.kiddle.co/Cape_Spear"
   ],
-  "researchedAt": "2026-05-09T13:21:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }

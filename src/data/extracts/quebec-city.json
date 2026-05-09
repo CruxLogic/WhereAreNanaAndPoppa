@@ -2,35 +2,61 @@
   "researchId": "quebec-city",
   "name": "Quebec City",
   "country": "Canada",
-  "summary": "Quebec City is a French-speaking storybook town on a cliff above the St. Lawrence River, with the only city walls left standing in North America north of Mexico. You can wander cobblestone streets, gaze up at the fairy-tale Chateau Frontenac, and stand near a waterfall taller than Niagara. It was founded way back in 1608, making it one of the oldest cities in Canada.",
+  "summary": "Quebec City is a French-speaking storybook town on a cliff above the wide St. Lawrence River. It is the only walled city in North America north of Mexico, with cobbled lanes and the castle-like Chateau Frontenac at its heart.",
   "funFacts": [
-    "Quebec City still has its full stone walls, gates, and cannons. It is the only walled city left in North America north of Mexico.",
-    "The Chateau Frontenac holds the Guinness record as the most photographed hotel on Earth, with copper roofs and pointy turrets like a real castle.",
+    "Quebec City still has its full stone walls, gates, and cannons, making it the only walled city left in North America north of Mexico.",
+    "The Chateau Frontenac has copper roofs and pointy turrets like a real castle, and is said to be the most photographed hotel on Earth.",
     "Montmorency Falls drops 83 metres, about 30 metres taller than Niagara Falls, and you can ride a cable car or zoom across on a zipline.",
     "Quebec City was founded in 1608 by French explorer Samuel de Champlain, making it more than 400 years old and the heart of New France.",
-    "Every winter a giant snowman named Bonhomme Carnaval gets handed the keys to the city to start a huge ice and snow festival."
+    "Each winter a giant snowman named Bonhomme Carnaval is handed the keys to the city to start a huge ice and snow festival."
   ],
   "thingsToDo": [
-    "Walk along the old stone ramparts and through the city gates of Old Quebec, spotting cannons and bastions left over from 1700s battles.",
-    "Ride the funicular, the oldest cable railway in North America, between Lower Town and Upper Town to reach the Chateau Frontenac.",
-    "Explore Place Royale in Lower Town, where Champlain set up his trading post in 1608, and find the giant painted mural of Quebec history.",
-    "Roam the Plains of Abraham battlefield park with picnic spots, century-old maples, and a museum full of interactive games and treasure hunts.",
-    "Take a cable car up Montmorency Falls and cross the suspension footbridge right over the roaring water at the very top.",
-    "Drive a loop around Ile d'Orleans for strawberry farms, the famous chocolaterie, and pretty riverside villages just 15 minutes from town."
+    "Walk along the old stone ramparts and through the gates of Old Quebec, spotting cannons left over from 1700s battles.",
+    "Ride the funicular cable railway between Lower Town and Upper Town to reach the Chateau Frontenac at the top.",
+    "Explore Place Royale in Lower Town, where Champlain set up his trading post in 1608, and find the giant painted history mural.",
+    "Wander the colourful little shops and flower-lined cobbles of the Petit-Champlain quarter, one of North America's oldest streets.",
+    "Run around the Plains of Abraham battlefield park with picnic lawns, big maple trees and a museum full of treasure hunts.",
+    "Take the cable car up Montmorency Falls and walk across the suspension footbridge right above the roaring water."
+  ],
+  "wildlife": [
+    {
+      "name": "Beluga Whale",
+      "description": "Friendly snow-white whale that lives all year in the cold St. Lawrence River."
+    },
+    {
+      "name": "Beaver",
+      "description": "Canada's national animal, a furry rodent that builds wooden dams with its flat tail."
+    },
+    {
+      "name": "Snowy Owl",
+      "description": "Big white owl, the official bird of Quebec, that hunts across snowy fields in winter."
+    },
+    {
+      "name": "Canada Goose",
+      "description": "Black-headed goose with a white chinstrap that flies in V-shapes honking loudly."
+    }
   ],
   "localWord": {
     "word": "Bonjour",
-    "meaning": "Hello (the friendly French greeting you will hear everywhere in Quebec)",
+    "meaning": "Hello, the friendly French greeting you will hear everywhere in Quebec.",
     "pronunciation": "bohn-ZHOOR"
   },
   "images": [
     {
       "filename": "hero-chateau-frontenac.jpg",
-      "alt": "The grand green-roofed Château Frontenac hotel towers over the rooftops of Quebec City beside the wide St. Lawrence River.",
+      "alt": "The grand green-roofed Chateau Frontenac hotel towers over the rooftops of Quebec City beside the wide St. Lawrence River.",
       "credit": "Fred.larouche",
       "license": "CC0 1.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fairmont_Ch%C3%A2teau_Frontenac_dans_la_ville_de_Qu%C3%A9bec,_Canada.jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Fairmont_Ch%C3%A2teau_Frontenac_dans_la_ville_de_Qu%C3%A9bec%2C_Canada.jpg"
+    },
+    {
+      "filename": "citadelle-quebec.jpg",
+      "alt": "The star-shaped stone fortress walls of the Citadelle, part of Old Quebec's UNESCO walled city, rise above the St. Lawrence under a blue sky.",
+      "credit": "Jeangagnon",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Citadelle_de_Quebec_115.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Citadelle_de_Quebec_115.jpg"
     },
     {
       "filename": "place-royale-night.jpg",
@@ -49,12 +75,12 @@
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Rue_du_Petit-Champlain_22.jpg"
     },
     {
-      "filename": "citadelle-quebec.jpg",
-      "alt": "The star-shaped stone fortress walls of the Citadelle of Quebec sit high above the city under a blue sky.",
-      "credit": "Jeangagnon",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Citadelle_de_Quebec_115.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Citadelle_de_Quebec_115.jpg"
+      "filename": "plains-of-abraham.jpg",
+      "alt": "The wide grassy lawns of the Plains of Abraham battlefield park in Quebec City on a sunny day.",
+      "credit": "Michel Rathwell",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plains_of_Abraham_Quebec_City_(25449437867).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Plains_of_Abraham_Quebec_City_%2825449437867%29.jpg"
     },
     {
       "filename": "montmorency-falls.jpg",
@@ -63,25 +89,55 @@
       "license": "CC0 1.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Montmorency_Falls_from_the_bridge.jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Montmorency_Falls_from_the_bridge.jpg"
+    },
+    {
+      "filename": "beluga-whale.jpg",
+      "alt": "A snow-white beluga whale glides through the water with its rounded forehead poking up.",
+      "credit": "Ubergirl",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beluga_Whale_Vancouver_Aquarium.JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Beluga_Whale_Vancouver_Aquarium.JPG"
+    },
+    {
+      "filename": "beaver.jpg",
+      "alt": "A North American beaver sits in the sun on a log at Six Mile Lake Provincial Park, Ontario.",
+      "credit": "Dickbauch",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Biber_2_db.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Biber_2_db.jpg"
+    },
+    {
+      "filename": "snowy-owl.jpg",
+      "alt": "A snowy owl with bright yellow eyes stands on the snow.",
+      "credit": "Rhododendrites",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Snowy_owl_at_Jones_Beach_(04863).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Snowy_owl_at_Jones_Beach_%2804863%29.jpg"
+    },
+    {
+      "filename": "canada-goose.jpg",
+      "alt": "Close-up of a Canada goose with a black head and the famous white chinstrap.",
+      "credit": "Andreas Trepte",
+      "license": "CC BY-SA 2.5",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Branta_canadensis_portrait.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Branta_canadensis_portrait.jpg"
     }
   ],
   "links": [
-    { "url": "https://www.quebec-cite.com/en/old-quebec-city", "label": "Visit Quebec City: Old Quebec", "description": "Official tourism guide to the walled UNESCO old town with maps and family activities." },
-    { "url": "https://whc.unesco.org/en/list/300/", "label": "UNESCO: Historic District of Old Quebec", "description": "Why the old fortified city was named a World Heritage site in 1985." },
-    { "url": "https://www.plainsofabraham.ca/", "label": "Plains of Abraham Park", "description": "Battlefield park and museum with kid rallies, costumed characters, and a Minecraft Quebec 1759 download." },
-    { "url": "https://www.bonjourquebec.com/en-us/listing/to-see-and-do/parc-de-la-chute-montmorency/0sku", "label": "Bonjour Quebec: Montmorency Falls Park", "description": "Cable car, suspension bridge, stairs, and zipline at the giant waterfall just outside the city." },
-    { "url": "https://kids.kiddle.co/Plains_of_Abraham", "label": "Kiddle: Plains of Abraham facts for kids", "description": "Simple kid-friendly explanation of the famous 1759 battle and what the park is like today." },
-    { "url": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_Frontenac", "label": "Wikipedia: Chateau Frontenac", "description": "History of the world's most photographed hotel, opened 1893, towering over Old Quebec." }
+    { "url": "https://kids.kiddle.co/Quebec_City", "label": "Quebec City Facts for Kids (Kiddle)", "description": "A short, easy-read summary of the city for young readers." },
+    { "url": "https://en.wikipedia.org/wiki/Quebec_City", "label": "Quebec City on Wikipedia", "description": "Big-picture facts about the city, its river and its French history." },
+    { "url": "https://whc.unesco.org/en/list/300/", "label": "UNESCO: Historic District of Old Quebec", "description": "Why the old fortified city was named a World Heritage site in 1985." }
   ],
   "sources": [
-    "https://whc.unesco.org/en/list/300/",
     "https://en.wikipedia.org/wiki/Quebec_City",
-    "https://en.wikipedia.org/wiki/Ramparts_of_Quebec_City",
-    "https://www.quebec-cite.com/en/old-quebec-city",
     "https://en.wikipedia.org/wiki/Ch%C3%A2teau_Frontenac",
-    "https://thecanadianencyclopedia.ca/en/article/samuel-de-champlain",
-    "https://www.plainsofabraham.ca/",
-    "https://carnaval.qc.ca/en/about-the-carnival-2/bonhomme/"
+    "https://en.wikipedia.org/wiki/Ramparts_of_Quebec_City",
+    "https://en.wikipedia.org/wiki/Plains_of_Abraham",
+    "https://en.wikipedia.org/wiki/Montmorency_Falls",
+    "https://en.wikipedia.org/wiki/Beluga_whale",
+    "https://en.wikipedia.org/wiki/North_American_beaver",
+    "https://en.wikipedia.org/wiki/Snowy_owl",
+    "https://kids.kiddle.co/Quebec_City"
   ],
-  "researchedAt": "2026-05-09T13:32:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }

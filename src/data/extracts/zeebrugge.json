@@ -2,86 +2,142 @@
   "researchId": "zeebrugge",
   "name": "Zeebrugge",
   "country": "Belgium",
-  "summary": "Zeebrugge is a busy fishing and cargo port on Belgium's North Sea coast where Dutch (Flemish) is spoken. Just 15km away sits Bruges, a fairy-tale medieval town crisscrossed by canals, and Brussels, Belgium's capital, is about 1.5 hours by train. This is the land of chocolate, crispy frites, waffles, and famous comic heroes like Tintin and the Smurfs.",
+  "summary": "Zeebrugge is a busy port on Belgium's North Sea coast and the gateway to Bruges, a fairy-tale medieval town just 15 kilometres away with cobbled lanes, pretty canals and a giant brick belfry tower.",
   "funFacts": [
-    "Bruges is nicknamed the Venice of the North because of its 12th-century canals, and its whole historic centre has been a UNESCO World Heritage Site since the year 2000.",
-    "Belgium gave the world both Tintin (created in 1929) and the Smurfs (invented by artist Peyo in 1958) plus around 700 other comic-book characters.",
-    "The Atomium in Brussels is shaped like nine giant metal balls forming an iron crystal blown up 165 billion times, and stands a whopping 102 metres tall.",
-    "Belgians eat about 5.6 kilograms of chocolate per person each year, and Brussels Airport is the single biggest chocolate-selling spot on the entire planet.",
-    "Brussels' most famous statue is Manneken Pis, a tiny 55cm bronze boy peeing into a fountain who has over 1,000 costumes that are changed throughout the year."
+    "The Belfry of Bruges is 83 metres tall, leans slightly to one side, and you have to climb 366 steep stone steps to reach the top.",
+    "The whole old town of Bruges is so well preserved that UNESCO made it a World Heritage Site in the year 2000.",
+    "Bruges is nicknamed the 'Venice of the North' because little canals weave between its houses, with old stone bridges arching over them.",
+    "Belgians eat about 5.6 kilograms of chocolate per person every year, and many famous chocolate shops fill the streets of Bruges.",
+    "Tiny grey shrimp from the North Sea off Zeebrugge are still caught by horses pulling nets through the shallow surf, a 700-year-old tradition."
   ],
   "thingsToDo": [
-    "Hop on the Kusttram (Coast Tram) from near the cruise terminal to Blankenberge, then catch a quick train to Bruges for a perfect day trip.",
-    "Climb all 366 steep steps of the 83-metre Belfry of Bruges in the Markt square for a huge view across red rooftops and canals.",
-    "Glide through Bruges on a half-hour canal boat ride, slipping under tiny stone bridges past swans, towers and centuries-old merchant houses.",
-    "Sample real Belgian chocolate at a Bruges chocolatier like Chocolate Line or Dumon, then grab a cone of frites with mayo from a friterie stall.",
-    "Take the train from Bruges to Brussels to see the giant silver Atomium, the cheeky Manneken Pis statue, and Tintin murals on the city walls.",
-    "Visit Sea Life Blankenberge to walk the underwater shark tunnel and meet rescued harbour seals and Humboldt penguins, all one tram stop from the port."
+    "Climb all 366 steep steps of the Belfry of Bruges for a giant view across red rooftops and canals.",
+    "Glide through Bruges on a half-hour canal boat ride past swans, towers and centuries-old houses.",
+    "Wander Markt square in Bruges and watch horse-drawn carriages clip-clop past colourful gabled buildings.",
+    "Visit the quiet Beguinage, a walled garden of little white houses where nuns once lived among trees.",
+    "Build sandcastles on Zeebrugge's wide North Sea beach, right beside the harbour wall.",
+    "Sample real Belgian chocolate, then grab a paper cone of crispy frites with mayo from a friterie."
+  ],
+  "wildlife": [
+    {
+      "name": "Harbour Seal",
+      "description": "Plump grey seal often spotted resting on Zeebrugge's harbour wall and sandy beaches."
+    },
+    {
+      "name": "Eurasian Oystercatcher",
+      "description": "Black-and-white seabird with a long bright orange beak for prising open shellfish."
+    },
+    {
+      "name": "Common Starfish",
+      "description": "Five-armed orange sea star found in shallow rock pools along the North Sea coast."
+    },
+    {
+      "name": "Brown Shrimp",
+      "description": "Tiny grey shrimp scooped from the surf and eaten by Belgians as a salty snack."
+    }
   ],
   "localWord": {
     "word": "Goedendag",
-    "meaning": "Hello / Good day in Dutch (Flemish)",
-    "pronunciation": "KHOO-den-dakh"
+    "meaning": "Good day, in Dutch (the language people speak in Bruges and Zeebrugge)."
   },
   "images": [
     {
-      "filename": "hero-bruges-canal-rozenhoedkaai.jpg",
-      "alt": "A pretty canal in Bruges with old brick houses and the tall Belfry tower behind them.",
+      "filename": "hero-belfry-of-bruges.jpg",
+      "alt": "The tall brick Belfry tower of Bruges rising above the medieval Markt square.",
+      "credit": "Adiel lo",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brugge_Belfort_HDR.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Brugge_Belfort_HDR.jpg"
+    },
+    {
+      "filename": "markt-square.jpg",
+      "alt": "Bruges' Markt square seen from above, lined with colourful gabled buildings.",
+      "credit": "Zairon",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Br%C3%BCgge_Markt_viewed_from_Belfried_2.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Br%C3%BCgge_Markt_viewed_from_Belfried_2.jpg"
+    },
+    {
+      "filename": "rozenhoedkaai-canal.jpg",
+      "alt": "A pretty canal in Bruges with old brick houses and the Belfry tower behind them.",
       "credit": "Jean-Christophe BENOIST",
       "license": "CC BY-SA 3.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brugge-CanalRozenhoedkaai.JPG",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Brugge-CanalRozenhoedkaai.JPG"
     },
     {
-      "filename": "brussels-grand-place-panorama.jpg",
-      "alt": "The huge Grand Place square in Brussels lined with tall, fancy gold-trimmed buildings.",
-      "credit": "Celuici",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grand-Place,_Brussels_-_panorama,_June_2018.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Grand-Place%2C_Brussels_-_panorama%2C_June_2018.jpg"
+      "filename": "church-of-our-lady.jpg",
+      "alt": "The tall brick spire of the Church of Our Lady in Bruges seen from a canal bridge.",
+      "credit": "Wolfgang Staudt",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Church_Of_Our_Lady_Bruges.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Church_Of_Our_Lady_Bruges.jpg"
     },
     {
-      "filename": "brussels-atomium.jpg",
-      "alt": "The shiny silver Atomium in Brussels, made of giant metal balls connected by tubes.",
-      "credit": "Sanjprak",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atomium_Brussels.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Atomium_Brussels.jpg"
+      "filename": "beguinage.jpg",
+      "alt": "Whitewashed houses of the Beguinage in Bruges set around a leafy green courtyard.",
+      "credit": "Marc Ryckaert (MJJR)",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brugge_Begijnhof_R01.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Brugge_Begijnhof_R01.jpg"
     },
     {
-      "filename": "brussels-manneken-pis.jpg",
-      "alt": "The famous tiny Manneken Pis bronze fountain statue in Brussels.",
-      "credit": "Joseolgon",
+      "filename": "zeebrugge-beach.jpg",
+      "alt": "Wide sandy North Sea beach at Zeebrugge with the seafront promenade alongside.",
+      "credit": "Marc Ryckaert (MJJR)",
       "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manneken_Pis_van_Brussel.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Manneken_Pis_van_Brussel.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zeebrugge_Beach_R02.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Zeebrugge_Beach_R02.jpg"
     },
     {
-      "filename": "belgian-fries.jpg",
-      "alt": "A paper cone full of crispy golden Belgian fries ready to eat.",
-      "credit": "Silar",
+      "filename": "harbour-seal.jpg",
+      "alt": "A speckled grey harbour seal floating in the cold North Atlantic water.",
+      "credit": "Charles J. Sharp",
       "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:020220327_141702_Belgian_fries.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/020220327_141702_Belgian_fries.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_seal_(Phoca_vitulina)_2.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Common_seal_%28Phoca_vitulina%29_2.jpg"
+    },
+    {
+      "filename": "oystercatcher.jpg",
+      "alt": "A black-and-white Eurasian oystercatcher with a long bright orange beak.",
+      "credit": "Andreas Trepte",
+      "license": "CC BY-SA 2.5",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Haematopus_ostralegus_He.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Haematopus_ostralegus_He.jpg"
+    },
+    {
+      "filename": "common-starfish.jpg",
+      "alt": "An orange common starfish with five chunky arms from the Belgian North Sea.",
+      "credit": "Hans Hillewaert",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Asterias_rubens.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Asterias_rubens.jpg"
+    },
+    {
+      "filename": "brown-shrimp.jpg",
+      "alt": "A tiny grey-brown shrimp from the North Sea, the kind Belgians love to eat.",
+      "credit": "Holger Krisp",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crangon_crangon_Sandgarnele.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Crangon_crangon_Sandgarnele.jpg"
     }
   ],
   "links": [
-    { "url": "https://en.wikipedia.org/wiki/Bruges", "label": "Wikipedia: Bruges", "description": "Background on Bruges' medieval history, canals, and UNESCO-protected old town." },
-    { "url": "https://www.visitbruges.be/en", "label": "Visit Bruges (official)", "description": "Official tourism site with maps, the Belfry, boat trips and family attractions." },
-    { "url": "https://atomium.be/", "label": "Atomium official site", "description": "Tickets, photos and the science story behind Brussels' giant iron-crystal landmark." },
-    { "url": "https://www.visit.brussels/en/visitors/what-to-do/manneken-pis-brussels-most-famous-son", "label": "Visit Brussels: Manneken Pis", "description": "Official guide to the famous peeing-boy statue and his thousand costumes." },
-    { "url": "https://kids.nationalgeographic.com/geography/countries/article/belgium", "label": "Nat Geo Kids: Belgium", "description": "Kid-friendly country profile covering Belgium's people, food and geography." },
-    { "url": "https://www.visitsealife.com/blankenberge/en/", "label": "Sea Life Blankenberge", "description": "Aquarium near the port with sharks, rays, seals and a North Sea seal rescue centre." }
+    { "url": "https://kids.kiddle.co/Bruges", "label": "Bruges Facts for Kids (Kiddle)", "description": "A short, easy-read summary of Bruges' canals and history." },
+    { "url": "https://en.wikipedia.org/wiki/Bruges", "label": "Bruges on Wikipedia", "description": "Big-picture facts about Bruges' medieval old town and UNESCO sites." },
+    { "url": "https://kids.nationalgeographic.com/geography/countries/article/belgium", "label": "Nat Geo Kids: Belgium", "description": "Kid-friendly country profile covering Belgium's people, food and geography." }
   ],
   "sources": [
+    "https://en.wikipedia.org/wiki/Zeebrugge",
     "https://en.wikipedia.org/wiki/Bruges",
     "https://en.wikipedia.org/wiki/Belfry_of_Bruges",
-    "https://en.wikipedia.org/wiki/Atomium",
-    "https://en.wikipedia.org/wiki/Manneken_Pis",
-    "https://en.wikipedia.org/wiki/Coast_Tram",
-    "https://www.britannica.com/topic/Atomium",
-    "https://atomium.be/the_atomium_in_figures",
-    "https://kids.nationalgeographic.com/geography/countries/article/belgium"
+    "https://en.wikipedia.org/wiki/Church_of_Our_Lady,_Bruges",
+    "https://en.wikipedia.org/wiki/Begijnhof_(Bruges)",
+    "https://en.wikipedia.org/wiki/Harbor_seal",
+    "https://en.wikipedia.org/wiki/Eurasian_oystercatcher",
+    "https://en.wikipedia.org/wiki/Common_starfish",
+    "https://en.wikipedia.org/wiki/Crangon_crangon",
+    "https://kids.kiddle.co/Bruges"
   ],
-  "researchedAt": "2026-05-09T12:15:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }

@@ -2,23 +2,44 @@
   "researchId": "miami",
   "name": "Miami",
   "country": "United States",
-  "summary": "Miami is Florida's sunny cruise capital, where palm trees sway over white-sand beaches and pastel Art Deco hotels glow in the sunshine. You can hear Spanish on busy streets, taste Cuban pastries in Little Havana, and just an hour away wild alligators sunbathe in the Everglades.",
+  "summary": "Miami is a sunny Florida city beside the warm Atlantic Ocean, famous for white-sand beaches and pastel Art Deco hotels. Just an hour away, wild alligators sunbathe in the giant Everglades wetlands.",
   "funFacts": [
-    "PortMiami is nicknamed the Cruise Capital of the World and welcomed over 8 million cruise passengers in a single year, more than any other port.",
-    "South Beach has the largest collection of Art Deco buildings on Earth, with more than 800 colourful pastel hotels built in the 1920s and 1930s.",
-    "In many Miami neighbourhoods you will hear Spanish spoken more often than English, and around one in four locals was born in Cuba or has Cuban family.",
-    "Wild American alligators live just an hour west of Miami in the Everglades wetlands, where airboats whoosh across the sawgrass hunting for splashes.",
-    "Miami's warm climate grows tropical fruits like mangoes, guavas and coconuts, and bright pink flamingos really do show up in the wetlands and zoos."
+    "South Beach has the biggest collection of Art Deco buildings in the world, with more than 800 colourful pastel hotels built in the 1920s and 1930s.",
+    "PortMiami is nicknamed the 'Cruise Capital of the World' and welcomes more cruise ship passengers than any other port on Earth.",
+    "In Miami's Little Havana neighbourhood you'll hear Spanish more than English, because lots of families came from the island of Cuba.",
+    "Wild American alligators live in the Everglades just west of Miami, where airboats whoosh across the sawgrass swamps to spot them.",
+    "Miami is so warm that mangoes, coconuts and papayas grow in people's gardens, and bright pink flamingos really do live in Florida."
   ],
   "thingsToDo": [
-    "Stroll Ocean Drive in South Beach to spot the curvy pink, mint and lemon-yellow Art Deco hotels, then dip your toes in the warm Atlantic sand.",
-    "Explore the Phillip and Patricia Frost Museum of Science to see sharks in the cone-shaped aquarium, touch live science exhibits, and lean back in the planetarium.",
-    "Wander Calle Ocho in Little Havana to hear Cuban music, watch grandpas slap dominoes in Maximo Gomez Park, and try a guava-and-cheese pastelito.",
-    "Tour Vizcaya Museum and Gardens, a hundred-year-old Italian-style mansion on Biscayne Bay with secret grottoes, fountains and a stone boat in the sea.",
-    "Meet dolphins, sea turtles and tropical fish at Miami Seaquarium, or cross to Watson Island for parrots and lemurs at Jungle Island.",
-    "Take a one-hour drive to the Everglades and zoom over the swamp on an airboat to spot wild alligators, herons and turtles in the sawgrass."
+    "Stroll along Ocean Drive in South Beach to spot the curvy pink, mint and lemon-yellow Art Deco hotels.",
+    "Build sandcastles at Miami Beach and wave to the lifeguards in their bright pastel-coloured wooden towers.",
+    "Tour Vizcaya Museum and Gardens, an old Italian-style mansion on Biscayne Bay with fountains and a stone barge in the sea.",
+    "Wander Wynwood Walls to see giant rainbow-coloured murals painted by street artists from all around the world.",
+    "Eat a guava-and-cheese pastelito on Calle Ocho in Little Havana while listening to lively Cuban music.",
+    "Take an airboat ride into the Everglades wetlands to spot wild alligators, herons and turtles in the sawgrass."
   ],
-  "localWord": { "word": "Hola", "meaning": "Hello in Spanish, the language you'll hear most in Little Havana", "pronunciation": "OH-lah" },
+  "wildlife": [
+    {
+      "name": "American Alligator",
+      "description": "Big scaly reptile with a toothy grin that lives in the Everglades swamps near Miami."
+    },
+    {
+      "name": "Florida Manatee",
+      "description": "Gentle round 'sea cow' that munches seagrass and floats slowly through warm coastal waters."
+    },
+    {
+      "name": "American Flamingo",
+      "description": "Tall bright pink wading bird with long stilt legs and a curved black-tipped beak."
+    },
+    {
+      "name": "Brown Pelican",
+      "description": "Big seabird with a stretchy throat pouch that dives head-first to scoop up fish."
+    }
+  ],
+  "localWord": {
+    "word": "Hola",
+    "meaning": "Hello in Spanish, the language you'll hear most in Little Havana."
+  },
   "images": [
     {
       "filename": "hero-miami-skyline.jpg",
@@ -29,20 +50,20 @@
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Miami%2C_Florida_skyline.jpg"
     },
     {
+      "filename": "ocean-drive-art-deco.jpg",
+      "alt": "Pastel-coloured Art Deco hotels line Ocean Drive on famous South Beach.",
+      "credit": "Rob Schultz (Robbschultz69)",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ocean_Drive_in_the_Miami_Beach_Art_Deco_Historic_District.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Ocean_Drive_in_the_Miami_Beach_Art_Deco_Historic_District.jpg"
+    },
+    {
       "filename": "south-beach-lifeguard-tower.jpg",
       "alt": "A bright-coloured lifeguard hut on South Beach glows in the sunrise.",
       "credit": "Matt Kieffer",
       "license": "CC BY-SA 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lifeguard_Hut_on_South_Beach_at_sunrise_-_Miami,_Florida.jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Lifeguard_Hut_on_South_Beach_at_sunrise_-_Miami%2C_Florida.jpg"
-    },
-    {
-      "filename": "wynwood-walls-street-art.jpg",
-      "alt": "Giant rainbow-coloured murals cover the walls in the Wynwood art district.",
-      "credit": "Dan Lundberg",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wynwood_Walls_Miami_Florida_October_2013.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Wynwood_Walls_Miami_Florida_October_2013.jpg"
     },
     {
       "filename": "vizcaya-museum-gardens.jpg",
@@ -53,31 +74,72 @@
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Vizcaya_Museum_%26_Gardens.jpg"
     },
     {
-      "filename": "ocean-drive-art-deco.jpg",
-      "alt": "Pastel-coloured Art Deco hotels line Ocean Drive on famous South Beach.",
-      "credit": "Rob Schultz (Robbschultz69)",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ocean_Drive_in_the_Miami_Beach_Art_Deco_Historic_District.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Ocean_Drive_in_the_Miami_Beach_Art_Deco_Historic_District.jpg"
+      "filename": "wynwood-walls-street-art.jpg",
+      "alt": "Giant rainbow-coloured murals cover the walls in the Wynwood art district.",
+      "credit": "Dan Lundberg",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wynwood_Walls_Miami_Florida_October_2013.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Wynwood_Walls_Miami_Florida_October_2013.jpg"
+    },
+    {
+      "filename": "everglades-airboat.jpg",
+      "alt": "An airboat with a big fan zooms across the sawgrass swamps of the Everglades.",
+      "credit": "qwesy qwesy",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airboat_in_the_Everglades_-_panoramio.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Airboat_in_the_Everglades_-_panoramio.jpg"
+    },
+    {
+      "filename": "american-alligator.jpg",
+      "alt": "A big American alligator basks at the edge of the water in the Everglades.",
+      "credit": "Trish Hartmann",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:American_Alligator_in_Everglades_(41081534711).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/American_Alligator_in_Everglades_%2841081534711%29.jpg"
+    },
+    {
+      "filename": "florida-manatee.jpg",
+      "alt": "A Florida manatee glides peacefully underwater.",
+      "credit": "Keith Ramos / U.S. Fish and Wildlife Service",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manatee_trichechus_manatus_latirostris_close_up_underwater_photo.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Manatee_trichechus_manatus_latirostris_close_up_underwater_photo.jpg"
+    },
+    {
+      "filename": "american-flamingo.jpg",
+      "alt": "A bright pink American flamingo standing tall on its long legs.",
+      "credit": "Jeffrey Gammon",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:American_Flamingo_JG.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/American_Flamingo_JG.jpg"
+    },
+    {
+      "filename": "brown-pelican.jpg",
+      "alt": "A brown pelican glides over the water with its wings outstretched.",
+      "credit": "Andy Morffew",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brown_Pelican_in_flight_(6827483835).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Brown_Pelican_in_flight_%286827483835%29.jpg"
     }
   ],
   "links": [
-    { "url": "https://www.miamiandbeaches.com/neighborhoods/little-havana", "label": "Little Havana - Greater Miami Official Guide", "description": "Official tourism page about Cuban culture, food and music on Calle Ocho." },
-    { "url": "https://www.miamiandbeaches.com/things-to-do/history-and-heritage/art-deco-historic-district", "label": "Art Deco District - Miami Beach", "description": "Official guide to South Beach's 800+ pastel 1920s and 1930s buildings." },
-    { "url": "https://kids.kiddle.co/Miami_Beach,_Florida", "label": "Miami Beach Facts for Kids - Kiddle", "description": "Kid-friendly encyclopedia entry about Miami Beach's history and beaches." },
-    { "url": "https://www.frostscience.org/", "label": "Phillip and Patricia Frost Museum of Science", "description": "Aquarium, planetarium and hands-on exhibits made for curious kids." },
-    { "url": "https://vizcaya.org/", "label": "Vizcaya Museum and Gardens", "description": "Visit the historic bayside mansion with fountains, mazes and a stone barge." },
-    { "url": "https://en.wikipedia.org/wiki/PortMiami", "label": "PortMiami - Wikipedia", "description": "Background on the world's busiest cruise port where your ship docks." }
+    { "url": "https://kids.kiddle.co/Miami", "label": "Miami Facts for Kids (Kiddle)", "description": "A kid-friendly summary of Miami." },
+    { "url": "https://en.wikipedia.org/wiki/Miami", "label": "Miami on Wikipedia", "description": "Big-picture facts about the city, its beaches and people." },
+    { "url": "https://kids.kiddle.co/Everglades_National_Park", "label": "Everglades Facts for Kids (Kiddle)", "description": "Kid-friendly intro to the wetlands and alligators near Miami." }
   ],
   "sources": [
-    "https://www.miamiandbeaches.com/things-to-do/history-and-heritage/art-deco-historic-district",
+    "https://en.wikipedia.org/wiki/Miami",
     "https://en.wikipedia.org/wiki/Miami_Beach_Architectural_District",
-    "https://kids.kiddle.co/Miami_Beach,_Florida",
     "https://en.wikipedia.org/wiki/PortMiami",
-    "https://www.miamiandbeaches.com/neighborhoods/little-havana",
     "https://en.wikipedia.org/wiki/Little_Havana",
-    "https://vizcaya.org/",
-    "https://www.frostscience.org/"
+    "https://en.wikipedia.org/wiki/Vizcaya_Museum_and_Gardens",
+    "https://en.wikipedia.org/wiki/Wynwood_Walls",
+    "https://en.wikipedia.org/wiki/Everglades_National_Park",
+    "https://en.wikipedia.org/wiki/American_alligator",
+    "https://en.wikipedia.org/wiki/Manatee",
+    "https://en.wikipedia.org/wiki/American_flamingo",
+    "https://en.wikipedia.org/wiki/Brown_pelican",
+    "https://kids.kiddle.co/Miami"
   ],
   "researchedAt": "2026-05-09T14:00:00Z"
 }

@@ -2,25 +2,43 @@
   "researchId": "dover",
   "name": "Dover",
   "country": "United Kingdom",
-  "summary": "Dover is a seaside town in England famous for its huge White Cliffs made of soft white chalk and a giant medieval castle once called the 'Key to England'. Inside the castle you can explore secret WWII tunnels and climb a Roman lighthouse that's nearly 2,000 years old. London is only about two hours away by train, where you can spot Big Ben, Tower Bridge, the guards at Buckingham Palace and the famous ravens at the Tower of London.",
+  "summary": "Dover is a seaside town in southern England famous for its towering White Cliffs of soft chalk and a huge medieval castle once nicknamed the 'Key to England' that watches over the narrowest part of the Channel.",
   "funFacts": [
-    "The White Cliffs are made of chalk packed with tiny ancient sea creatures, plus fossils of sea urchins, ammonites, and even huge marine reptiles like mosasaurs and plesiosaurs.",
-    "Dover Castle has hidden tunnels built into the cliffs nearly 900 years ago, and during WWII these tunnels secretly directed the rescue of 338,000 soldiers from Dunkirk.",
-    "The Roman lighthouse standing inside Dover Castle, called the Pharos, was built around 1,900 years ago and is one of only three Roman lighthouses still left anywhere in the world.",
-    "The Tower of London keeps at least six pet ravens, because legend says if the ravens ever fly away, the Tower and the whole kingdom will tumble down.",
-    "The Channel Tunnel near Dover stretches 31 miles under the sea, plunging 75 metres deep, and Eurostar trains zoom through it from England to France in about 35 minutes."
+    "The White Cliffs are made of chalk built up from billions of tiny ancient sea creatures, and you can still spot fossils like sea urchins poking out of them.",
+    "Dover Castle has secret tunnels carved into the cliffs that helped rescue 338,000 soldiers from Dunkirk during World War Two.",
+    "The Roman Pharos lighthouse inside Dover Castle is almost 2,000 years old and is one of only three Roman lighthouses still standing in the world.",
+    "South Foreland Lighthouse near Dover was the very first lighthouse anywhere to shine using electricity, way back in 1858.",
+    "Dover is the closest place in Britain to France, with the cliffs of Calais just 21 miles away across the Channel on a clear day."
   ],
   "thingsToDo": [
-    "Walk the springy clifftop path from the White Cliffs Visitor Centre out to South Foreland Lighthouse, the first lighthouse in the world ever lit by electricity.",
-    "Explore Dover Castle's huge Great Tower, then crawl through the Secret Wartime Tunnels carved into the chalk cliffs by candlelight and dripping rock.",
-    "Climb the Roman Pharos lighthouse beside the castle, the tallest Roman building still standing in Britain after almost 2,000 years of storms and battles.",
-    "Catch a fast train from Dover Priory to London (about two hours) and meet the raven-keepers and Crown Jewels at the Tower of London.",
-    "In London, snap a selfie with Big Ben and the Houses of Parliament, then watch the red-coated guards outside Buckingham Palace and walk across Tower Bridge.",
-    "Pop into Dover's Roman Painted House to see colourful frescoes from 200 AD, try on a toga, dig in an excavation tray, and play real Roman games."
+    "Walk the springy clifftop path along the famous White Cliffs and look out for ferries crossing to France.",
+    "Explore Dover Castle's mighty Great Tower and crawl through the Secret Wartime Tunnels carved into the chalk.",
+    "Climb up to the Roman Pharos beside the castle, the tallest Roman building still standing in Britain.",
+    "Visit South Foreland Lighthouse and learn how its electric light first warned ships away from the rocks.",
+    "Hike up to the Western Heights to see the Drop Redoubt, a star-shaped fort built to scare off Napoleon.",
+    "Take a short train ride to Canterbury to see the giant medieval cathedral with its sky-high stone tower."
+  ],
+  "wildlife": [
+    {
+      "name": "Atlantic Puffin",
+      "description": "Chubby black-and-white seabird with a bright orange beak that nests on cliffs near the Channel."
+    },
+    {
+      "name": "Peregrine Falcon",
+      "description": "Speedy hunting bird that nests on the White Cliffs and dives faster than a racing car."
+    },
+    {
+      "name": "Adonis Blue Butterfly",
+      "description": "Tiny dazzling sky-blue butterfly that flutters across the chalk grasslands above the cliffs."
+    },
+    {
+      "name": "Harbour Porpoise",
+      "description": "Small shy cousin of the dolphin that swims and puffs in the cold Channel waters."
+    }
   ],
   "localWord": {
     "word": "Brilliant",
-    "meaning": "British way of saying 'awesome' or 'fantastic' when you love something"
+    "meaning": "British way of saying 'awesome' or 'fantastic' when you love something."
   },
   "images": [
     {
@@ -40,47 +58,93 @@
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/1_dover_castle_aerial_panorama_2017.jpg"
     },
     {
-      "filename": "tower-bridge-london-night.jpg",
-      "alt": "London's Tower Bridge lit up beautifully at night, reflected in the River Thames.",
-      "credit": "Helen Ilus",
+      "filename": "dover-castle-great-tower.jpg",
+      "alt": "Henry II's Great Tower, the huge stone keep at the heart of Dover Castle.",
+      "credit": "DeFacto",
       "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_at_night_from_South_Bank.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Tower_Bridge_at_night_from_South_Bank.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dover_Castle_-_Henry_II%27s_Great_Tower.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Dover_Castle_-_Henry_II%27s_Great_Tower.jpg"
     },
     {
-      "filename": "big-ben-houses-of-parliament.jpg",
-      "alt": "Big Ben's clock tower stands tall next to the grand Houses of Parliament in London.",
-      "credit": "Jim Bowen",
-      "license": "CC BY 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Big_Ben_and_the_Houses_of_Parliament_2022-12-26.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Big_Ben_and_the_Houses_of_Parliament_2022-12-26.jpg"
+      "filename": "roman-pharos.jpg",
+      "alt": "The ancient Roman Pharos lighthouse beside the church of St Mary in Castro at Dover Castle.",
+      "credit": "Nessy-Pic",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roman_Lighthouse_and_Church_of_St_Mary_in_Castro,_Dover_Castle.JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Roman_Lighthouse_and_Church_of_St_Mary_in_Castro%2C_Dover_Castle.JPG"
     },
     {
-      "filename": "buckingham-palace-london.jpg",
-      "alt": "The grand front of Buckingham Palace, the King's London home, behind its golden gates.",
-      "credit": "David Iliff",
+      "filename": "south-foreland-lighthouse.jpg",
+      "alt": "The white tower of South Foreland Lighthouse standing on the clifftops near Dover.",
+      "credit": "Mustang Joe",
+      "license": "CC0 1.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:South_Foreland_Lighthouse,_Dover,_UK_(48789267721).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/South_Foreland_Lighthouse%2C_Dover%2C_UK_%2848789267721%29.jpg"
+    },
+    {
+      "filename": "western-heights-drop-redoubt.jpg",
+      "alt": "Grassy ramparts of the Drop Redoubt fort on the Western Heights above Dover.",
+      "credit": "David Anstiss",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Drop_Redoubt_Fort_-_geograph.org.uk_-_2317853.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Drop_Redoubt_Fort_-_geograph.org.uk_-_2317853.jpg"
+    },
+    {
+      "filename": "canterbury-cathedral.jpg",
+      "alt": "The west front and central tower of Canterbury Cathedral, a short train ride from Dover.",
+      "credit": "Hans Musil",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg"
+    },
+    {
+      "filename": "atlantic-puffin.jpg",
+      "alt": "An Atlantic puffin with its colourful orange beak standing on a grassy cliff.",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Puffin_(Fratercula_arctica).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Puffin_%28Fratercula_arctica%29.jpg"
+    },
+    {
+      "filename": "peregrine-falcon.jpg",
+      "alt": "A peregrine falcon, the world's fastest bird, perched and watching for prey.",
+      "credit": "Carlos Delgado",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Falco_peregrinus_-_01.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Falco_peregrinus_-_01.jpg"
+    },
+    {
+      "filename": "adonis-blue-butterfly.jpg",
+      "alt": "A bright sky-blue male Adonis blue butterfly resting on a flower.",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adonis_blue_(Polyommatus_bellargus)_male.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Adonis_blue_%28Polyommatus_bellargus%29_male.jpg"
+    },
+    {
+      "filename": "harbour-porpoise.jpg",
+      "alt": "A harbour porpoise surfacing in the sea, showing its small dark fin.",
+      "credit": "Erik Christensen",
       "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Buckingham_Palace,_London_-_April_2009.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Buckingham_Palace%2C_London_-_April_2009.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phocoena_phocoena.2.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Phocoena_phocoena.2.jpg"
     }
   ],
   "links": [
     { "url": "https://www.english-heritage.org.uk/visit/places/dover-castle/", "label": "Dover Castle (English Heritage)", "description": "Official site with opening times, tunnel tours and family activities at the castle." },
     { "url": "https://www.nationaltrust.org.uk/visit/kent/the-white-cliffs-of-dover", "label": "White Cliffs of Dover (National Trust)", "description": "Walking trails, fossils, wildlife and the path to South Foreland Lighthouse." },
-    { "url": "https://www.hrp.org.uk/tower-of-london/whats-on/the-ravens/", "label": "Tower of London Ravens", "description": "Meet the legendary ravens guarding the Tower and the British Crown." },
-    { "url": "https://kids.kiddle.co/White_Cliffs_of_Dover", "label": "White Cliffs facts for kids", "description": "Kid-friendly summary of how the chalk cliffs formed and what lives there." },
-    { "url": "https://kids.britannica.com/students/article/Channel-Tunnel/319261", "label": "Channel Tunnel (Britannica Kids)", "description": "How the underwater 'Chunnel' was built between England and France." },
-    { "url": "https://www.visitlondon.com/things-to-do/whats-on/family/family-attractions", "label": "Visit London family attractions", "description": "Official London guide to Big Ben, Buckingham Palace and family days out." }
+    { "url": "https://kids.kiddle.co/White_Cliffs_of_Dover", "label": "White Cliffs facts for kids", "description": "Kid-friendly summary of how the chalk cliffs formed and what lives there." }
   ],
   "sources": [
+    "https://en.wikipedia.org/wiki/Dover",
     "https://en.wikipedia.org/wiki/White_Cliffs_of_Dover",
     "https://en.wikipedia.org/wiki/Dover_Castle",
-    "https://en.wikipedia.org/wiki/Channel_Tunnel",
-    "https://en.wikipedia.org/wiki/Ravens_of_the_Tower_of_London",
-    "https://www.english-heritage.org.uk/visit/places/dover-castle/",
-    "https://www.nationaltrust.org.uk/visit/kent/the-white-cliffs-of-dover",
-    "https://kids.kiddle.co/Big_Ben",
-    "https://kids.britannica.com/students/article/Channel-Tunnel/319261"
+    "https://en.wikipedia.org/wiki/Roman_Pharos,_Dover",
+    "https://en.wikipedia.org/wiki/South_Foreland_Lighthouse",
+    "https://en.wikipedia.org/wiki/Western_Heights,_Dover",
+    "https://en.wikipedia.org/wiki/Canterbury_Cathedral",
+    "https://en.wikipedia.org/wiki/Adonis_blue",
+    "https://kids.kiddle.co/White_Cliffs_of_Dover"
   ],
-  "researchedAt": "2026-05-09T12:56:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }

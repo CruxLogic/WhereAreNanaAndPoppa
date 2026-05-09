@@ -2,26 +2,43 @@
   "researchId": "helsinki",
   "name": "Helsinki",
   "country": "Finland",
-  "summary": "Helsinki is Finland's seaside capital, nicknamed 'Daughter of the Baltic' because it sits on a peninsula sprinkled with hundreds of little islands. You can ride a ferry to a real sea fortress, find Moomin trolls in shops, and warm up like a Finn in a sauna. In summer the sun barely sets, so the sky stays bright almost all night long.",
+  "summary": "Helsinki is Finland's seaside capital, built on a rocky peninsula sprinkled with hundreds of little islands. It is famous for its white domed cathedral on Senate Square and a giant sea fortress you reach by ferry.",
   "funFacts": [
-    "The Moomins, those round white hippo-shaped trolls, were invented in Helsinki by Finnish artist Tove Jansson in 1945 as a cheerful escape from wartime gloom.",
-    "Suomenlinna is a giant sea fortress spread across six rocky islands and was named a UNESCO World Heritage Site in 1991 for its old cannons and tunnels.",
-    "Finland has around 3.2 million saunas for only 5.5 million people, so there is roughly one steamy sauna for every two Finns, including babies.",
-    "In June and July the sun in Helsinki barely dips below the horizon, giving almost 19 hours of daylight and glowing 'white nights' instead of darkness.",
-    "Finland is home to 188,000 lakes and the official hometown of Santa Claus, who lives way up north in Lapland and answers letters from kids worldwide."
+    "Helsinki Cathedral has five bright green domes and 297 wide white steps that climb up from Senate Square right in the middle of the city.",
+    "The Suomenlinna sea fortress is spread across six rocky islands and is so important it was named a UNESCO World Heritage Site in 1991.",
+    "Finland has around 3.2 million saunas for only 5.5 million people, so there is roughly one steamy sauna for every two Finns.",
+    "In June the sun in Helsinki barely sets, giving almost 19 hours of daylight and glowing 'white nights' instead of dark evenings.",
+    "The Sibelius Monument is made of 600 hollow steel pipes welded together, and the wind makes them whistle like a giant outdoor organ."
   ],
   "thingsToDo": [
-    "Hop on the 15-minute HSL ferry from Market Square out to Suomenlinna sea fortress and follow the Blue Route past tunnels, cannons and the King's Gate.",
-    "Stand in Senate Square and climb the wide steps of Helsinki Cathedral, the white church with five green domes that watches over the whole city.",
-    "Step inside Temppeliaukio Rock Church, a round chapel carved straight into solid bedrock in 1969, and listen to how the rough stone walls echo.",
-    "Slurp creamy salmon soup or a warm cinnamon bun at the Old Market Hall (Vanha Kauppahalli), Helsinki's oldest food hall, opened on the harbour in 1889.",
-    "Ride the 1951 wooden Vuoristorata roller coaster and the giant Taiga coaster at Linnanmäki, Finland's oldest amusement park, with eight coasters and 42 rides total.",
-    "Hunt for Moomintroll, Snufkin and Little My at the Moomin Shop on Esplanadi, picking out a plush troll souvenir before walking back to the ship."
+    "Climb the wide white steps of Helsinki Cathedral on Senate Square for a view across the city.",
+    "Catch the short ferry from Market Square to Suomenlinna sea fortress to explore old tunnels and cannons.",
+    "Step inside Temppeliaukio Rock Church, a round chapel blasted straight into solid bedrock.",
+    "Spot the gold stars on Uspenski Cathedral, the biggest Orthodox church in Western Europe.",
+    "Touch the silver pipes of the Sibelius Monument in its leafy seaside park.",
+    "Wander Market Square by the harbour to taste salmon soup and watch the boats come in."
+  ],
+  "wildlife": [
+    {
+      "name": "Brown Bear",
+      "description": "Finland's national animal, a huge furry bear that roams the deep northern forests."
+    },
+    {
+      "name": "Reindeer",
+      "description": "Antlered animal of Lapland that pulls sleds and is herded by the Sámi people."
+    },
+    {
+      "name": "Saimaa Ringed Seal",
+      "description": "Rare freshwater seal with ring-shaped spots, found only in Lake Saimaa."
+    },
+    {
+      "name": "Eurasian Eagle-Owl",
+      "description": "One of the world's biggest owls, with bright orange eyes and feathery ear tufts."
+    }
   ],
   "localWord": {
     "word": "Moi",
-    "meaning": "a friendly, casual way to say 'hi' in Finnish",
-    "pronunciation": "moy (rhymes with 'boy')"
+    "meaning": "A friendly, casual way to say 'hi' in Finnish."
   },
   "images": [
     {
@@ -33,10 +50,18 @@
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Lutheran_Cathedral_Helsinki.jpg"
     },
     {
+      "filename": "uspenski-cathedral.jpg",
+      "alt": "The red-brick Uspenski Cathedral with its golden onion domes shining in the sun.",
+      "credit": "John Samuel (Jsamwrites)",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Front_of_Uspenski_Cathedral_In_Helsinki.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Front_of_Uspenski_Cathedral_In_Helsinki.jpg"
+    },
+    {
       "filename": "suomenlinna-aerial.jpg",
       "alt": "A bird's-eye view of Suomenlinna sea fortress, a chain of green islands surrounded by blue Baltic water.",
       "credit": "Migro",
-      "license": "Public Domain",
+      "license": "Public domain",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suomenlinna_aerial.JPG",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Suomenlinna_aerial.JPG"
     },
@@ -44,45 +69,74 @@
       "filename": "temppeliaukio-rock-church-interior.jpg",
       "alt": "Inside the Rock Church, a round room carved into stone with a shiny copper ceiling overhead.",
       "credit": "Netha Hussain",
-      "license": "CC0",
+      "license": "CC0 1.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Interior_of_Temppeliaukio_Church.jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Interior_of_Temppeliaukio_Church.jpg"
     },
     {
-      "filename": "old-market-hall-helsinki.jpg",
-      "alt": "Helsinki's red-brick Old Market Hall by the harbour, where people buy yummy Finnish treats.",
-      "credit": "Diego Delso, delso.photo",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Antiguo_Mercado_de_Helsinki,_Finlandia,_2012-08-14,_DD_01.JPG",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Antiguo_Mercado_de_Helsinki%2C_Finlandia%2C_2012-08-14%2C_DD_01.JPG"
+      "filename": "sibelius-monument.jpg",
+      "alt": "The Sibelius Monument, a sculpture of hundreds of silver steel pipes welded together in a Helsinki park.",
+      "credit": "Vacatio",
+      "license": "CC0 1.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sibelius_Monument_5.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Sibelius_Monument_5.jpg"
     },
     {
-      "filename": "helsinki-tram.jpg",
-      "alt": "A green Helsinki tram glides along the street on a sunny summer evening.",
-      "credit": "JIP",
+      "filename": "market-square.jpg",
+      "alt": "Market Square in Helsinki, with stalls and people beside boats in the harbour.",
+      "credit": "Cope Baronet",
       "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Helsinki_tram_on_line_13_arriving_at_Pasilansilta_on_a_sunny_evening_in_August_2024.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Helsinki_tram_on_line_13_arriving_at_Pasilansilta_on_a_sunny_evening_in_August_2024.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kauppatori_(69913).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Kauppatori_%2869913%29.jpg"
+    },
+    {
+      "filename": "brown-bear.jpg",
+      "alt": "Young brown bears in a Finnish forest near Kuusamo.",
+      "credit": "Ninara",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kuusamo,_Finland_-_Bears3.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Kuusamo%2C_Finland_-_Bears3.jpg"
+    },
+    {
+      "filename": "reindeer.jpg",
+      "alt": "A reindeer with big antlers in the wide open landscape of Finnish Lapland.",
+      "credit": "Ninara",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Reindeer_in_Kilpisj%C3%A4rvi,_Enonteki%C3%B6,_Finnish_Lapland,_2021_September.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Reindeer_in_Kilpisj%C3%A4rvi%2C_Enonteki%C3%B6%2C_Finnish_Lapland%2C_2021_September.jpg"
+    },
+    {
+      "filename": "saimaa-ringed-seal.jpg",
+      "alt": "A Saimaa ringed seal with ring-shaped spots resting on a rock in Finland's Lake Saimaa.",
+      "credit": "Linda Lotjonen",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pusa_hispida_saimensis_304551354.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Pusa_hispida_saimensis_304551354.jpg"
+    },
+    {
+      "filename": "eurasian-eagle-owl.jpg",
+      "alt": "A Eurasian eagle-owl with bright orange eyes and feathery ear tufts.",
+      "credit": "Martin Mecnarowski",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bubo_bubo_3_(Martin_Mecnarowski).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Bubo_bubo_3_%28Martin_Mecnarowski%29.jpg"
     }
   ],
   "links": [
-    { "url": "https://www.myhelsinki.fi/", "label": "MyHelsinki (official city site)", "description": "Helsinki's official visitor site with maps, events and family ideas." },
-    { "url": "https://suomenlinna.fi/en/", "label": "Suomenlinna Sea Fortress", "description": "Official site for the UNESCO island fortress, with ferry info and the Blue Route map." },
-    { "url": "https://www.linnanmaki.fi/en/front-page/", "label": "Linnanmäki Amusement Park", "description": "Finland's oldest amusement park, with eight roller coasters and free entry." },
-    { "url": "https://www.moomin.com/en/history/", "label": "The History of the Moomins", "description": "Kid-friendly story of Tove Jansson and her round white trolls from Finland." },
-    { "url": "https://kids.kiddle.co/Helsinki", "label": "Helsinki facts for kids (Kiddle)", "description": "Easy-to-read encyclopedia page about Helsinki's geography, islands and history." },
+    { "url": "https://kids.kiddle.co/Helsinki", "label": "Helsinki Facts for Kids (Kiddle)", "description": "An easy-to-read encyclopedia page about Helsinki." },
+    { "url": "https://en.wikipedia.org/wiki/Helsinki", "label": "Helsinki on Wikipedia", "description": "Big-picture facts about the city, its harbour and people." },
     { "url": "https://whc.unesco.org/en/list/583/", "label": "UNESCO: Fortress of Suomenlinna", "description": "Why this 1700s sea fortress on six islands is a World Heritage Site." }
   ],
   "sources": [
     "https://en.wikipedia.org/wiki/Helsinki",
-    "https://kids.kiddle.co/Helsinki",
-    "https://en.wikipedia.org/wiki/Suomenlinna",
-    "https://whc.unesco.org/en/list/583/",
-    "https://en.wikipedia.org/wiki/Linnanm%C3%A4ki",
-    "https://en.wikipedia.org/wiki/Moomins",
-    "https://finland.fi/arts-culture/tove-jansson-and-the-moomin-story/",
     "https://en.wikipedia.org/wiki/Helsinki_Cathedral",
-    "https://en.wikipedia.org/wiki/Temppeliaukio_Church"
+    "https://en.wikipedia.org/wiki/Uspenski_Cathedral",
+    "https://en.wikipedia.org/wiki/Suomenlinna",
+    "https://en.wikipedia.org/wiki/Temppeliaukio_Church",
+    "https://en.wikipedia.org/wiki/Sibelius_Monument",
+    "https://en.wikipedia.org/wiki/Saimaa_ringed_seal",
+    "https://en.wikipedia.org/wiki/Brown_bear",
+    "https://kids.kiddle.co/Helsinki"
   ],
-  "researchedAt": "2026-05-09T12:30:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }

@@ -2,26 +2,43 @@
   "researchId": "pisco",
   "name": "Pisco (General San Martín)",
   "country": "Peru",
-  "summary": "Pisco sits on Peru's sun-baked Pacific desert, where giant orange sand dunes meet a cold blue ocean full of wildlife. From the port you can zoom by speedboat to the Ballestas Islands to meet barking sea lions, Humboldt penguins and dolphins, walk along Paracas's red-sand beach, or fly over the giant mystery drawings of the Nazca Lines. The town gave its name to pisco, Peru's famous grape brandy.",
+  "summary": "Pisco is a sunny port town on Peru's desert Pacific coast, where giant sand dunes meet a cold ocean packed with wildlife. It is the gateway to the Ballestas Islands, often called the 'poor man's Galapagos'.",
   "funFacts": [
-    "The Ballestas Islands are nicknamed the Poor Man's Galapagos because thousands of sea lions, penguins, dolphins and noisy seabirds pack onto these tiny rocks just offshore.",
-    "On a hillside above the sea, someone carved a giant 170-metre cactus-shaped drawing called the Candelabro about 2,200 years ago, and nobody knows who made it or why.",
-    "The Nazca Lines are huge animal pictures, including a 93-metre hummingbird and a spider, scratched into the desert 1,500 to 2,500 years ago and only properly visible from a plane.",
+    "The Ballestas Islands are nicknamed the 'Poor Man's Galapagos' because thousands of sea lions, penguins and seabirds crowd onto these tiny rocks just offshore.",
+    "On a hillside above the sea, somebody carved a giant 170-metre cactus-shaped picture called the Candelabra about 2,200 years ago, and nobody knows who or why.",
+    "The Nazca Lines are huge animal drawings, like a 93-metre hummingbird and a giant spider, scratched into the desert and only properly visible from a plane.",
     "Real Humboldt penguins live here all year, named after a German explorer who studied the icy ocean current that brings them fish even in this hot desert.",
-    "The town's famous drink, pisco, is a clear brandy made by squishing and distilling grapes, and Pisco actually means 'bird' in the ancient Quechua language."
+    "The town's famous drink, pisco, is a clear brandy made from squashed grapes, and the word 'pisco' actually means 'bird' in the ancient Quechua language."
   ],
   "thingsToDo": [
-    "Take a speedboat from Paracas harbour out to the Ballestas Islands to spot sea lions, Humboldt penguins, pelicans and the giant Candelabro geoglyph carved into a cliff.",
-    "Tour Paracas National Reserve by van to see Playa Roja's red sand, dramatic desert cliffs, the Cathedral rock viewpoint and flamingos in the bay.",
-    "Splurge on a tiny-plane flight over the Nazca Lines to look down at the hummingbird, monkey and spider drawings (about an hour each way, very pricey).",
-    "Wander Pisco town's rebuilt colonial centre and the Plaza de Armas, learning how locals recovered after the huge 2007 earthquake.",
-    "Have lunch on the boardwalk at El Chaco beach in Paracas, trying fresh ceviche or jalea while pelicans dive for fish nearby.",
-    "Ask grandparents to taste a pisco sour, Peru's national cocktail made from the grape brandy named after this very town (kids get chicha morada, a sweet purple corn drink)."
+    "Take a speedboat from Paracas harbour to the Ballestas Islands to see sea lions, penguins, pelicans and the giant Candelabra carved into a cliff.",
+    "Tour Paracas National Reserve to see Playa Roja's red sand, dramatic desert cliffs, the Cathedral rock viewpoint and pink flamingos in the bay.",
+    "Fly in a tiny plane over the Nazca Lines to look down at the giant hummingbird, monkey and spider drawings scratched into the desert.",
+    "Sandboard or ride a dune buggy down the giant sand dunes that surround the desert oasis of Huacachina.",
+    "Visit Tambo Colorado, a 500-year-old Inca palace whose mud-brick walls are still painted bright red, white and yellow.",
+    "Have lunch at El Chaco beach in Paracas with fresh ceviche while pelicans dive for fish nearby."
+  ],
+  "wildlife": [
+    {
+      "name": "Humboldt Penguin",
+      "description": "Black-and-white seabird that nests on the Ballestas rocks and swims in the chilly Humboldt current."
+    },
+    {
+      "name": "South American Sea Lion",
+      "description": "Big barking sea mammal whose males grow a thick golden mane like a lion."
+    },
+    {
+      "name": "Peruvian Pelican",
+      "description": "Huge brown seabird with a giant stretchy throat pouch for scooping up fish."
+    },
+    {
+      "name": "Inca Tern",
+      "description": "Dark grey seabird with a bright red beak and a curly white moustache on each cheek."
+    }
   ],
   "localWord": {
     "word": "¡Hola!",
-    "meaning": "Hello in Spanish",
-    "pronunciation": "OH-lah"
+    "meaning": "Hello in Spanish, the language spoken in Pisco."
   },
   "images": [
     {
@@ -33,20 +50,28 @@
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Islas_Ballestas_Paracas.jpg"
     },
     {
-      "filename": "ballestas-sea-lions-wildlife.jpg",
-      "alt": "Sea lions and seabirds resting on the rocks of the Ballestas Islands in Peru.",
-      "credit": "Jpschaaf",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wildlife_on_ballestas_islands.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Wildlife_on_ballestas_islands.jpg"
-    },
-    {
       "filename": "paracas-candelabra-geoglyph.jpg",
       "alt": "The giant Candelabra geoglyph carved into a sandy hillside on the Paracas Peninsula.",
       "credit": "Bruno Girin",
       "license": "CC BY-SA 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Candelabro_de_Paracas.jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Candelabro_de_Paracas.jpg"
+    },
+    {
+      "filename": "paracas-playa-roja-red-beach.jpg",
+      "alt": "The bright red sand of Playa Roja meeting blue ocean waves in Paracas National Reserve.",
+      "credit": "Charlesdarling",
+      "license": "CC0 1.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Playa_Roja_in_Paracas,_Peru.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Playa_Roja_in_Paracas%2C_Peru.jpg"
+    },
+    {
+      "filename": "huacachina-oasis.jpg",
+      "alt": "The desert oasis of Huacachina surrounded by giant sand dunes.",
+      "credit": "Patrick Nouhailler",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:La_Huacachina_Oasis_-_panoramio_(2).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/La_Huacachina_Oasis_-_panoramio_%282%29.jpg"
     },
     {
       "filename": "nazca-lines-hummingbird.jpg",
@@ -57,29 +82,62 @@
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Nazca_Lines_Hummingbird.jpg"
     },
     {
-      "filename": "paracas-playa-roja-red-beach.jpg",
-      "alt": "The bright red sand of Playa Roja meeting blue ocean waves in Paracas National Reserve.",
-      "credit": "Charlesdarling",
-      "license": "CC0 1.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Playa_Roja_in_Paracas,_Peru.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Playa_Roja_in_Paracas%2C_Peru.jpg"
+      "filename": "tambo-colorado-inca-site.jpg",
+      "alt": "Painted mud-brick walls of the Inca site Tambo Colorado in Peru's Pisco valley.",
+      "credit": "BrunoLocatelli",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tambo_Colorado,_Peru.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Tambo_Colorado%2C_Peru.jpg"
+    },
+    {
+      "filename": "humboldt-penguin.jpg",
+      "alt": "A Humboldt penguin standing on a rock.",
+      "credit": "DickDaniels",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Humboldt_Penguin_RWD.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Humboldt_Penguin_RWD.jpg"
+    },
+    {
+      "filename": "south-american-sea-lion.jpg",
+      "alt": "A male South American sea lion with a thick golden mane resting on rocks.",
+      "credit": "Betty Wills (Atsme)",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:South_American_bull_sea_lion_(Otaria_flavescens).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/South_American_bull_sea_lion_%28Otaria_flavescens%29.jpg"
+    },
+    {
+      "filename": "peruvian-pelican.jpg",
+      "alt": "A Peruvian pelican showing off its huge throat pouch.",
+      "credit": "DickDaniels",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peruvian_Pelican_RWD3.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Peruvian_Pelican_RWD3.jpg"
+    },
+    {
+      "filename": "inca-tern.jpg",
+      "alt": "An Inca tern with grey feathers, a red beak and a white moustache.",
+      "credit": "Dominic Sherony",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inca_Tern_(Larosterna_inca)_(4856924900).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Inca_Tern_%28Larosterna_inca%29_%284856924900%29.jpg"
     }
   ],
   "links": [
-    { "url": "https://en.wikipedia.org/wiki/Ballestas_Islands", "label": "Ballestas Islands (Wikipedia)", "description": "Overview of the wildlife-packed islands and how the boat tours work." },
-    { "url": "https://en.wikipedia.org/wiki/Paracas_National_Reserve", "label": "Paracas National Reserve (Wikipedia)", "description": "Facts about the desert-meets-ocean reserve, Playa Roja and its animals." },
-    { "url": "https://whc.unesco.org/en/list/700/", "label": "Nazca Lines on UNESCO", "description": "Official UNESCO World Heritage page about the giant desert drawings." },
-    { "url": "https://en.wikipedia.org/wiki/Paracas_Candelabra", "label": "Paracas Candelabra (Wikipedia)", "description": "The mysterious 170-metre hillside geoglyph you see from the boat." },
-    { "url": "https://www.peru.travel/en/attractions/paracas-national-reserve", "label": "Peru.travel: Paracas", "description": "Peru's official tourism site with Paracas trip ideas." },
-    { "url": "https://kids.britannica.com/kids/article/Nazca-Lines/353376", "label": "Britannica Kids: Nazca Lines", "description": "Kid-friendly explainer of the famous mystery drawings." }
+    { "url": "https://en.wikipedia.org/wiki/Ballestas_Islands", "label": "Ballestas Islands (Wikipedia)", "description": "Overview of the wildlife-packed islands and the boat tours." },
+    { "url": "https://kids.britannica.com/kids/article/Nazca-Lines/353376", "label": "Britannica Kids: Nazca Lines", "description": "A short, easy-read explainer of the famous mystery drawings." },
+    { "url": "https://kids.kiddle.co/Pisco,_Peru", "label": "Pisco Facts for Kids (Kiddle)", "description": "A kid-friendly summary of Pisco and its region." }
   ],
   "sources": [
+    "https://en.wikipedia.org/wiki/Pisco,_Peru",
     "https://en.wikipedia.org/wiki/Ballestas_Islands",
     "https://en.wikipedia.org/wiki/Paracas_National_Reserve",
     "https://en.wikipedia.org/wiki/Nazca_Lines",
     "https://en.wikipedia.org/wiki/Paracas_Candelabra",
-    "https://en.wikipedia.org/wiki/Pisco,_Peru",
-    "https://en.wikipedia.org/wiki/Humboldt_penguin"
+    "https://en.wikipedia.org/wiki/Huacachina",
+    "https://en.wikipedia.org/wiki/Tambo_Colorado",
+    "https://en.wikipedia.org/wiki/Humboldt_penguin",
+    "https://en.wikipedia.org/wiki/Peruvian_pelican",
+    "https://en.wikipedia.org/wiki/Inca_tern"
   ],
-  "researchedAt": "2026-05-09T14:24:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }

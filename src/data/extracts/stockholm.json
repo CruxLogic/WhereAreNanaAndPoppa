@@ -2,7 +2,7 @@
   "researchId": "stockholm",
   "name": "Stockholm",
   "country": "Sweden",
-  "summary": "Stockholm sits on 14 islands stitched together by more than 50 bridges, so people call it the Venice of the North. You can step into Gamla Stan, a medieval old town from the 1250s, peek at a giant 400-year-old warship, and visit the homes of Pippi Longstocking, ABBA, and the Nobel Prizes.",
+  "summary": "Stockholm is Sweden's capital, built across 14 islands stitched together by more than 50 bridges. It is famous for its colourful Old Town, royal palace, and a giant 400-year-old wooden warship that was rescued from the seabed.",
   "funFacts": [
     "Stockholm is built on 14 islands joined by over 50 bridges, and the wider archipelago has around 30,000 islands and tiny rocky islets.",
     "The huge warship Vasa sank just 1,300 metres into its very first voyage in 1628, then was raised whole from the seabed in 1961.",
@@ -11,14 +11,36 @@
     "Most Nobel Prizes are handed out in Stockholm every December 10, the day inventor Alfred Nobel died, inside the famous City Hall."
   ],
   "thingsToDo": [
-    "Visit the Vasa Museum on Djurgården island to see the giant 17th-century warship that sank, sat underwater 333 years, and was rescued.",
-    "Wander Gamla Stan's cobbled lanes, then watch the Changing of the Royal Guard at the Royal Palace courtyard, usually at 12:15pm.",
-    "Explore Skansen, the world's oldest open-air museum, and meet Nordic animals like brown bears, moose, lynx, reindeer, and wolverines.",
-    "Hop aboard Junibacken's Story Train, narrated by Astrid Lindgren herself, and end the ride at Pippi Longstocking's upside-down Villa Villekulla.",
-    "Sing, dance and try on virtual costumes with hologram band members at ABBA The Museum, right next door to Gröna Lund.",
-    "Ride classic coasters and the 1892 carousel at Gröna Lund, Sweden's oldest amusement park, on the Djurgården waterfront."
+    "Wander Gamla Stan, Stockholm's medieval Old Town, and admire the bright orange and yellow houses around Stortorget square.",
+    "Visit the Vasa Museum to see the giant 17th-century warship that sat underwater for 333 years before being rescued.",
+    "Watch the Changing of the Royal Guard at the huge yellow Royal Palace, home of Sweden's king and queen.",
+    "Climb the tall red brick tower of City Hall, where the Nobel Prize banquet is held each December.",
+    "Sing and dance with hologram band members at ABBA The Museum on Djurgården island.",
+    "Explore Skansen, the world's oldest open-air museum, and meet Nordic animals like brown bears, moose and lynx."
   ],
-  "localWord": { "word": "Hej", "meaning": "Hello", "pronunciation": "hay" },
+  "wildlife": [
+    {
+      "name": "Moose",
+      "description": "Sweden's biggest wild animal, a tall brown deer with a long nose and huge flat antlers."
+    },
+    {
+      "name": "Eurasian Brown Bear",
+      "description": "Big shaggy bear that roams Sweden's northern forests and sleeps all winter long."
+    },
+    {
+      "name": "Eurasian Lynx",
+      "description": "Spotted wild cat with tufted ears and big furry paws for padding through deep snow."
+    },
+    {
+      "name": "Atlantic Puffin",
+      "description": "Chubby black-and-white seabird with a bright orange beak, sometimes called a 'sea parrot'."
+    }
+  ],
+  "localWord": {
+    "word": "Hej",
+    "meaning": "Hello in Swedish.",
+    "pronunciation": "hay"
+  },
   "images": [
     {
       "filename": "hero-gamla-stan-stortorget.jpg",
@@ -29,12 +51,20 @@
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Iconic_buildings_surrounding_Stortorget_square_%2824228652514%29.jpg"
     },
     {
+      "filename": "royal-palace-stockholm.jpg",
+      "alt": "The grand pale-yellow Royal Palace of Stockholm, home of the Swedish king and queen.",
+      "credit": "Steven Lek",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Royal_Palace_Stockholm.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Royal_Palace_Stockholm.jpg"
+    },
+    {
       "filename": "vasa-warship-museum.jpg",
       "alt": "The huge wooden Vasa warship, almost 400 years old, towering inside the Vasa Museum in Stockholm.",
-      "credit": "Murat Ozsoy 1958",
+      "credit": "Jules Verne Times Two",
       "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vasa_(ship,_1627),_64_Gun_Warship,_Stockholm,_Sweden_-_Murat_%C3%96zsoy_25.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Vasa_%28ship%2C_1627%29%2C_64_Gun_Warship%2C_Stockholm%2C_Sweden_-_Murat_%C3%96zsoy_25.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lateral_view_of_the_Vasa_ship,_Vasa_Museum,_Stockholm,_Sweden_julesvernex2.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Lateral_view_of_the_Vasa_ship%2C_Vasa_Museum%2C_Stockholm%2C_Sweden_julesvernex2.jpg"
     },
     {
       "filename": "stockholm-city-hall.jpg",
@@ -45,38 +75,69 @@
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Stockholms_stadshus_February_2013.jpg"
     },
     {
-      "filename": "royal-palace-stockholm.jpg",
-      "alt": "The grand pale-yellow Royal Palace of Stockholm, home of the Swedish king and queen.",
-      "credit": "Steven Lek",
+      "filename": "abba-museum.jpg",
+      "alt": "The colourful entrance of ABBA The Museum on Djurgården island in Stockholm.",
+      "credit": "Wim van 't Klooster",
       "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Royal_Palace_Stockholm.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Royal_Palace_Stockholm.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abba_the_Museum_2019.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Abba_the_Museum_2019.jpg"
     },
     {
-      "filename": "drottningholm-palace.jpg",
-      "alt": "Drottningholm Palace, a beautiful royal palace by the lake just outside Stockholm with neat green gardens.",
-      "credit": "Arild Vagen",
+      "filename": "skansen.jpg",
+      "alt": "A traditional red wooden manor house at Skansen, the world's oldest open-air museum.",
+      "credit": "Chme82",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skogaholm_Manor_(Skansen,_Stockholm).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Skogaholm_Manor_%28Skansen%2C_Stockholm%29.jpg"
+    },
+    {
+      "filename": "moose.jpg",
+      "alt": "A large moose standing in a meadow.",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elk_(Alces_alces)_Biebrzanski.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Elk_%28Alces_alces%29_Biebrzanski.jpg"
+    },
+    {
+      "filename": "brown-bear.jpg",
+      "alt": "A Eurasian brown bear walking through a Swedish forest.",
+      "credit": "Petey21",
+      "license": "CC0 1.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ursus_arctos_in_Junsele.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Ursus_arctos_in_Junsele.jpg"
+    },
+    {
+      "filename": "european-lynx.jpg",
+      "alt": "A Eurasian lynx with tufted ears and a spotted coat.",
+      "credit": "Carlos Delgado",
       "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Drottningholm_Palace_-_panorama_september_2011.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Drottningholm_Palace_-_panorama_september_2011.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lynx_lynx_-_05.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Lynx_lynx_-_05.jpg"
+    },
+    {
+      "filename": "atlantic-puffin.jpg",
+      "alt": "An Atlantic puffin with its bright orange beak standing on a rock.",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Puffin_(Fratercula_arctica).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Puffin_%28Fratercula_arctica%29.jpg"
     }
   ],
   "links": [
-    { "url": "https://www.visitstockholm.com/", "label": "Visit Stockholm (official)", "description": "The city's official tourist site with maps, events and family ideas." },
-    { "url": "https://www.vasamuseet.se/en", "label": "Vasa Museum", "description": "Home of the rescued 1628 warship, with kid-friendly displays and films." },
-    { "url": "https://www.skansen.se/en/", "label": "Skansen Open-Air Museum", "description": "World's oldest open-air museum, with a Nordic zoo and a children's petting area." },
-    { "url": "https://www.junibacken.se/en/", "label": "Junibacken", "description": "Astrid Lindgren's storybook world, the Story Train, and Pippi's Villa Villekulla." },
-    { "url": "https://en.wikipedia.org/wiki/Stockholm", "label": "Wikipedia: Stockholm", "description": "Background on the 14 islands, archipelago, and city history." },
-    { "url": "https://abbathemuseum.com/en/", "label": "ABBA The Museum", "description": "Sing, dance and step on stage with the legendary Swedish pop group." }
+    { "url": "https://kids.kiddle.co/Stockholm", "label": "Stockholm Facts for Kids (Kiddle)", "description": "A kid-friendly summary of Stockholm." },
+    { "url": "https://en.wikipedia.org/wiki/Stockholm", "label": "Stockholm on Wikipedia", "description": "Big-picture facts about the city, its 14 islands and history." },
+    { "url": "https://www.vasamuseet.se/en", "label": "Vasa Museum", "description": "Home of the rescued 1628 warship, with kid-friendly displays and films." }
   ],
   "sources": [
     "https://en.wikipedia.org/wiki/Stockholm",
     "https://en.wikipedia.org/wiki/Vasa_(ship)",
     "https://en.wikipedia.org/wiki/Vasa_Museum",
-    "https://www.skansen.se/en/",
-    "https://en.wikipedia.org/wiki/Junibacken",
-    "https://abbathemuseum.com/en/",
-    "https://www.kungligaslotten.se/english/royal-palaces-and-sites/the-royal-palace.html"
+    "https://en.wikipedia.org/wiki/Gamla_stan",
+    "https://en.wikipedia.org/wiki/Stockholm_Palace",
+    "https://en.wikipedia.org/wiki/Stockholm_City_Hall",
+    "https://en.wikipedia.org/wiki/Skansen",
+    "https://en.wikipedia.org/wiki/ABBA_The_Museum",
+    "https://kids.kiddle.co/Stockholm"
   ],
-  "researchedAt": "2026-05-09T12:41:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }

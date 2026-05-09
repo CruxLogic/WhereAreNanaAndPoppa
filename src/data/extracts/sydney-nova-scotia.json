@@ -2,25 +2,43 @@
   "researchId": "sydney-nova-scotia",
   "name": "Sydney",
   "country": "Canada (Nova Scotia)",
-  "summary": "Welcome to Sydney on Cape Breton Island, Canada — not the famous one in Australia! This is a small, friendly Atlantic port where Celtic fiddle music drifts down the boardwalk and the world-famous Cabot Trail loops through wild highlands full of moose and bald eagles. The first thing you'll spot from the ship is a giant violin taller than a six-storey building.",
+  "summary": "Sydney is a small harbour city on Cape Breton Island in eastern Canada. It is famous for the world's biggest fiddle on its waterfront and the wild moose, eagles and whales of nearby Cape Breton Highlands.",
   "funFacts": [
-    "The Big Fiddle on Sydney's boardwalk stands about 18 metres (60 feet) tall — the largest fiddle in the world, built in 2005 to honour Cape Breton music.",
-    "The Cabot Trail, a 298-kilometre loop around the island, is regularly named one of the most beautiful drives on Earth by National Geographic and Lonely Planet.",
-    "Cape Breton's people mix Mi'kmaq First Nations, Scottish Gaelic settlers, French Acadians and Black Loyalists — you can still hear Gaelic spoken in shops and schools.",
-    "Cape Breton Highlands National Park is one of the best places in Canada to spot wild moose, especially along the Skyline Trail at sunrise or sunset.",
-    "The Fortress of Louisbourg is the biggest historical reconstruction in North America — a whole 1740s French town where actors in costume bake bread and fire real cannons."
+    "The Big Fiddle on Sydney's waterfront is about 18 metres tall — that's the world's biggest fiddle, and it greets every cruise ship that sails into port.",
+    "The Cabot Trail loops 298 kilometres around Cape Breton's mountains and cliffs and is often called one of the most beautiful drives on Earth.",
+    "Wild moose, the tallest deer in the world, wander the highland forests and sometimes step right onto the road in front of cars.",
+    "Many Cape Bretoners still speak Scottish Gaelic, and you can hear fiddles and bagpipes playing at family parties called ceilidhs.",
+    "The nearby Fortress of Louisbourg is North America's biggest history rebuild — a whole 1740s French town with cannons, soldiers and bakers."
   ],
   "thingsToDo": [
-    "Pose for a silly photo under the Big Fiddle right beside the cruise pavilion — its strings are thicker than your arm and it sometimes plays Celtic tunes.",
-    "Take a half-day taxi or shore-excursion drive along part of the Cabot Trail into Cape Breton Highlands National Park — the full loop is too long for one port day.",
-    "Walk a section of the Skyline Trail boardwalk for ocean cliff views and a real chance of spotting moose, eagles or whales far below.",
-    "Step back nearly 300 years at the Fortress of Louisbourg, where costumed soldiers march, sheep wander the streets and you can taste 18th-century soldier's bread.",
-    "Visit Membertou Heritage Park near Sydney to learn Mi'kmaq stories, see a birch-bark canoe and wigwam, and try a round of the traditional game Waltes.",
-    "Listen to a live ceilidh (say 'kay-lee') — a music-and-dance party — somewhere along the boardwalk and try a few quick steps of Cape Breton step-dancing."
+    "Pose for a silly photo under the giant Big Fiddle right beside the cruise ship pavilion on Sydney's boardwalk.",
+    "Drive part of the Cabot Trail through Cape Breton Highlands National Park to look for moose and bald eagles.",
+    "Walk the wooden Skyline Trail boardwalk for huge ocean cliff views and a chance to spot whales far below.",
+    "Step inside the Fortress of Louisbourg, where soldiers in 1740s costume march, fire cannons and bake old-fashioned bread.",
+    "Visit Membertou Heritage Park to hear Mi'kmaq stories, see a birch-bark canoe and try the bone-and-stick game called Waltes.",
+    "Go underground at the Cape Breton Miners Museum in Glace Bay, led by retired coal miners who tell their own stories."
+  ],
+  "wildlife": [
+    {
+      "name": "Moose",
+      "description": "Huge brown deer with wide flat antlers that munches leaves in Cape Breton's highland forests."
+    },
+    {
+      "name": "Bald Eagle",
+      "description": "Big brown bird of prey with a snowy-white head that soars over the coast hunting fish."
+    },
+    {
+      "name": "Long-finned Pilot Whale",
+      "description": "Glossy black whale that swims in big family groups in the seas around Cape Breton."
+    },
+    {
+      "name": "Snowshoe Hare",
+      "description": "Brown forest hare with giant furry feet that turn snowy white in winter for camouflage."
+    }
   ],
   "localWord": {
     "word": "Kwe'",
-    "meaning": "Hello, in the Mi'kmaq language of Cape Breton's First Nations people",
+    "meaning": "Hello, in Mi'kmaw, the language of Cape Breton's First Nations people.",
     "pronunciation": "kway"
   },
   "images": [
@@ -31,14 +49,6 @@
       "license": "CC BY-SA 3.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sydney_NS_Fiddle.jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Sydney_NS_Fiddle.jpg"
-    },
-    {
-      "filename": "sydney-harbour-cruise-ship.jpg",
-      "alt": "The huge Queen Mary 2 cruise ship visits Sydney Harbour on a calm autumn day.",
-      "credit": "Ken Heaton",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20161001_Sydney_Harbour_%26_Queen_Mary_1.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/20161001_Sydney_Harbour_%26_Queen_Mary_1.jpg"
     },
     {
       "filename": "cabot-trail-coast.jpg",
@@ -63,24 +73,73 @@
       "license": "CC BY-SA 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fortress_Louisbourg_(35872742266).jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Fortress_Louisbourg_%2835872742266%29.jpg"
+    },
+    {
+      "filename": "membertou-convention-centre.jpg",
+      "alt": "The brick Membertou Convention Centre and heritage park building near Sydney.",
+      "credit": "Verne Equinox",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Membertou_ConvCent.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Membertou_ConvCent.jpg"
+    },
+    {
+      "filename": "miners-museum.jpg",
+      "alt": "The Cape Breton Miners Museum building in Glace Bay near Sydney.",
+      "credit": "Dennis Jarvis (archer10)",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Miner%27s_Museum_(35913709115).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Miner%27s_Museum_%2835913709115%29.jpg"
+    },
+    {
+      "filename": "moose.jpg",
+      "alt": "A male moose with wide antlers stands in a meadow in Cape Breton Highlands National Park.",
+      "credit": "Martin Cathrae",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alces_alces_Cape_Breton_Highlands_National_Park.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Alces_alces_Cape_Breton_Highlands_National_Park.jpg"
+    },
+    {
+      "filename": "bald-eagle.jpg",
+      "alt": "A bald eagle with a white head and yellow beak perches in a tree.",
+      "credit": "Steve Hillebrand / U.S. Fish and Wildlife Service",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Haliaeetus_leucocephalus-tree-USFWS.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Haliaeetus_leucocephalus-tree-USFWS.jpg"
+    },
+    {
+      "filename": "pilot-whales.jpg",
+      "alt": "A group of glossy black long-finned pilot whales surfacing in the open ocean.",
+      "credit": "Bill Thompson / U.S. Fish and Wildlife Service",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Photo_of_the_Week_-_Long-finned_Pilot_Whales_(RI)_(6892801246).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Photo_of_the_Week_-_Long-finned_Pilot_Whales_%28RI%29_%286892801246%29.jpg"
+    },
+    {
+      "filename": "snowshoe-hare.jpg",
+      "alt": "A brown snowshoe hare sits among grass and wildflowers showing its big back feet.",
+      "credit": "Ryan Hodnett",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Snowshoe_Hare_(Lepus_americanus)_-_Gros_Morne_National_Park,_Newfoundland_2019-08-20.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Snowshoe_Hare_%28Lepus_americanus%29_-_Gros_Morne_National_Park%2C_Newfoundland_2019-08-20.jpg"
     }
   ],
   "links": [
-    { "url": "https://www.cbisland.com/", "label": "Destination Cape Breton (official)", "description": "Official tourism site with maps, events and family-friendly trip ideas across the island." },
-    { "url": "https://parks.canada.ca/lhn-nhs/ns/louisbourg", "label": "Fortress of Louisbourg (Parks Canada)", "description": "Plan your visit to the giant 1740s reconstructed French fortress — includes a kids' Club Parka activity booklet." },
-    { "url": "https://parks.canada.ca/pn-np/ns/cbreton", "label": "Cape Breton Highlands National Park", "description": "Trail maps, moose-safety tips and info about the park where the Cabot Trail twists through the highlands." },
     { "url": "https://kids.britannica.com/students/assembly/view/280182", "label": "Britannica Kids: Cape Breton & Louisbourg", "description": "Easy-reading article for kids about Cape Breton Island and the Fortress of Louisbourg." },
-    { "url": "https://en.wikipedia.org/wiki/Cabot_Trail", "label": "Wikipedia: Cabot Trail", "description": "Background on the famous 298 km loop drive named one of the world's most scenic roads." },
-    { "url": "https://www.membertouheritagepark.com/", "label": "Membertou Heritage Park", "description": "Mi'kmaq cultural centre right next to Sydney with guided tours, drumming and traditional crafts." }
+    { "url": "https://en.wikipedia.org/wiki/Sydney,_Nova_Scotia", "label": "Sydney, Nova Scotia on Wikipedia", "description": "Background on the harbour city on Cape Breton Island, its history and people." },
+    { "url": "https://kids.kiddle.co/Cape_Breton_Island", "label": "Cape Breton Island Facts for Kids (Kiddle)", "description": "A kid-friendly summary of Cape Breton Island and its wildlife." }
   ],
   "sources": [
     "https://en.wikipedia.org/wiki/Sydney,_Nova_Scotia",
     "https://en.wikipedia.org/wiki/Cape_Breton_Island",
     "https://en.wikipedia.org/wiki/Cabot_Trail",
+    "https://en.wikipedia.org/wiki/Cape_Breton_Highlands_National_Park",
     "https://en.wikipedia.org/wiki/Fortress_of_Louisbourg",
-    "https://www.cbisland.com/the-big-fiddle/",
-    "https://parks.canada.ca/lhn-nhs/ns/louisbourg",
-    "https://www.membertouheritagepark.com/"
+    "https://en.wikipedia.org/wiki/Membertou_First_Nation",
+    "https://en.wikipedia.org/wiki/Cape_Breton_Miners%27_Museum",
+    "https://en.wikipedia.org/wiki/Moose",
+    "https://en.wikipedia.org/wiki/Bald_eagle",
+    "https://en.wikipedia.org/wiki/Long-finned_pilot_whale",
+    "https://en.wikipedia.org/wiki/Snowshoe_hare"
   ],
-  "researchedAt": "2026-05-09T13:47:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }

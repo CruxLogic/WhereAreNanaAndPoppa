@@ -2,25 +2,43 @@
   "researchId": "gran-canaria-las-palmas",
   "name": "Las Palmas, Gran Canaria",
   "country": "Spain",
-  "summary": "Las Palmas sits on Gran Canaria, a volcanic island in the Atlantic Ocean about 150 km west of Africa. The weather feels like spring all year, the city hugs golden Las Canteras beach, and Christopher Columbus stopped here in 1492 to fix a ship before sailing across the ocean.",
+  "summary": "Las Palmas is the biggest city on Gran Canaria, a sunny volcanic island in the Atlantic Ocean off the coast of Africa. It hugs a long golden beach called Las Canteras and has an old town where Christopher Columbus once stopped on his way to America.",
   "funFacts": [
-    "Christopher Columbus stopped on Gran Canaria in 1492 to repair a broken rudder before sailing west, and a museum called Casa de Colon now tells the story.",
-    "Gran Canaria is nicknamed a 'continent in miniature' because in one short drive you can pass beaches, pine forests, deserts and volcanic mountains.",
-    "The Maspalomas Dunes in the south are like a tiny Sahara meeting the sea, with golden sand stretching for several kilometres next to the Atlantic.",
-    "On nearby La Gomera island people talk by whistling a language called Silbo Gomero, loud enough to carry messages three kilometres across deep valleys, and UNESCO protects it.",
-    "The Gran Canaria giant lizard, Gallotia stehlini, lives only here and can grow up to 80 centimetres long, including its very long tail."
+    "Christopher Columbus stopped on Gran Canaria in 1492 to fix a broken ship rudder, and a museum called Casa de Colon now tells the story.",
+    "Gran Canaria is nicknamed a 'continent in miniature' because in one short drive you can pass beaches, pine forests, deserts and tall volcanic mountains.",
+    "The Maspalomas Dunes in the south look like a tiny Sahara desert that meets the sea, with golden sand stretching for kilometres beside the Atlantic.",
+    "On nearby La Gomera island people talk by whistling a special language called Silbo Gomero, loud enough to send messages right across deep valleys.",
+    "The Gran Canaria giant lizard lives only on this island and can grow up to 80 centimetres long, including its very long whippy tail."
   ],
   "thingsToDo": [
-    "Stroll the golden 3 km curve of Playa de Las Canteras and peek at La Barra, a natural reef that calms the waves and shelters fish.",
-    "Visit Casa de Colon in Vegueta, the colourful old town, to see maps, ship models and learn how Columbus prepared for his 1492 voyage.",
-    "Wander Vegueta's cobbled lanes to Santa Ana cathedral and climb the rooftop tower for a view across orange-tiled houses to the harbour.",
-    "Explore Poema del Mar aquarium near the cruise pier, with sharks, jellyfish and one of the largest curved viewing windows in the world.",
-    "Picnic in Parque Doramas and pop into Pueblo Canario to see traditional balconied houses, gardens, waterfalls and big shaded playgrounds.",
-    "Try Canarian papas arrugadas (wrinkly salty potatoes) with green mojo sauce at a Triana street cafe before heading back to the ship."
+    "Splash and build sandcastles at Playa de Las Canteras, a long golden beach with a natural reef that calms the waves.",
+    "Visit Casa de Colon in the old town to see ship models and learn how Columbus prepared for his big 1492 voyage.",
+    "Wander the cobbled lanes of Vegueta to Santa Ana cathedral and climb its tower for a view across orange-tiled rooftops.",
+    "Meet sharks, jellyfish and tropical fish at Poema del Mar aquarium near the cruise port, with a giant curved viewing window.",
+    "Drive up into the mountains to see Roque Nublo, a huge rock pillar standing tall in the middle of the island.",
+    "Try Canarian papas arrugadas, salty wrinkly potatoes dunked in spicy green or red mojo sauce, at a friendly cafe."
+  ],
+  "wildlife": [
+    {
+      "name": "Atlantic Canary",
+      "description": "Small yellow-green wild songbird that gave the Canary Islands their name with its bright cheerful chirping."
+    },
+    {
+      "name": "Gran Canaria Giant Lizard",
+      "description": "Long scaly reptile found only on Gran Canaria, basking on warm volcanic rocks in the sunshine."
+    },
+    {
+      "name": "Loggerhead Sea Turtle",
+      "description": "Large brown sea turtle that swims through Canary Islands waters and sometimes nests on the beaches."
+    },
+    {
+      "name": "Short-finned Pilot Whale",
+      "description": "Black dolphin-like whale that lives in family groups in the deep seas around the Canary Islands."
+    }
   ],
   "localWord": {
     "word": "Guagua",
-    "meaning": "the local Canarian word for 'bus' instead of the usual Spanish 'autobus'",
+    "meaning": "the Canarian word for 'bus' instead of the usual Spanish 'autobus'",
     "pronunciation": "WAH-wah"
   },
   "images": [
@@ -49,6 +67,14 @@
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Catedral_de_las_Palmas_de_Gran_Canaria.JPG"
     },
     {
+      "filename": "casa-de-colon.jpg",
+      "alt": "The Casa de Colon museum in Las Palmas, a historic building with carved stone doorways.",
+      "credit": "Carlos Teixidor Cadenas",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Casa_de_Col%C3%B3n,_Museo,_Las_Palmas_de_Gran_Canaria,_Espa%C3%B1a.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Casa_de_Col%C3%B3n%2C_Museo%2C_Las_Palmas_de_Gran_Canaria%2C_Espa%C3%B1a.jpg"
+    },
+    {
       "filename": "maspalomas-dunes.jpg",
       "alt": "Golden sand dunes rolling like a tiny desert at Maspalomas on Gran Canaria.",
       "credit": "dronepicr",
@@ -63,25 +89,56 @@
       "license": "CC BY-SA 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roque_Nublo_on_Gran_Canaria_-_2015-06-08.jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Roque_Nublo_on_Gran_Canaria_-_2015-06-08.jpg"
+    },
+    {
+      "filename": "atlantic-canary.jpg",
+      "alt": "A small yellow-green wild Atlantic canary perched on a branch.",
+      "credit": "Joerg Hempel",
+      "license": "CC BY-SA 3.0 DE",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Serinus_canaria_LC0210.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Serinus_canaria_LC0210.jpg"
+    },
+    {
+      "filename": "gallotia-stehlini-lizard.jpg",
+      "alt": "A large Gran Canaria giant lizard sunning itself on a rock.",
+      "credit": "Juan Emilio",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lagarto_de_Gran_Canaria_(Gallotia_stehlini)_(7557794810).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Lagarto_de_Gran_Canaria_%28Gallotia_stehlini%29_%287557794810%29.jpg"
+    },
+    {
+      "filename": "loggerhead-turtle.jpg",
+      "alt": "A loggerhead sea turtle swimming through clear blue ocean water.",
+      "credit": "James St. John",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Caretta_caretta_(loggerhead_sea_turtle)_(Bimini,_Bahamas)_(15996456700).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Caretta_caretta_%28loggerhead_sea_turtle%29_%28Bimini%2C_Bahamas%29_%2815996456700%29.jpg"
+    },
+    {
+      "filename": "common-dolphin.jpg",
+      "alt": "Common dolphins leaping above the waves of the Atlantic Ocean.",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_dolphins_(Delphinus_delphis)_Sagres.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Common_dolphins_%28Delphinus_delphis%29_Sagres.jpg"
     }
   ],
   "links": [
-    { "url": "https://www.grancanaria.com/turismo/en/", "label": "Official Gran Canaria Tourist Site", "description": "Trip-planning info, maps and family attractions from the island's tourism board." },
-    { "url": "https://www.hellocanaryislands.com/museums-and-places-of-interest/gran-canaria/casa-de-colon/", "label": "Casa de Colon (Hola Islas Canarias)", "description": "Official Canary Islands page about the Columbus museum in Vegueta old town." },
-    { "url": "https://kids.kiddle.co/Gran_Canaria", "label": "Gran Canaria for Kids (Kiddle)", "description": "Easy-reading encyclopedia article written for school-age children." },
-    { "url": "https://en.wikipedia.org/wiki/Las_Palmas", "label": "Las Palmas (Wikipedia)", "description": "Overview of the city, its beaches, climate and history." },
-    { "url": "https://poema-del-mar.com/", "label": "Poema del Mar Aquarium", "description": "Tickets, opening times and exhibits at the aquarium near the cruise port." },
-    { "url": "https://ich.unesco.org/en/RL/whistled-language-of-the-island-of-la-gomera-canary-islands-the-silbo-gomero-00172", "label": "Silbo Gomero (UNESCO)", "description": "About the Canary Islands' whistled language, recognised as world heritage." }
+    { "url": "https://kids.kiddle.co/Gran_Canaria", "label": "Gran Canaria Facts for Kids (Kiddle)", "description": "A kid-friendly summary of the island and its highlights." },
+    { "url": "https://en.wikipedia.org/wiki/Las_Palmas", "label": "Las Palmas on Wikipedia", "description": "Big-picture facts about the city, its beach and history." },
+    { "url": "https://www.grancanaria.com/turismo/en/", "label": "Gran Canaria Tourism", "description": "Maps and family attractions from the island's tourism board." }
   ],
   "sources": [
     "https://en.wikipedia.org/wiki/Las_Palmas",
-    "https://kids.kiddle.co/Gran_Canaria",
-    "https://www.grancanaria.com/turismo/en/with-the-family/gran-canaria-8-parks-and-1-island/acuario-poema-del-mar/",
-    "https://poema-del-mar.com/",
-    "https://www.hellocanaryislands.com/museums-and-places-of-interest/gran-canaria/casa-de-colon/",
+    "https://en.wikipedia.org/wiki/Gran_Canaria",
     "https://en.wikipedia.org/wiki/Maspalomas_Dunes",
+    "https://en.wikipedia.org/wiki/Roque_Nublo",
+    "https://en.wikipedia.org/wiki/Casa_de_Col%C3%B3n",
     "https://en.wikipedia.org/wiki/Gran_Canaria_giant_lizard",
-    "https://ich.unesco.org/en/RL/whistled-language-of-the-island-of-la-gomera-canary-islands-the-silbo-gomero-00172"
+    "https://en.wikipedia.org/wiki/Atlantic_canary",
+    "https://en.wikipedia.org/wiki/Loggerhead_sea_turtle",
+    "https://en.wikipedia.org/wiki/Short-finned_pilot_whale",
+    "https://kids.kiddle.co/Gran_Canaria"
   ],
-  "researchedAt": "2026-05-09T11:57:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }

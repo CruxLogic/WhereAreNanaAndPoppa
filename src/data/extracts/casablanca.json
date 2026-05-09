@@ -2,26 +2,43 @@
   "researchId": "casablanca",
   "name": "Casablanca",
   "country": "Morocco",
-  "summary": "Casablanca is Morocco's biggest city, sitting right on the Atlantic Ocean where waves crash against white-painted buildings. Its name means 'White House' in Spanish! The amazing Hassan II Mosque rises straight out of the sea, and the city mixes French, Arab, and Amazigh (Berber) cultures all together.",
+  "summary": "Casablanca is Morocco's biggest city, sitting on the Atlantic coast where waves crash against bright white buildings. Its name means 'White House' in Spanish, and a giant mosque rises right out of the sea.",
   "funFacts": [
-    "The Hassan II Mosque has a minaret 210 metres tall, with a green laser beam at the top that shines toward Mecca over 30 kilometres away.",
-    "Part of the Hassan II Mosque was built directly over the Atlantic Ocean, and inside there's a glass floor where you can see the waves below.",
+    "The Hassan II Mosque sits partly over the ocean, and its 210-metre minaret shoots a green laser beam that points all the way toward Mecca at night.",
     "The name 'Casablanca' is Spanish for 'White House', because so many of the city's buildings are painted bright white in the sunshine.",
-    "Moroccans pour mint tea from really high up to make a frothy foam on top, and the higher the pour, the more respect for the guest.",
-    "Long before it was Casablanca, the spot was an Amazigh (Berber) village called Anfa, meaning 'hill', and people still speak Tamazight today."
+    "Moroccans pour sweet mint tea from really high up to make a frothy foam on top, and the higher the pour, the more respect for the guest.",
+    "White storks build huge stick nests on Moroccan rooftops and walls, and Moroccan stories say they are people who have magically turned into birds.",
+    "The famous old movie 'Casablanca' was actually filmed in Hollywood, but a fan later built a real Rick's Cafe in the city to match the film."
   ],
   "thingsToDo": [
-    "Tour the giant Hassan II Mosque, one of very few in Morocco that lets non-Muslim visitors inside, and walk on the plaza right above the ocean.",
-    "Wander the narrow alleys of the Old Medina just minutes from the cruise port, hunting for pottery, leather slippers, and sweet pastries.",
-    "Stroll the Corniche promenade in Ain Diab, watching surfers ride Atlantic waves while you sip a fresh-squeezed orange juice from a cafe.",
-    "Visit Morocco Mall and ride the elevator straight through a three-storey aquarium full of sharks, rays, and tropical fish swimming around you.",
-    "Step inside Rick's Cafe, a 1930s mansion built to look exactly like the bar from the famous old movie, with a leafy courtyard inside.",
-    "Explore the Habous Quarter, a friendlier 'new medina' built in the 1900s, perfect for spotting storks on rooftops and trying Moroccan cookies."
+    "Tour the giant Hassan II Mosque and walk on the plaza right above the crashing Atlantic waves.",
+    "Wander the narrow alleys of the Old Medina to spot pottery, leather slippers and sweet pastries.",
+    "Stroll the Corniche promenade at Ain Diab and watch surfers riding the Atlantic waves.",
+    "Step inside Rick's Cafe, a 1930s mansion built to look just like the bar from the famous old movie.",
+    "Peek through the doors of the Mahkama du Pacha, an old palace with carved wood and pretty tiles.",
+    "Spot white storks nesting on the towers of the Sacré-Cœur, an old white cathedral with pointy spires."
+  ],
+  "wildlife": [
+    {
+      "name": "Barbary Macaque",
+      "description": "Cheeky tail-less monkey with a fluffy face, found in Morocco's mountain forests."
+    },
+    {
+      "name": "Dromedary Camel",
+      "description": "Tall desert animal with one big hump that stores fat for long journeys."
+    },
+    {
+      "name": "White Stork",
+      "description": "Tall white bird with long red legs that builds huge nests on rooftops."
+    },
+    {
+      "name": "Atlantic Bottlenose Dolphin",
+      "description": "Friendly grey dolphin that leaps from the waves off Morocco's coast."
+    }
   ],
   "localWord": {
     "word": "Salam",
-    "meaning": "Hello, or peace, used everywhere in Morocco",
-    "pronunciation": "sah-LAHM"
+    "meaning": "Hello, or peace, used everywhere in Morocco."
   },
   "images": [
     {
@@ -41,46 +58,85 @@
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/In_the_Medina%2C_Casablanca_%289109233856%29.jpg"
     },
     {
-      "filename": "habous-quarter-view.jpg",
-      "alt": "A pretty arched walkway in the Habous Quarter, full of arches and traditional Moroccan shops.",
-      "credit": "Omalihy",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:One_of_the_most_instragmable_views_of_the_old_medina_the_habous_in_Casablanca.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/One_of_the_most_instragmable_views_of_the_old_medina_the_habous_in_Casablanca.jpg"
+      "filename": "mahkama-du-pacha.jpg",
+      "alt": "The grand white walls and arched doorways of the Mahkama du Pacha palace in Casablanca.",
+      "credit": "Radouane (Wikivoyage)",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mahkama_du_Pacha.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Mahkama_du_Pacha.jpg"
     },
     {
-      "filename": "place-mohammed-v.jpg",
-      "alt": "Place Mohammed V in Casablanca with its grand white buildings and big open square.",
-      "credit": "Hamza Izourane",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Place_Mohammed_V_-_Casablanca_-_2022.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Place_Mohammed_V_-_Casablanca_-_2022.jpg"
+      "filename": "corniche-ain-diab.jpg",
+      "alt": "The Casablanca Corniche promenade at Ain Diab lit up beside the Atlantic Ocean.",
+      "credit": "Jabérien",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:CornicheCasa.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/CornicheCasa.jpg"
     },
     {
-      "filename": "moroccan-mint-tea.jpg",
-      "alt": "A pretty silver teapot pouring sweet Moroccan mint tea into little glasses on a tray.",
-      "credit": "Munfarid1",
+      "filename": "ricks-cafe.jpg",
+      "alt": "The white archway entrance to Rick's Café Casablanca, built to look like the famous movie bar.",
+      "credit": "Elisa.rolle",
       "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moroccan_mint_tea_on_a_traditional_tray.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Moroccan_mint_tea_on_a_traditional_tray.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rick%27s_Caf%C3%A9_Casablanca.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Rick%27s_Caf%C3%A9_Casablanca.jpg"
+    },
+    {
+      "filename": "sacre-coeur-cathedral.jpg",
+      "alt": "The white spires of the Sacré-Cœur Cathedral rising into the Casablanca sky.",
+      "credit": "Sandra Cohen-Rose and Colin Rose",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%C3%89glise_du_Sacr%C3%A9-Coeur,_Casablanca_(5506420199).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/%C3%89glise_du_Sacr%C3%A9-Coeur%2C_Casablanca_%285506420199%29.jpg"
+    },
+    {
+      "filename": "barbary-macaque.jpg",
+      "alt": "A Barbary macaque sitting on a branch in a Moroccan forest.",
+      "credit": "Jakub Hałun",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Macaca_sylvanus,_Ouzoud_Falls,_Morocco,_20250126_1430_7512.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Macaca_sylvanus%2C_Ouzoud_Falls%2C_Morocco%2C_20250126_1430_7512.jpg"
+    },
+    {
+      "filename": "dromedary-camel.jpg",
+      "alt": "A dromedary camel with a single hump standing in Morocco.",
+      "credit": "Una Maleta De Pulgas",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dromedary_camel_in_Morocco_(96650535).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Dromedary_camel_in_Morocco_%2896650535%29.jpg"
+    },
+    {
+      "filename": "white-stork.jpg",
+      "alt": "A white stork with long red legs standing in its big stick nest.",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:White_stork_(Ciconia_ciconia)_nest.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/White_stork_%28Ciconia_ciconia%29_nest.jpg"
+    },
+    {
+      "filename": "bottlenose-dolphin.jpg",
+      "alt": "An Atlantic bottlenose dolphin leaping out of the ocean waves.",
+      "credit": "Giles Laurent",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:010_Atlantic_bottlenose_dolphin_jumping_at_Pelican_point_Photo_by_Giles_Laurent.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/010_Atlantic_bottlenose_dolphin_jumping_at_Pelican_point_Photo_by_Giles_Laurent.jpg"
     }
   ],
   "links": [
-    { "url": "https://en.wikipedia.org/wiki/Casablanca", "label": "Wikipedia: Casablanca", "description": "Full overview of the city's history, geography, and culture." },
-    { "url": "https://kids.kiddle.co/Hassan_II_Mosque", "label": "Kiddle Kids: Hassan II Mosque", "description": "Kid-friendly facts about the giant seaside mosque and its 210m minaret." },
     { "url": "https://kids.britannica.com/students/article/Casablanca/273544", "label": "Britannica Kids: Casablanca", "description": "Easy-to-read article about Morocco's biggest port city." },
-    { "url": "https://www.visitmorocco.com/en/travel/casablanca", "label": "Visit Morocco (official tourism)", "description": "Morocco's official tourism site with sights, food, and travel tips." },
-    { "url": "https://www.lonelyplanet.com/morocco/casablanca", "label": "Lonely Planet: Casablanca", "description": "Top sights, neighbourhoods and family travel ideas in Casablanca." },
-    { "url": "https://www.fmh2.ma/en/mosque/hassan-2-mosque", "label": "Hassan II Mosque Foundation", "description": "Official site of the mosque with photos and visitor information." }
+    { "url": "https://en.wikipedia.org/wiki/Casablanca", "label": "Casablanca on Wikipedia", "description": "Big-picture facts about the city, its harbour and people." },
+    { "url": "https://kids.kiddle.co/Hassan_II_Mosque", "label": "Hassan II Mosque Facts for Kids (Kiddle)", "description": "Kid-friendly facts about Casablanca's giant seaside mosque." }
   ],
   "sources": [
     "https://en.wikipedia.org/wiki/Casablanca",
     "https://en.wikipedia.org/wiki/Hassan_II_Mosque",
-    "https://kids.kiddle.co/Hassan_II_Mosque",
-    "https://kids.britannica.com/students/article/Casablanca/273544",
-    "https://www.britannica.com/place/Casablanca-Morocco",
-    "https://www.fmh2.ma/en/mosque/hassan-2-mosque",
-    "https://en.wikipedia.org/wiki/Rick's_Caf%C3%A9_Casablanca"
+    "https://en.wikipedia.org/wiki/Rick's_Caf%C3%A9_Casablanca",
+    "https://en.wikipedia.org/wiki/Sacr%C3%A9-C%C5%93ur_Cathedral,_Casablanca",
+    "https://en.wikipedia.org/wiki/Mahkama_du_Pacha",
+    "https://en.wikipedia.org/wiki/Barbary_macaque",
+    "https://en.wikipedia.org/wiki/White_stork",
+    "https://en.wikipedia.org/wiki/Common_bottlenose_dolphin",
+    "https://kids.kiddle.co/Casablanca"
   ],
-  "researchedAt": "2026-05-09T12:01:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }

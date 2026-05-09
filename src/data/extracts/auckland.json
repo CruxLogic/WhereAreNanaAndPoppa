@@ -2,32 +2,50 @@
   "researchId": "auckland",
   "name": "Auckland",
   "country": "New Zealand",
-  "summary": "Kia ora! Auckland is New Zealand's biggest city, built on an isthmus between two sparkling harbours and 53 sleepy volcanoes. Maori call it Tamaki Makaurau, meaning 'desired by many', and you'll see why — sailboats everywhere, a tower that pokes the clouds, and a forest-covered volcano just a ferry ride from the wharf.",
+  "summary": "Auckland is New Zealand's biggest city, built on a skinny strip of land between two harbours. It is famous for its tall Sky Tower, its busy sailboat harbour, and the 53 sleeping volcanoes scattered all around it.",
   "funFacts": [
-    "Auckland sits on top of 53 volcanoes! The youngest, Rangitoto Island, popped up from the sea only about 600 years ago and Maori people actually saw it erupt.",
-    "The Sky Tower is 328 metres tall, the highest building in New Zealand, with a glass floor at the top so you can stare straight down at tiny cars.",
-    "Auckland is nicknamed the 'City of Sails' because more sailboats live here per person than almost anywhere else on Earth — they speckle the harbour like confetti.",
-    "More Pacific Islander people live in Auckland than in any other city in the world, which means amazing food, music, and dance from across the Pacific Ocean.",
-    "The whole city sits on a skinny strip of land less than 2 km wide between two seas — the Pacific Ocean on one side and the Tasman Sea on the other!"
+    "Auckland is built on top of 53 volcanoes — the youngest one, Rangitoto Island, popped out of the sea only about 600 years ago.",
+    "The Sky Tower is 328 metres tall and has a glass floor near the top, so brave kids can stare straight down at the tiny streets below.",
+    "Auckland's nickname is the 'City of Sails' because more sailboats live here per person than almost anywhere else in the world.",
+    "More Pacific Islander people live in Auckland than in any other city on Earth, so you can hear lots of different languages around town.",
+    "The whole city sits on a strip of land less than two kilometres wide, with the Pacific Ocean on one side and the Tasman Sea on the other."
   ],
   "thingsToDo": [
-    "Ride the lift up the Sky Tower and tiptoe across its see-through glass floor, 186 metres above the streets — count the boats in Waitemata Harbour below.",
-    "Catch a 25-minute ferry from the downtown wharf to Rangitoto Island, then hike the lava trail to its 260-metre summit through pohutukawa forest.",
-    "Meet kiwi, tuatara and cheeky kea at Auckland Zoo's Te Wao Nui, the only zone in the world dedicated entirely to native New Zealand wildlife.",
-    "Walk through the shark tunnel and meet Antarctic penguins at SEA LIFE Kelly Tarlton's, a sea-life aquarium built inside old underground sewage tanks.",
-    "Explore Maori treasures, a real war canoe, and the giant volcano gallery at Auckland War Memorial Museum, then watch a live haka performance.",
-    "Stroll the Wynyard Quarter and Viaduct Harbour from Queens Wharf for fish and chips, then pop into the Maritime Museum to try sailing simulators."
+    "Ride the lift up the Sky Tower and tiptoe across its see-through glass floor high above the city.",
+    "Catch a ferry to Rangitoto Island and hike the lava trail up its perfect volcano cone.",
+    "Climb to the grassy top of Mount Eden and peer down into its deep volcano crater.",
+    "Visit Auckland War Memorial Museum to see Maori treasures, a giant war canoe, and the volcano gallery.",
+    "Wander Viaduct Harbour to watch the yachts and eat fish and chips by the water.",
+    "Walk or drive across the huge Auckland Harbour Bridge for big views over the Waitemata."
+  ],
+  "wildlife": [
+    {
+      "name": "Kiwi",
+      "description": "Round, fluffy, flightless bird with a long beak that snuffles for bugs in the dark."
+    },
+    {
+      "name": "Tuatara",
+      "description": "Spiky-backed reptile that lived alongside the dinosaurs and can live for over 100 years."
+    },
+    {
+      "name": "Tui",
+      "description": "Glossy black songbird with a fluffy white throat tuft and a beautiful bubbly song."
+    },
+    {
+      "name": "Orca",
+      "description": "Big black-and-white killer whale that visits the Hauraki Gulf to hunt stingrays."
+    }
   ],
   "localWord": {
     "word": "Kia ora",
-    "meaning": "Hello, thanks, or 'be well' — a friendly te reo Maori greeting used everywhere in New Zealand.",
+    "meaning": "Hello and 'be well' in te reo Maori, the language of New Zealand's first people.",
     "pronunciation": "KEE-ah OR-ah"
   },
   "images": [
     {
       "filename": "hero-sky-tower.jpg",
       "alt": "Auckland's tall Sky Tower glowing against the city's night sky.",
-      "credit": "Trumpkinius at English Wikipedia",
+      "credit": "Trumpkinius",
       "license": "CC BY 3.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Auckland_sky_tower_at_night.JPG",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Auckland_sky_tower_at_night.JPG"
@@ -49,12 +67,12 @@
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Rangitoto_Island.jpg"
     },
     {
-      "filename": "pohutukawa-flowers.jpg",
-      "alt": "Bright red pohutukawa flowers, New Zealand's Christmas tree blooms.",
-      "credit": "Bjankuloski06en",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pohutukawa_flowers.JPG",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Pohutukawa_flowers.JPG"
+      "filename": "mount-eden.jpg",
+      "alt": "View into the deep grassy crater of Mount Eden volcano in Auckland.",
+      "credit": "Alan Collins (Etherbug)",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mount_Eden.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Mount_Eden.jpg"
     },
     {
       "filename": "auckland-war-memorial-museum.jpg",
@@ -63,27 +81,65 @@
       "license": "CC BY 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Auckland_War_Memorial_Museum_in_2021_(cropped_square).jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Auckland_War_Memorial_Museum_in_2021_%28cropped_square%29.jpg"
+    },
+    {
+      "filename": "viaduct-harbour.jpg",
+      "alt": "Yachts and waterfront buildings around Auckland's Viaduct Harbour.",
+      "credit": "Nurg",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Viaduct_Harbour.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Viaduct_Harbour.jpg"
+    },
+    {
+      "filename": "kiwi.jpg",
+      "alt": "A North Island brown kiwi with its long pointy beak.",
+      "credit": "Rohit Saxena (The.Rohit)",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apteryx_mantelli_-Rotorua,_North_Island,_New_Zealand-8a.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Apteryx_mantelli_-Rotorua%2C_North_Island%2C_New_Zealand-8a.jpg"
+    },
+    {
+      "filename": "tuatara.jpg",
+      "alt": "A spiky-backed tuatara reptile basking in the sun.",
+      "credit": "Nil NZ",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tuatara_basking.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Tuatara_basking.jpg"
+    },
+    {
+      "filename": "tui.jpg",
+      "alt": "A glossy black tui bird with its fluffy white throat tuft, perched on a flax flower.",
+      "credit": "Matt Binns",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tui_on_flax.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Tui_on_flax.jpg"
+    },
+    {
+      "filename": "orca.jpg",
+      "alt": "Two black-and-white orcas leaping out of the sea.",
+      "credit": "Robert Pittman / NOAA",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Killerwhales_jumping.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Killerwhales_jumping.jpg"
     }
   ],
   "links": [
-    {"url": "https://www.aucklandnz.com/inspire/six-family-friendly-auckland-adventures", "label": "AucklandNZ Family Adventures", "description": "The official tourism board's pick of six family-friendly Auckland trips."},
-    {"url": "https://en.wikipedia.org/wiki/Auckland", "label": "Auckland on Wikipedia", "description": "Big-picture facts about the city, its harbours, volcanoes, and people."},
-    {"url": "https://www.aucklandzoo.co.nz/", "label": "Auckland Zoo", "description": "Home to kiwi, tuatara and over 2,800 animals across themed habitats."},
-    {"url": "https://www.visitsealife.com/auckland/", "label": "SEA LIFE Kelly Tarlton's", "description": "Underwater tunnels, sharks, and a sub-Antarctic penguin colony in central Auckland."},
-    {"url": "https://www.aucklandmuseum.com/", "label": "Auckland War Memorial Museum", "description": "Maori taonga (treasures), volcano galleries and live cultural shows on a hilltop."},
-    {"url": "https://kids.kiddle.co/Auckland", "label": "Auckland Facts for Kids (Kiddle)", "description": "A kid-friendly summary of Auckland's geography, history and culture."}
+    { "url": "https://kids.kiddle.co/Auckland", "label": "Auckland Facts for Kids (Kiddle)", "description": "A kid-friendly summary of Auckland's geography, history and people." },
+    { "url": "https://en.wikipedia.org/wiki/Auckland", "label": "Auckland on Wikipedia", "description": "Big-picture facts about the city, its harbours and volcanoes." },
+    { "url": "https://kids.kiddle.co/Sky_Tower_(Auckland)", "label": "Sky Tower Facts for Kids (Kiddle)", "description": "A short, easy-read explanation of Auckland's tallest building." }
   ],
   "sources": [
     "https://en.wikipedia.org/wiki/Auckland",
-    "https://en.wikipedia.org/wiki/T%C4%81maki_Makaurau",
-    "https://en.wikipedia.org/wiki/Kia_ora",
+    "https://en.wikipedia.org/wiki/Sky_Tower_(Auckland)",
+    "https://en.wikipedia.org/wiki/Auckland_Harbour_Bridge",
     "https://en.wikipedia.org/wiki/Rangitoto_Island",
-    "https://www.aucklandnz.com/inspire/six-family-friendly-auckland-adventures",
-    "https://kids.kiddle.co/Auckland",
-    "https://kids.kiddle.co/Sky_Tower_(Auckland)",
-    "https://www.visitsealife.com/auckland/",
-    "https://www.aucklandzoo.co.nz/",
-    "https://ourauckland.aucklandcouncil.govt.nz/welcome-to-auckland/maori-identity-of-tamaki-makaurau-auckland/the-maori-language/"
+    "https://en.wikipedia.org/wiki/Maungawhau_/_Mount_Eden",
+    "https://en.wikipedia.org/wiki/Auckland_War_Memorial_Museum",
+    "https://en.wikipedia.org/wiki/Viaduct_Harbour",
+    "https://en.wikipedia.org/wiki/Kiwi_(bird)",
+    "https://en.wikipedia.org/wiki/Tuatara",
+    "https://en.wikipedia.org/wiki/Tui_(bird)",
+    "https://kids.kiddle.co/Auckland"
   ],
-  "researchedAt": "2026-05-09T11:25:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }

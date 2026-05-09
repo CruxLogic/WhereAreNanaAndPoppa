@@ -2,25 +2,43 @@
   "researchId": "walvis-bay",
   "name": "Walvis Bay",
   "country": "Namibia",
-  "summary": "Walvis Bay is a Namibian port where pink flamingos wade in a giant lagoon and the world's oldest desert crashes right into the Atlantic Ocean. Towering orange dunes meet cold blue waves, fog rolls in to water tiny beetles and ancient plants, and the German seaside town of Swakopmund sits just up the road.",
+  "summary": "Walvis Bay is a sunny port town in Namibia where the world's oldest desert meets the cold Atlantic Ocean. Thousands of pink flamingos wade in its huge salty lagoon while giant orange sand dunes rise just behind the town.",
   "funFacts": [
-    "Up to 162,000 birds gather at Walvis Bay's lagoon, and most of southern Africa's pink flamingos spend winter wading in the salty pools here.",
-    "The Namib is probably the oldest desert on Earth, baking under the sun for around 55 to 80 million years, way before humans existed.",
-    "At Sandwich Harbour, some of the planet's tallest sand dunes tumble straight into the cold Atlantic Ocean, a sight you can barely see anywhere else.",
-    "Thick coastal fog rolls in over 180 days a year, and clever beetles do headstands so droplets slide down their backs into their mouths.",
-    "The weird welwitschia plant grows only two leaves its whole life, drinks fog through them, and some are over 2,000 years old."
+    "More than 100,000 birds visit Walvis Bay's lagoon each year, and most of southern Africa's pink flamingos come here to feed in the salty water.",
+    "The Namib Desert next door is probably the oldest desert on Earth, baking under the sun for around 55 to 80 million years.",
+    "At Sandwich Harbour just south of town, some of the planet's tallest sand dunes tumble straight down into the crashing Atlantic waves.",
+    "Thick fog rolls in off the cold ocean over 180 days a year, and clever beetles do headstands so droplets slide into their mouths.",
+    "Dune 7 stands about 132 metres tall and is one of the highest sand dunes in the world that you can climb."
   ],
   "thingsToDo": [
-    "Walk along Walvis Bay Lagoon at sunrise to spot thousands of greater and lesser flamingos turning the shoreline a wobbly shade of pink.",
-    "Hop on a catamaran cruise into the bay to meet curious dolphins and friendly Cape fur seals that pop up beside the boat at Pelican Point.",
-    "Buckle into a 4x4 Sandwich Harbour adventure where guides drive you up giant dunes that drop straight down into crashing Atlantic waves.",
-    "Climb Dune 7, one of the world's tallest coastal dunes at 132 metres, then zoom back down on a sandboard or quad bike.",
-    "Drive 30 kilometres up to Swakopmund to wander German colonial streets, eat apple strudel, and visit the National Marine Aquarium of Namibia.",
-    "Search the Moon Landscape and Welwitschia Plains for the famous two-leaved desert plant that has been quietly growing since Roman times."
+    "Walk along Walvis Bay Lagoon at sunrise to spot thousands of pink flamingos wading in the shallow water.",
+    "Hop on a catamaran cruise to meet curious dolphins and friendly Cape fur seals near Pelican Point lighthouse.",
+    "Take a 4x4 trip to Sandwich Harbour where giant dunes drop straight down into the cold Atlantic Ocean.",
+    "Climb Dune 7, one of the tallest sand dunes in the world, and slide back down on a sandboard.",
+    "Drive 30 kilometres up the coast to Swakopmund to wander its old German streets and seaside aquarium.",
+    "Search the Welwitschia Plains for the strange two-leaved desert plant that has been alive since Roman times."
+  ],
+  "wildlife": [
+    {
+      "name": "Lesser Flamingo",
+      "description": "Bright pink wading bird that filters tiny food from salty lagoon water with its curvy beak."
+    },
+    {
+      "name": "Greater Flamingo",
+      "description": "Tall pale-pink flamingo with very long pink legs that wades in shallow water beside its smaller cousin."
+    },
+    {
+      "name": "Cape Fur Seal",
+      "description": "Whiskered seal that barks loudly and lazes in big noisy colonies along the rocky Atlantic shore."
+    },
+    {
+      "name": "Great White Pelican",
+      "description": "Huge white waterbird with a giant stretchy throat pouch it uses to scoop up fish."
+    }
   ],
   "localWord": {
     "word": "Hallo",
-    "meaning": "Hello in Afrikaans, one of Namibia's main languages",
+    "meaning": "Hello in Afrikaans, one of Namibia's main languages.",
     "pronunciation": "HAH-loh"
   },
   "images": [
@@ -33,20 +51,28 @@
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Namib_desert_meets_Atlantic_ocean.jpg"
     },
     {
-      "filename": "walvis-bay-lagoon-flamingos.jpg",
-      "alt": "A big flock of bright pink flamingos wading in the shallow lagoon at Walvis Bay.",
-      "credit": "Diego Delso, delso.photo",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flamencos_comunes_(Phoenicopterus_roseus),_Walvis_Bay,_Namibia,_2018-08-05,_DD_19.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flamencos_comunes_%28Phoenicopterus_roseus%29%2C_Walvis_Bay%2C_Namibia%2C_2018-08-05%2C_DD_19.jpg"
+      "filename": "walvis-bay-aerial.jpg",
+      "alt": "An aerial view of Walvis Bay, its lagoon and the surrounding Namib Desert from space.",
+      "credit": "NASA",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:STS-133_An_oblique_view_of_Walvis_Bay_Namibia.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/STS-133_An_oblique_view_of_Walvis_Bay_Namibia.jpg"
     },
     {
-      "filename": "cape-fur-seal-colony.jpg",
-      "alt": "Hundreds of Cape fur seals barking and lazing on the rocky Namibian shoreline.",
-      "credit": "Patricia Bischof",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cape_Cross_Robbenkolonie_Namibia.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Cape_Cross_Robbenkolonie_Namibia.jpg"
+      "filename": "dune-7.jpg",
+      "alt": "Dune 7, a huge orange sand dune near Walvis Bay, with people climbing its steep ridge.",
+      "credit": "Diego Delso, delso.photo",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Duna_7,_Walvis_Bay,_Namibia,_2018-08-05,_DD_18.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Duna_7%2C_Walvis_Bay%2C_Namibia%2C_2018-08-05%2C_DD_18.jpg"
+    },
+    {
+      "filename": "pelican-point-lighthouse.jpg",
+      "alt": "The red-and-white Pelican Point lighthouse on a sandy spit at Walvis Bay.",
+      "credit": "Wolfgang Fricke",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pelican_Point_Lighthouse,_Walvis_Bay,_Namibia.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Pelican_Point_Lighthouse%2C_Walvis_Bay%2C_Namibia.jpg"
     },
     {
       "filename": "swakopmund-lighthouse.jpg",
@@ -63,26 +89,55 @@
       "license": "CC BY-SA 4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brandberg_Welwitschia.JPG",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Brandberg_Welwitschia.JPG"
+    },
+    {
+      "filename": "walvis-bay-lagoon-flamingos.jpg",
+      "alt": "A big flock of bright pink greater flamingos wading in the shallow lagoon at Walvis Bay.",
+      "credit": "Diego Delso, delso.photo",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flamencos_comunes_(Phoenicopterus_roseus),_Walvis_Bay,_Namibia,_2018-08-05,_DD_19.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flamencos_comunes_%28Phoenicopterus_roseus%29%2C_Walvis_Bay%2C_Namibia%2C_2018-08-05%2C_DD_19.jpg"
+    },
+    {
+      "filename": "lesser-flamingo.jpg",
+      "alt": "A close-up of a bright pink lesser flamingo standing in shallow water.",
+      "credit": "Lip Kee",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lesser_Flamingo_(Phoenicopterus_minor)_-_Flickr_-_Lip_Kee.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lesser_Flamingo_%28Phoenicopterus_minor%29_-_Flickr_-_Lip_Kee.jpg"
+    },
+    {
+      "filename": "cape-fur-seal-colony.jpg",
+      "alt": "Hundreds of Cape fur seals barking and lazing on the rocky Namibian shoreline.",
+      "credit": "Patricia Bischof",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cape_Cross_Robbenkolonie_Namibia.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Cape_Cross_Robbenkolonie_Namibia.jpg"
+    },
+    {
+      "filename": "great-white-pelican.jpg",
+      "alt": "A great white pelican floating on the water at Walvis Bay with its big yellow throat pouch.",
+      "credit": "Olga Ernst",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_white_pelican,_Walvis_Bay_(Namibia).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Great_white_pelican%2C_Walvis_Bay_%28Namibia%29.jpg"
     }
   ],
   "links": [
-    { "url": "https://www.namibiatourism.com.na/", "label": "Namibia Tourism Board", "description": "Official tourism site for Namibia with maps, regions, and trip planning info." },
-    { "url": "https://en.wikipedia.org/wiki/Walvis_Bay", "label": "Walvis Bay on Wikipedia", "description": "Background on the port town, its history, lagoon, and geography." },
-    { "url": "https://kids.britannica.com/students/article/Swakopmund/610068", "label": "Swakopmund - Britannica Kids", "description": "Kid-friendly article on the German colonial town just up the coast." },
-    { "url": "https://kids.kiddle.co/Welwitschia", "label": "Welwitschia facts for kids", "description": "Easy-to-read page about the strange 2,000-year-old desert plant." },
-    { "url": "https://en.wikipedia.org/wiki/Namib", "label": "Namib Desert on Wikipedia", "description": "Why the Namib is the world's oldest desert and how creatures drink fog." },
-    { "url": "https://rsis.ramsar.org/ris/742", "label": "Walvis Bay Ramsar Site", "description": "Official wetland listing explaining the flamingos and 100,000+ birds." }
+    { "url": "https://kids.kiddle.co/Walvis_Bay", "label": "Walvis Bay Facts for Kids (Kiddle)", "description": "A short, easy-read summary of the town and its lagoon." },
+    { "url": "https://en.wikipedia.org/wiki/Walvis_Bay", "label": "Walvis Bay on Wikipedia", "description": "Big-picture facts about the port, lagoon and desert nearby." },
+    { "url": "https://kids.kiddle.co/Welwitschia", "label": "Welwitschia Facts for Kids (Kiddle)", "description": "Easy-to-read page about the strange 2,000-year-old desert plant." }
   ],
   "sources": [
     "https://en.wikipedia.org/wiki/Walvis_Bay",
     "https://en.wikipedia.org/wiki/Namib",
     "https://en.wikipedia.org/wiki/Swakopmund",
     "https://en.wikipedia.org/wiki/Welwitschia",
+    "https://en.wikipedia.org/wiki/Lesser_flamingo",
+    "https://en.wikipedia.org/wiki/Cape_fur_seal",
+    "https://en.wikipedia.org/wiki/Great_white_pelican",
     "https://rsis.ramsar.org/ris/742",
-    "https://www.kew.org/plants/welwitschia-mirabilis",
-    "https://kids.kiddle.co/Welwitschia",
-    "https://kids.britannica.com/students/article/Swakopmund/610068",
-    "https://www.sandwich-harbour.com/"
+    "https://kids.kiddle.co/Walvis_Bay"
   ],
-  "researchedAt": "2026-05-09T11:48:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }

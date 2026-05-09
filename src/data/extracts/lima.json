@@ -1,87 +1,145 @@
 {
   "researchId": "lima",
-  "name": "Lima (Callao)",
+  "name": "Lima",
   "country": "Peru",
-  "summary": "Lima is Peru's giant capital, sprawling along the Pacific Ocean with around 10 million people. Spanish conquistador Francisco Pizarro founded it in 1535 as the 'City of Kings,' and its old town is now a UNESCO World Heritage Site full of golden balconies and bell towers. Today Lima mixes ancient Inca history, smoky-grill street food and dramatic seaside cliffs where paragliders float overhead.",
+  "summary": "Lima is the giant capital of Peru, sitting on cliffs above the Pacific Ocean. Its old town has golden Spanish churches, and Callao right next door is the busy port where ships sail in and out.",
   "funFacts": [
-    "Lima is home to the oldest continuously running university in the Americas: National University of San Marcos, founded in 1551, eighty-five years before Harvard existed.",
-    "Peru grows more than 4,000 kinds of potato, in colours like purple, pink, blue and red, plus its national dish ceviche is raw fish 'cooked' in lime juice.",
-    "The Magic Water Circuit in Parque de la Reserva holds a Guinness World Record as the planet's biggest fountain complex, with thirteen fountains shooting water up to 80 metres high.",
-    "An ancient adobe pyramid called Huaca Pucllana sits right inside Lima's Miraflores neighbourhood, built around 500 AD from millions of mud bricks stacked like books on a shelf.",
-    "Brave paragliders launch off the Miraflores cliffs and float for fifteen minutes above the Pacific Ocean, sometimes drifting right past the windows of a clifftop shopping mall."
+    "Lima was founded by the Spanish in 1535 and was nicknamed the 'City of Kings' because rich rulers and ships full of gold passed through it.",
+    "An ancient mud-brick pyramid called Huaca Pucllana sits right in the middle of the city, built about 1,500 years ago by the Lima people.",
+    "Peru is the home of the potato — there are more than 4,000 different kinds, in colours like purple, blue, pink and bright yellow.",
+    "Brave paragliders launch off the Miraflores cliffs and float for ages above the Pacific Ocean and the busy beach road below.",
+    "Lima almost never gets proper rain, so people just wait out the grey 'donkey-belly' winter sky and call it a desert by the sea."
   ],
   "thingsToDo": [
-    "Wander Plaza de Armas in the UNESCO old town to see the yellow Cathedral, the colourful Government Palace and the changing of the guard around midday.",
-    "Explore the Larco Museum in a whitewashed colonial mansion and spot Inca, Moche and Nazca gold crowns, masks and 30,000 ancient pottery pieces.",
-    "Stroll the Miraflores clifftop boardwalk past Parque del Amor and Larcomar mall, watching paragliders launch over the Pacific 80 metres below.",
-    "Climb around Huaca Pucllana, an ancient adobe pyramid in the middle of the city, on a guided tour where llamas and alpacas live among the ruins.",
-    "Visit Parque de la Reserva after dark to walk through the Tunnel of Surprises and watch lasers, music and rainbow-coloured fountains dance together.",
-    "Try Peru's famous ceviche at La Mar in Miraflores, where tangy lime-cured fish is served with sweet potato, giant corn and crunchy toasted kernels."
+    "Wander around Plaza Mayor in the old town to see the cathedral, the yellow government palace and the changing of the guard.",
+    "Go inside the San Francisco Monastery and tiptoe through the spooky underground catacombs full of old bones.",
+    "Visit the Larco Museum, a white colonial mansion packed with gold crowns, masks and pottery from ancient Peru.",
+    "Climb around Huaca Pucllana, the ancient mud-brick pyramid right in Miraflores, and meet the llamas that live there.",
+    "Stroll the Miraflores clifftop park and watch paragliders swooping above the Pacific Ocean far below.",
+    "Tour the Real Felipe fortress in Callao port, with thick stone walls, cannons and tall watchtowers facing the sea."
+  ],
+  "wildlife": [
+    {
+      "name": "Llama",
+      "description": "Friendly fluffy cousin of the camel that hums softly and carries packs over the Andes mountains."
+    },
+    {
+      "name": "Humboldt Penguin",
+      "description": "Black-and-white seabird that dives in the cold Pacific currents off Peru's rocky coast."
+    },
+    {
+      "name": "Andean Condor",
+      "description": "One of the world's biggest flying birds, with huge black wings spanning over three metres."
+    },
+    {
+      "name": "Peruvian Pelican",
+      "description": "Big grey-and-white seabird with a long stretchy beak it uses to scoop up fish."
+    }
   ],
   "localWord": {
     "word": "Allillanchu",
-    "meaning": "Hello / how are you? in Quechua, the language of the Incas",
-    "pronunciation": "ah-yee-YAHN-choo"
+    "meaning": "Hello / how are you? in Quechua, the language of the Incas."
   },
   "images": [
     {
-      "filename": "hero-plaza-de-armas-cathedral.jpg",
-      "alt": "The grand yellow stone cathedral on Lima's main square in the old colonial city centre.",
-      "credit": "Victoria Alexandra Gonzalez Olaechea Yrigoyen",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lima.Catedral.JPG",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Lima.Catedral.JPG"
+      "filename": "hero-plaza-mayor.jpg",
+      "alt": "Wide view of Lima's Plaza Mayor with the cathedral and government palace around the main square.",
+      "credit": "F Delventhal",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plaza_Mayor_Lima_pano.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Plaza_Mayor_Lima_pano.jpg"
     },
     {
-      "filename": "miraflores-paraglider-pacific-cliffs.jpg",
-      "alt": "A colourful paraglider soaring high above the Pacific Ocean cliffs of Lima.",
-      "credit": "Ursula Paulina Uriarte Espejo",
+      "filename": "lima-cathedral.jpg",
+      "alt": "The twin-towered yellow stone facade of Lima Cathedral on the Plaza de Armas.",
+      "credit": "Wasiwatana",
       "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ParapenteBarranco.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/ParapenteBarranco.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fachada_principal_de_la_Catedral_de_Lima.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Fachada_principal_de_la_Catedral_de_Lima.jpg"
     },
     {
-      "filename": "magic-water-circuit-night.jpg",
-      "alt": "Glowing rainbow-coloured fountains shooting up at night at Lima's Magic Water Circuit park.",
-      "credit": "Murray Foubister",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lima,_Peru%E2%80%A6spectacular_water_park_at_night_(8443264873).jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Lima%2C_Peru%E2%80%A6spectacular_water_park_at_night_%288443264873%29.jpg"
+      "filename": "san-francisco-monastery.jpg",
+      "alt": "The bright yellow stone Convent of San Francisco with its twin bell towers in old Lima.",
+      "credit": "MI PERU (Flickr)",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Convento_de_San_Francisco,_Lima,_Per%C3%BA.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Convento_de_San_Francisco%2C_Lima%2C_Per%C3%BA.jpg"
     },
     {
-      "filename": "huaca-pucllana-adobe-pyramid.jpg",
-      "alt": "An ancient stepped pyramid made of mud bricks, built long before Lima's modern city grew around it.",
+      "filename": "larco-museum.jpg",
+      "alt": "The whitewashed colonial mansion that houses the Larco Museum in Lima.",
+      "credit": "Velvet",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lima_museo_larco.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Lima_museo_larco.jpg"
+    },
+    {
+      "filename": "huaca-pucllana.jpg",
+      "alt": "The ancient stepped adobe pyramid of Huaca Pucllana surrounded by Lima's modern buildings.",
       "credit": "McKay Savage",
       "license": "CC BY 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Huaca_Pucllana_Miraflores.jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Huaca_Pucllana_Miraflores.jpg"
     },
     {
-      "filename": "barranco-bridge-of-sighs.jpg",
-      "alt": "A pretty wooden Bridge of Sighs over a leafy walkway in Lima's artsy Barranco neighbourhood.",
-      "credit": "Manuel Gonzalez Olaechea y Franco",
-      "license": "CC BY 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Puente_de_los_Suspiros.JPG",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Puente_de_los_Suspiros.JPG"
+      "filename": "real-felipe-fortress.jpg",
+      "alt": "Stone walls and watchtowers of the Real Felipe fortress in the port of Callao.",
+      "credit": "Ivan Brehaut",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fortaleza_del_Real_Felipe_03.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Fortaleza_del_Real_Felipe_03.jpg"
+    },
+    {
+      "filename": "llama.jpg",
+      "alt": "A fluffy brown-and-white llama standing in the Andes mountains.",
+      "credit": "Alexandre Buisse",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Llama_on_Machu_Picchu.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Llama_on_Machu_Picchu.jpg"
+    },
+    {
+      "filename": "humboldt-penguin.jpg",
+      "alt": "A black-and-white Humboldt penguin standing on a rock.",
+      "credit": "William Crochot",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spheniscus_humboldti_(Manchot_de_Humboldt)_-_469.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Spheniscus_humboldti_%28Manchot_de_Humboldt%29_-_469.jpg"
+    },
+    {
+      "filename": "andean-condor.jpg",
+      "alt": "A huge black Andean condor soaring above Colca Canyon in Peru.",
+      "credit": "Thomas Fuhrmann",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Andean_condor_(Vultur_gryphus)_at_Colca_Canyon.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Andean_condor_%28Vultur_gryphus%29_at_Colca_Canyon.jpg"
+    },
+    {
+      "filename": "peruvian-pelican.jpg",
+      "alt": "A Peruvian pelican with a long beak resting on a post in Paracas, Peru.",
+      "credit": "Haavard Lindholm",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peruvian_pelican_in_Paracas,_Peru.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Peruvian_pelican_in_Paracas%2C_Peru.jpg"
     }
   ],
   "links": [
-    { "url": "https://whc.unesco.org/en/list/500/", "label": "UNESCO: Historic Centre of Lima", "description": "Why Lima's old town is a World Heritage Site, with its 16th- and 17th-century churches and convents." },
-    { "url": "https://www.peru.travel/en/destinations/lima", "label": "Peru.travel official Lima guide", "description": "Peru's official tourism site with kid-friendly things to do, food and neighbourhood maps." },
-    { "url": "https://kids.kiddle.co/Lima", "label": "Kiddle: Lima facts for kids", "description": "Easy-to-read encyclopedia article written for children, covering history, geography and culture." },
-    { "url": "https://en.wikipedia.org/wiki/Lima", "label": "Wikipedia: Lima", "description": "Deep-dive overview of the city: founding, neighbourhoods, climate, food and famous landmarks." },
-    { "url": "https://www.museolarco.org/en/", "label": "Museo Larco official site", "description": "Plan a visit and preview the gold, jewellery and 45,000 pre-Columbian artefacts inside." },
-    { "url": "https://en.wikipedia.org/wiki/Huaca_Pucllana", "label": "Wikipedia: Huaca Pucllana", "description": "How an ancient seven-platform mud pyramid ended up surrounded by modern apartment blocks." }
+    { "url": "https://kids.kiddle.co/Lima", "label": "Lima Facts for Kids (Kiddle)", "description": "A kid-friendly summary of Lima, its history and famous places." },
+    { "url": "https://en.wikipedia.org/wiki/Lima", "label": "Lima on Wikipedia", "description": "Big-picture facts about the city, the port and the people." },
+    { "url": "https://whc.unesco.org/en/list/500/", "label": "UNESCO: Historic Centre of Lima", "description": "Why Lima's old town is a World Heritage Site full of churches and old buildings." }
   ],
   "sources": [
     "https://en.wikipedia.org/wiki/Lima",
-    "https://whc.unesco.org/en/list/500/",
-    "https://kids.kiddle.co/Lima",
-    "https://en.wikipedia.org/wiki/Huaca_Pucllana",
-    "https://en.wikipedia.org/wiki/Parque_de_la_Reserva",
+    "https://en.wikipedia.org/wiki/Callao",
+    "https://en.wikipedia.org/wiki/Plaza_Mayor,_Lima",
+    "https://en.wikipedia.org/wiki/Lima_Metropolitan_Cathedral",
+    "https://en.wikipedia.org/wiki/Basilica_and_Convent_of_San_Francisco,_Lima",
     "https://en.wikipedia.org/wiki/Larco_Museum",
-    "https://en.wikipedia.org/wiki/Peruvian_ceviche",
-    "https://en.wikipedia.org/wiki/National_University_of_San_Marcos"
+    "https://en.wikipedia.org/wiki/Huaca_Pucllana",
+    "https://en.wikipedia.org/wiki/Real_Felipe_Fortress",
+    "https://en.wikipedia.org/wiki/Humboldt_penguin",
+    "https://en.wikipedia.org/wiki/Andean_condor",
+    "https://en.wikipedia.org/wiki/Peruvian_pelican",
+    "https://kids.kiddle.co/Lima"
   ],
-  "researchedAt": "2026-05-09T14:19:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }

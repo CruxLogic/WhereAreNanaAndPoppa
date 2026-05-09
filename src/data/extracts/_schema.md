@@ -24,6 +24,12 @@ merged back into `src/data/destinations.json` (or read at build time).
     "Activity 4",
     "Activity 5"
   ],
+  "wildlife": [
+    {
+      "name": "Koala",
+      "description": "Sleepy grey marsupial that lives in eucalyptus trees — easiest to spot at Taronga Zoo."
+    }
+  ],
   "localWord": {
     "word": "Optional local greeting or phrase",
     "meaning": "What it means in English",

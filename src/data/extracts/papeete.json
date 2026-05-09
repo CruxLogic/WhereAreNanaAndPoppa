@@ -1,37 +1,46 @@
 {
   "researchId": "papeete",
-  "name": "Papeete (Tahiti)",
+  "name": "Papeete",
   "country": "French Polynesia",
-  "summary": "Papeete is the lively capital of French Polynesia, sitting on Tahiti, the biggest island in this French Pacific territory where people speak both French and Tahitian. The town has the largest market in the South Pacific by day, and at night the waterfront fills with colorful Roulottes food trucks. All around rise green volcanic mountains, waterfalls and black-sand beaches.",
+  "summary": "Papeete is the busy capital of French Polynesia, sitting on Tahiti, the biggest island in this group of South Pacific islands. Green volcanic mountains rise behind the town and bright blue lagoons sparkle in front.",
   "funFacts": [
-    "Tahiti uses the CFP franc, a special currency just for France's Pacific islands, so euros and dollars don't work in Papeete shops.",
-    "French painter Paul Gauguin sailed here in 1891 to escape European life, and his bright Tahiti paintings now hang in famous museums worldwide.",
-    "The first Tahitians were brave Polynesian sailors who reached these islands from Asia over 2,000 years ago using only stars and ocean swells to navigate.",
-    "The 2024 Paris Olympics held its surfing competition at Teahupoo in Tahiti, almost 16,000 km from Paris, the farthest Olympic venue ever.",
-    "About 95% of the world's black pearls are grown in French Polynesia inside black-lipped oysters, with colors like pink, green, blue and silver."
+    "Tahiti was made by underwater volcanoes, and Mount Orohena, its tallest peak, towers 2,241 metres above the sea right behind Papeete.",
+    "About 95% of the world's black pearls are grown in French Polynesia inside special black-lipped oysters that live in the warm lagoons.",
+    "The first Tahitians were brave Polynesian sailors who reached these islands over 2,000 years ago using only stars, waves and birds to find their way.",
+    "People in Papeete speak both French and Tahitian, and a friendly 'Ia Orana' (hello) is heard everywhere on the island.",
+    "Tahiti has black-sand beaches because the sand is made from old volcano lava that the waves have crushed into tiny shiny grains."
   ],
   "thingsToDo": [
-    "Wander the bustling Marché de Papeete (Municipal Market), a whole city block packed with tropical fruit, vanilla, monoi soaps, wood carvings and colorful pareo cloths.",
-    "After dark stroll Place Vai'ete on the waterfront, where about a dozen Roulottes food trucks dish up poisson cru, crepes, pizza and noodles under fairy lights.",
-    "Drive to Point Venus to climb around the 1868 white lighthouse and dig toes into the black volcanic sand beach where Captain Cook watched Venus cross the Sun in 1769.",
-    "Hike the easy jungle path to the Three Waterfalls of Faarumai near Tiarei, where Vaimahuta tumbles 80 metres straight down into a shady forest pool.",
-    "Visit the Robert Wan Pearl Museum on Pomare Boulevard, the only museum in the world all about pearls, and meet the giant Tahitian black pearl on display.",
-    "Catch a traditional Ori Tahiti dance show, with hip-shaking Otea drums and graceful Aparima dancers who tell island stories using only their hands."
+    "Wander the colourful Marché de Papeete market and sniff vanilla pods, tropical fruit and flower crowns called couronnes.",
+    "Climb up to the white Pointe Vénus lighthouse and dig your toes into the soft black volcanic sand.",
+    "Look up at the twin red roofs of Notre-Dame Cathedral, the oldest Catholic church in the South Pacific.",
+    "Hike through the rainforest to splashy Fautaua Falls, one of the tallest waterfalls in the world.",
+    "Watch the sea shoot up like a fountain from the Arahoho Blowhole when big waves crash into the cliff.",
+    "Gaze up at Mount Orohena, Tahiti's huge volcanic peak, often hidden in soft white clouds."
+  ],
+  "wildlife": [
+    {
+      "name": "Tahiti Monarch",
+      "description": "Tiny shiny black bird found only on Tahiti, with fewer than 100 left in the wild."
+    },
+    {
+      "name": "Green Sea Turtle",
+      "description": "Big gentle reptile that glides through the lagoons munching seagrass and seaweed."
+    },
+    {
+      "name": "Blacktip Reef Shark",
+      "description": "Friendly small shark with black-tipped fins that swims in the shallow coral reefs."
+    },
+    {
+      "name": "Polynesian Sandpiper",
+      "description": "Speckled brown shorebird that hops along Polynesian beaches hunting for tiny insects."
+    }
   ],
   "localWord": {
-    "word": "Ia ora na",
-    "meaning": "Hello / good day in Tahitian — a friendly all-day greeting",
-    "pronunciation": "yo-RAH-nah"
+    "word": "Ia Orana",
+    "meaning": "Hello, in Tahitian — a friendly greeting used all day long."
   },
   "images": [
-    {
-      "filename": "hero-tahiti-beach.jpg",
-      "alt": "A sunny Tahiti beach with palm trees leaning over a calm turquoise lagoon.",
-      "credit": "Olivier Dugornay (IFREMER)",
-      "license": "CC BY 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plage_de_Tahiti_(Ifremer_00773-88491).jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Plage_de_Tahiti_%28Ifremer_00773-88491%29.jpg"
-    },
     {
       "filename": "marche-de-papeete-market.jpg",
       "alt": "Inside the colourful Marché de Papeete market with stalls full of flowers and goods.",
@@ -41,47 +50,93 @@
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Marché_de_Papeete.JPG"
     },
     {
+      "filename": "notre-dame-cathedral.jpg",
+      "alt": "The twin red roofs of Notre-Dame Cathedral of Papeete on a sunny day.",
+      "credit": "kajikawa",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cathedrale_Notre-Dame_de_Papeete_-_panoramio.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Cathedrale_Notre-Dame_de_Papeete_-_panoramio.jpg"
+    },
+    {
       "filename": "point-venus-lighthouse.jpg",
-      "alt": "The white Point Venus lighthouse standing tall on a black-sand beach in Tahiti.",
+      "alt": "The white Pointe Vénus lighthouse standing tall on a black-sand beach in Tahiti.",
       "credit": "Matthew Dillon",
       "license": "CC BY 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tahiti,_French_Polynesia_-_Point_Venus_Lighthouse_(48032601316).jpg",
       "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Tahiti%2C_French_Polynesia_-_Point_Venus_Lighthouse_%2848032601316%29.jpg"
     },
     {
-      "filename": "teahupoo-wave.jpg",
-      "alt": "The famous huge blue Teahupoo wave curling over a reef in Tahiti.",
-      "credit": "Matthew Dillon",
-      "license": "CC BY 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tahiti,_French_Polynesia_-_Teahupo%27o_(48041216271).jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Tahiti%2C_French_Polynesia_-_Teahupo%27o_%2848041216271%29.jpg"
+      "filename": "fautaua-falls.jpg",
+      "alt": "Fautaua Falls plunging down a tall cliff in the green Tahitian jungle.",
+      "credit": "Charles Burton Hoare",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:FautauaFalls.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/FautauaFalls.jpg"
     },
     {
-      "filename": "tahitian-dancer.jpg",
-      "alt": "A Tahitian dancer in a feathered headdress and grass skirt performing on stage.",
-      "credit": "Adana Dobranis / Auckland Libraries Heritage Collections",
+      "filename": "mount-orohena.jpg",
+      "alt": "The cloud-topped peaks of Mount Orohena and Mount Aorai rising above Tahiti.",
+      "credit": "Bernhardwalzl",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orohena_and_Aorai_from_Pito_Hiti.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Orohena_and_Aorai_from_Pito_Hiti.jpg"
+    },
+    {
+      "filename": "arahoho-blowhole.jpg",
+      "alt": "The Arahoho Blowhole on Tahiti's coast, with sea spray bursting up through the rocks.",
+      "credit": "Matthew Dillon",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tahiti,_French_Polynesia_-_Arahoho_Blowhole_(48033965818).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Tahiti%2C_French_Polynesia_-_Arahoho_Blowhole_%2848033965818%29.jpg"
+    },
+    {
+      "filename": "tahiti-monarch.jpg",
+      "alt": "A small shiny black Tahiti monarch bird perched in a leafy tree.",
+      "credit": "Reizo Knapp",
       "license": "CC BY 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tahitian_dancer,_Pasifika_Festival,_2015_(PASF-D-2015-056).jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Tahitian_dancer%2C_Pasifika_Festival%2C_2015_%28PASF-D-2015-056%29.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pomarea_nigra_-_Reizo_Knapp_-_627377111.jpeg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Pomarea_nigra_-_Reizo_Knapp_-_627377111.jpeg"
+    },
+    {
+      "filename": "green-sea-turtle.jpg",
+      "alt": "A green sea turtle swimming over a coral reef in clear blue water near Tahiti.",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Green_sea_turtle_(Chelonia_mydas)_Moorea.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Green_sea_turtle_%28Chelonia_mydas%29_Moorea.jpg"
+    },
+    {
+      "filename": "blacktip-reef-shark.jpg",
+      "alt": "A blacktip reef shark with a dark fin tip cruising over the lagoon floor at Moorea.",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blacktip_reef_shark_(Carcharhinus_melanopterus)_Moorea.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Blacktip_reef_shark_%28Carcharhinus_melanopterus%29_Moorea.jpg"
+    },
+    {
+      "filename": "polynesian-sandpiper.jpg",
+      "alt": "A speckled brown Polynesian sandpiper standing on a tree branch.",
+      "credit": "Aabirdpix",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tuamotu_sandpiper.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Tuamotu_sandpiper.jpg"
     }
   ],
   "links": [
-    { "url": "https://tahititourisme.com/", "label": "Tahiti Tourisme (official)", "description": "Official tourism site of The Islands of Tahiti with guides, maps and culture pages." },
-    { "url": "https://en.wikipedia.org/wiki/Papeete", "label": "Wikipedia: Papeete", "description": "Background on the capital city, its history, harbor and people." },
-    { "url": "https://kids.kiddle.co/Papeete", "label": "Kiddle: Papeete facts for kids", "description": "Simple kid-friendly summary of Papeete's geography and life." },
-    { "url": "https://www.britannica.com/place/Tahiti", "label": "Britannica: Tahiti", "description": "Encyclopedia entry on the island, its volcanoes and Polynesian culture." },
-    { "url": "https://www.olympics.com/en/news/paris-2024-olympic-surfing-venue-tahiti-facts", "label": "Olympics.com: Teahupo'o surfing facts", "description": "How Tahiti's giant reef wave hosted the 2024 Olympic surfing event." },
-    { "url": "https://www.robertwan.com/pearl-museum", "label": "Robert Wan Pearl Museum", "description": "Official site of Papeete's pearl museum, with stories of Tahiti's black pearls." }
+    { "url": "https://kids.kiddle.co/Papeete", "label": "Kiddle: Papeete facts for kids", "description": "A simple kid-friendly summary of Papeete and Tahiti." },
+    { "url": "https://en.wikipedia.org/wiki/Papeete", "label": "Papeete on Wikipedia", "description": "Big-picture facts about the city, its harbour and people." },
+    { "url": "https://www.britannica.com/place/Tahiti", "label": "Britannica: Tahiti", "description": "Encyclopedia entry on the island, its volcanoes and Polynesian culture." }
   ],
   "sources": [
     "https://en.wikipedia.org/wiki/Papeete",
     "https://en.wikipedia.org/wiki/Tahiti",
     "https://en.wikipedia.org/wiki/French_Polynesia",
-    "https://kids.kiddle.co/Papeete",
-    "https://www.britannica.com/place/Tahiti",
-    "https://tahititourisme.com/",
-    "https://en.wikipedia.org/wiki/Paul_Gauguin",
-    "https://en.wikipedia.org/wiki/'ote'a"
+    "https://en.wikipedia.org/wiki/Mont_Orohena",
+    "https://en.wikipedia.org/wiki/Tahiti_monarch",
+    "https://en.wikipedia.org/wiki/Blacktip_reef_shark",
+    "https://en.wikipedia.org/wiki/Green_sea_turtle",
+    "https://en.wikipedia.org/wiki/Tuamotu_sandpiper",
+    "https://kids.kiddle.co/Papeete"
   ],
-  "researchedAt": "2026-05-09T14:38:00Z"
+  "researchedAt": "2026-05-09T14:00:00Z"
 }
