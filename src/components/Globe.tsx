@@ -131,12 +131,14 @@ export function Globe({
     // style.load will re-run and our handler re-adds the route layers + sky
   }, [styleKey]);
 
-  // Re-add port markers + route data when trip / status change
+  // Re-add route data + ship marker when trip / status change.
+  // Port markers are created on style.load and only have their selection
+  // styling updated on selectedId change — recreating them replays the
+  // marker-pop animation and causes a visible flash on every selection.
   useEffect(() => {
     const map = mapRef.current;
     if (!map || !map.isStyleLoaded()) return;
     addOrUpdateRouteLayers(map, trip, status);
-    attachPortMarkers(map, trip, portMarkersRef, selectedId, onSelectRef);
     attachShipMarker(
       map,
       shipMarkerRef,
@@ -144,7 +146,18 @@ export function Globe({
       status.phase === "in-port",
       onShipSelectRef,
     );
-  }, [trip, status, selectedId]);
+  }, [trip, status]);
+
+  // Update only the selection styling of the affected port markers in place
+  useEffect(() => {
+    portMarkersRef.current.forEach((marker, id) => {
+      updatePortMarkerSelection(
+        marker.getElement() as HTMLDivElement,
+        trip.byId.get(id)?.dest,
+        id === selectedId,
+      );
+    });
+  }, [selectedId, trip]);
 
   // Fly to selected destination
   useEffect(() => {
@@ -428,9 +441,16 @@ function makePortMarkerEl(
   const isScenic = dest.stopType === "scenic";
   const isDateline = dest.stopType === "dateline";
 
+  // MapLibre applies the positioning transform inline on the outer element it
+  // owns. The pop animation lives on an inner child so its `transform: scale()`
+  // keyframes don't clobber that positioning.
   const el = document.createElement("div");
-  el.className = "port-marker marker-pop";
-  el.style.animationDelay = `${320 + index * 18}ms`;
+  el.className = "port-marker";
+  el.style.cursor = "pointer";
+
+  const inner = document.createElement("div");
+  inner.className = "port-marker-inner marker-pop";
+  inner.style.animationDelay = `${320 + index * 18}ms`;
 
   const fill = isDateline
     ? "#3D4A6B"
@@ -441,11 +461,8 @@ function makePortMarkerEl(
         : "#F5EBD8";
   const stroke = isDateline ? "#F5EBD8" : "#1B2A4E";
   const labelColor = isDateline || isScenic || isHome ? "#F5EBD8" : "#1B2A4E";
-  const size = isHome || selected ? 22 : 18;
 
-  Object.assign(el.style, {
-    width: `${size}px`,
-    height: `${size}px`,
+  Object.assign(inner.style, {
     borderRadius: "50%",
     background: fill,
     border: `1.4px solid ${stroke}`,
@@ -454,16 +471,28 @@ function makePortMarkerEl(
     display: "flex",
     alignItems: "center",
     justifyContent: "center",
-    cursor: "pointer",
-    boxShadow: "0 1px 3px rgba(15,22,42,0.5)",
     boxSizing: "border-box",
   });
-  if (selected) {
-    el.style.boxShadow =
-      "0 0 0 3px rgba(245,235,216,0.85), 0 0 0 4.5px #C4452F, 0 1px 3px rgba(15,22,42,0.5)";
-  }
-  if (!isDateline) el.textContent = String(dayOfTrip);
+  if (!isDateline) inner.textContent = String(dayOfTrip);
+  el.appendChild(inner);
+  updatePortMarkerSelection(el, dest, selected);
   return el;
+}
+
+function updatePortMarkerSelection(
+  el: HTMLDivElement,
+  dest: Destination | undefined,
+  selected: boolean,
+) {
+  const inner = el.firstElementChild as HTMLDivElement | null;
+  if (!inner) return;
+  const isHome = dest?.stopType === "homePort";
+  const size = isHome || selected ? 22 : 18;
+  inner.style.width = `${size}px`;
+  inner.style.height = `${size}px`;
+  inner.style.boxShadow = selected
+    ? "0 0 0 3px rgba(245,235,216,0.85), 0 0 0 4.5px #C4452F, 0 1px 3px rgba(15,22,42,0.5)"
+    : "0 1px 3px rgba(15,22,42,0.5)";
 }
 
 function attachPortMarkers(
