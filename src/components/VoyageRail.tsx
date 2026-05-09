@@ -48,7 +48,7 @@ export function VoyageRail({ trip, status, totalDays, onSelect }: VoyageRailProp
   const endIso = trip.ports[trip.ports.length - 1]?.departureDate;
 
   return (
-    <aside className="hidden sm:block parchment-scroll absolute top-0 right-0 z-10 w-[34rem] md:w-[38rem] lg:w-[40rem] bg-parchment shadow-panel overflow-y-auto rise"
+    <aside className="hidden sm:block parchment-scroll absolute top-0 right-0 z-10 w-[22rem] md:w-[24rem] lg:w-[26rem] xl:w-[34rem] 2xl:w-[40rem] bg-parchment shadow-panel overflow-y-auto rise"
       style={{ animationDelay: "320ms", bottom: "104px" }}
     >
       <div className="relative px-7 pt-7 pb-10">

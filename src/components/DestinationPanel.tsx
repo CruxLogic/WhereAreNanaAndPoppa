@@ -34,7 +34,7 @@ export function DestinationPanel({
   return (
     <aside
       ref={asideRef}
-      className="panel-in parchment-scroll absolute top-0 right-0 z-30 w-full sm:w-[34rem] md:w-[38rem] lg:w-[40rem] bg-parchment shadow-panel overflow-y-auto sm:bottom-[104px] bottom-0"
+      className="panel-in parchment-scroll absolute top-0 right-0 z-30 w-full sm:w-[22rem] md:w-[24rem] lg:w-[26rem] xl:w-[34rem] 2xl:w-[40rem] bg-parchment shadow-panel overflow-y-auto sm:bottom-[104px] bottom-0"
     >
       <div className="relative px-7 pt-7 pb-10">
         <button

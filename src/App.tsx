@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useMemo, useState } from "react";
 import type { Destination, Trip } from "./types";
 import destinationsData from "./data/destinations.json";
 import tripData from "./data/trip.json";
@@ -15,36 +15,9 @@ import { mergeExtracts } from "./utils/mergeExtracts";
 const destinations = mergeExtracts(destinationsData as Destination[]);
 const trip = tripData as Trip;
 
-export interface ShipPosition {
-  lat: number;
-  lon: number;
-  speedKn: number | null;
-  courseDeg: number | null;
-  headingDeg: number | null;
-  timestamp: string;
-  name: string;
-  mmsi: number;
-  trackUrl?: string;
-}
-
 function App() {
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const [shipOpen, setShipOpen] = useState(false);
-  const [shipPos, setShipPos] = useState<ShipPosition | null>(null);
-
-  useEffect(() => {
-    let cancelled = false;
-    fetch(`${import.meta.env.BASE_URL}ship-position.json`, { cache: "no-store" })
-      .then((r) => (r.ok ? r.json() : null))
-      .then((data: ShipPosition | null) => {
-        if (cancelled || !data || typeof data.lat !== "number") return;
-        setShipPos(data);
-      })
-      .catch(() => {});
-    return () => {
-      cancelled = true;
-    };
-  }, []);
 
   const selectPort = (id: string | null) => {
     setSelectedId(id);
@@ -79,7 +52,6 @@ function App() {
         status={status}
         selectedId={selectedId}
         onSelect={selectPort}
-        shipPos={shipPos}
         onShipSelect={selectShip}
       />
       <Header trip={trip} status={status} totalDays={sortedTrip.totalDays} />
@@ -104,11 +76,7 @@ function App() {
         onSelect={selectPort}
         onClose={() => setSelectedId(null)}
       />
-      <ShipPanel
-        open={shipOpen}
-        onClose={() => setShipOpen(false)}
-        livePosition={shipPos}
-      />
+      <ShipPanel open={shipOpen} onClose={() => setShipOpen(false)} />
     </div>
   );
 }
