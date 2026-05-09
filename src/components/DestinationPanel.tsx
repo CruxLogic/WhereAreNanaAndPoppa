@@ -1,5 +1,7 @@
+import { useEffect, useState } from "react";
 import type { Destination } from "../types";
 import { formatLongDate, formatShortDate } from "../utils/tripStatus";
+import { Lightbox } from "./Lightbox";
 
 interface PanelProps {
   destination: Destination | null;
@@ -8,6 +10,12 @@ interface PanelProps {
 }
 
 export function DestinationPanel({ destination, dayOfTrip, onClose }: PanelProps) {
+  const [lightboxIndex, setLightboxIndex] = useState<number | null>(null);
+
+  useEffect(() => {
+    setLightboxIndex(null);
+  }, [destination?.id]);
+
   if (!destination) return null;
   const d = destination;
   const sameDay = d.arrivalDate === d.departureDate;
@@ -154,12 +162,19 @@ export function DestinationPanel({ destination, dayOfTrip, onClose }: PanelProps
         {d.images && d.images.length > 0 && (
           <section className="mt-6 grid grid-cols-2 gap-3">
             {d.images.map((img, i) => (
-              <figure key={i} className="bg-white p-2 shadow-card" style={{ transform: `rotate(${(i % 2 === 0 ? -1 : 1) * 0.6}deg)` }}>
+              <button
+                key={i}
+                type="button"
+                onClick={() => setLightboxIndex(i)}
+                aria-label={`Open image: ${img.alt}`}
+                className="bg-white p-2 shadow-card text-left cursor-zoom-in transition-transform hover:scale-[1.02] focus:outline-none focus:ring-2 focus:ring-vermillion/60"
+                style={{ transform: `rotate(${(i % 2 === 0 ? -1 : 1) * 0.6}deg)` }}
+              >
                 <img src={img.src} alt={img.alt} className="w-full aspect-[4/3] object-cover" />
-                <figcaption className="tracker text-[8px] text-ink/55 mt-1.5">
+                <p className="tracker text-[8px] text-ink/55 mt-1.5">
                   {img.credit}
-                </figcaption>
-              </figure>
+                </p>
+              </button>
             ))}
           </section>
         )}
@@ -191,6 +206,15 @@ export function DestinationPanel({ destination, dayOfTrip, onClose }: PanelProps
           {formatLongDate(d.arrivalDate)}
         </p>
       </div>
+
+      {lightboxIndex !== null && d.images && d.images.length > 0 && (
+        <Lightbox
+          images={d.images}
+          index={lightboxIndex}
+          onClose={() => setLightboxIndex(null)}
+          onIndexChange={setLightboxIndex}
+        />
+      )}
     </aside>
   );
 }
