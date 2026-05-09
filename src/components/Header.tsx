@@ -20,13 +20,17 @@ export function Header({ trip, status, totalDays }: HeaderProps) {
       <div className="max-w-[1600px] mx-auto flex items-start justify-between gap-6">
         <div className="rise" style={{ animationDelay: "120ms" }}>
           <h1 className="display text-sky-cream leading-[0.95] tracking-tight"
-              style={{ fontSize: "clamp(1.8rem, 3.4vw, 2.6rem)", fontWeight: 500 }}>
+              style={{
+                fontSize: "clamp(1.8rem, 3.4vw, 2.6rem)",
+                fontWeight: 500,
+                textShadow: "0 2px 18px rgba(10,20,40,0.55), 0 1px 2px rgba(0,0,0,0.35)",
+              }}>
             Where are{" "}
-            <span className="italic" style={{ fontWeight: 400, color: "#FFD9B5" }}>
+            <span className="italic" style={{ fontWeight: 400, color: "#F4A261" }}>
               {trip.travellers[0]}
             </span>
             {" & "}
-            <span className="italic" style={{ fontWeight: 400, color: "#FFD9B5" }}>
+            <span className="italic" style={{ fontWeight: 400, color: "#F4A261" }}>
               {trip.travellers[1] ?? ""}
             </span>
             ?
