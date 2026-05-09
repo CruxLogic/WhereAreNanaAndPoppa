@@ -1,6 +1,6 @@
-# Where Is Nana And Pop
+# Where Are Nana And Poppa
 
-A small static React site for the grandchildren to follow Nana and Pop's
+A small static React site for the grandchildren to follow Nana and Poppa's
 2026 world cruise (Auckland → around the world → Auckland, May–August
 2026). Each destination shows where it is on a world map, a
 kid-friendly summary, photos, and a few weblinks for further reading.
@@ -96,7 +96,7 @@ To add content for a destination, edit the entry in
 ## Folder layout
 
 ```
-WhereNanaAndPop/
+WhereAreNanaAndPoppa/
 ├── TripItinary.csv               original itinerary (archive)
 ├── scripts/build-destinations.ts one-shot CSV → JSON converter
 ├── src/
@@ -115,7 +115,7 @@ WhereNanaAndPop/
 
 Pushing to `main` triggers `.github/workflows/deploy.yml`, which builds
 the site and publishes `dist/` to GitHub Pages. The site URL is
-`https://<your-gh-user>.github.io/WhereNanaAndPop/`.
+`https://<your-gh-user>.github.io/WhereAreNanaAndPoppa/`.
 
 Before the first deploy: in the GitHub repo, go to Settings → Pages and
 set "Source" to "GitHub Actions".

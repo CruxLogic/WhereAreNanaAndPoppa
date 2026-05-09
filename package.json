@@ -1,5 +1,5 @@
 {
-  "name": "where-nana-and-pop",
+  "name": "where-are-nana-and-poppa",
   "private": true,
   "version": "0.1.0",
   "type": "module",
@@ -8,7 +8,8 @@
     "build": "tsc -b && vite build",
     "preview": "vite preview",
     "typecheck": "tsc -b --noEmit",
-    "build-data": "tsx scripts/build-destinations.ts"
+    "build-data": "tsx scripts/build-destinations.ts",
+    "fetch-position": "tsx scripts/fetch-ship-position.ts"
   },
   "dependencies": {
     "d3-geo": "^3.1.1",
@@ -26,6 +27,7 @@
     "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
     "@types/topojson-client": "^3.1.5",
+    "@types/ws": "^8.18.1",
     "@vitejs/plugin-react": "^4.3.3",
     "autoprefixer": "^10.4.20",
     "papaparse": "^5.4.1",
@@ -33,6 +35,7 @@
     "tailwindcss": "^3.4.14",
     "tsx": "^4.19.2",
     "typescript": "^5.6.3",
-    "vite": "^5.4.10"
+    "vite": "^5.4.10",
+    "ws": "^8.20.0"
   }
 }

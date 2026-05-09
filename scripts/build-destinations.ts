@@ -223,7 +223,7 @@ const destinations: Destination[] = grouped.map((group, idx) => {
 });
 
 const trip: Trip = {
-  name: "Where Is Nana And Pop",
+  name: "Where Are Nana And Poppa",
   travellers: ["Nana", "Pop"],
   startDate: destinations[0].arrivalDate,
   endDate: destinations[destinations.length - 1].departureDate,

@@ -74,7 +74,7 @@ export function Timeline({ trip, status, selectedId, onSelect }: TimelineProps) 
                         isSelected ? "text-parchment-deep" : "text-vermillion",
                       ].join(" ")}
                     >
-                      D{String(dayOfTrip).padStart(3, "0")}
+                      Day {dayOfTrip}
                     </span>
                     <span
                       className={[
