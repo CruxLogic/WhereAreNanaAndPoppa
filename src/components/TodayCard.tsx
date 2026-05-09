@@ -9,19 +9,19 @@ interface TodayCardProps {
 export function TodayCard({ status, onSelect }: TodayCardProps) {
   return (
     <div
-      className="absolute top-24 md:top-28 left-6 md:left-10 z-20 max-w-[18rem] rise"
+      className="sm:hidden absolute top-24 left-6 z-20 max-w-[18rem] rise"
       style={{ animationDelay: "420ms" }}
     >
       <div className="bg-parchment/95 backdrop-blur-[2px] rounded-[3px] shadow-card border border-ink/10 px-5 py-4 relative overflow-hidden">
         <div className="absolute -top-2 -right-2 w-12 h-12 rounded-full bg-vermillion/10 blur-xl" />
         <p className="tracker text-[9px] text-vermillion mb-1.5">Right now</p>
-        {renderBody(status, onSelect)}
+        <RightNowBody status={status} onSelect={onSelect} />
       </div>
     </div>
   );
 }
 
-function renderBody(status: TripStatus, onSelect: (id: string) => void) {
+export function RightNowBody({ status, onSelect }: TodayCardProps) {
   if (status.phase === "before") {
     return (
       <>
@@ -48,9 +48,6 @@ function renderBody(status: TripStatus, onSelect: (id: string) => void) {
           .
         </p>
         <p className="text-ink/70 text-sm mt-2">{status.port.country}</p>
-        <p className="tracker text-[9px] text-ink/50 mt-2">
-          Day {status.dayOfTrip}
-        </p>
       </>
     );
   }

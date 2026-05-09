@@ -34,7 +34,7 @@ export function DestinationPanel({
   return (
     <aside
       ref={asideRef}
-      className="panel-in parchment-scroll absolute top-0 right-0 bottom-0 z-30 w-full sm:w-[34rem] md:w-[38rem] lg:w-[40rem] bg-parchment shadow-panel overflow-y-auto"
+      className="panel-in parchment-scroll absolute top-0 right-0 z-30 w-full sm:w-[34rem] md:w-[38rem] lg:w-[40rem] bg-parchment shadow-panel overflow-y-auto sm:bottom-[104px] bottom-0"
     >
       <div className="relative px-7 pt-7 pb-10">
         <button
@@ -173,6 +173,28 @@ export function DestinationPanel({
                     &rarr;
                   </span>
                   <span className="text-ink/85 leading-relaxed">{t}</span>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
+
+        {d.wildlife && d.wildlife.length > 0 && (
+          <section className="mt-6">
+            <p className="tracker text-[10px] text-vermillion mb-3">Wildlife you might spot</p>
+            <ul className="space-y-3">
+              {d.wildlife.map((w, i) => (
+                <li key={i} className="flex gap-3">
+                  <span className="font-mono text-[11px] text-vermillion mt-1 shrink-0">
+                    &bull;
+                  </span>
+                  <span className="text-ink/85 leading-relaxed">
+                    <span className="display text-ink" style={{ fontWeight: 500 }}>
+                      {w.name}
+                    </span>
+                    {" — "}
+                    {w.description}
+                  </span>
                 </li>
               ))}
             </ul>

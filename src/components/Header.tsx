@@ -33,10 +33,10 @@ export function Header({ trip, status, totalDays }: HeaderProps) {
           </h1>
         </div>
         <div
-          className="text-right rise"
+          className="text-right rise sm:hidden"
           style={{ animationDelay: "260ms" }}
         >
-          <p className="tracker text-sky-cream/85" style={{ fontSize: "1rem" }}>
+          <p className="tracker text-sky-cream/85" style={{ fontSize: "0.85rem" }}>
             {dayLabel(status, totalDays)}
           </p>
         </div>
