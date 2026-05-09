@@ -4,7 +4,7 @@ import WebSocket from "ws";
 
 const MMSI = "310500000";
 const SHIP_NAME = "Crown Princess";
-const TRACK_URL = "https://www.cruisemapper.com/ships/Crown-Princess-708";
+const TRACK_URL = "https://www.cruisemapper.com/?imo=9293399";
 const OUTPUT_PATH = resolve("public/ship-position.json");
 const TIMEOUT_MS = 240_000;
 

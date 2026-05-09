@@ -20,8 +20,10 @@ interface ShipPosition {
   timestamp: string;
   name: string;
   mmsi: number;
-  trackUrl: string;
+  trackUrl?: string;
 }
+
+const SHIP_TRACK_URL = "https://www.cruisemapper.com/?imo=9293399";
 
 const ARC_SAMPLES = 56;
 
@@ -612,7 +614,7 @@ export function Globe({ trip, status, selectedId, onSelect }: GlobeProps) {
             onClick={(e) => {
               if (!todayProj.live || !shipPos) return;
               e.stopPropagation();
-              window.open(shipPos.trackUrl, "_blank", "noopener,noreferrer");
+              window.open(SHIP_TRACK_URL, "_blank", "noopener,noreferrer");
             }}
           >
             <circle r={6} fill="#C4452F" stroke="#F5EBD8" strokeWidth={1.4} filter="url(#seal-shadow)" />
