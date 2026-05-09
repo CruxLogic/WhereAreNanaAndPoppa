@@ -66,7 +66,7 @@ export function Globe({
       touchPitch: false,
     });
     mapRef.current = map;
-    map.addControl(new maplibregl.AttributionControl({ compact: true }), "top-right");
+    map.addControl(new maplibregl.AttributionControl({ compact: true }), "top-left");
 
     map.touchZoomRotate.disableRotation();
 
