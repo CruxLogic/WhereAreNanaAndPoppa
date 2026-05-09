@@ -28,35 +28,18 @@ all destinations with their dates.
 ## How the data works
 
 ```
-TripItinary.csv  ──(scripts/build-destinations.ts)──>  src/data/*.json
-                                                              │
-                                                              ▼
-                                                        React app
-                                                              │
-                                                              ▼
-                                                       static dist/
+src/data/*.json  ──>  React app  ──>  static dist/
 ```
 
-`TripItinary.csv` is the original itinerary, kept in the repo as the
-source of record. It's converted **once** by
-`scripts/build-destinations.ts` into:
+Trip content lives in:
 
 - `src/data/destinations.json` — array of `Destination` objects
 - `src/data/trip.json` — trip-level metadata
+- `src/data/extracts/<id>.json` — per-destination summaries, fun facts,
+  images, and links, merged in at build time
 
-The script:
-
-- Groups consecutive same-port rows (e.g. Cape Town's two days collapse
-  into a single record with arrivalDate + departureDate)
-- Drops "At Sea" rows (they are implied by gaps between ports)
-- Hardcodes lat/lng for each port (no geocoding API used)
-- Disambiguates the two Sydneys (Australia in May, Nova Scotia in July)
-  and the two Aucklands (start and finish)
-- Classifies each stop: `port`, `scenic`, `dateline`, or `homePort`
-
-After running once (`npm run build-data`), the JSON files become the
-working source going forward — they're hand-edited to add summaries,
-images, and links.
+To add content for a destination, edit the matching extract file and
+drop image files into `public/images/<id>/`.
 
 ## Destination schema
 
@@ -71,7 +54,7 @@ interface Destination {
   arrivalTime?: string;       // "07:00"
   departureTime?: string;
   stopType: "port" | "scenic" | "dateline" | "homePort";
-  notes?: string;             // raw note from CSV
+  notes?: string;             // free-form note for the stop
   summary?: string;           // kid-friendly description (added later)
   funFacts?: string[];        // 3-5 bullets (added later)
   localWord?: { word: string; meaning: string; pronunciation?: string };
@@ -97,8 +80,6 @@ To add content for a destination, edit the entry in
 
 ```
 WhereAreNanaAndPoppa/
-├── TripItinary.csv               original itinerary (archive)
-├── scripts/build-destinations.ts one-shot CSV → JSON converter
 ├── src/
 │   ├── App.tsx                   placeholder layout
 │   ├── main.tsx                  React entry
@@ -130,7 +111,6 @@ If the repository is renamed, update the `base` path in
 | `npm run dev` | Start the dev server (Vite) |
 | `npm run build` | Type-check and produce a production build in `dist/` |
 | `npm run preview` | Serve the built site locally to verify the GH Pages base path |
-| `npm run build-data` | Re-run the CSV → JSON conversion |
 | `npm run typecheck` | TypeScript check without emitting |
 
 ## What's not yet built

@@ -8,7 +8,6 @@
     "build": "tsc -b && vite build",
     "preview": "vite preview",
     "typecheck": "tsc -b --noEmit",
-    "build-data": "tsx scripts/build-destinations.ts",
     "fetch-position": "tsx scripts/fetch-ship-position.ts"
   },
   "dependencies": {
@@ -23,14 +22,12 @@
   "devDependencies": {
     "@types/d3-geo": "^3.1.0",
     "@types/leaflet": "^1.9.12",
-    "@types/papaparse": "^5.3.15",
     "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
     "@types/topojson-client": "^3.1.5",
     "@types/ws": "^8.18.1",
     "@vitejs/plugin-react": "^4.3.3",
     "autoprefixer": "^10.4.20",
-    "papaparse": "^5.4.1",
     "postcss": "^8.4.49",
     "tailwindcss": "^3.4.14",
     "tsx": "^4.19.2",
