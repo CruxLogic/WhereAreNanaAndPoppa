@@ -170,11 +170,6 @@ body {
   }
 }
 
-/* Lift map attribution above the timeline bar */
-.maplibregl-ctrl-bottom-right {
-  bottom: 5.5rem;
-}
-
 /* Scrollbar in timeline */
 .timeline-scroll {
   scrollbar-width: none;

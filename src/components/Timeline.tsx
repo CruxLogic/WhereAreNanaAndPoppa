@@ -33,7 +33,7 @@ export function Timeline({ trip, status, selectedId, onSelect }: TimelineProps) 
   }, [focusId]);
 
   return (
-    <div className="absolute left-0 right-0 bottom-0 z-20 px-3 md:px-6 pb-4 pointer-events-none">
+    <div className="absolute left-0 right-0 bottom-0 z-20 px-3 md:px-6 pb-10 pointer-events-none">
       <div className="max-w-[1600px] mx-auto pointer-events-auto">
         <div className="relative bg-parchment/85 backdrop-blur-[2px] rounded-[3px] border border-ink/10 shadow-card overflow-hidden">
           <div
