@@ -46,7 +46,7 @@ export function Timeline({ trip, status, selectedId, onSelect }: TimelineProps) 
           />
           <div
             ref={scrollerRef}
-            className="timeline-scroll flex gap-2 overflow-x-auto px-4 py-3 snap-x snap-mandatory"
+            className="timeline-scroll flex gap-2 overflow-x-auto px-4 py-1 snap-x snap-mandatory"
           >
             {trip.ports.map((d) => {
               const isFocus = focusId === d.id;
@@ -58,7 +58,7 @@ export function Timeline({ trip, status, selectedId, onSelect }: TimelineProps) 
                   data-port={d.id}
                   onClick={() => onSelect(d.id)}
                   className={[
-                    "snap-center shrink-0 px-3 py-2 rounded-[2px] text-left transition-all border",
+                    "snap-center shrink-0 px-3 py-1 rounded-[2px] text-left transition-all border",
                     isSelected
                       ? "bg-ink text-parchment border-ink"
                       : isFocus
