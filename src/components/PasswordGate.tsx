@@ -41,7 +41,7 @@ export function PasswordGate({ children }: PasswordGateProps) {
     e.preventDefault();
     setError(null);
     if (!EXPECTED_HASH) {
-      setError("The site is not configured. Please contact the family.");
+      setError("Site not configured.");
       return;
     }
     setPending(true);
@@ -55,7 +55,7 @@ export function PasswordGate({ children }: PasswordGateProps) {
         }
         setUnlocked(true);
       } else {
-        setError("That doesn't look right. Try again.");
+        setError("Incorrect password.");
       }
     } finally {
       setPending(false);
@@ -82,14 +82,6 @@ export function PasswordGate({ children }: PasswordGateProps) {
           </span>
           ?
         </h1>
-        <p
-          className="mt-5 text-sky-cream/85"
-          style={{ fontSize: "1.05rem", lineHeight: 1.5 }}
-        >
-          Welcome. This little corner of the web is just for family.
-          <br />
-          Enter the password to follow along on the voyage.
-        </p>
         <form onSubmit={handleSubmit} className="mt-8 flex flex-col items-stretch gap-3">
           <input
             type="password"
