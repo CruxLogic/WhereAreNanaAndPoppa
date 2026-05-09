@@ -26,6 +26,20 @@ export function VoyageRail({ trip, status, totalDays, onSelect }: VoyageRailProp
   const daysRemaining = Math.max(0, totalDays - day);
   const progressPct = totalDays > 0 ? Math.min(100, Math.max(0, (day / totalDays) * 100)) : 0;
 
+  let daysAtSea = 0;
+  for (let i = 0; i < trip.ports.length - 1; i++) {
+    const a = trip.ports[i];
+    const b = trip.ports[i + 1];
+    if (b.arrivalDate <= todayIso) {
+      daysAtSea += dayDiff(b.arrivalDate, a.departureDate);
+    } else if (a.departureDate < todayIso) {
+      daysAtSea += dayDiff(todayIso, a.departureDate);
+      break;
+    } else {
+      break;
+    }
+  }
+
   const upcoming = trip.ports
     .filter((p) => p.arrivalDate > todayIso && p.stopType !== "dateline")
     .slice(0, 4);
@@ -34,8 +48,8 @@ export function VoyageRail({ trip, status, totalDays, onSelect }: VoyageRailProp
   const endIso = trip.ports[trip.ports.length - 1]?.departureDate;
 
   return (
-    <aside className="hidden sm:block parchment-scroll absolute top-0 right-0 bottom-0 z-10 w-[34rem] md:w-[38rem] lg:w-[40rem] bg-parchment shadow-panel overflow-y-auto rise"
-      style={{ animationDelay: "320ms" }}
+    <aside className="hidden sm:block parchment-scroll absolute top-0 right-0 z-10 w-[34rem] md:w-[38rem] lg:w-[40rem] bg-parchment shadow-panel overflow-y-auto rise"
+      style={{ animationDelay: "320ms", bottom: "104px" }}
     >
       <div className="relative px-7 pt-7 pb-10">
         <div className="flex items-center gap-3 mb-1">
@@ -86,9 +100,10 @@ export function VoyageRail({ trip, status, totalDays, onSelect }: VoyageRailProp
           </div>
         </div>
 
-        <div className="mt-6 grid grid-cols-3 gap-x-4 border-y border-ink/10 py-4">
+        <div className="mt-6 grid grid-cols-2 gap-x-6 gap-y-4 border-y border-ink/10 py-4">
           <Stat label="Ports visited" value={portsVisited} />
           <Stat label="Still to come" value={portsRemaining} />
+          <Stat label="Days at sea" value={daysAtSea} />
           <Stat label="Days to home" value={daysRemaining} />
         </div>
 
@@ -153,4 +168,11 @@ function isoDate(d: Date): string {
   const m = String(d.getMonth() + 1).padStart(2, "0");
   const day = String(d.getDate()).padStart(2, "0");
   return `${y}-${m}-${day}`;
+}
+
+function dayDiff(a: string, b: string): number {
+  return Math.round(
+    (new Date(a + "T00:00:00Z").getTime() - new Date(b + "T00:00:00Z").getTime()) /
+      86400000,
+  );
 }
