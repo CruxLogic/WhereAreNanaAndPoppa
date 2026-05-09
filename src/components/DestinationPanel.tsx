@@ -179,6 +179,28 @@ export function DestinationPanel({
           </section>
         )}
 
+        {d.wildlife && d.wildlife.length > 0 && (
+          <section className="mt-6">
+            <p className="tracker text-[10px] text-vermillion mb-3">Wildlife you might spot</p>
+            <ul className="space-y-3">
+              {d.wildlife.map((w, i) => (
+                <li key={i} className="flex gap-3">
+                  <span className="font-mono text-[11px] text-vermillion mt-1 shrink-0">
+                    &bull;
+                  </span>
+                  <span className="text-ink/85 leading-relaxed">
+                    <span className="display text-ink" style={{ fontWeight: 500 }}>
+                      {w.name}
+                    </span>
+                    {" — "}
+                    {w.description}
+                  </span>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
+
         {d.localWord && (
           <section className="mt-6">
             <div className="bg-parchment-warm border border-brass/35 rounded-[3px] p-4 relative">

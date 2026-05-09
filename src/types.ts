@@ -20,6 +20,7 @@ export interface Destination {
   summary?: string;
   funFacts?: string[];
   thingsToDo?: string[];
+  wildlife?: Array<{ name: string; description: string }>;
   localWord?: { word: string; meaning: string; pronunciation?: string };
   images?: Array<{
     src: string;

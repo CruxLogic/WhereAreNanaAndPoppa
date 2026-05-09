@@ -14,6 +14,7 @@ interface Extract {
   summary?: string;
   funFacts?: string[];
   thingsToDo?: string[];
+  wildlife?: Destination["wildlife"];
   localWord?: Destination["localWord"];
   images?: ExtractImage[];
   links?: Destination["links"];
@@ -53,6 +54,7 @@ export function mergeExtracts(destinations: Destination[]): Destination[] {
       summary: extract.summary ?? dest.summary,
       funFacts: extract.funFacts ?? dest.funFacts,
       thingsToDo: extract.thingsToDo ?? dest.thingsToDo,
+      wildlife: extract.wildlife ?? dest.wildlife,
       localWord: extract.localWord ?? dest.localWord,
       images: extract.images
         ? extract.images.map((img) => ({

@@ -112,13 +112,23 @@ body {
   animation: marker-pop 520ms cubic-bezier(0.34, 1.56, 0.64, 1) backwards;
 }
 
-/* Today marker pulse */
+/* Today marker pulse (SVG variant — kept for any legacy use) */
 @keyframes today-pulse {
   0%, 100% { r: 6; opacity: 0.9; }
   50% { r: 14; opacity: 0; }
 }
 .today-pulse {
   animation: today-pulse 2.4s ease-out infinite;
+  transform-origin: center;
+}
+
+/* Today marker pulse for DOM markers (MapLibre) */
+@keyframes today-pulse-dom {
+  0%, 100% { transform: scale(1); opacity: 0.9; }
+  50% { transform: scale(2.4); opacity: 0; }
+}
+.today-pulse-dom {
+  animation: today-pulse-dom 2.4s ease-out infinite;
   transform-origin: center;
 }
 
@@ -152,6 +162,7 @@ body {
 @media (prefers-reduced-motion: reduce) {
   .marker-pop,
   .today-pulse,
+  .today-pulse-dom,
   .route-draw,
   .panel-in,
   .rise {

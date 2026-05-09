@@ -1,0 +1,174 @@
+{
+  "name": "Crown Princess",
+  "tagline": "Nearly 900 balconies. A three-storey Piazza. A whole lot of sea air.",
+  "summary": "Crown Princess is a 113,561-tonne floating town with a Riviera-style atrium, top-deck poolside cinema and almost a thousand balcony rooms. She sailed her first cruise in 2006 with Martha Stewart as her godmother, and across 19 decks carries up to 3,080 guests looked after by a crew of 1,200. Nana and Poppa are aboard for a 116-day voyage from 6 May 2026 to 29 August 2026.",
+  "voyage": {
+    "embarkDate": "2026-05-06",
+    "returnDate": "2026-08-29",
+    "totalDays": 116
+  },
+  "specs": [
+    { "label": "Guests", "value": "3,080" },
+    { "label": "Crew", "value": "1,200" },
+    { "label": "Tonnage", "value": "113,561" },
+    { "label": "Length", "value": "952 ft / 290 m" },
+    { "label": "Height", "value": "195 ft / 59 m" },
+    { "label": "Decks", "value": "19" },
+    { "label": "Cabins", "value": "1,547" },
+    { "label": "Maiden voyage", "value": "14 June 2006" },
+    { "label": "Christened by", "value": "Martha Stewart" },
+    { "label": "Flag", "value": "Bermuda" },
+    { "label": "MMSI / IMO", "value": "310500000 / 9293399" }
+  ],
+  "images": [
+    {
+      "src": "/images/ship/01-crown-princess-at-sea.jpg",
+      "alt": "Crown Princess at sea — the whole ship",
+      "credit": "Princess Cruises",
+      "sourceUrl": "https://www.princess.com/en-au/ships-and-experience/ships/kp-crown-princess"
+    },
+    {
+      "src": "/images/ship/02-piazza-show.jpg",
+      "alt": "A live performance in the three-storey Piazza atrium",
+      "credit": "Princess Cruises",
+      "sourceUrl": "https://www.princess.com/en-au/ships-and-experience/onboard-experience/entertainment"
+    },
+    {
+      "src": "/images/ship/03-theatre-show.jpg",
+      "alt": "A production show in the Princess Theater, performers on stage in fog",
+      "credit": "Princess Cruises",
+      "sourceUrl": "https://www.princess.com/en-au/ships-and-experience/onboard-experience/entertainment"
+    },
+    {
+      "src": "/images/ship/04-movies-under-stars.jpg",
+      "alt": "Movies Under the Stars on the top deck — popcorn and a giant screen",
+      "credit": "Princess Cruises",
+      "sourceUrl": "https://www.princess.com/en-au/ships-and-experience/onboard-experience/entertainment"
+    },
+    {
+      "src": "/images/ship/05-dance-floor.jpg",
+      "alt": "Guests on the dance floor with an instructor at night",
+      "credit": "Princess Cruises",
+      "sourceUrl": "https://www.princess.com/en-au/ships-and-experience/onboard-experience/activities"
+    },
+    {
+      "src": "/images/ship/06-magic-show.jpg",
+      "alt": "A magic show on board",
+      "credit": "Princess Cruises",
+      "sourceUrl": "https://www.princess.com/en-au/ships-and-experience/onboard-experience/entertainment"
+    },
+    {
+      "src": "/images/ship/07-mini-golf.jpg",
+      "alt": "Kids playing mini-golf on the top deck putting green",
+      "credit": "Princess Cruises",
+      "sourceUrl": "https://www.princess.com/en-au/ships-and-experience/onboard-experience/activities"
+    },
+    {
+      "src": "/images/ship/08-splash-zone.jpg",
+      "alt": "Family splash zone — pool and water play",
+      "credit": "Princess Cruises",
+      "sourceUrl": "https://www.princess.com/en-au/ships-and-experience/onboard-experience/kids-and-teens"
+    },
+    {
+      "src": "/images/ship/09-top-deck-ice-cream.jpg",
+      "alt": "Kids on the top-deck stairs eating ice-cream cones",
+      "credit": "Princess Cruises",
+      "sourceUrl": "https://www.princess.com/en-au/ships-and-experience/onboard-experience/activities"
+    },
+    {
+      "src": "/images/ship/10-sabatinis.jpg",
+      "alt": "Pasta course at Sabatini's Italian Trattoria",
+      "credit": "Princess Cruises",
+      "sourceUrl": "https://www.princess.com/en-au/ships-and-experience/onboard-experience"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "The Piazza",
+      "body": "A three-storey atrium at the heart of the ship — gourmet coffees, street performers, glass lifts, a spiral staircase and live music drifting up from below."
+    },
+    {
+      "title": "Movies Under the Stars",
+      "body": "Top-deck open-air cinema with loungers, fleece blankets and complimentary popcorn. Films, concerts and live sport on a giant LED screen."
+    },
+    {
+      "title": "The Sanctuary",
+      "body": "Adults-only top-deck retreat with signature cocktails, light meals and al-fresco massages, looked after by Serenity Stewards."
+    },
+    {
+      "title": "Lotus Spa",
+      "body": "Voted \"Best Spa on a Cruise Ship\" by Spafinder — facials, hot stone massages, an aromatherapy thermal suite and a full salon."
+    },
+    {
+      "title": "Princess Theater",
+      "body": "Lavish original musicals, magicians, comedians and feature films in a plush, unobstructed-sightline theater."
+    },
+    {
+      "title": "Top-deck pools",
+      "body": "Sparkling pools and hot tubs on the lido deck, perfect for sea-day lounging."
+    }
+  ],
+  "dining": [
+    { "name": "Main Dining Rooms", "note": "Traditional, Flexible or Walk-in dining with menus from the executive chefs." },
+    { "name": "Reserve Dining", "note": "Private area in the main dining room with expedited seating and chef's daily special." },
+    { "name": "International Cafe", "note": "Open 24/7 in the Piazza — pastries, salads, sandwiches and gourmet coffee." },
+    { "name": "Slice Pizzeria", "note": "Top-deck pizza, including the award-winning Neapolitan-style signature pie." },
+    { "name": "Coffee & Cones", "note": "Complimentary ice cream cones, espresso and tea on the top deck." },
+    { "name": "Salty Dog Grill", "note": "Handmade gourmet burgers in the fresh air." },
+    { "name": "Crown Grill", "note": "Premium steakhouse with carefully aged cuts and gourmet salts." },
+    { "name": "Sabatini's Italian Trattoria", "note": "Artisanal Italian dishes celebrating regional traditions." },
+    { "name": "Chef's Table", "note": "Multi-course tasting dinner hosted by the executive chef." },
+    { "name": "The Crab Shack", "note": "Lunchtime pop-up in the Horizon Court — clam chowder, popcorn shrimp and a steamer pot." },
+    { "name": "Wheelhouse Bar (Gastropub)", "note": "Pub favourites and the \"Best Burger at Sea\" — beer, whiskey, cocktails and live music." },
+    { "name": "Ultimate Balcony Dining", "note": "Multi-course meal served by waitstaff on your own balcony." },
+    { "name": "Afternoon Tea", "note": "Finger sandwiches, cakes and fine tea — a daily ritual." }
+  ],
+  "activities": [
+    "Princess Theater shows — original musicals, magic and comedy",
+    "Movies Under the Stars on the top deck",
+    "Casino — blackjack, Texas Hold'em, roulette and slots",
+    "Live music in Crooners, the Piazza and the piano bar",
+    "Club Fusion nightclub and Skywalkers Nightclub dance floor",
+    "Lotus Spa fitness centre — yoga, Pilates, TRX, spin",
+    "Champagne Art Auctions and gallery walks",
+    "Award-winning onboard shopping (Swarovski, Chanel, Estee Lauder, more)",
+    "Pools and hot tubs on the lido deck",
+    "Top-deck deck parties under the stars",
+    "Camp Discovery Youth Centers (ages 3-7 and 8-12)",
+    "Beach House teen lounge"
+  ],
+  "bars": [
+    { "name": "Crooners", "note": "Sinatra-era piano bar with signature martinis." },
+    { "name": "Wheelhouse Bar", "note": "Classic cocktails, beers and signature drinks." },
+    { "name": "Vines", "note": "USA TODAY-voted \"Best Wine Bar at Sea\" in the Piazza." },
+    { "name": "Good Spirits", "note": "Craft cocktails inspired by destinations on the itinerary." }
+  ],
+  "links": [
+    {
+      "label": "Crown Princess on princess.com",
+      "url": "https://www.princess.com/en-au/ships-and-experience/ships/kp-crown-princess",
+      "description": "Official ship page"
+    },
+    {
+      "label": "Deck plans",
+      "url": "https://www.princess.com/deckPlans.do?shipCode=KP",
+      "description": "Interactive deck-by-deck map"
+    },
+    {
+      "label": "Bridge cam",
+      "url": "https://www.princess.com/en-au/cruise-ship-webcams",
+      "description": "Live view from the bridge"
+    },
+    {
+      "label": "VesselFinder live page",
+      "url": "https://www.vesselfinder.com/vessels/details/9293399",
+      "description": "Detailed AIS history and specs"
+    },
+    {
+      "label": "Wikipedia — Crown Princess",
+      "url": "https://en.wikipedia.org/wiki/Crown_Princess_(ship)",
+      "description": "Background, history and trivia"
+    }
+  ],
+  "trackUrl": "https://www.cruisemapper.com/?imo=9293399"
+}
