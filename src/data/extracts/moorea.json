@@ -1,0 +1,85 @@
+{
+  "researchId": "moorea",
+  "name": "Moorea",
+  "country": "French Polynesia",
+  "summary": "Moorea is a heart-shaped volcanic island just a 30-minute ferry ride from Tahiti, with two huge twin bays carved into its north coast. Towering green peaks like Mount Rotui rise straight from the sea, and the warm lagoons are bursting with friendly stingrays, reef sharks and tropical fish. From August to October, humpback whales swim all the way from Antarctica to have their babies right here.",
+  "funFacts": [
+    "Seen from a plane, Moorea looks like a giant heart floating in the Pacific Ocean, made by an old volcano that collapsed about 1.5 million years ago.",
+    "The two huge bays, Cook's Bay and Opunohu Bay, are actually the inside of an ancient volcano crater, with Mount Rotui standing tall in the middle.",
+    "Every winter, humpback whales swim thousands of kilometres from icy Antarctica to Moorea's warm lagoons to give birth and teach their calves to swim.",
+    "At a place called the Lagoonarium, kids can stand in waist-deep water while smooth, friendly stingrays glide around their legs and small black-tip reef sharks zip past.",
+    "The name Moorea means 'yellow lizard' in Tahitian, from an old legend about a magical egg that hatched a bright yellow baby lizard."
+  ],
+  "thingsToDo": [
+    "Snorkel with stingrays and black-tip reef sharks at the Lagoonarium or Stingray World, where the lagoon is shallow enough that grown-ups can stand up.",
+    "Drive up to the Belvedere Lookout for an amazing view of both bays at once, with Mount Rotui rising like a giant green wall in the middle.",
+    "Hop on a humpback whale watching boat tour (best August through October) to spot mother whales and their playful calves blowing spouts.",
+    "Wander around Cook's Bay village or take a sailing trip across Opunohu Bay, looking up at jagged peaks that some say look like cathedral spires.",
+    "Stop at a juicy pineapple plantation and the Rotui factory to taste fresh tropical juices, jams and smoothies made from fruit grown right there.",
+    "Visit the Tiki Village Cultural Centre to watch Polynesian dancers, drummers and a fiery torch-spinning fire dance, and try a few hip-shaking moves yourself."
+  ],
+  "localWord": {
+    "word": "Ia ora na",
+    "meaning": "Hello / may you live well (Tahitian greeting used any time of day)",
+    "pronunciation": "ee-ah oh-RAH-nah"
+  },
+  "images": [
+    {
+      "filename": "moorea-aerial-twin-bays.jpg",
+      "alt": "Aerial view of Moorea's two heart-shaped bays surrounded by green volcanic peaks and turquoise sea.",
+      "credit": "Fanny98716",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moorea_-_Baies_de_Cook_et_de_Opunohu.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Moorea_-_Baies_de_Cook_et_de_Opunohu.jpg"
+    },
+    {
+      "filename": "moorea-belvedere-lookout.jpg",
+      "alt": "View from Belvedere Lookout showing Opunohu Bay and Cook's Bay with jungle peaks in between.",
+      "credit": "Michael R Perry",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Opunohu_Bay_and_Cook%27s_Bay_Seen_From_Belvedere_Lookout_in_Moorea_(6597138321).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Opunohu_Bay_and_Cook%27s_Bay_Seen_From_Belvedere_Lookout_in_Moorea_%286597138321%29.jpg"
+    },
+    {
+      "filename": "moorea-mt-tohiea.jpg",
+      "alt": "The tall jagged volcanic peak of Mount Tohiea rising above Moorea's green forest.",
+      "credit": "Balou46",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PF-Moorea-mt_tohiea.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/PF-Moorea-mt_tohiea.jpg"
+    },
+    {
+      "filename": "moorea-turquoise-lagoon.jpg",
+      "alt": "Bright turquoise lagoon water lapping a sandy Moorea shore with palm trees and blue sky.",
+      "credit": "Lesage Florie",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lagon_turquoise_de_Moorea,_Polyn%C3%A9sie_Fran%C3%A7aise.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Lagon_turquoise_de_Moorea%2C_Polyn%C3%A9sie_Fran%C3%A7aise.jpg"
+    },
+    {
+      "filename": "moorea-green-sea-turtle.jpg",
+      "alt": "A friendly green sea turtle gliding through the clear blue waters around Moorea.",
+      "credit": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Green_sea_turtle_(Chelonia_mydas)_Moorea.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Green_sea_turtle_%28Chelonia_mydas%29_Moorea.jpg"
+    }
+  ],
+  "links": [
+    { "url": "https://en.wikipedia.org/wiki/Mo%CA%BBorea", "label": "Moorea on Wikipedia", "description": "Big-picture facts about the island's volcano, bays, history and people." },
+    { "url": "https://www.britannica.com/place/Moorea", "label": "Moorea - Britannica", "description": "Short, clear encyclopedia entry about Moorea's geography and history." },
+    { "url": "https://tahititourisme.com/en-us/islands/moorea/", "label": "Moorea - Tahiti Tourisme (official)", "description": "Official French Polynesia travel site with photos, activities and culture info." },
+    { "url": "https://www.tahititourisme.com/activities/diving/maritime-species/whales/", "label": "Swimming with the Whales", "description": "Official guide to humpback whale season (July to November) in Moorea." },
+    { "url": "https://tikivillage.pf/en/", "label": "Tiki Village Cultural Centre", "description": "Polynesian dance, drumming and fire-dance shows kids love." },
+    { "url": "https://en.wikipedia.org/wiki/Cook%27s_Bay_(Moorea)", "label": "Cook's Bay on Wikipedia", "description": "Story of how Captain Cook's crew visited the bay in 1769 and 1777." }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mo%CA%BBorea",
+    "https://en.wikipedia.org/wiki/Opunohu_Bay",
+    "https://en.wikipedia.org/wiki/Cook%27s_Bay_(Moorea)",
+    "https://www.britannica.com/place/Moorea",
+    "https://www.tahititourisme.com/activities/diving/maritime-species/whales/",
+    "https://tikivillage.pf/en/"
+  ],
+  "researchedAt": "2026-05-09T14:43:00Z"
+}

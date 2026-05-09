@@ -1,0 +1,87 @@
+{
+  "researchId": "papeete",
+  "name": "Papeete (Tahiti)",
+  "country": "French Polynesia",
+  "summary": "Papeete is the lively capital of French Polynesia, sitting on Tahiti, the biggest island in this French Pacific territory where people speak both French and Tahitian. The town has the largest market in the South Pacific by day, and at night the waterfront fills with colorful Roulottes food trucks. All around rise green volcanic mountains, waterfalls and black-sand beaches.",
+  "funFacts": [
+    "Tahiti uses the CFP franc, a special currency just for France's Pacific islands, so euros and dollars don't work in Papeete shops.",
+    "French painter Paul Gauguin sailed here in 1891 to escape European life, and his bright Tahiti paintings now hang in famous museums worldwide.",
+    "The first Tahitians were brave Polynesian sailors who reached these islands from Asia over 2,000 years ago using only stars and ocean swells to navigate.",
+    "The 2024 Paris Olympics held its surfing competition at Teahupoo in Tahiti, almost 16,000 km from Paris, the farthest Olympic venue ever.",
+    "About 95% of the world's black pearls are grown in French Polynesia inside black-lipped oysters, with colors like pink, green, blue and silver."
+  ],
+  "thingsToDo": [
+    "Wander the bustling Marché de Papeete (Municipal Market), a whole city block packed with tropical fruit, vanilla, monoi soaps, wood carvings and colorful pareo cloths.",
+    "After dark stroll Place Vai'ete on the waterfront, where about a dozen Roulottes food trucks dish up poisson cru, crepes, pizza and noodles under fairy lights.",
+    "Drive to Point Venus to climb around the 1868 white lighthouse and dig toes into the black volcanic sand beach where Captain Cook watched Venus cross the Sun in 1769.",
+    "Hike the easy jungle path to the Three Waterfalls of Faarumai near Tiarei, where Vaimahuta tumbles 80 metres straight down into a shady forest pool.",
+    "Visit the Robert Wan Pearl Museum on Pomare Boulevard, the only museum in the world all about pearls, and meet the giant Tahitian black pearl on display.",
+    "Catch a traditional Ori Tahiti dance show, with hip-shaking Otea drums and graceful Aparima dancers who tell island stories using only their hands."
+  ],
+  "localWord": {
+    "word": "Ia ora na",
+    "meaning": "Hello / good day in Tahitian — a friendly all-day greeting",
+    "pronunciation": "yo-RAH-nah"
+  },
+  "images": [
+    {
+      "filename": "hero-tahiti-beach.jpg",
+      "alt": "A sunny Tahiti beach with palm trees leaning over a calm turquoise lagoon.",
+      "credit": "Olivier Dugornay (IFREMER)",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plage_de_Tahiti_(Ifremer_00773-88491).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Plage_de_Tahiti_%28Ifremer_00773-88491%29.jpg"
+    },
+    {
+      "filename": "marche-de-papeete-market.jpg",
+      "alt": "Inside the colourful Marché de Papeete market with stalls full of flowers and goods.",
+      "credit": "Saga70",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marché_de_Papeete.JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Marché_de_Papeete.JPG"
+    },
+    {
+      "filename": "point-venus-lighthouse.jpg",
+      "alt": "The white Point Venus lighthouse standing tall on a black-sand beach in Tahiti.",
+      "credit": "Matthew Dillon",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tahiti,_French_Polynesia_-_Point_Venus_Lighthouse_(48032601316).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Tahiti%2C_French_Polynesia_-_Point_Venus_Lighthouse_%2848032601316%29.jpg"
+    },
+    {
+      "filename": "teahupoo-wave.jpg",
+      "alt": "The famous huge blue Teahupoo wave curling over a reef in Tahiti.",
+      "credit": "Matthew Dillon",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tahiti,_French_Polynesia_-_Teahupo%27o_(48041216271).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Tahiti%2C_French_Polynesia_-_Teahupo%27o_%2848041216271%29.jpg"
+    },
+    {
+      "filename": "tahitian-dancer.jpg",
+      "alt": "A Tahitian dancer in a feathered headdress and grass skirt performing on stage.",
+      "credit": "Adana Dobranis / Auckland Libraries Heritage Collections",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tahitian_dancer,_Pasifika_Festival,_2015_(PASF-D-2015-056).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Tahitian_dancer%2C_Pasifika_Festival%2C_2015_%28PASF-D-2015-056%29.jpg"
+    }
+  ],
+  "links": [
+    { "url": "https://tahititourisme.com/", "label": "Tahiti Tourisme (official)", "description": "Official tourism site of The Islands of Tahiti with guides, maps and culture pages." },
+    { "url": "https://en.wikipedia.org/wiki/Papeete", "label": "Wikipedia: Papeete", "description": "Background on the capital city, its history, harbor and people." },
+    { "url": "https://kids.kiddle.co/Papeete", "label": "Kiddle: Papeete facts for kids", "description": "Simple kid-friendly summary of Papeete's geography and life." },
+    { "url": "https://www.britannica.com/place/Tahiti", "label": "Britannica: Tahiti", "description": "Encyclopedia entry on the island, its volcanoes and Polynesian culture." },
+    { "url": "https://www.olympics.com/en/news/paris-2024-olympic-surfing-venue-tahiti-facts", "label": "Olympics.com: Teahupo'o surfing facts", "description": "How Tahiti's giant reef wave hosted the 2024 Olympic surfing event." },
+    { "url": "https://www.robertwan.com/pearl-museum", "label": "Robert Wan Pearl Museum", "description": "Official site of Papeete's pearl museum, with stories of Tahiti's black pearls." }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Papeete",
+    "https://en.wikipedia.org/wiki/Tahiti",
+    "https://en.wikipedia.org/wiki/French_Polynesia",
+    "https://kids.kiddle.co/Papeete",
+    "https://www.britannica.com/place/Tahiti",
+    "https://tahititourisme.com/",
+    "https://en.wikipedia.org/wiki/Paul_Gauguin",
+    "https://en.wikipedia.org/wiki/'ote'a"
+  ],
+  "researchedAt": "2026-05-09T14:38:00Z"
+}

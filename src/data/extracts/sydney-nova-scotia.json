@@ -1,0 +1,86 @@
+{
+  "researchId": "sydney-nova-scotia",
+  "name": "Sydney",
+  "country": "Canada (Nova Scotia)",
+  "summary": "Welcome to Sydney on Cape Breton Island, Canada — not the famous one in Australia! This is a small, friendly Atlantic port where Celtic fiddle music drifts down the boardwalk and the world-famous Cabot Trail loops through wild highlands full of moose and bald eagles. The first thing you'll spot from the ship is a giant violin taller than a six-storey building.",
+  "funFacts": [
+    "The Big Fiddle on Sydney's boardwalk stands about 18 metres (60 feet) tall — the largest fiddle in the world, built in 2005 to honour Cape Breton music.",
+    "The Cabot Trail, a 298-kilometre loop around the island, is regularly named one of the most beautiful drives on Earth by National Geographic and Lonely Planet.",
+    "Cape Breton's people mix Mi'kmaq First Nations, Scottish Gaelic settlers, French Acadians and Black Loyalists — you can still hear Gaelic spoken in shops and schools.",
+    "Cape Breton Highlands National Park is one of the best places in Canada to spot wild moose, especially along the Skyline Trail at sunrise or sunset.",
+    "The Fortress of Louisbourg is the biggest historical reconstruction in North America — a whole 1740s French town where actors in costume bake bread and fire real cannons."
+  ],
+  "thingsToDo": [
+    "Pose for a silly photo under the Big Fiddle right beside the cruise pavilion — its strings are thicker than your arm and it sometimes plays Celtic tunes.",
+    "Take a half-day taxi or shore-excursion drive along part of the Cabot Trail into Cape Breton Highlands National Park — the full loop is too long for one port day.",
+    "Walk a section of the Skyline Trail boardwalk for ocean cliff views and a real chance of spotting moose, eagles or whales far below.",
+    "Step back nearly 300 years at the Fortress of Louisbourg, where costumed soldiers march, sheep wander the streets and you can taste 18th-century soldier's bread.",
+    "Visit Membertou Heritage Park near Sydney to learn Mi'kmaq stories, see a birch-bark canoe and wigwam, and try a round of the traditional game Waltes.",
+    "Listen to a live ceilidh (say 'kay-lee') — a music-and-dance party — somewhere along the boardwalk and try a few quick steps of Cape Breton step-dancing."
+  ],
+  "localWord": {
+    "word": "Kwe'",
+    "meaning": "Hello, in the Mi'kmaq language of Cape Breton's First Nations people",
+    "pronunciation": "kway"
+  },
+  "images": [
+    {
+      "filename": "hero-big-fiddle.jpg",
+      "alt": "A giant blue and brown fiddle sculpture stands tall on the Sydney waterfront beside the cruise pavilion.",
+      "credit": "Mykola Swarnyk",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sydney_NS_Fiddle.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Sydney_NS_Fiddle.jpg"
+    },
+    {
+      "filename": "sydney-harbour-cruise-ship.jpg",
+      "alt": "The huge Queen Mary 2 cruise ship visits Sydney Harbour on a calm autumn day.",
+      "credit": "Ken Heaton",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20161001_Sydney_Harbour_%26_Queen_Mary_1.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/20161001_Sydney_Harbour_%26_Queen_Mary_1.jpg"
+    },
+    {
+      "filename": "cabot-trail-coast.jpg",
+      "alt": "The winding Cabot Trail hugs steep green cliffs above the sparkling blue ocean.",
+      "credit": "WabbitWanderer",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Northwestern_shore_of_Cape_Breton_seen_from_Cabot_Trail.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Northwestern_shore_of_Cape_Breton_seen_from_Cabot_Trail.jpg"
+    },
+    {
+      "filename": "skyline-trail.jpg",
+      "alt": "A wooden boardwalk leads down a green headland toward the wide ocean on the famous Skyline Trail.",
+      "credit": "Panandy1961",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skyline_Trail.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Skyline_Trail.jpg"
+    },
+    {
+      "filename": "fortress-of-louisbourg.jpg",
+      "alt": "Stone walls and tall steeples of the historic French Fortress of Louisbourg under a bright blue sky.",
+      "credit": "Dennis Jarvis (archer10)",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fortress_Louisbourg_(35872742266).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Fortress_Louisbourg_%2835872742266%29.jpg"
+    }
+  ],
+  "links": [
+    { "url": "https://www.cbisland.com/", "label": "Destination Cape Breton (official)", "description": "Official tourism site with maps, events and family-friendly trip ideas across the island." },
+    { "url": "https://parks.canada.ca/lhn-nhs/ns/louisbourg", "label": "Fortress of Louisbourg (Parks Canada)", "description": "Plan your visit to the giant 1740s reconstructed French fortress — includes a kids' Club Parka activity booklet." },
+    { "url": "https://parks.canada.ca/pn-np/ns/cbreton", "label": "Cape Breton Highlands National Park", "description": "Trail maps, moose-safety tips and info about the park where the Cabot Trail twists through the highlands." },
+    { "url": "https://kids.britannica.com/students/assembly/view/280182", "label": "Britannica Kids: Cape Breton & Louisbourg", "description": "Easy-reading article for kids about Cape Breton Island and the Fortress of Louisbourg." },
+    { "url": "https://en.wikipedia.org/wiki/Cabot_Trail", "label": "Wikipedia: Cabot Trail", "description": "Background on the famous 298 km loop drive named one of the world's most scenic roads." },
+    { "url": "https://www.membertouheritagepark.com/", "label": "Membertou Heritage Park", "description": "Mi'kmaq cultural centre right next to Sydney with guided tours, drumming and traditional crafts." }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sydney,_Nova_Scotia",
+    "https://en.wikipedia.org/wiki/Cape_Breton_Island",
+    "https://en.wikipedia.org/wiki/Cabot_Trail",
+    "https://en.wikipedia.org/wiki/Fortress_of_Louisbourg",
+    "https://www.cbisland.com/the-big-fiddle/",
+    "https://parks.canada.ca/lhn-nhs/ns/louisbourg",
+    "https://www.membertouheritagepark.com/"
+  ],
+  "researchedAt": "2026-05-09T13:47:00Z"
+}

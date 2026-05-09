@@ -1,0 +1,84 @@
+{
+  "researchId": "easter-island",
+  "name": "Easter Island (Rapa Nui)",
+  "country": "Chile",
+  "summary": "Easter Island, called Rapa Nui by the Polynesian people who live there, is one of the loneliest islands on Earth, sitting in the Pacific Ocean thousands of kilometres from anywhere. It belongs to Chile and is famous for nearly 1,000 giant stone giants called moai, carved from volcanic rock hundreds of years ago. The triangle-shaped island was built by three sleeping volcanoes.",
+  "funFacts": [
+    "Easter Island is so remote that the nearest neighbours are Chile (about 3,500km away) and tiny Pitcairn Island (about 2,000km), making it one of the most isolated inhabited spots on Earth.",
+    "There are nearly 1,000 moai statues scattered across the island, and the heaviest one ever raised onto a platform tipped the scales at around 86 tonnes, heavier than a blue whale.",
+    "The biggest moai ever attempted, nicknamed El Gigante, is still lying in the quarry unfinished. If stood up it would tower around 21 metres tall, taller than a six-storey building.",
+    "Those famous 'Easter Island heads' actually have full bodies. They were buried up to the shoulders by centuries of dirt, and archaeologists have dug some out to reveal hidden arms and torsos.",
+    "The Rapa Nui people speak their own Polynesian language (related to Hawaiian, Maori and Tahitian), plus Spanish, because Chile is the country that governs the island today."
+  ],
+  "thingsToDo": [
+    "Visit Ahu Tongariki, the giant ceremonial platform where 15 enormous moai stand shoulder-to-shoulder facing inland; it is breathtaking right after sunrise.",
+    "Explore Rano Raraku, the volcanic crater quarry where the moai were carved, and spot nearly 400 half-finished giants still poking out of the grassy slopes.",
+    "Swim or paddle at Anakena Beach, a palm-fringed cove with white sand, turquoise water, and its own row of moai watching over the picnic spot.",
+    "Climb up to Orongo, a stone-hut village perched on the rim of the Rano Kau crater, famous for cliff-edge views and ancient birdman rock carvings.",
+    "Wander Hanga Roa town to grab empanadas, see fishermen at the harbour, and pop into the Father Sebastian Englert Anthropological Museum to learn moai secrets.",
+    "Drop by Ahu Tahai near town, the easiest moai to reach on foot, including the only restored statue with white coral and obsidian eyes staring back at you."
+  ],
+  "localWord": {
+    "word": "Iorana",
+    "meaning": "hello and goodbye in Rapa Nui"
+  },
+  "images": [
+    {
+      "filename": "hero-ahu-tongariki.jpg",
+      "alt": "Fifteen giant stone moai statues stand in a row at Ahu Tongariki as the sun rises behind them.",
+      "credit": "Andreschile79",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ahu_Tongariki_al_amanecer.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ahu_Tongariki_al_amanecer.jpg"
+    },
+    {
+      "filename": "rano-raraku-quarry.jpg",
+      "alt": "Huge moai heads poke up out of the grassy hillside at the Rano Raraku quarry where the statues were carved.",
+      "credit": "Dalivor Zapata",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moais_enterrado_en_ladera_de_Rano_Raraku.JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Moais_enterrado_en_ladera_de_Rano_Raraku.JPG"
+    },
+    {
+      "filename": "anakena-beach-moai.jpg",
+      "alt": "Stone moai stand near palm trees on the white sand of Anakena Beach with blue ocean in the background.",
+      "credit": "Joe Ross",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anakena_Moai_-_Rapa_Nui_-_Easter_Island_-_Isla_de_Pasqua.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Anakena_Moai_-_Rapa_Nui_-_Easter_Island_-_Isla_de_Pasqua.jpg"
+    },
+    {
+      "filename": "rano-kau-crater.jpg",
+      "alt": "A huge round volcano crater with a green lake inside it sits next to the deep blue Pacific Ocean.",
+      "credit": "Alanbritom",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crater_Rano_Kau_-_Flickr_-_Alanbritom.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Crater_Rano_Kau_-_Flickr_-_Alanbritom.jpg"
+    },
+    {
+      "filename": "ahu-ko-te-riku-moai-eyes.jpg",
+      "alt": "A single tall moai statue wearing a red stone topknot stares out with bright white coral eyes.",
+      "credit": "Chris malebran",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moai_Ahu_Ko_Te_Riku.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Moai_Ahu_Ko_Te_Riku.jpg"
+    }
+  ],
+  "links": [
+    { "url": "https://en.wikipedia.org/wiki/Easter_Island", "label": "Wikipedia: Easter Island", "description": "Big overview of the island's geography, people, history and the moai." },
+    { "url": "https://en.wikipedia.org/wiki/Moai", "label": "Wikipedia: Moai", "description": "Everything about the giant statues, including how they were carved and moved." },
+    { "url": "https://whc.unesco.org/en/list/715/", "label": "UNESCO: Rapa Nui National Park", "description": "Why the whole archaeological park is a World Heritage Site." },
+    { "url": "https://www.chile.travel/en/destination/easter-island/", "label": "Chile Travel: Easter Island", "description": "Chile's official tourism site with photos and visitor tips." },
+    { "url": "https://imaginarapanui.com/en/", "label": "Imagina Rapa Nui", "description": "Local guide to Rapa Nui culture, language and main sights." },
+    { "url": "https://www.easterisland.travel/", "label": "EasterIsland.travel", "description": "Friendly guide with maps, history and things to do for visitors." }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Easter_Island",
+    "https://en.wikipedia.org/wiki/Moai",
+    "https://whc.unesco.org/en/list/715/",
+    "https://www.chile.travel/en/destination/easter-island/",
+    "https://imaginarapanui.com/en/rapa-nui-culture/rapa-nui-language/",
+    "https://www.easterisland.travel/"
+  ],
+  "researchedAt": "2026-05-09T14:29:00Z"
+}

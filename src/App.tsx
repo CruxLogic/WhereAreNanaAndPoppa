@@ -19,12 +19,18 @@ function App() {
   const sortedTrip = useMemo(() => buildSortedTrip(destinations), []);
   const status = useMemo(() => getTripStatus(sortedTrip, new Date()), [sortedTrip]);
 
-  const selected = selectedId
-    ? sortedTrip.byId.get(selectedId)?.dest ?? null
-    : null;
-  const selectedDay = selectedId
-    ? sortedTrip.byId.get(selectedId)?.dayOfTrip ?? null
-    : null;
+  const selectedEntry = selectedId ? sortedTrip.byId.get(selectedId) ?? null : null;
+  const selected = selectedEntry?.dest ?? null;
+  const selectedDay = selectedEntry?.dayOfTrip ?? null;
+  const selectedIndex = selectedEntry?.index ?? null;
+  const prevId =
+    selectedIndex != null && selectedIndex > 0
+      ? sortedTrip.ports[selectedIndex - 1].id
+      : null;
+  const nextId =
+    selectedIndex != null && selectedIndex < sortedTrip.ports.length - 1
+      ? sortedTrip.ports[selectedIndex + 1].id
+      : null;
 
   return (
     <div className="dawn-sky relative h-full w-full overflow-hidden">
@@ -45,6 +51,9 @@ function App() {
       <DestinationPanel
         destination={selected}
         dayOfTrip={selectedDay}
+        prevId={prevId}
+        nextId={nextId}
+        onSelect={setSelectedId}
         onClose={() => setSelectedId(null)}
       />
     </div>

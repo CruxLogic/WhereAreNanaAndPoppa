@@ -11,6 +11,18 @@ interface GlobeProps {
   onSelect: (id: string | null) => void;
 }
 
+interface ShipPosition {
+  lat: number;
+  lon: number;
+  speedKn: number | null;
+  courseDeg: number | null;
+  headingDeg: number | null;
+  timestamp: string;
+  name: string;
+  mmsi: number;
+  trackUrl: string;
+}
+
 const ARC_SAMPLES = 56;
 
 const DEG = Math.PI / 180;
@@ -52,6 +64,21 @@ export function Globe({ trip, status, selectedId, onSelect }: GlobeProps) {
   const pointersRef = useRef<Map<number, { x: number; y: number }>>(new Map());
   const pinchStartRef = useRef<{ distance: number; zoom: number } | null>(null);
   const rafScheduled = useRef(false);
+  const [shipPos, setShipPos] = useState<ShipPosition | null>(null);
+
+  useEffect(() => {
+    let cancelled = false;
+    fetch(`${import.meta.env.BASE_URL}ship-position.json`, { cache: "no-store" })
+      .then((r) => (r.ok ? r.json() : null))
+      .then((data: ShipPosition | null) => {
+        if (cancelled || !data || typeof data.lat !== "number") return;
+        setShipPos(data);
+      })
+      .catch(() => {});
+    return () => {
+      cancelled = true;
+    };
+  }, []);
 
   useEffect(() => {
     const el = containerRef.current;
@@ -296,14 +323,30 @@ export function Globe({ trip, status, selectedId, onSelect }: GlobeProps) {
     };
   });
 
-  // Today position (if at sea, project the interpolated coord)
+  // Today position — prefer real AIS data, fall back to scheduled interpolation
   const todayProj = (() => {
+    if (shipPos) {
+      const cosc = visibilityCosine(shipPos.lon, shipPos.lat, rotation);
+      const p = projection([shipPos.lon, shipPos.lat]);
+      if (!p || cosc < -0.04) return null;
+      return {
+        x: p[0],
+        y: p[1],
+        opacity: Math.min(1, Math.max(0, (cosc + 0.04) / 0.18)),
+        live: true,
+      };
+    }
     if (status.phase === "at-sea") {
       const [lat, lng] = status.currentCoord;
       const cosc = visibilityCosine(lng, lat, rotation);
       const p = projection([lng, lat]);
       if (!p || cosc < -0.04) return null;
-      return { x: p[0], y: p[1], opacity: Math.min(1, Math.max(0, (cosc + 0.04) / 0.18)) };
+      return {
+        x: p[0],
+        y: p[1],
+        opacity: Math.min(1, Math.max(0, (cosc + 0.04) / 0.18)),
+        live: false,
+      };
     }
     return null;
   })();
@@ -507,37 +550,80 @@ export function Globe({ trip, status, selectedId, onSelect }: GlobeProps) {
                     {day}
                   </text>
                 )}
-                {isSelected && (
-                  <text
-                    y={-r - 8}
-                    textAnchor="middle"
-                    fontSize={13}
-                    fontFamily="Newsreader"
-                    fontWeight={600}
-                    fill="#1B2A4E"
-                    pointerEvents="none"
-                  >
-                    <tspan
-                      style={{
-                        paintOrder: "stroke",
-                        stroke: "rgba(245,235,216,0.85)",
-                        strokeWidth: 4,
-                      }}
-                    >
-                      {m.dest.name}
-                    </tspan>
-                  </text>
-                )}
               </g>
             );
           })}
         </g>
 
-        {/* Today position pulse */}
+        {/* Selected marker labels — painted last so they sit above all other pins */}
+        {(() => {
+          const sel = markers.find((m) => m && m.visible && m.dest.id === selectedId);
+          if (!sel) return null;
+          const r = sel.dest.stopType === "homePort" ? 11 : 11;
+          return (
+            <g transform={`translate(${sel.x} ${sel.y})`} opacity={sel.opacity} pointerEvents="none">
+              <text
+                y={-r - 22}
+                textAnchor="middle"
+                fontSize={13}
+                fontFamily="Newsreader"
+                fontWeight={600}
+                fill="#1B2A4E"
+              >
+                <tspan
+                  style={{
+                    paintOrder: "stroke",
+                    stroke: "rgba(245,235,216,0.85)",
+                    strokeWidth: 4,
+                  }}
+                >
+                  {sel.dest.name}
+                </tspan>
+              </text>
+              <text
+                y={-r - 8}
+                textAnchor="middle"
+                fontSize={11}
+                fontFamily="Newsreader"
+                fontStyle="italic"
+                fill="#1B2A4E"
+              >
+                <tspan
+                  style={{
+                    paintOrder: "stroke",
+                    stroke: "rgba(245,235,216,0.85)",
+                    strokeWidth: 4,
+                  }}
+                >
+                  ({sel.dest.country})
+                </tspan>
+              </text>
+            </g>
+          );
+        })()}
+
+        {/* Today position pulse — clickable when we have live AIS data */}
         {todayProj && (
-          <g transform={`translate(${todayProj.x} ${todayProj.y})`} opacity={todayProj.opacity} pointerEvents="none">
+          <g
+            transform={`translate(${todayProj.x} ${todayProj.y})`}
+            opacity={todayProj.opacity}
+            style={{ cursor: todayProj.live && shipPos ? "pointer" : "default" }}
+            onPointerDown={(e) => e.stopPropagation()}
+            onClick={(e) => {
+              if (!todayProj.live || !shipPos) return;
+              e.stopPropagation();
+              window.open(shipPos.trackUrl, "_blank", "noopener,noreferrer");
+            }}
+          >
             <circle r={6} fill="#C4452F" stroke="#F5EBD8" strokeWidth={1.4} filter="url(#seal-shadow)" />
-            <circle r={6} fill="none" stroke="#C4452F" className="today-pulse" />
+            <circle r={6} fill="none" stroke="#C4452F" className="today-pulse" pointerEvents="none" />
+            {todayProj.live && shipPos && (
+              <title>
+                {shipPos.name} — {shipPos.lat.toFixed(3)}, {shipPos.lon.toFixed(3)}
+                {shipPos.speedKn != null ? ` — ${shipPos.speedKn.toFixed(1)} kn` : ""}
+                {"\n"}Click to open live track
+              </title>
+            )}
           </g>
         )}
       </svg>

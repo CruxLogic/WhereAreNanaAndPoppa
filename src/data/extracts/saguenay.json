@@ -1,0 +1,86 @@
+{
+  "researchId": "saguenay",
+  "name": "Saguenay",
+  "country": "Canada (Quebec)",
+  "summary": "Saguenay is a French-speaking Canadian town tucked beside a giant fjord carved by Ice Age glaciers. White beluga whales swim in the cold water year-round, and a tall white statue watches over the cliffs. Locals call themselves Bleuets because the wild blueberries here grow huge.",
+  "funFacts": [
+    "The Saguenay Fjord stretches about 105 kilometres long and is one of the rare fjords ships can sail deep into right in North America.",
+    "Beluga whales are completely white and chatty, and Saguenay is the only place in Quebec where they live all year, even under winter ice.",
+    "A 7.5-metre wooden statue called Notre-Dame du Saguenay was hauled up Cap Trinité cliff in 1881 after a merchant survived falling through river ice.",
+    "Locals proudly call themselves Bleuets, meaning blueberries, because wild blueberries grow so plump here that one regional pie uses over 120 pounds of fruit.",
+    "The fjord was scooped out by huge glaciers during the last Ice Age, ending around 10,000 years ago, leaving cliffs that drop straight into salty seawater."
+  ],
+  "thingsToDo": [
+    "Cruise to Cap Trinité on a fjord boat to spot the white Notre-Dame statue perched 180 metres above the water on a rocky terrace.",
+    "Watch the famous cruise welcome ceremony at La Baie pier, where costumed locals, music, and giant projections greet your ship as it docks.",
+    "Visit La Pulperie de Chicoutimi, a riverside museum built inside a real 1896 pulp mill with twelve interactive stops about regional history.",
+    "Drive to Tadoussac and take a small zodiac boat into the marine park to look for beluga whales, minkes, and sometimes blue whales.",
+    "Explore the Fjord Museum in La Baie, where a giant aquarium and touch pool let you meet sturgeon and other fish from the Saguenay.",
+    "Taste fresh blueberry pie or chocolate-covered Bleuets in a Saguenay shop, and try traditional poutine and tourtière from a local bakery."
+  ],
+  "localWord": {
+    "word": "Bleuet",
+    "meaning": "Blueberry, and also the proud nickname locals from Saguenay-Lac-Saint-Jean call themselves",
+    "pronunciation": "bluh-AY"
+  },
+  "images": [
+    {
+      "filename": "hero-saguenay-fjord.jpg",
+      "alt": "A sweeping view over the deep blue waters and forested cliffs of the Saguenay Fjord.",
+      "credit": "pgmoisan",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vue_vers_le_Fjord_-_panoramio.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Vue_vers_le_Fjord_-_panoramio.jpg"
+    },
+    {
+      "filename": "cap-trinite-notre-dame-du-saguenay.jpg",
+      "alt": "The white Notre-Dame du Saguenay statue perched high on the towering Cap Trinité cliff above the fjord.",
+      "credit": "Laurent Belanger",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cap_Trinit%C3%A9_et_Notre-Dame-du-Saguenay_(1).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Cap_Trinit%C3%A9_et_Notre-Dame-du-Saguenay_%281%29.jpg"
+    },
+    {
+      "filename": "beluga-whale-and-calf.jpg",
+      "alt": "A friendly white beluga whale swims beside her little calf in the St. Lawrence near the Saguenay.",
+      "credit": "Saucoin",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._Lawrence_beluga_and_calf.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/St._Lawrence_beluga_and_calf.jpg"
+    },
+    {
+      "filename": "tadoussac-village-panorama.jpg",
+      "alt": "A pretty panorama of Tadoussac village with its red-roofed buildings beside the sparkling bay.",
+      "credit": "Selbymay",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tadoussac_-_Panorama_01.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Tadoussac_-_Panorama_01.jpg"
+    },
+    {
+      "filename": "saguenay-city-view.jpg",
+      "alt": "A wide view across the city of Saguenay where the river winds past colourful neighbourhoods and bridges.",
+      "credit": "WilliamPl316",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saguenay_2018.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Saguenay_2018.jpg"
+    }
+  ],
+  "links": [
+    { "url": "https://en.wikipedia.org/wiki/Saguenay_Fjord_National_Park", "label": "Saguenay Fjord National Park (Wikipedia)", "description": "Background on the 105 km fjord, its glacier history, and the wildlife living along its cliffs." },
+    { "url": "https://en.wikipedia.org/wiki/Statue_of_Notre-Dame-du-Saguenay", "label": "Statue of Notre-Dame-du-Saguenay (Wikipedia)", "description": "The story of the 1881 wooden statue commissioned after a merchant survived a fall through river ice." },
+    { "url": "https://parks.canada.ca/amnc-nmca/qc/saguenay/activ/observation-watching", "label": "Whale watching - Saguenay-St. Lawrence Marine Park", "description": "Official Parks Canada guide for spotting belugas and other whales near Tadoussac." },
+    { "url": "https://www.pulperie.com/en/", "label": "La Pulperie de Chicoutimi", "description": "Official site of the historic pulp mill museum with kid-friendly interactive exhibits." },
+    { "url": "https://www.portsaguenay.ca/en/page/cruises/", "label": "Port of Saguenay - Cruises", "description": "Official cruise port info for La Baie/Grande-Anse, including the famous welcome ceremony." },
+    { "url": "https://saguenaylacsaintjean.ca/en/magazines/geography-le-fjord-one-of-a-kind", "label": "Tourisme Saguenay-Lac-Saint-Jean - The Fjord", "description": "Regional tourism overview of the fjord, blueberry country, and family attractions." }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saguenay_Fjord_National_Park",
+    "https://en.wikipedia.org/wiki/Statue_of_Notre-Dame-du-Saguenay",
+    "https://en.wikipedia.org/wiki/Cap_Trinit%C3%A9",
+    "https://parks.canada.ca/amnc-nmca/qc/saguenay/activ/observation-watching",
+    "https://www.pulperie.com/en/",
+    "https://www.portsaguenay.ca/en/page/cruises/",
+    "https://www.thecanadianencyclopedia.ca/en/article/fjord-du-saguenay"
+  ],
+  "researchedAt": "2026-05-09T13:37:00Z"
+}

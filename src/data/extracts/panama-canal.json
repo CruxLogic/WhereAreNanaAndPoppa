@@ -1,0 +1,85 @@
+{
+  "researchId": "panama-canal",
+  "name": "Panama Canal",
+  "country": "Panama",
+  "summary": "The Panama Canal is one of the world's biggest engineering wonders — a 51-mile shortcut that lets your ship sail from the Atlantic Ocean to the Pacific Ocean in about 10 hours. Giant locks lift the whole ship 26 metres up into a jungle lake, then lower it down the other side. Watch carefully: the trees on the banks hide howler monkeys, sloths, and even crocodiles!",
+  "funFacts": [
+    "Without the canal, ships have to sail all the way around South America's Cape Horn — that's about 13,000 km extra, with stormy seas and icebergs. The canal is a massive shortcut.",
+    "The canal opened in 1914 after more than 30 years of digging, sweating and setbacks. About 56,000 people worked on the American build — it was one of the hardest jobs ever attempted.",
+    "Your ship is lifted 26 metres up (as high as an 8-storey building) using only gravity and water — no pumps! Each lock fills with millions of litres flowing down from Gatun Lake.",
+    "Gatun Lake, the giant lake your ship sails across, is artificial — humans made it in 1913 by damming a river. When it was finished it was the biggest human-made lake on Earth.",
+    "In 2016 huge new locks opened — Agua Clara and Cocoli — built for enormous 'Neopanamax' ships. Their gates slide sideways like sliding doors instead of swinging open."
+  ],
+  "thingsToDo": [
+    "Get up early (around 6am) to watch your ship enter the Agua Clara Locks on the Atlantic side — see the sliding gates close and millions of litres of water lift you up.",
+    "Sail across Gatun Lake and grab binoculars: scan the jungle islands like Barro Colorado for howler monkeys, sloths, toucans, iguanas and even crocodiles in the water.",
+    "Squeeze through the Culebra Cut — the canal's narrowest section, carved straight through a mountain — and pass under the tall, white Centennial Bridge.",
+    "Watch your ship step down through the Pedro Miguel and Cocoli Locks on the Pacific side, dropping back to ocean level one giant water-elevator at a time.",
+    "Listen for ship horns and tugboats: little tugs guide your big ship through the new locks. Wave at the workers — they often wave back!",
+    "After sunset, look out for the lit-up Bridge of the Americas and the Panama City skyline glittering on the Pacific side as you finish the transit around 6pm."
+  ],
+  "localWord": {
+    "word": "Que xopa",
+    "meaning": "Panamanian slang for 'What's up?' — a friendly hello between kids and friends",
+    "pronunciation": "kay SHO-pah"
+  },
+  "images": [
+    {
+      "filename": "hero-ship-miraflores-locks.jpg",
+      "alt": "A huge container ship squeezes through the narrow Miraflores Locks on the Panama Canal.",
+      "credit": "Adam Jones",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Container_Ship_Enters_Miraflores_Locks_-_Panama_Canal.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Container_Ship_Enters_Miraflores_Locks_-_Panama_Canal.jpg"
+    },
+    {
+      "filename": "agua-clara-neopanamax-locks.jpg",
+      "alt": "A giant NeoPanamax ship rises inside the brand-new Agua Clara Locks built in 2016.",
+      "credit": "Mario Roberto Durán Ortiz (Mariordo)",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NeoPanamax_Ship_Panorama_Agua_Clara_Locks_09_2019_0940.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/NeoPanamax_Ship_Panorama_Agua_Clara_Locks_09_2019_0940.jpg"
+    },
+    {
+      "filename": "centennial-bridge-gold-hill.jpg",
+      "alt": "The tall white Centennial Bridge soars over the canal beside jungle-covered Gold Hill.",
+      "credit": "Jean-Philippe Boulet (Phil13)",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gold_Hill_and_Centennial_Bridge.JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Gold_Hill_and_Centennial_Bridge.JPG"
+    },
+    {
+      "filename": "gatun-locks-mule-locomotives.jpg",
+      "alt": "Little train engines called mules pull a big ship through the Gatun Locks.",
+      "credit": "DeVerm",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gatun_locks_showing_the_%22mule%22_locomotives_at_work.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Gatun_locks_showing_the_%22mule%22_locomotives_at_work.jpg"
+    },
+    {
+      "filename": "culebra-cut-jungle-river.jpg",
+      "alt": "The canal winds through steep jungle hills at the famous Culebra Cut near the Chagres River.",
+      "credit": "Sandra Cohen-Rose and Colin Rose",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gaillard_Cut_and_Chagres_River_(4212948901).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Gaillard_Cut_and_Chagres_River_%284212948901%29.jpg"
+    }
+  ],
+  "links": [
+    { "url": "https://pancanal.com/en/", "label": "Panama Canal Authority (official)", "description": "The official site of the people who run the canal — live ship trackers, history and photos." },
+    { "url": "https://en.wikipedia.org/wiki/Panama_Canal", "label": "Panama Canal on Wikipedia", "description": "A full overview of how the canal was built, how it works, and the 2016 expansion." },
+    { "url": "https://kids.britannica.com/kids/article/Panama-Canal/353729", "label": "Britannica Kids: Panama Canal", "description": "An easy-to-read article written for kids about the canal's history and locks." },
+    { "url": "https://stri.si.edu/facility/barro-colorado", "label": "Smithsonian: Barro Colorado Island", "description": "About the famous jungle research island in Gatun Lake where scientists study monkeys and sloths." },
+    { "url": "https://en.wikipedia.org/wiki/Panama_Canal_locks", "label": "How the locks work (Wikipedia)", "description": "Diagrams and details of the gravity-fed water system that lifts ships 26 metres up." },
+    { "url": "https://whc.unesco.org/en/list/790/", "label": "UNESCO: Fortifications on the Caribbean Side", "description": "Old Spanish forts near the canal's Atlantic entrance — a UNESCO World Heritage Site." }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Panama_Canal",
+    "https://en.wikipedia.org/wiki/Panama_Canal_locks",
+    "https://en.wikipedia.org/wiki/Barro_Colorado_Island",
+    "https://www.britannica.com/topic/Panama-Canal",
+    "https://stri.si.edu/facility/barro-colorado",
+    "https://pancanal.com/en/"
+  ],
+  "researchedAt": "2026-05-09T14:09:00Z"
+}

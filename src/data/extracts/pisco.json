@@ -1,0 +1,85 @@
+{
+  "researchId": "pisco",
+  "name": "Pisco (General San Martín)",
+  "country": "Peru",
+  "summary": "Pisco sits on Peru's sun-baked Pacific desert, where giant orange sand dunes meet a cold blue ocean full of wildlife. From the port you can zoom by speedboat to the Ballestas Islands to meet barking sea lions, Humboldt penguins and dolphins, walk along Paracas's red-sand beach, or fly over the giant mystery drawings of the Nazca Lines. The town gave its name to pisco, Peru's famous grape brandy.",
+  "funFacts": [
+    "The Ballestas Islands are nicknamed the Poor Man's Galapagos because thousands of sea lions, penguins, dolphins and noisy seabirds pack onto these tiny rocks just offshore.",
+    "On a hillside above the sea, someone carved a giant 170-metre cactus-shaped drawing called the Candelabro about 2,200 years ago, and nobody knows who made it or why.",
+    "The Nazca Lines are huge animal pictures, including a 93-metre hummingbird and a spider, scratched into the desert 1,500 to 2,500 years ago and only properly visible from a plane.",
+    "Real Humboldt penguins live here all year, named after a German explorer who studied the icy ocean current that brings them fish even in this hot desert.",
+    "The town's famous drink, pisco, is a clear brandy made by squishing and distilling grapes, and Pisco actually means 'bird' in the ancient Quechua language."
+  ],
+  "thingsToDo": [
+    "Take a speedboat from Paracas harbour out to the Ballestas Islands to spot sea lions, Humboldt penguins, pelicans and the giant Candelabro geoglyph carved into a cliff.",
+    "Tour Paracas National Reserve by van to see Playa Roja's red sand, dramatic desert cliffs, the Cathedral rock viewpoint and flamingos in the bay.",
+    "Splurge on a tiny-plane flight over the Nazca Lines to look down at the hummingbird, monkey and spider drawings (about an hour each way, very pricey).",
+    "Wander Pisco town's rebuilt colonial centre and the Plaza de Armas, learning how locals recovered after the huge 2007 earthquake.",
+    "Have lunch on the boardwalk at El Chaco beach in Paracas, trying fresh ceviche or jalea while pelicans dive for fish nearby.",
+    "Ask grandparents to taste a pisco sour, Peru's national cocktail made from the grape brandy named after this very town (kids get chicha morada, a sweet purple corn drink)."
+  ],
+  "localWord": {
+    "word": "¡Hola!",
+    "meaning": "Hello in Spanish",
+    "pronunciation": "OH-lah"
+  },
+  "images": [
+    {
+      "filename": "hero-ballestas-islands.jpg",
+      "alt": "Rocky Ballestas Islands rising out of the Pacific Ocean off the coast of Paracas, Peru.",
+      "credit": "Mattias Hill (Mattias811)",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Islas_Ballestas_Paracas.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Islas_Ballestas_Paracas.jpg"
+    },
+    {
+      "filename": "ballestas-sea-lions-wildlife.jpg",
+      "alt": "Sea lions and seabirds resting on the rocks of the Ballestas Islands in Peru.",
+      "credit": "Jpschaaf",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wildlife_on_ballestas_islands.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Wildlife_on_ballestas_islands.jpg"
+    },
+    {
+      "filename": "paracas-candelabra-geoglyph.jpg",
+      "alt": "The giant Candelabra geoglyph carved into a sandy hillside on the Paracas Peninsula.",
+      "credit": "Bruno Girin",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Candelabro_de_Paracas.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Candelabro_de_Paracas.jpg"
+    },
+    {
+      "filename": "nazca-lines-hummingbird.jpg",
+      "alt": "Aerial view of the famous Nazca Lines hummingbird drawn in the Peruvian desert.",
+      "credit": "Unukorno",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nazca_Lines_Hummingbird.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Nazca_Lines_Hummingbird.jpg"
+    },
+    {
+      "filename": "paracas-playa-roja-red-beach.jpg",
+      "alt": "The bright red sand of Playa Roja meeting blue ocean waves in Paracas National Reserve.",
+      "credit": "Charlesdarling",
+      "license": "CC0 1.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Playa_Roja_in_Paracas,_Peru.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Playa_Roja_in_Paracas%2C_Peru.jpg"
+    }
+  ],
+  "links": [
+    { "url": "https://en.wikipedia.org/wiki/Ballestas_Islands", "label": "Ballestas Islands (Wikipedia)", "description": "Overview of the wildlife-packed islands and how the boat tours work." },
+    { "url": "https://en.wikipedia.org/wiki/Paracas_National_Reserve", "label": "Paracas National Reserve (Wikipedia)", "description": "Facts about the desert-meets-ocean reserve, Playa Roja and its animals." },
+    { "url": "https://whc.unesco.org/en/list/700/", "label": "Nazca Lines on UNESCO", "description": "Official UNESCO World Heritage page about the giant desert drawings." },
+    { "url": "https://en.wikipedia.org/wiki/Paracas_Candelabra", "label": "Paracas Candelabra (Wikipedia)", "description": "The mysterious 170-metre hillside geoglyph you see from the boat." },
+    { "url": "https://www.peru.travel/en/attractions/paracas-national-reserve", "label": "Peru.travel: Paracas", "description": "Peru's official tourism site with Paracas trip ideas." },
+    { "url": "https://kids.britannica.com/kids/article/Nazca-Lines/353376", "label": "Britannica Kids: Nazca Lines", "description": "Kid-friendly explainer of the famous mystery drawings." }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ballestas_Islands",
+    "https://en.wikipedia.org/wiki/Paracas_National_Reserve",
+    "https://en.wikipedia.org/wiki/Nazca_Lines",
+    "https://en.wikipedia.org/wiki/Paracas_Candelabra",
+    "https://en.wikipedia.org/wiki/Pisco,_Peru",
+    "https://en.wikipedia.org/wiki/Humboldt_penguin"
+  ],
+  "researchedAt": "2026-05-09T14:24:00Z"
+}

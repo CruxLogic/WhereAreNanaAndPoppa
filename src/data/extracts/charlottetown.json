@@ -1,0 +1,86 @@
+{
+  "researchId": "charlottetown",
+  "name": "Charlottetown",
+  "country": "Canada (PEI)",
+  "summary": "Charlottetown is the capital of Prince Edward Island, Canada's tiniest province, and the place where Canada was born at a famous meeting in 1864. It's the home of red dirt roads, warm sandy beaches, fresh lobster, and the storybook world of Anne of Green Gables.",
+  "funFacts": [
+    "Canada itself was first dreamed up in Charlottetown in 1864, when leaders met to talk about joining their colonies into one big country.",
+    "The novel Anne of Green Gables was written by Lucy Maud Montgomery, who grew up in PEI; the book has been translated into more than 36 languages.",
+    "PEI's beaches and dirt roads glow rust-red because the soil and sandstone are packed with iron oxide, basically the same stuff as rust.",
+    "The Confederation Bridge stretches 12.9 kilometres and is the world's longest bridge built across waters that freeze solid every winter.",
+    "Prince Edward Island is Canada's smallest province, so small you can drive across it in just a few hours, yet it has its own cute licence plates."
+  ],
+  "thingsToDo": [
+    "Walk the grounds of Province House National Historic Site, where Canada's founding meeting happened in 1864, then peek at the Confederation Centre next door.",
+    "Catch the Anne of Green Gables musical at the Confederation Centre of the Arts, Canada's longest-running show, perfect for young readers.",
+    "Take a 35-minute drive to Cavendish to tour Green Gables Heritage Place, the farmhouse that inspired the famous redhead's adventures.",
+    "Splash on Cavendish or Brackley Beach to feel warm Atlantic water and squish your toes into PEI's bright red sand under sandstone cliffs.",
+    "Stroll Victoria Row, a car-free brick street with street musicians, ice cream, and patios, then head to Peake's Quay boardwalk for harbour views.",
+    "Order fresh PEI lobster, mussels, or a lobster roll at a waterfront restaurant; the island is one of Canada's biggest lobster-fishing places."
+  ],
+  "localWord": {
+    "word": "Kwe'",
+    "meaning": "Hello or greetings in Mi'kmaq, the language of PEI's first people, who call the island Epekwitk meaning 'cradled on the waves'.",
+    "pronunciation": "gway"
+  },
+  "images": [
+    {
+      "filename": "hero-charlottetown-harbour.jpg",
+      "alt": "Boats and red-roofed buildings line the sunny Charlottetown waterfront on Prince Edward Island.",
+      "credit": "Larry (Flickr)",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charlottetown_Waterfront,_PEI_(1555500387).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Charlottetown_Waterfront%2C_PEI_%281555500387%29.jpg"
+    },
+    {
+      "filename": "province-house-charlottetown.jpg",
+      "alt": "The grand stone Province House in Charlottetown, where Canada was first dreamed up.",
+      "credit": "Aconcagua",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charlottetown_PEI_Province_House.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Charlottetown_PEI_Province_House.jpg"
+    },
+    {
+      "filename": "green-gables-heritage-place.jpg",
+      "alt": "The famous green-roofed Green Gables farmhouse from Anne of Green Gables, surrounded by flowers.",
+      "credit": "Robert Linsdell",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Green_Gables_Heritage_Place,_Cavendish_(471130)_(9450691046).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Green_Gables_Heritage_Place%2C_Cavendish_%28471130%29_%289450691046%29.jpg"
+    },
+    {
+      "filename": "confederation-bridge.jpg",
+      "alt": "The long curving Confederation Bridge stretches across the sea to Prince Edward Island.",
+      "credit": "Jacob Aulenback",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Confederation_Bridge_2013.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Confederation_Bridge_2013.jpg"
+    },
+    {
+      "filename": "blooming-point-red-sand-beach.jpg",
+      "alt": "PEI's famous red sand beach at Blooming Point meets calm blue ocean water.",
+      "credit": "Yasehtor",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blooming_Point_Beach,_Prince_Edward_Island.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Blooming_Point_Beach%2C_Prince_Edward_Island.jpg"
+    }
+  ],
+  "links": [
+    { "url": "https://www.tourismpei.com/", "label": "Tourism PEI (Official)", "description": "Official Prince Edward Island tourism site with maps, beaches, and family attractions." },
+    { "url": "https://en.wikipedia.org/wiki/Charlottetown", "label": "Wikipedia: Charlottetown", "description": "Background on the city's history, harbour, and Birthplace of Confederation nickname." },
+    { "url": "https://parks.canada.ca/lhn-nhs/pe/provincehouse", "label": "Parks Canada: Province House", "description": "Parks Canada page about the historic legislature building and 1864 conference." },
+    { "url": "https://confederationcentre.com/", "label": "Confederation Centre of the Arts", "description": "Home of the Anne of Green Gables musical and family-friendly galleries downtown." },
+    { "url": "https://www.tourismpei.com/anne-of-green-gables", "label": "Anne of Green Gables on PEI", "description": "Official guide to Green Gables Heritage Place in Cavendish and Anne sites across the island." },
+    { "url": "https://portcharlottetown.com/information-for-cruise-passengers/", "label": "Port Charlottetown for Cruise Passengers", "description": "Port info, walking map, and shore-excursion ideas for one-day cruise visitors." }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Charlottetown",
+    "https://en.wikipedia.org/wiki/Prince_Edward_Island",
+    "https://en.wikipedia.org/wiki/Confederation_Bridge",
+    "https://en.wikipedia.org/wiki/Anne_of_Green_Gables",
+    "https://parks.canada.ca/lhn-nhs/pe/provincehouse",
+    "https://confederationcentre.com/",
+    "https://www.tourismpei.com/"
+  ],
+  "researchedAt": "2026-05-09T13:42:00Z"
+}

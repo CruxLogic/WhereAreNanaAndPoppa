@@ -1,0 +1,85 @@
+{
+  "researchId": "cartagena",
+  "name": "Cartagena",
+  "country": "Colombia",
+  "summary": "Cartagena is a sunny Caribbean city in Colombia surrounded by huge stone walls built to keep pirates out! The colorful old town is a UNESCO World Heritage site, packed with horse-drawn carriages, bright houses, hidden tunnels and a giant fortress called San Felipe.",
+  "funFacts": [
+    "UNESCO named Cartagena's walled Old Town a World Heritage site in 1984. Spanish builders worked for almost two centuries to finish 11 km of stone walls protecting the city.",
+    "In 1586 the English pirate Sir Francis Drake sailed in, captured Cartagena, and refused to leave until the Spanish paid him a giant ransom of 107,000 gold ducats.",
+    "Castillo San Felipe de Barajas is the biggest fortress Spain ever built in the Americas. Sneaky tunnels twist underneath so soldiers could hear enemy footsteps echoing toward them.",
+    "Las Bovedas were 23 thick vaulted rooms used for gunpowder, then as scary dungeons where prisoners stood in seawater. Today they are cheerful little shops selling crafts and souvenirs.",
+    "Famous Colombian author Gabriel Garcia Marquez, who won the Nobel Prize, lived in Cartagena as a young reporter and later built a home tucked inside the walled Old City."
+  ],
+  "thingsToDo": [
+    "Walk along the top of the old stone city walls, peek out at the Caribbean Sea, and explore Plaza Santo Domingo with its chubby Botero bronze statue.",
+    "Climb the zigzag ramps of Castillo San Felipe de Barajas, then duck into the spooky echoing tunnels where Spanish soldiers once hid waiting for attackers.",
+    "Browse the Las Bovedas vault shops for handmade gifts, then wander the rainbow streets of Getsemani under the famous floating umbrellas of Calle de las Sombrillas.",
+    "Visit the free Museo del Oro Zenu to see hundreds of shiny gold ornaments crafted by the Zenu people who lived here long before Spanish ships arrived.",
+    "Sip fresh limonada de coco and try sweet cocadas or panelitas from the candy stalls under Portal de los Dulces beside the Plaza de los Coches clock tower.",
+    "Hop a fast boat to the Rosario Islands national park to snorkel above bright coral reefs and tropical fish at one of Colombia's only marine parks."
+  ],
+  "localWord": {
+    "word": "Hola",
+    "meaning": "Hello in Spanish, the language everyone speaks here",
+    "pronunciation": "OH-lah"
+  },
+  "images": [
+    {
+      "filename": "hero-cartagena-old-town.jpg",
+      "alt": "Cartagena's old walled city sits beside the bright blue Caribbean Sea with red rooftops and tall modern buildings nearby.",
+      "credit": "Jorge Láscar",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Walled_city_and_Centro_de_Convenciones_(Cartagena%27s_Convention_Center)_(4625666443).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Walled_city_and_Centro_de_Convenciones_%28Cartagena%27s_Convention_Center%29_%284625666443%29.jpg"
+    },
+    {
+      "filename": "castillo-san-felipe-fortress.jpg",
+      "alt": "A huge stone castle called Castillo de San Felipe rises on a hill with tunnels and ramps for soldiers from long ago.",
+      "credit": "Orlando.deavila",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castillo_de_San_Felipe_-_Cartagena_-_Colombia.JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Castillo_de_San_Felipe_-_Cartagena_-_Colombia.JPG"
+    },
+    {
+      "filename": "colorful-flower-balcony.jpg",
+      "alt": "A bright wooden balcony in Cartagena spills over with pink and purple flowers above a sunny street.",
+      "credit": "Carlos David Machacon Blanquicett",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Balcon_de_flores_en_cartagena.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Balcon_de_flores_en_cartagena.jpg"
+    },
+    {
+      "filename": "torre-del-reloj-clock-tower.jpg",
+      "alt": "The yellow Torre del Reloj clock tower is the main gateway into Cartagena's old walled city.",
+      "credit": "David Shankbone",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:023_Torre_del_Reloj_Cartagena_Colombia.JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/023_Torre_del_Reloj_Cartagena_Colombia.JPG"
+    },
+    {
+      "filename": "cartagena-colonial-street.jpg",
+      "alt": "A pretty colonial street in old Cartagena shows colorful buildings, balconies, and cobblestones from long ago.",
+      "credit": "CONOCER (Wikivoyage)",
+      "license": "Public Domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cartagena_Old_City.JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Cartagena_Old_City.JPG"
+    }
+  ],
+  "links": [
+    { "url": "https://whc.unesco.org/en/list/285/", "label": "UNESCO: Port, Fortresses and Group of Monuments, Cartagena", "description": "Official UNESCO World Heritage page for Cartagena's walled city and forts." },
+    { "url": "https://colombia.travel/en/cartagena-de-indias", "label": "Colombia Travel: Cartagena de Indias", "description": "Colombia's official tourism site with kid-friendly facts and activities." },
+    { "url": "https://en.wikipedia.org/wiki/Cartagena,_Colombia", "label": "Wikipedia: Cartagena, Colombia", "description": "Big overview of the city's history, geography and culture." },
+    { "url": "https://en.wikipedia.org/wiki/Castillo_San_Felipe_de_Barajas", "label": "Wikipedia: Castillo San Felipe de Barajas", "description": "Read about the largest Spanish fortress in the Americas and its tunnels." },
+    { "url": "https://en.wikipedia.org/wiki/Battle_of_Cartagena_de_Indias_(1586)", "label": "Wikipedia: Sir Francis Drake's Attack on Cartagena (1586)", "description": "How English pirates captured the city and demanded gold ransom." },
+    { "url": "https://en.wikipedia.org/wiki/Las_B%C3%B3vedas", "label": "Wikipedia: Las Bovedas", "description": "Background on the vaulted dungeons turned into colorful shops." }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cartagena,_Colombia",
+    "https://whc.unesco.org/en/list/285/",
+    "https://en.wikipedia.org/wiki/Castillo_San_Felipe_de_Barajas",
+    "https://en.wikipedia.org/wiki/Battle_of_Cartagena_de_Indias_(1586)",
+    "https://en.wikipedia.org/wiki/Las_B%C3%B3vedas",
+    "https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez"
+  ],
+  "researchedAt": "2026-05-09T14:04:00Z"
+}

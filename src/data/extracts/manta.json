@@ -1,0 +1,85 @@
+{
+  "researchId": "manta",
+  "name": "Manta",
+  "country": "Ecuador",
+  "summary": "Manta is a sunny Pacific coast city in Ecuador where huge fishing boats haul in more tuna than almost anywhere else on Earth. Just up the road in Montecristi, weavers make the world's real Panama hats by hand. Nearby forests echo with howler monkeys and beaches stretch for miles.",
+  "funFacts": [
+    "Plot twist: Panama hats aren't from Panama. They're hand-woven from toquilla straw in Montecristi, Ecuador, and UNESCO added the craft to its heritage list in 2012.",
+    "Manta is one of the planet's biggest tuna ports. Fishing boats unload tons of tuna onto Tarqui Beach starting around 6am, and seabirds line up for the leftovers.",
+    "Ecuador is named after the equator, the invisible line splitting Earth in half. A French scientist actually sailed into Manta's port in 1735 to measure exactly where it was.",
+    "The Pacoche forest near Manta is full of howler monkeys whose roars carry over a mile through the trees, sounding more like dinosaurs than monkeys.",
+    "Ecuador doesn't print its own paper money. Since 2000, people pay for everything from ceviche to taxi rides using regular United States dollars."
+  ],
+  "thingsToDo": [
+    "Drive 30 minutes to Montecristi and watch artisans weave a single Panama hat from toquilla straw, a process that can take weavers up to several months.",
+    "Visit Tarqui Beach fish market right after sunrise to see fishermen unload tuna, mahi-mahi and even sharks straight from colourful wooden boats onto the sand.",
+    "Hike the Sendero del Mono trail in Pacoche Wildlife Refuge with a local guide to spot howler and capuchin monkeys plus over 250 kinds of birds.",
+    "Splash and build sandcastles at Murcielago Beach, Manta's main city beach, where you can grab fresh coconut water and watch surfers ride Pacific waves.",
+    "Try ceviche or encebollado, a famous coastal soup made from tuna, yuca and onions, at a beachside restaurant. Locals eat it with crunchy plantain chips called chifles.",
+    "Take a 40-minute drive to Crucita Beach and watch paragliders launch off cliffs, soaring over the ocean in one of the world's top paragliding spots."
+  ],
+  "localWord": {
+    "word": "Chuta!",
+    "meaning": "An Ecuadorian way to say 'Whoa!' or 'Wow!' when something surprises you, like spotting a monkey or seeing a giant tuna.",
+    "pronunciation": "CHOO-tah"
+  },
+  "images": [
+    {
+      "filename": "manta-harbour-wide-view.jpg",
+      "alt": "A wide panoramic view of the city of Manta, Ecuador and its harbour seen from the sea on a sunny day.",
+      "credit": "Gordon Leggett",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2022-10-04a_Wide_view_of_the_city_of_Manta,_Ecuador.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/2022-10-04a_Wide_view_of_the_city_of_Manta%2C_Ecuador.jpg"
+    },
+    {
+      "filename": "murcielago-beach-fishermen.jpg",
+      "alt": "Fishermen pulling their boats and nets onto the sand at Murcielago Beach in Manta, Ecuador.",
+      "credit": "Cayambe",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ecuador_Manta_Murci%C3%A9lago_fishermen.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Ecuador_Manta_Murci%C3%A9lago_fishermen.jpg"
+    },
+    {
+      "filename": "panama-hats-montecristi.jpg",
+      "alt": "Traditional toquilla straw Panama hats being woven by hand in Montecristi, Ecuador.",
+      "credit": "Sylvain2803",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panama_hats_montecristi.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Panama_hats_montecristi.jpg"
+    },
+    {
+      "filename": "pacoche-forest-howler-tree.jpg",
+      "alt": "A tall forest tree at Pacoche near Manta where howler monkeys come to rest and feed.",
+      "credit": "Daniel777",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bosque_de_Pacoche,_Manta.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Bosque_de_Pacoche%2C_Manta.jpg"
+    },
+    {
+      "filename": "manta-malecon-promenade.jpg",
+      "alt": "The colourful Malecon Escenico waterfront promenade in Manta, Ecuador, looking out over the Pacific.",
+      "credit": "Siguifredoagapito",
+      "license": "Public Domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Malecon_Escenico_Manta.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Malecon_Escenico_Manta.jpg"
+    }
+  ],
+  "links": [
+    { "url": "https://en.wikipedia.org/wiki/Manta,_Ecuador", "label": "Wikipedia: Manta, Ecuador", "description": "Overview of Manta's history, tuna industry, beaches and connection to the equator expedition of 1735." },
+    { "url": "https://kids.nationalgeographic.com/geography/countries/article/ecuador", "label": "Nat Geo Kids: Ecuador", "description": "Kid-friendly country guide covering Ecuador's geography, animals, the Andes and Galapagos Islands." },
+    { "url": "https://ich.unesco.org/en/RL/traditional-weaving-of-the-ecuadorian-toquilla-straw-hat-00729", "label": "UNESCO: Toquilla Straw Hat Weaving", "description": "Official UNESCO page about the Ecuadorian craft behind real Panama hats, recognised in 2012." },
+    { "url": "https://pacochelodge.org/", "label": "Pacoche Wildlife Refuge", "description": "Information about the howler monkey forest and Monkey Trail just south of Manta." },
+    { "url": "https://ecuador.travel/en/destinations/manabi/manta/", "label": "Ecuador.travel: Manta", "description": "Ecuador's official tourism site with Manta highlights, beaches and Manabi food." },
+    { "url": "https://kids.kiddle.co/Ciudad_Mitad_del_Mundo", "label": "Kiddle: Middle of the World", "description": "Kid encyclopedia entry about the famous equator monument near Quito, Ecuador." }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Manta,_Ecuador",
+    "https://ich.unesco.org/en/RL/traditional-weaving-of-the-ecuadorian-toquilla-straw-hat-00729",
+    "https://pacochelodge.org/",
+    "https://kids.nationalgeographic.com/geography/countries/article/ecuador",
+    "https://www.britannica.com/place/Ecuador",
+    "https://en.wikipedia.org/wiki/Currency_of_Ecuador"
+  ],
+  "researchedAt": "2026-05-09T14:14:00Z"
+}

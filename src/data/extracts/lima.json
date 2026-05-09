@@ -1,0 +1,87 @@
+{
+  "researchId": "lima",
+  "name": "Lima (Callao)",
+  "country": "Peru",
+  "summary": "Lima is Peru's giant capital, sprawling along the Pacific Ocean with around 10 million people. Spanish conquistador Francisco Pizarro founded it in 1535 as the 'City of Kings,' and its old town is now a UNESCO World Heritage Site full of golden balconies and bell towers. Today Lima mixes ancient Inca history, smoky-grill street food and dramatic seaside cliffs where paragliders float overhead.",
+  "funFacts": [
+    "Lima is home to the oldest continuously running university in the Americas: National University of San Marcos, founded in 1551, eighty-five years before Harvard existed.",
+    "Peru grows more than 4,000 kinds of potato, in colours like purple, pink, blue and red, plus its national dish ceviche is raw fish 'cooked' in lime juice.",
+    "The Magic Water Circuit in Parque de la Reserva holds a Guinness World Record as the planet's biggest fountain complex, with thirteen fountains shooting water up to 80 metres high.",
+    "An ancient adobe pyramid called Huaca Pucllana sits right inside Lima's Miraflores neighbourhood, built around 500 AD from millions of mud bricks stacked like books on a shelf.",
+    "Brave paragliders launch off the Miraflores cliffs and float for fifteen minutes above the Pacific Ocean, sometimes drifting right past the windows of a clifftop shopping mall."
+  ],
+  "thingsToDo": [
+    "Wander Plaza de Armas in the UNESCO old town to see the yellow Cathedral, the colourful Government Palace and the changing of the guard around midday.",
+    "Explore the Larco Museum in a whitewashed colonial mansion and spot Inca, Moche and Nazca gold crowns, masks and 30,000 ancient pottery pieces.",
+    "Stroll the Miraflores clifftop boardwalk past Parque del Amor and Larcomar mall, watching paragliders launch over the Pacific 80 metres below.",
+    "Climb around Huaca Pucllana, an ancient adobe pyramid in the middle of the city, on a guided tour where llamas and alpacas live among the ruins.",
+    "Visit Parque de la Reserva after dark to walk through the Tunnel of Surprises and watch lasers, music and rainbow-coloured fountains dance together.",
+    "Try Peru's famous ceviche at La Mar in Miraflores, where tangy lime-cured fish is served with sweet potato, giant corn and crunchy toasted kernels."
+  ],
+  "localWord": {
+    "word": "Allillanchu",
+    "meaning": "Hello / how are you? in Quechua, the language of the Incas",
+    "pronunciation": "ah-yee-YAHN-choo"
+  },
+  "images": [
+    {
+      "filename": "hero-plaza-de-armas-cathedral.jpg",
+      "alt": "The grand yellow stone cathedral on Lima's main square in the old colonial city centre.",
+      "credit": "Victoria Alexandra Gonzalez Olaechea Yrigoyen",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lima.Catedral.JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Lima.Catedral.JPG"
+    },
+    {
+      "filename": "miraflores-paraglider-pacific-cliffs.jpg",
+      "alt": "A colourful paraglider soaring high above the Pacific Ocean cliffs of Lima.",
+      "credit": "Ursula Paulina Uriarte Espejo",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ParapenteBarranco.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/ParapenteBarranco.jpg"
+    },
+    {
+      "filename": "magic-water-circuit-night.jpg",
+      "alt": "Glowing rainbow-coloured fountains shooting up at night at Lima's Magic Water Circuit park.",
+      "credit": "Murray Foubister",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lima,_Peru%E2%80%A6spectacular_water_park_at_night_(8443264873).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Lima%2C_Peru%E2%80%A6spectacular_water_park_at_night_%288443264873%29.jpg"
+    },
+    {
+      "filename": "huaca-pucllana-adobe-pyramid.jpg",
+      "alt": "An ancient stepped pyramid made of mud bricks, built long before Lima's modern city grew around it.",
+      "credit": "McKay Savage",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Huaca_Pucllana_Miraflores.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Huaca_Pucllana_Miraflores.jpg"
+    },
+    {
+      "filename": "barranco-bridge-of-sighs.jpg",
+      "alt": "A pretty wooden Bridge of Sighs over a leafy walkway in Lima's artsy Barranco neighbourhood.",
+      "credit": "Manuel Gonzalez Olaechea y Franco",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Puente_de_los_Suspiros.JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Puente_de_los_Suspiros.JPG"
+    }
+  ],
+  "links": [
+    { "url": "https://whc.unesco.org/en/list/500/", "label": "UNESCO: Historic Centre of Lima", "description": "Why Lima's old town is a World Heritage Site, with its 16th- and 17th-century churches and convents." },
+    { "url": "https://www.peru.travel/en/destinations/lima", "label": "Peru.travel official Lima guide", "description": "Peru's official tourism site with kid-friendly things to do, food and neighbourhood maps." },
+    { "url": "https://kids.kiddle.co/Lima", "label": "Kiddle: Lima facts for kids", "description": "Easy-to-read encyclopedia article written for children, covering history, geography and culture." },
+    { "url": "https://en.wikipedia.org/wiki/Lima", "label": "Wikipedia: Lima", "description": "Deep-dive overview of the city: founding, neighbourhoods, climate, food and famous landmarks." },
+    { "url": "https://www.museolarco.org/en/", "label": "Museo Larco official site", "description": "Plan a visit and preview the gold, jewellery and 45,000 pre-Columbian artefacts inside." },
+    { "url": "https://en.wikipedia.org/wiki/Huaca_Pucllana", "label": "Wikipedia: Huaca Pucllana", "description": "How an ancient seven-platform mud pyramid ended up surrounded by modern apartment blocks." }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lima",
+    "https://whc.unesco.org/en/list/500/",
+    "https://kids.kiddle.co/Lima",
+    "https://en.wikipedia.org/wiki/Huaca_Pucllana",
+    "https://en.wikipedia.org/wiki/Parque_de_la_Reserva",
+    "https://en.wikipedia.org/wiki/Larco_Museum",
+    "https://en.wikipedia.org/wiki/Peruvian_ceviche",
+    "https://en.wikipedia.org/wiki/National_University_of_San_Marcos"
+  ],
+  "researchedAt": "2026-05-09T14:19:00Z"
+}

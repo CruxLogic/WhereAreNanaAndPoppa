@@ -1,91 +1,118 @@
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import type { Destination } from "../types";
-import { formatLongDate, formatShortDate } from "../utils/tripStatus";
+import { formatLongDate } from "../utils/tripStatus";
 import { Lightbox } from "./Lightbox";
 
 interface PanelProps {
   destination: Destination | null;
   dayOfTrip: number | null;
+  prevId: string | null;
+  nextId: string | null;
+  onSelect: (id: string | null) => void;
   onClose: () => void;
 }
 
-export function DestinationPanel({ destination, dayOfTrip, onClose }: PanelProps) {
+export function DestinationPanel({
+  destination,
+  dayOfTrip,
+  prevId,
+  nextId,
+  onSelect,
+  onClose,
+}: PanelProps) {
   const [lightboxIndex, setLightboxIndex] = useState<number | null>(null);
+  const asideRef = useRef<HTMLElement>(null);
 
   useEffect(() => {
     setLightboxIndex(null);
+    asideRef.current?.scrollTo({ top: 0 });
   }, [destination?.id]);
 
   if (!destination) return null;
   const d = destination;
-  const sameDay = d.arrivalDate === d.departureDate;
 
   return (
     <aside
-      key={d.id}
-      className="panel-in absolute top-0 right-0 bottom-0 z-30 w-full sm:w-[26rem] md:w-[28rem] bg-parchment shadow-panel overflow-y-auto"
+      ref={asideRef}
+      className="panel-in parchment-scroll absolute top-0 right-0 bottom-0 z-30 w-full sm:w-[34rem] md:w-[38rem] lg:w-[40rem] bg-parchment shadow-panel overflow-y-auto"
     >
       <div className="relative px-7 pt-7 pb-10">
         <button
           onClick={onClose}
           aria-label="Close"
-          className="absolute top-5 right-5 w-9 h-9 rounded-full bg-parchment-deep/60 hover:bg-parchment-deep text-ink/70 hover:text-ink flex items-center justify-center transition-colors"
+          className="absolute top-5 right-5 w-9 h-9 rounded-full bg-parchment-deep/60 hover:bg-parchment-deep text-ink/70 hover:text-ink flex items-center justify-center transition-colors z-10"
         >
           <svg width="14" height="14" viewBox="0 0 14 14" fill="none">
             <path d="M2 2L12 12M12 2L2 12" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
           </svg>
         </button>
 
-        <div className="flex items-center gap-3 mb-1">
+        <div className="flex items-center gap-3 mb-1 pr-12">
           <span className="tracker text-[10px] text-vermillion">
             {dayOfTrip != null ? `Day ${dayOfTrip}` : "Stop"}
           </span>
           <span className="h-px flex-1 bg-ink/15" />
-          <span className="tracker text-[10px] text-ink/55">
-            {stopTypeLabel(d.stopType)}
-          </span>
         </div>
 
         <h2
-          className="display text-ink leading-[1.02] mt-2"
+          className="display text-ink leading-[1.02] mt-2 pr-12"
           style={{ fontSize: "clamp(2rem, 4vw, 2.7rem)", fontWeight: 500 }}
         >
           {d.name}
         </h2>
-        <p className="display italic text-ink/65 mt-1" style={{ fontSize: "1.1rem", fontWeight: 400 }}>
+        <p className="display italic text-ink/65 mt-1" style={{ fontSize: "1.6rem", fontWeight: 400 }}>
           {d.country}
         </p>
 
+        <div className="mt-5 flex items-center gap-2">
+          <button
+            type="button"
+            onClick={() => prevId && onSelect(prevId)}
+            disabled={!prevId}
+            className="flex-1 flex items-center justify-center gap-2 px-3 py-2 rounded-[3px] border border-ink/20 bg-parchment-deep/40 hover:bg-parchment-deep text-ink/80 hover:text-ink tracker text-[10px] disabled:opacity-30 disabled:cursor-not-allowed transition-colors"
+          >
+            <span aria-hidden>&larr;</span> Previous stop
+          </button>
+          <button
+            type="button"
+            onClick={() => nextId && onSelect(nextId)}
+            disabled={!nextId}
+            className="flex-1 flex items-center justify-center gap-2 px-3 py-2 rounded-[3px] border border-ink/20 bg-parchment-deep/40 hover:bg-parchment-deep text-ink/80 hover:text-ink tracker text-[10px] disabled:opacity-30 disabled:cursor-not-allowed transition-colors"
+          >
+            Next stop <span aria-hidden>&rarr;</span>
+          </button>
+        </div>
+
         <div className="mt-5 grid grid-cols-2 gap-x-5 gap-y-3 border-y border-ink/10 py-4">
           <div>
-            <p className="tracker text-[9px] text-ink/50">
-              {sameDay ? "Visit" : "Arrive"}
-            </p>
+            <p className="tracker text-[9px] text-ink/50">Arrive</p>
             <p className="display text-ink mt-0.5" style={{ fontSize: "0.95rem" }}>
-              {formatShortDate(d.arrivalDate)}
+              {formatDayMonthYear(d.arrivalDate)}
             </p>
             {d.arrivalTime && (
-              <p className="tracker text-[10px] text-ink/55 mt-0.5">{d.arrivalTime}</p>
+              <p className="tracker text-[10px] text-ink/55 mt-0.5">
+                {format12HourTime(d.arrivalTime)}
+              </p>
             )}
           </div>
-          {!sameDay && (
-            <div>
-              <p className="tracker text-[9px] text-ink/50">Depart</p>
-              <p className="display text-ink mt-0.5" style={{ fontSize: "0.95rem" }}>
-                {formatShortDate(d.departureDate)}
+          <div>
+            <p className="tracker text-[9px] text-ink/50">Depart</p>
+            <p className="display text-ink mt-0.5" style={{ fontSize: "0.95rem" }}>
+              {formatDayMonthYear(d.departureDate)}
+            </p>
+            {d.departureTime && (
+              <p className="tracker text-[10px] text-ink/55 mt-0.5">
+                {format12HourTime(d.departureTime)}
               </p>
-              {d.departureTime && (
-                <p className="tracker text-[10px] text-ink/55 mt-0.5">{d.departureTime}</p>
-              )}
-            </div>
-          )}
-          <div className={sameDay ? "" : "col-span-2"}>
+            )}
+          </div>
+          <div>
             <p className="tracker text-[9px] text-ink/50">Latitude</p>
             <p className="font-mono text-[12px] text-ink mt-0.5">
               {formatCoord(d.coords[0], "lat")}
             </p>
           </div>
-          <div className={sameDay ? "col-span-2" : "col-span-2"}>
+          <div>
             <p className="tracker text-[9px] text-ink/50">Longitude</p>
             <p className="font-mono text-[12px] text-ink mt-0.5">
               {formatCoord(d.coords[1], "lng")}
@@ -93,10 +120,25 @@ export function DestinationPanel({ destination, dayOfTrip, onClose }: PanelProps
           </div>
         </div>
 
-        {d.notes && (
-          <p className="display italic text-ink/75 mt-5" style={{ fontSize: "0.95rem" }}>
-            &ldquo;{d.notes}&rdquo;
-          </p>
+        {d.images && d.images.length > 0 && (
+          <div className="mt-5 -mx-7 px-7 overflow-x-auto snap-x snap-mandatory parchment-scroll">
+            <div className="flex gap-3 pb-1">
+              {d.images.map((img, i) => (
+                <button
+                  key={i}
+                  type="button"
+                  onClick={() => setLightboxIndex(i)}
+                  aria-label={`Open image: ${img.alt}`}
+                  className="snap-start shrink-0 basis-[40%] bg-white p-2 shadow-card text-left cursor-zoom-in transition-transform hover:scale-[1.02] focus:outline-none focus:ring-2 focus:ring-vermillion/60"
+                >
+                  <img src={img.src} alt={img.alt} className="w-full aspect-[4/3] object-cover" />
+                  <p className="tracker text-[8px] text-ink/55 mt-1.5 truncate">
+                    {img.credit}
+                  </p>
+                </button>
+              ))}
+            </div>
+          </div>
         )}
 
         {d.summary && (
@@ -159,26 +201,6 @@ export function DestinationPanel({ destination, dayOfTrip, onClose }: PanelProps
           </section>
         )}
 
-        {d.images && d.images.length > 0 && (
-          <section className="mt-6 grid grid-cols-2 gap-3">
-            {d.images.map((img, i) => (
-              <button
-                key={i}
-                type="button"
-                onClick={() => setLightboxIndex(i)}
-                aria-label={`Open image: ${img.alt}`}
-                className="bg-white p-2 shadow-card text-left cursor-zoom-in transition-transform hover:scale-[1.02] focus:outline-none focus:ring-2 focus:ring-vermillion/60"
-                style={{ transform: `rotate(${(i % 2 === 0 ? -1 : 1) * 0.6}deg)` }}
-              >
-                <img src={img.src} alt={img.alt} className="w-full aspect-[4/3] object-cover" />
-                <p className="tracker text-[8px] text-ink/55 mt-1.5">
-                  {img.credit}
-                </p>
-              </button>
-            ))}
-          </section>
-        )}
-
         {d.links && d.links.length > 0 && (
           <section className="mt-6">
             <p className="tracker text-[10px] text-ink/55 mb-2">Read more</p>
@@ -219,17 +241,23 @@ export function DestinationPanel({ destination, dayOfTrip, onClose }: PanelProps
   );
 }
 
-function stopTypeLabel(t: Destination["stopType"]): string {
-  switch (t) {
-    case "homePort":
-      return "Home port";
-    case "scenic":
-      return "Scenic stop";
-    case "dateline":
-      return "Crossing";
-    default:
-      return "Port of call";
-  }
+const MONTHS = [
+  "Jan", "Feb", "Mar", "Apr", "May", "Jun",
+  "Jul", "Aug", "Sep", "Oct", "Nov", "Dec",
+];
+
+function formatDayMonthYear(iso: string): string {
+  const [y, m, day] = iso.split("-").map(Number);
+  return `${String(day).padStart(2, "0")} ${MONTHS[m - 1]} ${String(y).slice(-2)}`;
+}
+
+function format12HourTime(hhmm: string): string {
+  const [hStr, mStr] = hhmm.split(":");
+  const h = Number(hStr);
+  const m = Number(mStr);
+  const period = h >= 12 ? "pm" : "am";
+  const h12 = h % 12 === 0 ? 12 : h % 12;
+  return `${h12}:${String(m).padStart(2, "0")} ${period}`;
 }
 
 function formatCoord(value: number, axis: "lat" | "lng"): string {

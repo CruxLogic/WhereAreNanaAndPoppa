@@ -1,0 +1,83 @@
+{
+  "researchId": "miami",
+  "name": "Miami",
+  "country": "United States",
+  "summary": "Miami is Florida's sunny cruise capital, where palm trees sway over white-sand beaches and pastel Art Deco hotels glow in the sunshine. You can hear Spanish on busy streets, taste Cuban pastries in Little Havana, and just an hour away wild alligators sunbathe in the Everglades.",
+  "funFacts": [
+    "PortMiami is nicknamed the Cruise Capital of the World and welcomed over 8 million cruise passengers in a single year, more than any other port.",
+    "South Beach has the largest collection of Art Deco buildings on Earth, with more than 800 colourful pastel hotels built in the 1920s and 1930s.",
+    "In many Miami neighbourhoods you will hear Spanish spoken more often than English, and around one in four locals was born in Cuba or has Cuban family.",
+    "Wild American alligators live just an hour west of Miami in the Everglades wetlands, where airboats whoosh across the sawgrass hunting for splashes.",
+    "Miami's warm climate grows tropical fruits like mangoes, guavas and coconuts, and bright pink flamingos really do show up in the wetlands and zoos."
+  ],
+  "thingsToDo": [
+    "Stroll Ocean Drive in South Beach to spot the curvy pink, mint and lemon-yellow Art Deco hotels, then dip your toes in the warm Atlantic sand.",
+    "Explore the Phillip and Patricia Frost Museum of Science to see sharks in the cone-shaped aquarium, touch live science exhibits, and lean back in the planetarium.",
+    "Wander Calle Ocho in Little Havana to hear Cuban music, watch grandpas slap dominoes in Maximo Gomez Park, and try a guava-and-cheese pastelito.",
+    "Tour Vizcaya Museum and Gardens, a hundred-year-old Italian-style mansion on Biscayne Bay with secret grottoes, fountains and a stone boat in the sea.",
+    "Meet dolphins, sea turtles and tropical fish at Miami Seaquarium, or cross to Watson Island for parrots and lemurs at Jungle Island.",
+    "Take a one-hour drive to the Everglades and zoom over the swamp on an airboat to spot wild alligators, herons and turtles in the sawgrass."
+  ],
+  "localWord": { "word": "Hola", "meaning": "Hello in Spanish, the language you'll hear most in Little Havana", "pronunciation": "OH-lah" },
+  "images": [
+    {
+      "filename": "hero-miami-skyline.jpg",
+      "alt": "Miami's tall sparkly downtown buildings line the bay at golden hour.",
+      "credit": "Wilfredor",
+      "license": "CC0 1.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Miami,_Florida_skyline.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Miami%2C_Florida_skyline.jpg"
+    },
+    {
+      "filename": "south-beach-lifeguard-tower.jpg",
+      "alt": "A bright-coloured lifeguard hut on South Beach glows in the sunrise.",
+      "credit": "Matt Kieffer",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lifeguard_Hut_on_South_Beach_at_sunrise_-_Miami,_Florida.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Lifeguard_Hut_on_South_Beach_at_sunrise_-_Miami%2C_Florida.jpg"
+    },
+    {
+      "filename": "wynwood-walls-street-art.jpg",
+      "alt": "Giant rainbow-coloured murals cover the walls in the Wynwood art district.",
+      "credit": "Dan Lundberg",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wynwood_Walls_Miami_Florida_October_2013.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Wynwood_Walls_Miami_Florida_October_2013.jpg"
+    },
+    {
+      "filename": "vizcaya-museum-gardens.jpg",
+      "alt": "The fancy old Vizcaya mansion sits beside pretty green gardens by the sea.",
+      "credit": "rgermanf",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vizcaya_Museum_%26_Gardens.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Vizcaya_Museum_%26_Gardens.jpg"
+    },
+    {
+      "filename": "ocean-drive-art-deco.jpg",
+      "alt": "Pastel-coloured Art Deco hotels line Ocean Drive on famous South Beach.",
+      "credit": "Rob Schultz (Robbschultz69)",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ocean_Drive_in_the_Miami_Beach_Art_Deco_Historic_District.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Ocean_Drive_in_the_Miami_Beach_Art_Deco_Historic_District.jpg"
+    }
+  ],
+  "links": [
+    { "url": "https://www.miamiandbeaches.com/neighborhoods/little-havana", "label": "Little Havana - Greater Miami Official Guide", "description": "Official tourism page about Cuban culture, food and music on Calle Ocho." },
+    { "url": "https://www.miamiandbeaches.com/things-to-do/history-and-heritage/art-deco-historic-district", "label": "Art Deco District - Miami Beach", "description": "Official guide to South Beach's 800+ pastel 1920s and 1930s buildings." },
+    { "url": "https://kids.kiddle.co/Miami_Beach,_Florida", "label": "Miami Beach Facts for Kids - Kiddle", "description": "Kid-friendly encyclopedia entry about Miami Beach's history and beaches." },
+    { "url": "https://www.frostscience.org/", "label": "Phillip and Patricia Frost Museum of Science", "description": "Aquarium, planetarium and hands-on exhibits made for curious kids." },
+    { "url": "https://vizcaya.org/", "label": "Vizcaya Museum and Gardens", "description": "Visit the historic bayside mansion with fountains, mazes and a stone barge." },
+    { "url": "https://en.wikipedia.org/wiki/PortMiami", "label": "PortMiami - Wikipedia", "description": "Background on the world's busiest cruise port where your ship docks." }
+  ],
+  "sources": [
+    "https://www.miamiandbeaches.com/things-to-do/history-and-heritage/art-deco-historic-district",
+    "https://en.wikipedia.org/wiki/Miami_Beach_Architectural_District",
+    "https://kids.kiddle.co/Miami_Beach,_Florida",
+    "https://en.wikipedia.org/wiki/PortMiami",
+    "https://www.miamiandbeaches.com/neighborhoods/little-havana",
+    "https://en.wikipedia.org/wiki/Little_Havana",
+    "https://vizcaya.org/",
+    "https://www.frostscience.org/"
+  ],
+  "researchedAt": "2026-05-09T14:00:00Z"
+}

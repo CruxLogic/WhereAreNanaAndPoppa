@@ -1,0 +1,85 @@
+{
+  "researchId": "pitcairn-island",
+  "name": "Pitcairn Island",
+  "country": "United Kingdom",
+  "summary": "Pitcairn is one of the most remote inhabited places on Earth — a tiny green volcanic island in the South Pacific where only about 35 to 50 people live. Almost everyone in the capital, Adamstown, is descended from the HMS Bounty mutineers and the Tahitian women who landed here in 1790. Our ship can't dock, but if the sea is calm the Pitcairners may zoom out in a longboat and climb aboard to sell honey, stamps, and handmade crafts.",
+  "funFacts": [
+    "In 1789, sailor Fletcher Christian led a mutiny against Captain Bligh on HMS Bounty, setting Bligh adrift in a small boat with 18 loyal crew members.",
+    "Nine mutineers and twelve Tahitian women hid on Pitcairn in 1790, then burned the Bounty so the Royal Navy couldn't spot the ship from sea.",
+    "Pitcairn has only about 35 to 50 residents, making it the world's smallest country by population — and many people share the surname Christian.",
+    "Islanders speak Pitkern, a mash-up of 18th-century sailor English and Tahitian, with cool phrases like 'Whata way you?' meaning 'How are you?'",
+    "Pitcairn is surrounded by one of the planet's biggest marine reserves — over 800,000 square kilometres of protected ocean full of sharks, whales and rare fish."
+  ],
+  "thingsToDo": [
+    "Watch from the deck as Pitcairners power out from Bounty Bay in their wooden longboat and climb a rope ladder up the side of the ship.",
+    "Spot Bounty Bay, the only landing place, where Fletcher Christian's mutineers came ashore in January 1790 before burning their ship.",
+    "Listen carefully when islanders chat — see if you can pick out Pitkern words like 'whata way you?' or 'morla' (morning).",
+    "Ask a Pitcairner to tell you the Bounty mutiny story in their own words — many are direct descendants of Fletcher Christian himself.",
+    "Photograph the dramatic green cliffs and the steep zigzag track called the Hill of Difficulty leading up to Adamstown village.",
+    "Buy a colourful Pitcairn stamp or postcard from one of the world's smallest post offices and get it cancelled as a souvenir."
+  ],
+  "localWord": {
+    "word": "Whata way you?",
+    "meaning": "How are you? — a friendly Pitkern greeting that asks how you're really doing"
+  },
+  "images": [
+    {
+      "filename": "hero-pitcairn-coastline.jpg",
+      "alt": "The dramatic green cliffs and rocky coastline of Pitcairn Island rising from the Pacific Ocean.",
+      "credit": "Angela K. Kepler",
+      "license": "Public Domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pitcairn_Coastline_AKK.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Pitcairn_Coastline_AKK.jpg"
+    },
+    {
+      "filename": "adamstown-settlement.jpg",
+      "alt": "Longboats heading out from Bounty Bay with the tiny village of Adamstown perched on the green hillside above.",
+      "credit": "U.S. National Oceanic and Atmospheric Administration (NOAA)",
+      "license": "Public Domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pitcairn_Island_Adamstown.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Pitcairn_Island_Adamstown.jpg"
+    },
+    {
+      "filename": "bounty-bay-harbour.jpg",
+      "alt": "The little harbour at Bounty Bay where Pitcairn islanders launch their boats into the wide blue Pacific.",
+      "credit": "Jens Bludau (derivative by Jjtkk)",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pitcairn_Island_banner_Harbour.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Pitcairn_Island_banner_Harbour.jpg"
+    },
+    {
+      "filename": "pitcairn-longboat-landing.jpg",
+      "alt": "A Pitcairn longboat coming ashore at the islanders' tiny landing ramp inside Bounty Bay.",
+      "credit": "Henning Axt",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Landing_for_Long_Boats_-_panoramio.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Landing_for_Long_Boats_-_panoramio.jpg"
+    },
+    {
+      "filename": "bounty-ships-bell.jpg",
+      "alt": "The original ship's bell salvaged from HMS Bounty, still kept on Pitcairn Island as a treasure from the mutineers' story.",
+      "credit": "Henning Axt",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:HMAS_%22Bounty%22_bell_-_panoramio.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/HMAS_%22Bounty%22_bell_-_panoramio.jpg"
+    }
+  ],
+  "links": [
+    { "url": "https://www.visitpitcairn.pn/", "label": "Visit Pitcairn (official tourism site)", "description": "The islands' official travel site with photos, history and visitor info" },
+    { "url": "https://www.government.pn/", "label": "Government of the Pitcairn Islands", "description": "Official government site covering history, environment and the community" },
+    { "url": "https://en.wikipedia.org/wiki/Pitcairn_Islands", "label": "Wikipedia: Pitcairn Islands", "description": "Detailed encyclopedia entry on the islands, people, and Bounty story" },
+    { "url": "https://en.wikipedia.org/wiki/Mutiny_on_the_Bounty", "label": "Wikipedia: Mutiny on the Bounty", "description": "The 1789 mutiny against Captain Bligh that led to Pitcairn being settled" },
+    { "url": "https://www.britannica.com/place/Pitcairn-Island", "label": "Britannica: Pitcairn Island", "description": "Kid-friendly overview of the island's geography, history and people" },
+    { "url": "https://whc.unesco.org/en/list/487/", "label": "UNESCO: Henderson Island", "description": "About nearby Henderson Island, a protected World Heritage coral island" }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pitcairn_Islands",
+    "https://en.wikipedia.org/wiki/Mutiny_on_the_Bounty",
+    "https://en.wikipedia.org/wiki/Pitkern_language",
+    "https://en.wikipedia.org/wiki/Descendants_of_the_Bounty_mutineers",
+    "https://www.visitpitcairn.pn/the-islands",
+    "https://www.britannica.com/place/Pitcairn-Island",
+    "https://whc.unesco.org/en/list/487/"
+  ],
+  "researchedAt": "2026-05-09T14:33:00Z"
+}
